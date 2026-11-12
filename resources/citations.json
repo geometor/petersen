@@ -1,0 +1,114 @@
+{
+  "petersen:1866": {
+    "author": "Julius Petersen",
+    "title": "Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver, anvendte paa ca. 400 Opgaver",
+    "year": "1866",
+    "publisher": "Karl Schønbergs Forlag, Kjøbenhavn",
+    "note": "First Danish edition of Petersen's treatise on geometric construction heuristics."
+  },
+  "petersen:1879": {
+    "author": "Julius Petersen (trans. Sophus Haagensen)",
+    "title": "Methods and Theories for the Solution of Problems of Geometrical Constructions, Applied to 410 Problems",
+    "year": "1879",
+    "publisher": "Andr. Fred. Høst & Son, Copenhagen / Sampson Low, Marston, Searle & Rivington, London",
+    "note": "Authorized English edition from the expanded 2nd Danish edition (102 pages, 410 problems)."
+  },
+  "petersen:1871": {
+    "author": "Julius Petersen",
+    "title": "Om Ligninger, der løses ved Kvadratrod",
+    "year": "1871",
+    "publisher": "Kjøbenhavn (Doctoral Dissertation, University of Copenhagen)",
+    "note": "Petersen's doctoral thesis on algebraic equations solvable by square roots, cited in the Appendix (p. 98)."
+  },
+  "petersen:1878": {
+    "author": "Julius Petersen",
+    "title": "Theorie der algebraischen Gleichungen",
+    "year": "1878",
+    "publisher": "Andr. Fred. Høst & Sohn, Kopenhagen",
+    "note": "German edition of Petersen's treatise on Galois theory and quadratic constructibility, cited on p. 98."
+  },
+  "petersen:1891": {
+    "author": "Julius Petersen",
+    "title": "Die Theorie der regulären graphs",
+    "year": "1891",
+    "publisher": "Acta Mathematica 15, 193–220",
+    "note": "Foundational paper of modern graph theory."
+  },
+  "euclid:elements": {
+    "author": "Euclid (trans. Sir Thomas L. Heath)",
+    "title": "The Thirteen Books of Euclid's Elements",
+    "year": "c. 300 BCE / 1908",
+    "publisher": "Cambridge University Press",
+    "note": "Canonical axiomatic foundation of compass-and-straightedge geometry (GEOMETOR euclid & elements)."
+  },
+  "pappus:synagoge": {
+    "author": "Pappus of Alexandria",
+    "title": "Synagoge (Mathematical Collection), Book VII — Domain of Analysis",
+    "year": "c. 340 CE",
+    "publisher": "ed. F. Hultsch (1877) / A. Jones (1986)",
+    "note": "Classical formulation of geometric analysis and synthesis, harmonic ranges, and Apollonius's lost Tangencies and Plane Loci (GEOMETOR pappus)."
+  },
+  "steiner:1826": {
+    "author": "Jakob Steiner",
+    "title": "Einige geometrische Betrachtungen",
+    "year": "1826",
+    "publisher": "Journal für die reine und angewandte Mathematik (Crelle) 1, 161–184",
+    "note": "Introduces power of a point, radical axes, centres of similitude, and Steiner's construction of Malfatti's circles."
+  },
+  "schroeter:1874": {
+    "author": "Heinrich Schröter",
+    "title": "Die Steinersche Auflösung der Malfattischen Aufgabe",
+    "year": "1874",
+    "publisher": "Journal für die reine und angewandte Mathematik (Crelle) 77, 230–244",
+    "note": "First proof of Steiner's Malfatti construction via circle inversions, simplified by Petersen in 1879 (pp. 96–97)."
+  },
+  "wantzel:1837": {
+    "author": "Pierre Laurent Wantzel",
+    "title": "Recherches sur les moyens de reconnaître si un problème de Géométrie peut se résoudre avec la règle et le compas",
+    "year": "1837",
+    "publisher": "Journal de Mathématiques Pures et Appliquées 2, 366–372",
+    "note": "First rigorous proof of the impossibility of trisecting the general angle and duplicating the cube."
+  },
+  "lindemann:1882": {
+    "author": "Ferdinand von Lindemann",
+    "title": "Über die Zahl pi",
+    "year": "1882",
+    "publisher": "Mathematische Annalen 20, 213–225",
+    "note": "Proved the transcendence of pi three years after Petersen's remark on p. 101 of the 1879 English edition."
+  },
+  "lemoine:1902": {
+    "author": "Émile Lemoine",
+    "title": "Géométrographie, ou Art des constructions géométriques",
+    "year": "1902",
+    "publisher": "C. Naud, Paris (Scientia, no. 18)",
+    "note": "Operational complexity calculus for Euclidean constructions (GEOMETOR lemoine)."
+  },
+  "klein:1895": {
+    "author": "Felix Klein",
+    "title": "Vorträge über ausgewählte Fragen der Elementargeometrie",
+    "year": "1895",
+    "publisher": "B. G. Teubner, Leipzig (English trans. Famous Problems of Elementary Geometry, 1897)",
+    "note": "Classic synthesis of straightedge-and-compass, compass-only, and transcendental constructibility."
+  },
+  "hilbert:1899": {
+    "author": "David Hilbert",
+    "title": "Grundlagen der Geometrie",
+    "year": "1899",
+    "publisher": "B. G. Teubner, Leipzig",
+    "note": "Axiomatic foundation of geometry and Chapter VII gauge-and-straightedge constructibility criteria (GEOMETOR hilbert)."
+  },
+  "altshiller_court:1952": {
+    "author": "Nathan Altshiller-Court",
+    "title": "College Geometry: An Introduction to the Modern Geometry of the Triangle and the Circle (2nd ed.)",
+    "year": "1952",
+    "publisher": "Barnes & Noble, New York",
+    "note": "Standard modern synthetic geometry treatise directly extending Petersen's Chapter I–III methods (GEOMETOR altshiller-court)."
+  },
+  "polya:1962": {
+    "author": "George Pólya",
+    "title": "Mathematical Discovery: On Understanding, Learning, and Teaching Problem Solving (Vol. I)",
+    "year": "1962",
+    "publisher": "John Wiley & Sons, New York",
+    "note": "Chapters 1 and 2 build heuristic pedagogy directly around Petersen's Pattern of Two Loci and Pattern of Similar Figures."
+  }
+}
