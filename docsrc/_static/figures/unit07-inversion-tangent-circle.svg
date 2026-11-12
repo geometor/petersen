@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="euclid-graphic" width="720" height="540" viewBox="0 0 720 540" data-graphic-id="petersen-u07" role="img" aria-label="Petersen Problem 199 — Tangent Circle to Three Concurrent Circles by Inversion">
+  <title>Petersen Problem 199 — Tangent Circle to Three Concurrent Circles by Inversion</title>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -4.5 L 0 4.5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2 -4.5 L -2 4.5 M 2 -4.5 L 2 4.5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -3.5 -4.5 L -3.5 4.5 M 0 -4.5 L 0 4.5 M 3.5 -4.5 L 3.5 4.5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+  </defs>
+  <style>
+.euclid-graphic {
+    font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+  }
+  .euclid-graphic .svg-bg { fill: #fafaf9; }
+  .euclid-graphic .geom-circle { fill: none; stroke: #0284c7; stroke-width: 1.9; opacity: 0.88; }
+  .euclid-graphic .geom-circle.given-circle { stroke: #475569; stroke-width: 2.0; opacity: 0.92; }
+  .euclid-graphic .geom-circle.inversion-circle { stroke: #db2777; stroke-width: 1.75; stroke-dasharray: 6, 4; opacity: 0.86; }
+  .euclid-graphic .geom-circle.inverse-circle { stroke: #7c3aed; stroke-width: 1.85; stroke-dasharray: 4, 3; }
+  .euclid-graphic .geom-circle.envelope-circle { stroke: #0d9488; stroke-width: 2.05; stroke-dasharray: 6, 3.5; }
+  .euclid-graphic .geom-circle.construction-arc { stroke: #64748b; stroke-width: 1.25; stroke-dasharray: 4, 3.5; opacity: 0.65; }
+  .euclid-graphic .geom-circle.solution-circle { stroke: #d97706; stroke-width: 2.85; opacity: 0.97; }
+  .euclid-graphic .geom-line { fill: none; stroke: #475569; stroke-width: 1.55; stroke-linecap: round; }
+  .euclid-graphic .geom-line.carrier-line { stroke: #475569; stroke-width: 1.95; opacity: 0.9; }
+  .euclid-graphic .geom-line.aux-line { stroke: #64748b; stroke-width: 1.2; stroke-dasharray: 4, 3.5; opacity: 0.68; }
+  .euclid-graphic .geom-line.locus-line { stroke: #0284c7; stroke-width: 2.05; stroke-dasharray: 7, 4; opacity: 0.92; }
+  .euclid-graphic .geom-line.bisector-line { stroke: #059669; stroke-width: 1.55; stroke-dasharray: 5, 3; opacity: 0.82; }
+  .euclid-graphic .geom-line.solution-line { stroke: #d97706; stroke-width: 2.55; opacity: 0.96; }
+  .euclid-graphic .geom-segment { fill: none; stroke: #d97706; stroke-width: 2.95; stroke-linecap: round; }
+  .euclid-graphic .geom-segment.aux-segment { stroke: #7c3aed; stroke-width: 2.0; stroke-dasharray: 5, 3; }
+  .euclid-graphic .geom-polygon.given-poly { fill: #475569; fill-opacity: 0.06; stroke: #475569; stroke-width: 1.85; stroke-linejoin: round; }
+  .euclid-graphic .geom-polygon.proto-poly { fill: #7c3aed; fill-opacity: 0.08; stroke: #7c3aed; stroke-width: 1.75; stroke-dasharray: 5, 3; stroke-linejoin: round; }
+  .euclid-graphic .geom-polygon.solution-poly { fill: #d97706; fill-opacity: 0.13; stroke: #d97706; stroke-width: 2.55; stroke-linejoin: round; }
+  .euclid-graphic .geom-point { fill: #0f172a; stroke: #fafaf9; stroke-width: 1.5; }
+  .euclid-graphic .geom-point.solution-point { fill: #d97706; stroke-width: 1.8; }
+  .euclid-graphic .geom-point.harmonic-point { fill: #059669; stroke-width: 1.7; }
+  .euclid-graphic .geom-point.inverse-point { fill: #db2777; stroke-width: 1.6; }
+  .euclid-graphic .geom-point.locus-point { fill: #0284c7; }
+  .euclid-graphic .geom-point.aux-point { opacity: 0.76; }
+  .euclid-graphic .geom-label {
+    fill: #1c1917;
+    font-size: 13.5px;
+    font-weight: 600;
+    paint-order: stroke fill;
+    stroke: #fafaf9;
+    stroke-opacity: 0.92;
+    stroke-width: 3.6px;
+    stroke-linejoin: round;
+  }
+  .euclid-graphic .geom-label-sub { font-size: 10px; font-weight: 600; }
+  </style>
+  <style>
+:root { --geom-fg: #1c1917; --geom-bg: #fafaf9; --geom-accent: #d97706; --geom-assert: #059669; }
+  @media (prefers-color-scheme: dark) {
+    :root { --geom-fg: #f4f4f5; --geom-bg: #141417; --geom-accent: #fbbf24; --geom-assert: #34d399; }
+    .euclid-graphic .svg-bg { fill: #141417; }
+    .euclid-graphic .geom-circle { stroke: #38bdf8; }
+    .euclid-graphic .geom-circle.given-circle { stroke: #94a3b8; }
+    .euclid-graphic .geom-circle.inversion-circle { stroke: #f472b6; }
+    .euclid-graphic .geom-circle.inverse-circle { stroke: #c084fc; }
+    .euclid-graphic .geom-circle.envelope-circle { stroke: #2dd4bf; }
+    .euclid-graphic .geom-circle.construction-arc { stroke: #64748b; }
+    .euclid-graphic .geom-circle.solution-circle { stroke: #fbbf24; }
+    .euclid-graphic .geom-line { stroke: #94a3b8; }
+    .euclid-graphic .geom-line.carrier-line { stroke: #94a3b8; }
+    .euclid-graphic .geom-line.aux-line { stroke: #64748b; }
+    .euclid-graphic .geom-line.locus-line { stroke: #38bdf8; }
+    .euclid-graphic .geom-line.bisector-line { stroke: #34d399; }
+    .euclid-graphic .geom-line.solution-line { stroke: #fbbf24; }
+    .euclid-graphic .geom-segment { stroke: #fbbf24; }
+    .euclid-graphic .geom-segment.aux-segment { stroke: #c084fc; }
+    .euclid-graphic .geom-polygon.given-poly { fill: #94a3b8; fill-opacity: 0.07; stroke: #94a3b8; }
+    .euclid-graphic .geom-polygon.proto-poly { fill: #c084fc; fill-opacity: 0.1; stroke: #c084fc; }
+    .euclid-graphic .geom-polygon.solution-poly { fill: #fbbf24; fill-opacity: 0.14; stroke: #fbbf24; }
+    .euclid-graphic .geom-point { fill: #e2e8f0; stroke: #141417; }
+    .euclid-graphic .geom-point.solution-point { fill: #fbbf24; }
+    .euclid-graphic .geom-point.harmonic-point { fill: #34d399; }
+    .euclid-graphic .geom-point.inverse-point { fill: #f472b6; }
+    .euclid-graphic .geom-point.locus-point { fill: #38bdf8; }
+    .euclid-graphic .geom-label { fill: #f4f4f5; stroke: #141417; }
+  }
+  </style>
+  <rect class="svg-bg" x="0" y="0" width="720" height="540" rx="6" fill="#fafaf9" />
+  <g id="elements">
+    <g id="graphics">
+      <circle class="geom-circle inversion-circle" cx="356.13" cy="337.65" r="92.77" data-ref="( O R0 )" data-aliases="Omega" fill="none"><title>( O R0 ): x**2 + y**2 - 144 = 0</title></circle>
+      <circle class="geom-circle given-circle" cx="263.36" cy="337.65" r="92.77" data-ref="( M1 O )" data-aliases="K1" fill="none"><title>( M1 O ): y**2 + (x + 12)**2 - 144 = 0</title></circle>
+      <circle class="geom-circle given-circle" cx="356.13" cy="407.23" r="69.58" data-ref="( M2 O )" data-aliases="K2" fill="none"><title>( M2 O ): x**2 + (y + 9)**2 - 81 = 0</title></circle>
+      <circle class="geom-circle given-circle" cx="448.91" cy="268.07" r="115.97" data-ref="( M3 O )" data-aliases="K3" fill="none"><title>( M3 O ): (x - 12)**2 + (y - 9)**2 - 225 = 0</title></circle>
+      <circle class="geom-circle inverse-circle" cx="356.13" cy="353.11" r="46.39" data-ref="( Jp T1p )" data-aliases="omegaPrime" fill="none"><title>( Jp T1p ): x**2 + (y + 2)**2 - 36 = 0</title></circle>
+      <circle class="geom-circle solution-circle" cx="356.13" cy="268.07" r="208.74" data-ref="( J T1 )" data-aliases="omega" fill="none"><title>( J T1 ): x**2 + (y - 9)**2 - 729 = 0</title></circle>
+      <path class="geom-line locus-line" d="M 309.75 526 L 309.75 270 L 309.75 14" data-ref="[ D E ]" data-aliases="[ D F1 ] | [ D V2 ] | [ D V3 ] | [ D T1p ]" fill="none"><title>[ D E ]: x + 6 = 0</title></path>
+      <path class="geom-line locus-line" d="M 14 399.5 L 360 399.5 L 706 399.5" data-ref="[ L M ]" data-aliases="[ L T2p ] | [ L V1 ] | [ L V3 ]" fill="none"><title>[ L M ]: y + 8 = 0</title></path>
+      <path class="geom-line locus-line" d="M 543.79 526 L 351.79 270 L 159.79 14" data-ref="[ U V ]" data-aliases="[ U F3 ] | [ U V1 ] | [ U V2 ] | [ U T3p ]" fill="none"><title>[ U V ]: 96*sqrt(21)*x/25 + 72*sqrt(21)*y/25 - 576*sqrt(21)/25 = 0</title></path>
+    </g>
+    <g id="highlights" style="pointer-events: none;"></g>
+    <g id="points">
+      <circle class="geom-point" cx="356.13" cy="337.65" r="4" data-ref="O"><title>O = (0, 0)</title></circle>
+      <circle class="geom-point aux-point" cx="263.36" cy="337.65" r="3.2" data-ref="M1"><title>M1 = (-12, 0)</title></circle>
+      <circle class="geom-point aux-point" cx="356.13" cy="407.23" r="3.2" data-ref="M2"><title>M2 = (0, -9)</title></circle>
+      <circle class="geom-point aux-point" cx="448.91" cy="268.07" r="3.2" data-ref="M3"><title>M3 = (12, 9)</title></circle>
+      <circle class="geom-point aux-point" cx="448.91" cy="337.65" r="3.2" data-ref="R0"><title>R0 = (12, 0)</title></circle>
+      <circle class="geom-point inverse-point" cx="309.75" cy="337.65" r="4.2" data-ref="F1"><title>F1 = (-6, 0)</title></circle>
+      <circle class="geom-point solution-point" cx="356.13" cy="476.81" r="4.9" data-ref="T2"><title>T2 = (0, -18)</title></circle>
+      <circle class="geom-point inverse-point" cx="356.13" cy="399.5" r="4.2" data-ref="T2p"><title>T2p = (0, -8)</title></circle>
+      <circle class="geom-point inverse-point" cx="385.82" cy="315.38" r="4.2" data-ref="F3"><title>F3 = (96/25, 72/25)</title></circle>
+      <circle class="geom-point inverse-point" cx="448.91" cy="399.5" r="4.2" data-ref="V1"><title>V1 = (12, -8)</title></circle>
+      <circle class="geom-point inverse-point" cx="309.75" cy="213.95" r="4.2" data-ref="V2"><title>V2 = (-6, 16)</title></circle>
+      <circle class="geom-point inverse-point" cx="309.75" cy="399.5" r="4.2" data-ref="V3"><title>V3 = (-6, -8)</title></circle>
+      <circle class="geom-point inverse-point" cx="356.13" cy="353.11" r="4.2" data-ref="Jp"><title>Jp = (0, -2)</title></circle>
+      <circle class="geom-point" cx="309.75" cy="353.11" r="4" data-ref="T1p"><title>T1p = (-6, -2)</title></circle>
+      <circle class="geom-point" cx="393.24" cy="325.28" r="4" data-ref="T3p"><title>T3p = (24/5, 8/5)</title></circle>
+      <circle class="geom-point solution-point" cx="189.14" cy="393.31" r="4.9" data-ref="T1"><title>T1 = (-108/5, -36/5)</title></circle>
+      <circle class="geom-point solution-point" cx="564.87" cy="268.07" r="4.9" data-ref="T3"><title>T3 = (27, 9)</title></circle>
+      <circle class="geom-point solution-point" cx="356.13" cy="268.07" r="4.9" data-ref="J"><title>J = (0, 9)</title></circle>
+    </g>
+    <g id="labels">
+      <text class="geom-label" x="350.28" y="323.41" data-ref="O">O</text>
+      <text class="geom-label" x="347.49" y="461.67" data-ref="T2">T<tspan class="geom-label-sub" dy="3">2</tspan></text>
+      <text class="geom-label" x="454.56" y="389.46" data-ref="V1">V<tspan class="geom-label-sub" dy="3">1</tspan></text>
+      <text class="geom-label" x="315.4" y="203.92" data-ref="V2">V<tspan class="geom-label-sub" dy="3">2</tspan></text>
+      <text class="geom-label" x="315.4" y="389.46" data-ref="V3">V<tspan class="geom-label-sub" dy="3">3</tspan></text>
+      <text class="geom-label" x="346.23" y="377.07" data-ref="Jp">J′</text>
+      <text class="geom-label" x="313.23" y="343.23" data-ref="T1p">T′<tspan class="geom-label-sub" dy="3">1</tspan></text>
+      <text class="geom-label" x="396.73" y="315.4" data-ref="T3p">T′<tspan class="geom-label-sub" dy="3">3</tspan></text>
+      <text class="geom-label" x="180.5" y="378.17" data-ref="T1">T<tspan class="geom-label-sub" dy="3">1</tspan></text>
+      <text class="geom-label" x="556.23" y="252.93" data-ref="T3">T<tspan class="geom-label-sub" dy="3">3</tspan></text>
+      <text class="geom-label" x="350.28" y="252.93" data-ref="J">J</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,59 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "geometor-petersen"
+authors = [
+  { name = "phi ARCHITECT", email = "phi@geometor.com" },
+]
+description = "Scholarly 3-Track Digital Scriptorium Book Codex and Exact Symbolic Constructive Pattern Library for Julius Petersen's Methods and Theories for the Solution of Problems of Geometrical Constructions, Applied to 410 Problems (1866 / 1879)."
+readme = "README.rst"
+requires-python = ">=3.13"
+license = { text = "MIT" }
+dynamic = ["version"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "sympy",
+    "rich",
+    "geometor-model",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "ruff",
+]
+
+[project.scripts]
+petersen = "geometor.petersen.__main__:main"
+geometor-petersen = "geometor.petersen.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["geometor*"]
+namespaces = true
+
+[tool.setuptools.dynamic]
+version = { attr = "geometor.petersen.__version__" }
+
+[project.urls]
+"Website" = "https://geometor.github.io/petersen"
+"Repository" = "https://github.com/geometor/petersen"
+"Issues" = "https://github.com/geometor/petersen/issues"
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "../model/src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py313"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+ignore = ["E501"]

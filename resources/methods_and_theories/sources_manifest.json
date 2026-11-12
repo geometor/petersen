@@ -1,0 +1,109 @@
+{
+  "work": {
+    "title": "Methods and Theories for the Solution of Problems of Geometrical Constructions, Applied to 410 Problems",
+    "danish_title": "Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver, anvendte paa ca. 400 Opgaver",
+    "author": "Julius Petersen",
+    "translator_en": "Sophus Haagensen, Cand. Polyt. C. E.",
+    "year_editio_princeps": 1866,
+    "year_english_edition": 1879,
+    "publisher_en": "Andr. Fred. Høst & Son (Copenhagen) / Sampson Low, Marston, Searle & Rivington (London)",
+    "total_pages_en": 102,
+    "total_problems_en": 410,
+    "rights": "Public Domain (published 1866 / 1879)"
+  },
+  "witnesses": [
+    {
+      "id": "haagensen_1879_en",
+      "language": "en",
+      "edition": "Authorized English Edition (1879)",
+      "imprint": "Copenhagen: Andr. Fred. Høst & Son; London: Sampson Low, Marston, Searle & Rivington, 1879",
+      "holding_institution": "University of California, San Diego",
+      "hathitrust_id": "uc1.31822009486531",
+      "oclc": "15027332",
+      "google_books_id": "H89FAQAAIAAJ",
+      "pages": "Title + Contents + pp. 1–102",
+      "verification_method": "Direct multimodal visual inspection of grayscale archival page scans (PP9, PT2, PA1–PA102)"
+    },
+    {
+      "id": "petersen_1866_da",
+      "language": "da",
+      "edition": "Editio Princeps (1866) / 2nd Danish Edition (1879)",
+      "imprint": "Kjøbenhavn: Karl Schønbergs Forlag, 1866; 2. Udgave, Andr. Fred. Høst & Søn, 1879",
+      "notes": "Original Danish textbook written during Petersen's tenure in Copenhagen; expanded to 410 numbered problems in the 1879 parallel editions."
+    },
+    {
+      "id": "fischer_benzon_1879_de",
+      "language": "de",
+      "edition": "German Edition translated by Dr. R. von Fischer-Benzon (1879)",
+      "imprint": "Kopenhagen: Andr. Fred. Høst & Sohn, 1879",
+      "archive_org_id": "11390623bsb",
+      "holding_institution": "Bayerische Staatsbibliothek München",
+      "notes": "Published simultaneously by Andr. Fred. Høst in Copenhagen from the 2nd Danish edition."
+    },
+    {
+      "id": "chemin_1880_fr",
+      "language": "fr",
+      "edition": "French Edition translated by O. Chemin (1880)",
+      "imprint": "Paris: Gauthier-Villars, 1880",
+      "notes": "Widely adopted in French concours preparation and cited by Émile Lemoine in his Géométrographie (1888 / 1902)."
+    }
+  ],
+  "units": [
+    {
+      "slug": "unit-01-anatomy-of-construction",
+      "number": "Unit I",
+      "title": "Preface & Introduction — The Anatomy of a Geometric Construction Problem",
+      "pages_en": "1–6",
+      "problems": "Schema & Notation",
+      "figure": "unit01-discussion-schema.svg"
+    },
+    {
+      "slug": "unit-02-loci-of-points",
+      "number": "Unit II",
+      "title": "Chapter I, Part A — Loci of Points & The Method of Two Loci",
+      "pages_en": "7–22, 37–40",
+      "problems": "1–116, 202–219",
+      "figure": "unit02-apollonius-two-loci.svg"
+    },
+    {
+      "slug": "unit-03-loci-of-lines",
+      "number": "Unit III",
+      "title": "Chapter I, Part B — Loci of Lines (Envelopes & Tangential Conditions)",
+      "pages_en": "40–45",
+      "problems": "220–245",
+      "figure": "unit03-equal-chords-envelope.svg"
+    },
+    {
+      "slug": "unit-04-parallel-translation",
+      "number": "Unit IV",
+      "title": "Chapter II, Parts A & B — Parallel Translation & Replacing",
+      "pages_en": "46–60",
+      "problems": "246–335",
+      "figure": "unit04-trapezoid-translation.svg"
+    },
+    {
+      "slug": "unit-05-axial-reflection-and-rotation",
+      "number": "Unit V",
+      "title": "Chapter II (cont.) & Chapter III — Revolution Around an Axis & Rotation Around a Point",
+      "pages_en": "60–68",
+      "problems": "336–362",
+      "figure": "unit05-rotation-three-parallels.svg"
+    },
+    {
+      "slug": "unit-06-method-of-similitude",
+      "number": "Unit VI",
+      "title": "Chapter I, Subsections — Multiplication of Curves & The Method of Similitude",
+      "pages_en": "22–33",
+      "problems": "117–191",
+      "figure": "unit06-homothety-inscribed-square.svg"
+    },
+    {
+      "slug": "unit-07-inversion-and-constructibility",
+      "number": "Unit VII",
+      "title": "Chapter III (cont.), Inverse Figures & Appendix — Circle Inversion, Systems of Circles & Constructibility Criteria",
+      "pages_en": "33–37, 68–102",
+      "problems": "192–201, 363–410",
+      "figure": "unit07-inversion-tangent-circle.svg"
+    }
+  ]
+}

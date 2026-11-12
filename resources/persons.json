@@ -1,0 +1,122 @@
+{
+  "petersen": {
+    "name": "Julius Petersen",
+    "dates": "1839–1910",
+    "role": "Danish Mathematician & Founder of Heuristic Construction Theory and Graph Theory",
+    "summary": "Professor at the Royal Polytechnic School (Polyteknisk Læreanstalt) and the University of Copenhagen, and Member of the Royal Danish Society of Sciences. Author of Methods and Theories (1866/1879), Theorie der algebraischen Gleichungen (1878), and Die Theorie der regulären graphs (1891, introducing the Petersen graph)."
+  },
+  "haagensen": {
+    "name": "Sophus Haagensen",
+    "dates": "1842–1921",
+    "role": "Danish-American Civil Engineer & Translator of the 1879 Authorized English Edition",
+    "summary": "Graduate of the Royal Polytechnic School in Copenhagen (Cand. Polyt. C. E.) who translated Petersen's Methods and Theories into English for simultaneous publication in Copenhagen and London in 1879."
+  },
+  "euclid": {
+    "name": "Euclid of Alexandria",
+    "dates": "fl. c. 300 BCE",
+    "role": "Author of the Elements",
+    "summary": "Compiler of the thirteen-book Elements, providing the compass-and-straightedge postulates and foundational locus theorems (I.1, I.9–I.12, III.17, III.21, III.31, III.35–36, IV.4–5, VI.2–4) presupposed throughout Petersen's problem canon."
+  },
+  "apollonius": {
+    "name": "Apollonius of Perga",
+    "dates": "c. 240–190 BCE",
+    "role": "Hellenistic Geometer — Conics, Plane Loci, and Tangencies",
+    "summary": "Discoverer of the Circle of Apollonius (Petersen's Locus f: PA : PB = m : n) in Plane Loci Book II and poser of the Problem of Apollonius (constructing a circle tangent to three given circles, Petersen Problem 403)."
+  },
+  "pappus": {
+    "name": "Pappus of Alexandria",
+    "dates": "c. 290–350 CE",
+    "role": "Alexandrian Mathematician — Synagoge Book VII (Treasury of Analysis)",
+    "summary": "Formulated the classical Greek distinction between analysis (assuming the sought figure drawn) and synthesis in Book VII of his Mathematical Collection, as well as harmonic cross-ratio invariance and the sliding-segment conchoid problem (Petersen Problem 405)."
+  },
+  "hero": {
+    "name": "Hero of Alexandria",
+    "dates": "c. 10–70 CE",
+    "role": "Geometer & Optician — Catoptrics Reflection Principle",
+    "summary": "Solved the shortest-path equal-angle reflection problem on a plane mirror by reflecting one endpoint across the mirror line (Petersen's Revolution Around an Axis, Problem 338)."
+  },
+  "descartes": {
+    "name": "René Descartes",
+    "dates": "1596–1650",
+    "role": "Founder of Analytic Geometry — La Géométrie (1637)",
+    "summary": "Translated straightedge-and-compass intersections into first- and second-degree coordinate equations, establishing the algebraic framework behind Petersen's Appendix on constructibility by square roots."
+  },
+  "pothenot": {
+    "name": "Laurent Pothenot",
+    "dates": "1650–1732",
+    "role": "French Mathematician & Geodesist",
+    "summary": "Published in 1692 the three-point resection problem (Snellius–Pothenot problem, solved by intersecting two subtended-angle circular arcs, Petersen Problem 19, p. 11, and revisited on the plane table at Problem 396)."
+  },
+  "monge": {
+    "name": "Gaspard Monge",
+    "dates": "1746–1818",
+    "role": "Founder of Descriptive Geometry — Monge's Circle Theorem",
+    "summary": "Proved that the three external centres of similitude of three circles are collinear (Petersen Appendix, Theorem 11, pp. 92–93)."
+  },
+  "gergonne": {
+    "name": "Joseph Diez Gergonne",
+    "dates": "1771–1859",
+    "role": "Projective Geometer — Radical-Centre Solution to Apollonius's Problem",
+    "summary": "Published in 1816 the celebrated projective/radical-axis construction of the circles tangent to three given circles, presented by Petersen as 'the simplest and most elegant solution' to Problem 403 (p. 95)."
+  },
+  "malfatti": {
+    "name": "Gian Francesco Malfatti",
+    "dates": "1731–1807",
+    "role": "Italian Mathematician — Malfatti Circles (1803)",
+    "summary": "Posed and algebraically solved the problem of inscribing three mutually tangent circles in a triangle, each touching two sides (Petersen Preface p. 2 & Appendix Problem 404, pp. 95–97)."
+  },
+  "steiner": {
+    "name": "Jakob Steiner",
+    "dates": "1796–1863",
+    "role": "Synthetic Projective Geometer",
+    "summary": "Announced in 1826 a pure synthetic construction for Malfatti's problem without proof via radical axes and centres of similitude; Petersen's Appendix (pp. 96–97) supplies a remarkably elementary proof of Steiner's theorem."
+  },
+  "schroeter": {
+    "name": "Heinrich Eduard Schröter",
+    "dates": "1829–1892",
+    "role": "German Synthetic Geometer",
+    "summary": "Student of Steiner who gave the first published proof of Steiner's construction of Malfatti's problem in 1874 using chains of circle inversions, simplified by Petersen in 1879 (p. 96)."
+  },
+  "wantzel": {
+    "name": "Pierre Laurent Wantzel",
+    "dates": "1814–1848",
+    "role": "French Algebraist — Quadratic Tower Constructibility Theorem (1837)",
+    "summary": "Proved in 1837 that any quantity constructible by straightedge and compasses lies in an iterated quadratic extension of degree 2^k, establishing the impossibility of angle trisection and cube duplication (Petersen Appendix, pp. 97–102)."
+  },
+  "lindemann": {
+    "name": "Ferdinand von Lindemann",
+    "dates": "1852–1939",
+    "role": "German Mathematician — Transcendence of pi (1882)",
+    "summary": "Proved in 1882 that pi is transcendental, resolving the exact gap noted by Petersen on p. 101 of the 1879 edition ('to prove, that pi can not be expressed by square root, which, as yet, nobody has been able to prove')."
+  },
+  "lemoine": {
+    "name": "Émile Lemoine",
+    "dates": "1840–1912",
+    "role": "Founder of Geometrography (1888 / 1902)",
+    "summary": "Complemented Petersen's heuristic discovery methods with quantitative operational complexity metrics (simplicité and exactitude) for straightedge-and-compass constructions."
+  },
+  "klein": {
+    "name": "Felix Klein",
+    "dates": "1849–1925",
+    "role": "Author of Famous Problems of Elementary Geometry (1895)",
+    "summary": "Synthesized transformation groups (Erlangen Program, 1872) and algebraic constructibility theory (1895), carrying forward Petersen's classification of geometric transformations and quadratic radical towers."
+  },
+  "hilbert": {
+    "name": "David Hilbert",
+    "dates": "1862–1943",
+    "role": "Author of Grundlagen der Geometrie (1899)",
+    "summary": "Refined geometric constructibility in Chapter VII of Grundlagen der Geometrie (1899), characterizing problems solvable with straightedge and gauge (Eichmass) via totally real Pythagorean fields."
+  },
+  "altshiller_court": {
+    "name": "Nathan Altshiller-Court",
+    "dates": "1881–1968",
+    "role": "Author of College Geometry (1925 / 1952)",
+    "summary": "Adopted Petersen's four-stage construction methodology (Analysis, Construction, Proof, Discussion) and transformation taxonomy directly into 20th-century English-language synthetic geometry instruction."
+  },
+  "polya": {
+    "name": "George Pólya",
+    "dates": "1887–1985",
+    "role": "Author of How to Solve It (1945) & Mathematical Discovery (1962)",
+    "summary": "Elevated Petersen's 'pattern of two loci' and 'pattern of similar figures' into the foundational exemplars of modern mathematical problem-solving heuristics."
+  }
+}
