@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="euclid-graphic" width="700" height="440" viewBox="0 0 700 440" data-graphic-id="petersen-u06" role="img" aria-label="Petersen Problem 155 — Inscribing a Square in a Triangle by Homothety">
+  <title>Petersen Problem 155 — Inscribing a Square in a Triangle by Homothety</title>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M 0 -4.5 L 0 4.5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -2 -4.5 L -2 4.5 M 2 -4.5 L 2 4.5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M -3.5 -4.5 L -3.5 4.5 M 0 -4.5 L 0 4.5 M 3.5 -4.5 L 3.5 4.5" stroke="currentColor" stroke-width="1.6" fill="none" />
+    </marker>
+  </defs>
+  <style>
+.euclid-graphic {
+    font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+  }
+  .euclid-graphic .svg-bg { fill: #fafaf9; }
+  .euclid-graphic .geom-circle { fill: none; stroke: #0284c7; stroke-width: 1.9; opacity: 0.88; }
+  .euclid-graphic .geom-circle.given-circle { stroke: #475569; stroke-width: 2.0; opacity: 0.92; }
+  .euclid-graphic .geom-circle.inversion-circle { stroke: #db2777; stroke-width: 1.75; stroke-dasharray: 6, 4; opacity: 0.86; }
+  .euclid-graphic .geom-circle.inverse-circle { stroke: #7c3aed; stroke-width: 1.85; stroke-dasharray: 4, 3; }
+  .euclid-graphic .geom-circle.envelope-circle { stroke: #0d9488; stroke-width: 2.05; stroke-dasharray: 6, 3.5; }
+  .euclid-graphic .geom-circle.construction-arc { stroke: #64748b; stroke-width: 1.25; stroke-dasharray: 4, 3.5; opacity: 0.65; }
+  .euclid-graphic .geom-circle.solution-circle { stroke: #d97706; stroke-width: 2.85; opacity: 0.97; }
+  .euclid-graphic .geom-line { fill: none; stroke: #475569; stroke-width: 1.55; stroke-linecap: round; }
+  .euclid-graphic .geom-line.carrier-line { stroke: #475569; stroke-width: 1.95; opacity: 0.9; }
+  .euclid-graphic .geom-line.aux-line { stroke: #64748b; stroke-width: 1.2; stroke-dasharray: 4, 3.5; opacity: 0.68; }
+  .euclid-graphic .geom-line.locus-line { stroke: #0284c7; stroke-width: 2.05; stroke-dasharray: 7, 4; opacity: 0.92; }
+  .euclid-graphic .geom-line.bisector-line { stroke: #059669; stroke-width: 1.55; stroke-dasharray: 5, 3; opacity: 0.82; }
+  .euclid-graphic .geom-line.solution-line { stroke: #d97706; stroke-width: 2.55; opacity: 0.96; }
+  .euclid-graphic .geom-segment { fill: none; stroke: #d97706; stroke-width: 2.95; stroke-linecap: round; }
+  .euclid-graphic .geom-segment.aux-segment { stroke: #7c3aed; stroke-width: 2.0; stroke-dasharray: 5, 3; }
+  .euclid-graphic .geom-polygon.given-poly { fill: #475569; fill-opacity: 0.06; stroke: #475569; stroke-width: 1.85; stroke-linejoin: round; }
+  .euclid-graphic .geom-polygon.proto-poly { fill: #7c3aed; fill-opacity: 0.08; stroke: #7c3aed; stroke-width: 1.75; stroke-dasharray: 5, 3; stroke-linejoin: round; }
+  .euclid-graphic .geom-polygon.solution-poly { fill: #d97706; fill-opacity: 0.13; stroke: #d97706; stroke-width: 2.55; stroke-linejoin: round; }
+  .euclid-graphic .geom-point { fill: #0f172a; stroke: #fafaf9; stroke-width: 1.5; }
+  .euclid-graphic .geom-point.solution-point { fill: #d97706; stroke-width: 1.8; }
+  .euclid-graphic .geom-point.harmonic-point { fill: #059669; stroke-width: 1.7; }
+  .euclid-graphic .geom-point.inverse-point { fill: #db2777; stroke-width: 1.6; }
+  .euclid-graphic .geom-point.locus-point { fill: #0284c7; }
+  .euclid-graphic .geom-point.aux-point { opacity: 0.76; }
+  .euclid-graphic .geom-label {
+    fill: #1c1917;
+    font-size: 13.5px;
+    font-weight: 600;
+    paint-order: stroke fill;
+    stroke: #fafaf9;
+    stroke-opacity: 0.92;
+    stroke-width: 3.6px;
+    stroke-linejoin: round;
+  }
+  .euclid-graphic .geom-label-sub { font-size: 10px; font-weight: 600; }
+  </style>
+  <style>
+:root { --geom-fg: #1c1917; --geom-bg: #fafaf9; --geom-accent: #d97706; --geom-assert: #059669; }
+  @media (prefers-color-scheme: dark) {
+    :root { --geom-fg: #f4f4f5; --geom-bg: #141417; --geom-accent: #fbbf24; --geom-assert: #34d399; }
+    .euclid-graphic .svg-bg { fill: #141417; }
+    .euclid-graphic .geom-circle { stroke: #38bdf8; }
+    .euclid-graphic .geom-circle.given-circle { stroke: #94a3b8; }
+    .euclid-graphic .geom-circle.inversion-circle { stroke: #f472b6; }
+    .euclid-graphic .geom-circle.inverse-circle { stroke: #c084fc; }
+    .euclid-graphic .geom-circle.envelope-circle { stroke: #2dd4bf; }
+    .euclid-graphic .geom-circle.construction-arc { stroke: #64748b; }
+    .euclid-graphic .geom-circle.solution-circle { stroke: #fbbf24; }
+    .euclid-graphic .geom-line { stroke: #94a3b8; }
+    .euclid-graphic .geom-line.carrier-line { stroke: #94a3b8; }
+    .euclid-graphic .geom-line.aux-line { stroke: #64748b; }
+    .euclid-graphic .geom-line.locus-line { stroke: #38bdf8; }
+    .euclid-graphic .geom-line.bisector-line { stroke: #34d399; }
+    .euclid-graphic .geom-line.solution-line { stroke: #fbbf24; }
+    .euclid-graphic .geom-segment { stroke: #fbbf24; }
+    .euclid-graphic .geom-segment.aux-segment { stroke: #c084fc; }
+    .euclid-graphic .geom-polygon.given-poly { fill: #94a3b8; fill-opacity: 0.07; stroke: #94a3b8; }
+    .euclid-graphic .geom-polygon.proto-poly { fill: #c084fc; fill-opacity: 0.1; stroke: #c084fc; }
+    .euclid-graphic .geom-polygon.solution-poly { fill: #fbbf24; fill-opacity: 0.14; stroke: #fbbf24; }
+    .euclid-graphic .geom-point { fill: #e2e8f0; stroke: #141417; }
+    .euclid-graphic .geom-point.solution-point { fill: #fbbf24; }
+    .euclid-graphic .geom-point.harmonic-point { fill: #34d399; }
+    .euclid-graphic .geom-point.inverse-point { fill: #f472b6; }
+    .euclid-graphic .geom-point.locus-point { fill: #38bdf8; }
+    .euclid-graphic .geom-label { fill: #f4f4f5; stroke: #141417; }
+  }
+  </style>
+  <rect class="svg-bg" x="0" y="0" width="700" height="440" rx="6" fill="#fafaf9" />
+  <g id="elements">
+    <g id="graphics">
+      <polygon class="geom-polygon given-poly" points="148.08,358.46 471.15,358.46 263.46,81.54" data-ref="&lt; A B C &gt;" />
+      <polygon class="geom-polygon proto-poly" points="263.46,358.46 540.38,358.46 540.38,81.54 263.46,81.54" data-ref="&lt; D0 E0 F0 C &gt;" />
+      <polygon class="geom-polygon solution-poly" points="210.21,358.46 359.32,358.46 359.32,209.35 210.21,209.35" data-ref="&lt; D E F G &gt;" />
+      <path class="geom-line carrier-line" d="M 14 358.46 L 350 358.46 L 686 358.46" data-ref="[ A B ]" data-aliases="AB | [ A D0 ] | [ A E0 ] | [ A E ] | [ A D ]" fill="none"><title>[ A B ]: y = 0</title></path>
+      <path class="geom-line carrier-line" d="M 119.94 426 L 205.77 220 L 291.6 14" data-ref="[ A C ]" data-aliases="AC | [ A G ]" fill="none"><title>[ A C ]: -12*x + 5*y = 0</title></path>
+      <path class="geom-line carrier-line" d="M 521.81 426 L 367.31 220 L 212.81 14" data-ref="[ B C ]" data-aliases="BC | [ B F ]" fill="none"><title>[ B C ]: -12*x - 9*y + 168 = 0</title></path>
+      <path class="geom-line aux-line" d="M 263.46 426 L 263.46 220 L 263.46 14" data-ref="[ C S ]" data-aliases="[ C D ] | [ C D0 ]" fill="none"><title>[ C S ]: x - 5 = 0</title></path>
+      <path class="geom-line aux-line" d="M 540.38 426 L 540.38 220 L 540.38 14" data-ref="[ E0 Q ]" data-aliases="[ E0 G ] | [ E0 F0 ]" fill="none"><title>[ E0 Q ]: x - 17 = 0</title></path>
+      <path class="geom-line aux-line" d="M 14 81.54 L 350 81.54 L 686 81.54" data-ref="[ C J ]" data-aliases="[ C F0 ]" fill="none"><title>[ C J ]: y - 12 = 0</title></path>
+      <path class="geom-line locus-line" d="M 52.4 426 L 344.23 220 L 636.06 14" data-ref="[ A F0 ]" data-aliases="AF0 | [ A F ]" fill="none"><title>[ A F0 ]: -12*x + 17*y = 0</title></path>
+      <path class="geom-line aux-line" d="M 359.32 426 L 359.32 220 L 359.32 14" data-ref="[ F L ]" data-aliases="[ F E ]" fill="none"><title>[ F L ]: x - 119/13 = 0</title></path>
+      <path class="geom-line aux-line" d="M 14 209.35 L 350 209.35 L 686 209.35" data-ref="[ F P ]" data-aliases="FGline | [ F G ]" fill="none"><title>[ F P ]: y - 84/13 = 0</title></path>
+      <path class="geom-line aux-line" d="M 210.21 426 L 210.21 220 L 210.21 14" data-ref="[ G R ]" data-aliases="[ G D ]" fill="none"><title>[ G R ]: x - 35/13 = 0</title></path>
+      <path class="geom-segment" d="M 210.21 358.46 L 284.76 358.46 L 359.32 358.46" data-ref="/ D E /" fill="none" />
+      <path class="geom-segment" d="M 359.32 358.46 L 359.32 283.91 L 359.32 209.35" data-ref="/ E F /" fill="none" />
+      <path class="geom-segment" d="M 359.32 209.35 L 284.76 209.35 L 210.21 209.35" data-ref="/ F G /" fill="none" />
+      <path class="geom-segment" d="M 210.21 209.35 L 210.21 283.91 L 210.21 358.46" data-ref="/ G D /" fill="none" />
+    </g>
+    <g id="highlights" style="pointer-events: none;"></g>
+    <g id="points">
+      <circle class="geom-point" cx="148.08" cy="358.46" r="4" data-ref="A"><title>A = (0, 0)</title></circle>
+      <circle class="geom-point" cx="471.15" cy="358.46" r="4" data-ref="B"><title>B = (14, 0)</title></circle>
+      <circle class="geom-point" cx="263.46" cy="81.54" r="4" data-ref="C"><title>C = (5, 12)</title></circle>
+      <circle class="geom-point" cx="263.46" cy="358.46" r="4" data-ref="D0"><title>D0 = (5, 0)</title></circle>
+      <circle class="geom-point locus-point" cx="540.38" cy="358.46" r="4.1" data-ref="E0"><title>E0 = (17, 0)</title></circle>
+      <circle class="geom-point locus-point" cx="540.38" cy="81.54" r="4.1" data-ref="F0"><title>F0 = (17, 12)</title></circle>
+      <circle class="geom-point solution-point" cx="359.32" cy="209.35" r="4.9" data-ref="F"><title>F = (119/13, 84/13)</title></circle>
+      <circle class="geom-point" cx="359.32" cy="358.46" r="4" data-ref="E"><title>E = (119/13, 0)</title></circle>
+      <circle class="geom-point solution-point" cx="210.21" cy="209.35" r="4.9" data-ref="G"><title>G = (35/13, 84/13)</title></circle>
+      <circle class="geom-point" cx="210.21" cy="358.46" r="4" data-ref="D"><title>D = (35/13, 0)</title></circle>
+    </g>
+    <g id="labels">
+      <text class="geom-label" x="129.45" y="348.58" data-ref="A">A</text>
+      <text class="geom-label" x="478.08" y="348.58" data-ref="B">B</text>
+      <text class="geom-label" x="244.83" y="100.94" data-ref="C">C</text>
+      <text class="geom-label" x="268.99" y="348.58" data-ref="D0">D<tspan class="geom-label-sub" dy="3">0</tspan></text>
+      <text class="geom-label" x="545.97" y="348.5" data-ref="E0">E<tspan class="geom-label-sub" dy="3">0</tspan></text>
+      <text class="geom-label" x="517.52" y="71.58" data-ref="F0">F<tspan class="geom-label-sub" dy="3">0</tspan></text>
+      <text class="geom-label" x="366.82" y="198.78" data-ref="F">F</text>
+      <text class="geom-label" x="366.25" y="348.58" data-ref="E">E</text>
+      <text class="geom-label" x="191" y="198.78" data-ref="G">G</text>
+      <text class="geom-label" x="217.14" y="348.58" data-ref="D">D</text>
+    </g>
+  </g>
+</svg>

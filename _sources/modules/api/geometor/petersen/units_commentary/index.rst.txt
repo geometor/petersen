@@ -1,0 +1,81 @@
+geometor.petersen.units_commentary
+==================================
+
+.. py:module:: geometor.petersen.units_commentary
+
+.. autoapi-nested-parse::
+
+   Structured ``Summary`` and ``Notes`` companion tracks for ``geometor-petersen``.
+
+   Provides ``UNIT_SPECS``, ``UNITS_SUMMARY``, and ``UNITS_NOTES`` for all seven thematic
+   units of the 3-track synchronized Book Codex (`English 1879 · Summary · Notes`).
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.petersen.units_commentary.UNIT_SPECS
+   geometor.petersen.units_commentary.UNITS_SUMMARY
+   geometor.petersen.units_commentary.UNITS_NOTES
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.petersen.units_commentary.UnitSpec
+
+
+Module Contents
+---------------
+
+.. py:class:: UnitSpec
+
+   Metadata specification for one 3-track Book Codex unit.
+
+
+   .. py:attribute:: slug
+      :type:  str
+
+
+   .. py:attribute:: number
+      :type:  int
+
+
+   .. py:attribute:: title
+      :type:  str
+
+
+   .. py:attribute:: danish_subtitle
+      :type:  str
+
+
+   .. py:attribute:: page_span
+      :type:  str
+
+
+   .. py:attribute:: problem_span
+      :type:  str
+
+
+   .. py:attribute:: figure_svg
+      :type:  str
+
+
+   .. py:attribute:: constructor_name
+      :type:  str
+
+
+.. py:data:: UNIT_SPECS
+   :type:  tuple[UnitSpec, ...]
+
+.. py:data:: UNITS_SUMMARY
+   :type:  dict[str, str]
+
+.. py:data:: UNITS_NOTES
+   :type:  dict[str, str]
+

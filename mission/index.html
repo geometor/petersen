@@ -1,0 +1,181 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>mission &mdash; GEOMETOR • petersen</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=66998e95" />
+  <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../_static/favicon.ico" />
+</head>
+
+<body class="book-theme-classical-serif">
+  <header>
+    <div class="logo">
+      <a href="../index.html">
+        <h1>GEOMETOR • petersen</h1>
+      </a>
+      <div class="org-repo">
+        <span class="org">GEOMETOR</span>
+        •
+        <span class="repo">petersen</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="#" class="is-active" aria-selected="true" aria-current="page">mission</a>
+        </li>
+        <li>
+          <a href="../demos/index.html"  >demos</a>
+        </li>
+        <li>
+          <a href="../log/index.html"  >log</a>
+        </li>
+        <li>
+          <a href="../modules/index.html"  >modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../index.html" title="Return to Project Portal">&larr; petersen</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../index.html">GEOMETOR • petersen</a>
+          </div>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../methods_and_theories/glossary.html" title="Technical Glossary of Constructive Geometry">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../demos/index.html" title="demos"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content" role="main">
+        <section class="level-1" id="mission">
+        <h1>mission<a class="headerlink" href="#mission" title="Link to this heading">¶</a></h1>
+        <p><code class="docutils literal notranslate"><span class="pre">geometor.petersen</span></code> establishes a rigorous Digital Scriptorium Book Codex and exact symbolic pattern library for <strong>Julius Petersen’s</strong> <em>Methods and Theories for the Solution of Problems of Geometrical Constructions, Applied to 410 Problems</em> (1866 / 1879) as the methodological and heuristic bridge of the <strong>GEOMETOR</strong> constructive canon.</p>
+        <section class="level-2" id="core-objectives">
+        <h2>Core Objectives<a class="headerlink" href="#core-objectives" title="Link to this heading">¶</a></h2>
+        <ol class="arabic simple">
+        <li><p><strong>Systematizing Geometric Discovery (*Ars Inveniendi*)</strong>: Where Euclid’s <em>Elements</em> (<code class="docutils literal notranslate"><span class="pre">geometor/euclid</span></code>, <code class="docutils literal notranslate"><span class="pre">geometor/elements</span></code>) presents finished deductive proofs, Petersen reveals the <em>analytic engine</em> that discovers constructions: relaxing a single condition to generate <strong>Point Loci</strong> (<code class="docutils literal notranslate"><span class="pre">a</span></code>–<code class="docutils literal notranslate"><span class="pre">k</span></code>), <strong>Tangential Line Loci</strong> (<code class="docutils literal notranslate"><span class="pre">l</span></code>–<code class="docutils literal notranslate"><span class="pre">p</span></code>), or <strong>Positional Homothety</strong>, and applying invertible <strong>Transformations of the Figure</strong> (<strong>Parallel Translation</strong>, <strong>Replacing</strong>, <strong>Axial Reflection</strong>, <strong>Spiral Revolution</strong>, and <strong>Circle Inversion</strong>) to gather dispersed data into constructible triangles.</p></li>
+        <li><p><strong>100% Exact Symbolic Realization</strong> (<code class="docutils literal notranslate"><span class="pre">geometor.model</span></code>): Every flagship heuristic pattern is accompanied by an exact, float-free SymPy construction in <a class="reference internal" href="../modules/api/geometor/petersen/constructions/index.html#module-geometor.petersen.constructions" title="geometor.petersen.constructions"><code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.petersen.constructions</span></code></a>—built with <code class="docutils literal notranslate"><span class="pre">Model(...,</span> <span class="pre">auto_intersect=False)</span></code>, explicit <code class="docutils literal notranslate"><span class="pre">intersect</span></code> / <code class="docutils literal notranslate"><span class="pre">subconstruction</span></code> DAGs, <code class="docutils literal notranslate"><span class="pre">&#64;proposition</span></code> verification, and Rational Trigonometry invariants (<code class="docutils literal notranslate"><span class="pre">quadrance</span></code>, <code class="docutils literal notranslate"><span class="pre">line_spread</span></code>, <code class="docutils literal notranslate"><span class="pre">cross_ratio</span></code>), while keeping the historical Book Codex tracks strictly free of embedded <code class="docutils literal notranslate"><span class="pre">py_file</span></code> scripts.</p></li>
+        <li><p><strong>Cross-Corpus Lineage</strong>: Map Petersen’s 1866/1879 methods backward to Euclid and Pappus (<em>Synagoge</em> Book VII) and forward to Émile Lemoine (<em>Géométrographie</em>, 1902), David Hilbert (<em>Grundlagen der Geometrie</em> Ch. VII, 1899), Nathan Altshiller-Court (<em>College Geometry</em>, 1925/1952), George Pólya (<em>How to Solve It</em>, 1945), and Clark Kimberling’s <em>Encyclopedia of Triangle Centers</em> (<code class="docutils literal notranslate"><span class="pre">geometor/etc</span></code>).</p></li>
+        </ol>
+        </section>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../methods_and_theories/glossary.html" title="Technical Glossary of Constructive Geometry">&larr; <span class="nav-label">Technical Glossary of Constructive Geometry</span></a>
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../index.html">GEOMETOR • petersen</a>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../demos/index.html" title="demos"><span class="nav-label">demos</span> &rarr;</a>
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../log/26.102-initial-codex/index.html">Initial 3-Track Digital Scriptorium Codex & Exact Symbolic Pattern Library</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-tags">
+      <h3>Tags</h3>
+      <ul>
+        <li><a href="../tags/codex.html">codex</a></li>
+        <li><a href="../tags/constructibility.html">constructibility</a></li>
+        <li><a href="../tags/homothety.html">homothety</a></li>
+        <li><a href="../tags/inversion.html">inversion</a></li>
+        <li><a href="../tags/loci.html">loci</a></li>
+        <li><a href="../tags/petersen.html">petersen</a></li>
+        <li><a href="../tags/rotation.html">rotation</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-categories">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="../categories/curation.html">curation</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../types/log.html">log</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../about/index.html"  >about</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 1866 / 1879 Andr. Fred. Høst & Son · Sampson Low, Marston, Searle & Rivington · Digital Codex GEOMETOR.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../_static/documentation_options.js?v=01f34227"></script>
+  <script src="../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script src="../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

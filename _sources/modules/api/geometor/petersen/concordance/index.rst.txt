@@ -1,0 +1,123 @@
+geometor.petersen.concordance
+=============================
+
+.. py:module:: geometor.petersen.concordance
+
+.. autoapi-nested-parse::
+
+   Scholarly apparatus and cross-repository concordance loader for :mod:`geometor.petersen`.
+
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.petersen.concordance.ConcordanceEntry
+   geometor.petersen.concordance.PetersenApparatus
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.petersen.concordance.default_repo_root
+   geometor.petersen.concordance.apparatus_slug
+   geometor.petersen.concordance.load_apparatus
+
+
+Module Contents
+---------------
+
+.. py:function:: default_repo_root() -> pathlib.Path
+
+   Return the root directory of ``geometor/petersen``.
+
+
+.. py:function:: apparatus_slug(key: str) -> str
+
+   Convert an apparatus key (e.g. ``'euclid:elements'``) to a safe RST anchor slug.
+
+
+.. py:class:: ConcordanceEntry
+
+   Single cross-repository concordance entry linking Petersen to the GEOMETOR canon.
+
+
+   .. py:attribute:: id
+      :type:  str
+
+
+   .. py:attribute:: unit
+      :type:  str
+
+
+   .. py:attribute:: petersen_locus
+      :type:  str
+
+
+   .. py:attribute:: problems
+      :type:  tuple[str, ...]
+
+
+   .. py:attribute:: title
+      :type:  str
+
+
+   .. py:attribute:: summary
+      :type:  str
+
+
+   .. py:attribute:: constructor
+      :type:  str | None
+
+
+   .. py:attribute:: cross_refs
+      :type:  tuple[dict[str, str], ...]
+
+
+.. py:class:: PetersenApparatus
+
+   Loaded scholarly apparatus and concordance tables for *Methods and Theories*.
+
+
+   .. py:attribute:: sources_manifest
+      :type:  dict[str, Any]
+
+
+   .. py:attribute:: entries
+      :type:  tuple[ConcordanceEntry, ...]
+
+
+   .. py:attribute:: persons
+      :type:  dict[str, dict[str, Any]]
+
+
+   .. py:attribute:: citations
+      :type:  dict[str, dict[str, Any]]
+
+
+   .. py:attribute:: glossary
+      :type:  dict[str, dict[str, Any]]
+
+
+   .. py:property:: concordance
+      :type: tuple[ConcordanceEntry, ...]
+
+
+      Alias returning all ``ConcordanceEntry`` records.
+
+
+   .. py:method:: by_unit(unit_slug: str) -> list[ConcordanceEntry]
+
+      Return concordance entries belonging to ``unit_slug``.
+
+
+
+.. py:function:: load_apparatus(repo_root: pathlib.Path | None = None) -> PetersenApparatus
+
+   Load and validate all JSON apparatus files from ``resources/methods_and_theories/``.
+
+

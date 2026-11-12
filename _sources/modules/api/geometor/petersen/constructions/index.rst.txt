@@ -1,0 +1,168 @@
+geometor.petersen.constructions
+===============================
+
+.. py:module:: geometor.petersen.constructions
+
+.. autoapi-nested-parse::
+
+   Exact symbolic constructions from Julius Petersen's *Methods and Theories* (1866 / 1879).
+
+   Every construction in this module strictly obeys the GEOMETOR Symbolic Integrity Iron Law:
+
+   1. **Zero Floating-Point Contamination**: Coordinates and parameters live strictly in
+      :math:`\mathbb{Q}` or closed-form quadratic radical extensions (:math:`\mathbb{Q}(\sqrt{3})`,
+      etc.). ``float`` and :class:`sympy.Float` are never injected into a :class:`~geometor.model.Model`.
+   2. **Targeted Compass-and-Straightedge DAGs**: Models run with ``auto_intersect=False``,
+      using explicit :meth:`~geometor.model.Model.intersect` calls and
+      :meth:`~geometor.model.Model.subconstruction` contexts for auxiliary Euclidean steps.
+   3. **Constructive Propositions & Rational Trigonometry**: Each method is structured as a
+      ``@proposition`` workflow (*Given -> Construct -> Demonstrate*) verified via
+      ``model.assert_*``, ``quadrance``, ``spread``, and ``cross_ratio``.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.petersen.constructions.ALL_CONSTRUCTIONS
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.petersen.constructions.inscribe_square_by_homothety
+   geometor.petersen.constructions.equilateral_on_three_parallels
+   geometor.petersen.constructions.trapezoid_from_four_sides
+   geometor.petersen.constructions.apollonius_two_loci
+   geometor.petersen.constructions.tangent_circle_by_inversion
+   geometor.petersen.constructions.discussion_mean_proportional
+   geometor.petersen.constructions.equal_chords_line_locus
+   geometor.petersen.constructions.hero_reflection_shortest_path
+
+
+Module Contents
+---------------
+
+.. py:function:: inscribe_square_by_homothety(model: geometor.model.Model | None = None, A: tuple[Any, Any] | sympy.geometry.Point2D = (0, 0), B: tuple[Any, Any] | sympy.geometry.Point2D = (14, 0), C: tuple[Any, Any] | sympy.geometry.Point2D = (5, 12)) -> tuple[geometor.model.Model, dict[str, Any]]
+
+   Inscribe a square ``DEFG`` resting on base ``AB`` of ``ABC`` via homothety from ``A``.
+
+   Following Petersen's *Method of Similitude* (Case b, p. 28–29, Problem 155),
+   relaxing the condition that the upper-right vertex lie on ``BC`` makes all
+   candidate squares resting on ``AB`` with upper-left vertex on ``AC`` homothetic
+   from centre of similitude ``A``. Constructing the prototype square ``D0 E0 F0 C``
+   of side equal to altitude ``h_c`` and intersecting ray ``A F0`` with ``BC`` yields
+   ``F`` directly.
+
+   Default ``(15, 13, 14)`` Heronian triangle ``A=(0,0), B=(14,0), C=(5,12)`` yields
+   exact rational inscribed square side ``84/13`` with vertices
+   ``D=(35/13, 0), E=(119/13, 0), F=(119/13, 84/13), G=(35/13, 84/13)``.
+
+
+.. py:function:: equilateral_on_three_parallels(model: geometor.model.Model | None = None, y1: int | sympy.Expr = 0, y2: int | sympy.Expr = 1, y3: int | sympy.Expr = 3, x0: int | sympy.Expr = 0) -> tuple[geometor.model.Model, dict[str, Any]]
+
+   Place an equilateral triangle ``PQR`` with vertices on three parallel lines ``L1, L2, L3``.
+
+   Following Petersen's *Theory of Revolution* (Ch. III, § 1–4 & Problem 349, pp. 65–67),
+   choose ``P`` on ``L1`` as the **pivot point** with angle of revolution ``v = 60°`` and
+   ratio of revolution ``f = 1``. Revolving ``L2`` by ``+60°`` around ``P`` via two
+   Euclidean ``I.1`` equilateral subconstructions produces the rotated line ``L2'``,
+   whose intersection with ``L3`` determines ``R``; revolving back (``I.1`` on ``PR``)
+   yields ``Q`` on ``L2`` in :math:`\mathbb{Q}(\sqrt{3})`.
+
+
+.. py:function:: trapezoid_from_four_sides(model: geometor.model.Model | None = None, a: int | sympy.Expr = 19, b: int | sympy.Expr = 5, c: int | sympy.Expr = 13, d: int | sympy.Expr = 15) -> tuple[geometor.model.Model, dict[str, Any]]
+
+   Construct trapezoid ``ABCD`` (``AB || DC``, ``AB=a, CD=b, BC=c, DA=d``) via translation.
+
+   Following Petersen's *Parallel Translation* (Ch. II.A, Problem 259, p. 49),
+   translating non-parallel leg ``BC`` parallel to base ``CD`` so ``B -> E`` and ``C -> D``
+   gathers the four dispersed lengths into the constructible triangle ``AED`` with
+   known sides ``AE = a - b``, ``AD = d``, and ``ED = c``.
+
+   With default Heronian lengths ``(a=19, b=5, c=13, d=15)``, auxiliary triangle ``AED``
+   has sides ``(14, 15, 13)`` and every vertex lies on the exact integer lattice:
+   ``A=(0,0), E=(14,0), B=(19,0), D=(9,12), C=(14,12)``.
+
+
+.. py:function:: apollonius_two_loci(model: geometor.model.Model | None = None, A: tuple[Any, Any] | sympy.geometry.Point2D = (0, 0), B: tuple[Any, Any] | sympy.geometry.Point2D = (15, 0), ratio: tuple[int | sympy.Expr, int | sympy.Expr] = (2, 1), altitude: int | sympy.Expr = 8) -> tuple[geometor.model.Model, dict[str, Any]]
+
+   Find points ``P`` with ``PA : PB = m : n`` at given distance ``h`` from line ``AB``.
+
+   Combines Petersen's **Locus f** (the Circle of Apollonius on harmonic diameter ``CC1``
+   where ``CA:CB = C1A:C1B = m:n`` and ``(A, B; C, C1) = -1``, pp. 11–12) with
+   **Locus b** (parallel line at distance ``h`` from ``AB``, p. 8) under the
+   **Method of Two Loci** (p. 5).
+
+   Default ``A=(0,0), B=(15,0), m:n=2:1, h=8`` yields internal/external harmonic points
+   ``C=(10,0), C1=(30,0)``, Apollonius circle centered at ``M=(20,0)`` of radius ``10``,
+   and exact integer intersections ``P1=(14,8)`` and ``P2=(26,8)``.
+
+
+.. py:function:: tangent_circle_by_inversion(model: geometor.model.Model | None = None, O: tuple[Any, Any] | sympy.geometry.Point2D = (0, 0), M1: tuple[Any, Any] | sympy.geometry.Point2D = (-12, 0), M2: tuple[Any, Any] | sympy.geometry.Point2D = (0, -9), M3: tuple[Any, Any] | sympy.geometry.Point2D = (12, 9), inversion_radius: int | sympy.Expr = 12) -> tuple[geometor.model.Model, dict[str, Any]]
+
+   Construct a circle touching three circles ``K1, K2, K3`` concurrent at ``O`` via inversion.
+
+   Following Petersen's *Inverse Figures* (pp. 33–36, Problem 199):
+
+   1. Invert ``K1, K2, K3`` (all passing through ``O``) in circle ``Omega(O, R0)``.
+      Because each circle passes through the centre of inversion ``O``, their
+      inverse curves are three straight lines ``L1, L2, L3`` forming triangle ``V1 V2 V3``.
+   2. Construct the incircle ``omega'`` of ``V1 V2 V3`` (Euclid IV.4) touching ``L1, L2, L3``
+      at ``T1', T2', T3'``.
+   3. Invert ``T1', T2', T3'`` back across ``Omega`` to obtain the three points of contact
+      ``T1, T2, T3`` and circumscribe the tangent circle ``omega`` (center ``J``).
+
+   With default integer lattice parameters ``O=(0,0), M1=(-12,0), M2=(0,-9), M3=(12,9), R0=12``
+   (radii ``12, 9, 15``), ``L1, L2, L3`` form an ``(18, 24, 30)`` right triangle with
+   incenter ``J'=(0,-2)``, inradius ``6``, and inverted tangent circle ``omega`` centered
+   at ``J=(0,9)`` of exact integer radius ``27``!
+
+
+.. py:function:: discussion_mean_proportional(model: geometor.model.Model | None = None, hypotenuse: int | sympy.Expr = 10, altitude: int | sympy.Expr = 4) -> tuple[geometor.model.Model, dict[str, Any]]
+
+   Construct right triangles on hypotenuse ``BC = a`` with given altitude ``h_a`` (Loci e & b).
+
+   Illustrates Petersen's canonical 4-part anatomy of a problem of construction
+   (*Analysis, Mode of Proceeding, Proof, Discussion*, pp. 4–5) via Problem 42 (p. 15):
+   *Divide a given segment BC into two parts BD, DC having a given segment h as mean
+   proportional*. Intersecting the Thales circle on diameter ``BC`` (Locus e, ``90°``)
+   with the parallel line at distance ``h`` (Locus b) yields:
+
+   * **2 solutions** ``A1, A2`` when ``0 < h < a/2`` (default ``a=10, h=4 -> A1=(2,4), A2=(8,4)``),
+   * **1 tangent solution** when ``h = a/2``, and
+   * **0 real solutions** when ``h > a/2``.
+
+
+.. py:function:: equal_chords_line_locus(model: geometor.model.Model | None = None, O: tuple[Any, Any] | sympy.geometry.Point2D = (0, 0), outer_radius: int | sympy.Expr = 17, chord_length: int | sympy.Expr = 16, P: tuple[Any, Any] | sympy.geometry.Point2D = (25, 0)) -> tuple[geometor.model.Model, dict[str, Any]]
+
+   Through external point ``P`` draw lines intercepting a chord of length ``L`` in circle ``(O, R)``.
+
+   Following Petersen's *Loci of Lines* (**Locus l**, p. 40 & **Problem 220**, p. 42),
+   all straight lines cutting chords of length ``L`` from circle ``(O, R)`` lie at fixed
+   distance :math:`r = \sqrt{R^2 - (L/2)^2}` from ``O`` and therefore envelop the
+   concentric circle ``(O, r)``. Drawing tangents from ``P`` to ``(O, r)`` (Problem 16 /
+   Euclid III.17) solves the problem immediately.
+
+   Default triple-Pythagorean parameters ``R=17, L=16, P=(25,0)`` give concentric envelope
+   radius ``r=15`` (``8^2 + 15^2 = 17^2``), exact integer contact points ``T1=(9,12)`` and
+   ``T2=(9,-12)`` (``15^2 + 20^2 = 25^2``), and exact rational chord endpoints on ``(O, 17)``.
+
+
+.. py:function:: hero_reflection_shortest_path(model: geometor.model.Model | None = None, A: tuple[Any, Any] | sympy.geometry.Point2D = (2, 6), B: tuple[Any, Any] | sympy.geometry.Point2D = (14, 10), axis_pts: tuple[tuple[Any, Any], tuple[Any, Any]] = ((0, 0), (16, 0))) -> tuple[geometor.model.Model, dict[str, Any]]
+
+   Find ``X`` on a given line so ``AX`` and ``BX`` make equal angles with the line (Prob. 338).
+
+   Following Petersen's *Revolution Around an Axis* (p. 60–61, Problem 338),
+   revolving ``A`` across the mirror axis into ``A1`` straightens the reflected path
+   into the single segment ``A1 X B``. With default ``A=(2,6), B=(14,10)`` and axis ``y=0``,
+   ``A1=(2,-6)``, ``X=(13/2, 0)``, and ``Q(A1, B) = 12^2 + 16^2 = 400 = 20^2``!
+
+
+.. py:data:: ALL_CONSTRUCTIONS
+   :type:  dict[str, collections.abc.Callable[..., tuple[geometor.model.Model, dict[str, Any]]]]
+

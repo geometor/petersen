@@ -1,0 +1,46 @@
+geometor.petersen.compile_codex
+===============================
+
+.. py:module:: geometor.petersen.compile_codex
+
+.. autoapi-nested-parse::
+
+   Deterministic compiler for the 3-track ``geometor-petersen`` Book Codex & SVG figures.
+
+   Compiles:
+
+   1. Standalone theme-adaptive ``.euclid-graphic`` SVG figures in ``docsrc/_static/figures/``;
+   2. Root ``resources/{persons,citations,glossary}.json`` mirrors for ``photon_platform.publish``;
+   3. Synchronized 3-track Book Codex units (``<slug>-en.rst``, ``<slug>-summary.rst``,
+      ``<slug>-notes.rst``) and scholarly apparatus pages in ``docsrc/methods_and_theories/``.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.petersen.compile_codex.sync_root_apparatus_json
+   geometor.petersen.compile_codex.export_all_figures
+   geometor.petersen.compile_codex.build_codex
+
+
+Module Contents
+---------------
+
+.. py:function:: sync_root_apparatus_json(repo_root: pathlib.Path | None = None) -> list[pathlib.Path]
+
+   Mirror ``persons.json``, ``citations.json``, and ``glossary.json`` into ``resources/``.
+
+
+.. py:function:: export_all_figures(repo_root: pathlib.Path | None = None) -> list[pathlib.Path]
+
+   Build all 8 exact symbolic models and export calibrated ``.euclid-graphic`` SVGs.
+
+
+.. py:function:: build_codex(repo_root: pathlib.Path | None = None, *, export_figures: bool = True) -> list[pathlib.Path]
+
+   Compile all 3-track Book Codex RST files, root apparatus mirrors, and SVG figures.
+
+

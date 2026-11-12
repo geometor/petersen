@@ -1,0 +1,55 @@
+geometor.petersen.render
+========================
+
+.. py:module:: geometor.petersen.render
+
+.. autoapi-nested-parse::
+
+   Theme-adaptive ``.euclid-graphic`` SVG renderer for :mod:`geometor.petersen`.
+
+   Generates standalone dark/light SVGs directly from exact :class:`~geometor.model.Model`
+   instances while honoring the full PHOTON Publish interactive SVG contract:
+
+   * Root ``<svg class="euclid-graphic" data-graphic-id="...">``
+   * Canonical ``#elements -> #graphics, #highlights, #points, #labels`` layer hierarchy
+   * 3-vertex midpoint ``<path d="M x1 y1 L mx my L x2 y2">`` geometry for all lines and segments
+   * Canonical ``data-ref`` and ``data-aliases`` attributes for ``:g:`` hover/click wiring
+   * Automatic ``@media (prefers-color-scheme: dark)`` palette adaptation
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.petersen.render.EMBEDDED_SVG_STYLE
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.petersen.render.render_svg_string
+   geometor.petersen.render.export_svg
+
+
+Module Contents
+---------------
+
+.. py:data:: EMBEDDED_SVG_STYLE
+   :type:  str
+   :value: ''
+
+
+.. py:function:: render_svg_string(model: geometor.model.Model, *, graphic_id: str = 'petersen-fig', title: str = 'Petersen Constructive Geometry Figure', width: int = 680, height: int = 440, margin: float = 40.0, bbox: tuple[float, float, float, float] | None = None, focus_points: collections.abc.Sequence[sympy.geometry.Point2D] | None = None, include_guides: bool = False, show_labels: bool = True, hide_aux_labels: bool = True, label_overrides: dict[str, tuple[str, str]] | None = None) -> str
+
+   Render ``model`` as a theme-adaptive ``.euclid-graphic`` SVG string.
+
+
+.. py:function:: export_svg(model: geometor.model.Model, output_path: str | pathlib.Path, *, graphic_id: str = 'petersen-fig', title: str = 'Petersen Constructive Geometry Figure', width: int = 680, height: int = 440, margin: float = 40.0, bbox: tuple[float, float, float, float] | None = None, focus_points: collections.abc.Sequence[sympy.geometry.Point2D] | None = None, include_guides: bool = False, show_labels: bool = True, hide_aux_labels: bool = True, label_overrides: dict[str, tuple[str, str]] | None = None) -> pathlib.Path
+
+   Write a ``.euclid-graphic`` SVG rendering of ``model`` to ``output_path``.
+
+
