@@ -1,8 +1,8 @@
 :navigation: header
 :order: 10
+:nav_title: Mission
 
-=======
-mission
+Mission
 =======
 
 ``geometor.petersen`` establishes a rigorous Digital Scriptorium Book Codex and exact symbolic pattern library for **Julius Petersen's** *Methods and Theories for the Solution of Problems of Geometrical Constructions, Applied to 410 Problems* (1866 / 1879) as the methodological and heuristic bridge of the **GEOMETOR** constructive canon.

@@ -1,11 +1,12 @@
-:layout: book
+:navigation: footer
+:nav_title: Glossary
 
 .. _glossary:
 
-Technical Glossary of Constructive Geometry
-===========================================
+Glossary
+========
 
-.. rubric:: Analytical, Locus & Transformational Terminology (*English · Dansk · Classical*)
+.. rubric:: Technical Glossary of Constructive Geometry (*English · Dansk · Classical*)
 
 .. _term-analysis:
 

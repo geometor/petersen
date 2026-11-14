@@ -1,10 +1,10 @@
 :navigation: header
-:order: 20
+:order: 25
+:nav_title: Demos
 
 .. _demos-index:
 
-=====
-demos
+Demos
 =====
 
 .. rubric:: Exact Symbolic ``geometor.model`` Realizations of Petersen's Heuristic Patterns
