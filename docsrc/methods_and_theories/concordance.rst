@@ -1,9 +1,10 @@
-:layout: book
+:navigation: footer
+:nav_title: Concordance
 
 .. _concordance:
 
-Petersen Master Cross-Repository Concordance
-============================================
+Concordance
+===========
 
 .. rubric:: Mapping Julius Petersen's *Methods and Theories* (1866 / 1879) across the GEOMETOR Constructive & Historical Canon
 
@@ -15,7 +16,7 @@ Petersen Master Cross-Repository Concordance
 Primary Editions Aligned
 ------------------------
 
-* **``schonberg_1866``**: *Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver, anvendte paa c. 400 Opgaver* (Copenhagen: Karl Schønbergs Forlag, 1866 — Editio Princeps).
+* **``schonberg_1866``**: *Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver, anvendte paa c. 400 Opgaver* (Copenhagen: Karl Schønbergs Forlag, 1866 — First Danish Edition).
 * **``host_1879_da``**: *Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver, anvendte paa over 400 Opgaver*, 2nd rev. Danish edition (Copenhagen: Andr. Fred. Høst & Søns Forlag, 1879).
 * **``haagensen_1879_en``**: *Methods and Theories for the Solution of Problems of Geometrical Constructions, Applied to 410 Problems*, trans. Sophus Haagensen (Copenhagen: Andr. Fred. Høst & Son; London: Sampson Low, Marston, Searle & Rivington, 1879 — Copy-text of this Book Codex).
 * **``chemin_1880_fr`` / ``fischer_benzon_1879_de``**: Simultaneous French (*Méthodes et théories*, Gauthier-Villars, 1880) and German (*Methoden und Theorien*, Høst, 1879) sister editions.

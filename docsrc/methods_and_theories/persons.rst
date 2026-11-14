@@ -1,46 +1,59 @@
-:layout: book
+:navigation: header
+:order: 5
+:nav_title: People
 
 .. _persons:
 
-Index of Persons
-================
+People
+======
 
-.. rubric:: Prosopographical Registry of Geometers & Algebraists
+.. rubric:: Authors, Translators & Cited Geometers across Methods and Theories
 
-.. _person-euclid:
+Authors, Translators & Editors
+------------------------------
 
-**Euclid of Alexandria** (fl. c. 300 BCE) — *Author of the Elements*
-   Compiler of the thirteen-book Elements, providing the compass-and-straightedge postulates and foundational locus theorems (I.1, I.9–I.12, III.17, III.21, III.31, III.35–36, IV.4–5, VI.2–4) presupposed throughout Petersen's problem canon.
+.. _person-petersen:
 
-.. _person-pappus:
+**Julius Petersen** (1839–1910) — *Danish Mathematician & Founder of Heuristic Construction Theory and Graph Theory*
+   Professor at the Royal Polytechnic School (Polyteknisk Læreanstalt) and the University of Copenhagen, and Member of the Royal Danish Society of Sciences. Author of Methods and Theories (1866/1879), Theorie der algebraischen Gleichungen (1878), and Die Theorie der regulären graphs (1891, introducing the Petersen graph).
 
-**Pappus of Alexandria** (c. 290–350 CE) — *Alexandrian Mathematician — Synagoge Book VII (Treasury of Analysis)*
-   Formulated the classical Greek distinction between analysis (assuming the sought figure drawn) and synthesis in Book VII of his Mathematical Collection, as well as harmonic cross-ratio invariance and the sliding-segment conchoid problem (Petersen Problem 405).
+.. _person-haagensen:
 
-.. _person-hero:
+**Sophus Haagensen** (1842–1921) — *Danish-American Civil Engineer & Translator of the 1879 Authorized English Edition*
+   Graduate of the Royal Polytechnic School in Copenhagen (Cand. Polyt. C. E.) who translated Petersen's Methods and Theories into English for simultaneous publication in Copenhagen and London in 1879.
 
-**Hero of Alexandria** (c. 10–70 CE) — *Geometer & Optician — Catoptrics Reflection Principle*
-   Solved the shortest-path equal-angle reflection problem on a plane mirror by reflecting one endpoint across the mirror line (Petersen's Revolution Around an Axis, Problem 338).
+Cited Geometers, Philosophers & Scholars
+----------------------------------------
 
 .. _person-altshiller-court:
 
 **Nathan Altshiller-Court** (1881–1968) — *Author of College Geometry (1925 / 1952)*
    Adopted Petersen's four-stage construction methodology (Analysis, Construction, Proof, Discussion) and transformation taxonomy directly into 20th-century English-language synthetic geometry instruction.
 
+.. _person-apollonius:
+
+**Apollonius of Perga** (c. 240–190 BCE) — *Hellenistic Geometer — Conics, Plane Loci, and Tangencies*
+   Discoverer of the Circle of Apollonius (Petersen's Locus f: PA : PB = m : n) in Plane Loci Book II and poser of the Problem of Apollonius (constructing a circle tangent to three given circles, Petersen Problem 403).
+
 .. _person-descartes:
 
 **René Descartes** (1596–1650) — *Founder of Analytic Geometry — La Géométrie (1637)*
    Translated straightedge-and-compass intersections into first- and second-degree coordinate equations, establishing the algebraic framework behind Petersen's Appendix on constructibility by square roots.
+
+.. _person-euclid:
+
+**Euclid of Alexandria** (fl. c. 300 BCE) — *Author of the Elements*
+   Compiler of the thirteen-book Elements, providing the compass-and-straightedge postulates and foundational locus theorems (I.1, I.9–I.12, III.17, III.21, III.31, III.35–36, IV.4–5, VI.2–4) presupposed throughout Petersen's problem canon.
 
 .. _person-gergonne:
 
 **Joseph Diez Gergonne** (1771–1859) — *Projective Geometer — Radical-Centre Solution to Apollonius's Problem*
    Published in 1816 the celebrated projective/radical-axis construction of the circles tangent to three given circles, presented by Petersen as 'the simplest and most elegant solution' to Problem 403 (p. 95).
 
-.. _person-haagensen:
+.. _person-hero:
 
-**Sophus Haagensen** (1842–1921) — *Danish-American Civil Engineer & Translator of the 1879 Authorized English Edition*
-   Graduate of the Royal Polytechnic School in Copenhagen (Cand. Polyt. C. E.) who translated Petersen's Methods and Theories into English for simultaneous publication in Copenhagen and London in 1879.
+**Hero of Alexandria** (c. 10–70 CE) — *Geometer & Optician — Catoptrics Reflection Principle*
+   Solved the shortest-path equal-angle reflection problem on a plane mirror by reflecting one endpoint across the mirror line (Petersen's Revolution Around an Axis, Problem 338).
 
 .. _person-hilbert:
 
@@ -72,25 +85,20 @@ Index of Persons
 **Gaspard Monge** (1746–1818) — *Founder of Descriptive Geometry — Monge's Circle Theorem*
    Proved that the three external centres of similitude of three circles are collinear (Petersen Appendix, Theorem 11, pp. 92–93).
 
-.. _person-apollonius:
+.. _person-pappus:
 
-**Apollonius of Perga** (c. 240–190 BCE) — *Hellenistic Geometer — Conics, Plane Loci, and Tangencies*
-   Discoverer of the Circle of Apollonius (Petersen's Locus f: PA : PB = m : n) in Plane Loci Book II and poser of the Problem of Apollonius (constructing a circle tangent to three given circles, Petersen Problem 403).
-
-.. _person-petersen:
-
-**Julius Petersen** (1839–1910) — *Danish Mathematician & Founder of Heuristic Construction Theory and Graph Theory*
-   Professor at the Royal Polytechnic School (Polyteknisk Læreanstalt) and the University of Copenhagen, and Member of the Royal Danish Society of Sciences. Author of Methods and Theories (1866/1879), Theorie der algebraischen Gleichungen (1878), and Die Theorie der regulären graphs (1891, introducing the Petersen graph).
-
-.. _person-pothenot:
-
-**Laurent Pothenot** (1650–1732) — *French Mathematician & Geodesist*
-   Published in 1692 the three-point resection problem (Snellius–Pothenot problem, solved by intersecting two subtended-angle circular arcs, Petersen Problem 19, p. 11, and revisited on the plane table at Problem 396).
+**Pappus of Alexandria** (c. 290–350 CE) — *Alexandrian Mathematician — Synagoge Book VII (Treasury of Analysis)*
+   Formulated the classical Greek distinction between analysis (assuming the sought figure drawn) and synthesis in Book VII of his Mathematical Collection, as well as harmonic cross-ratio invariance and the sliding-segment conchoid problem (Petersen Problem 405).
 
 .. _person-polya:
 
 **George Pólya** (1887–1985) — *Author of How to Solve It (1945) & Mathematical Discovery (1962)*
    Elevated Petersen's 'pattern of two loci' and 'pattern of similar figures' into the foundational exemplars of modern mathematical problem-solving heuristics.
+
+.. _person-pothenot:
+
+**Laurent Pothenot** (1650–1732) — *French Mathematician & Geodesist*
+   Published in 1692 the three-point resection problem (Snellius–Pothenot problem, solved by intersecting two subtended-angle circular arcs, Petersen Problem 19, p. 11, and revisited on the plane table at Problem 396).
 
 .. _person-schroeter:
 

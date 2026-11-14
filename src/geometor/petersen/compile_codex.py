@@ -175,18 +175,29 @@ def _render_codex_index(specs: tuple[UnitSpec, ...]) -> str:
     en_toc_text = "\n".join(en_toc)
     sum_toc_text = "\n".join(sum_notes_toc)
 
-    return f""":layout: book
+    return f""":navigation: header
+:order: 1
+:nav_title: Methods and Theories
+:layout: book
+:book_title: Methods and Theories for Geometrical Constructions
+:book_subtitle: Julius Petersen (1866 / tr. Sophus Haagensen, 1879)
+:author: Julius Petersen
+:year: 1879
 
 .. _methods-and-theories-index:
 
-METHODS AND THEORIES FOR GEOMETRICAL CONSTRUCTIONS
+Methods and Theories for Geometrical Constructions
 ==================================================
 
-.. rubric:: *Applied to 410 Problems* — Julius Petersen (1866 / 1879)
+.. rubric:: Applied to 410 Problems — Julius Petersen (1866 / 1879)
 
-| **Editio Princeps (Dansk, 1866):** *Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver, anvendte paa c. 400 Opgaver*, Karl Schønbergs Forlag, Kjøbenhavn, 1866 (2nd rev. ed., Andr. Fred. Høst & Søns Forlag, 1879).
-| **Authorized English Edition (1879):** Translated by *Sophus Haagensen*, Cand. Polyt. C. E., Andr. Fred. Høst & Son, Copenhagen / Sampson Low, Marston, Searle & Rivington, London, 1879 (100% Public Domain).
-| **Digital Critical Codex:** Synchronized 3-track edition (*English 1879 · Summary · Notes*) curated within the GEOMETOR canon.
+.. container:: title-page
+
+   | **Author:** :person:`Julius Petersen <petersen>` (1839–1910)
+   | **Translator:** :person:`Sophus Haagensen <haagensen>` (Cand. Polyt. C.E., 1879)
+   | **First Danish Edition (1866):** *Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver*, Karl Schønbergs Forlag, Kjøbenhavn, 1866 (2nd rev. ed., Andr. Fred. Høst & Søns Forlag, 1879)
+   | **Authorized English Edition (1879):** Andr. Fred. Høst & Son, Copenhagen / Sampson Low, Marston, Searle & Rivington, London, 1879 (Public Domain)
+   | **GEOMETOR Digital Edition:** Synchronized 3-track edition (*English 1879 · Summary · Notes*) curated within the GEOMETOR canon
 
 .. epigraph::
 
@@ -196,19 +207,23 @@ METHODS AND THEORIES FOR GEOMETRICAL CONSTRUCTIONS
 
 ----
 
-Conspectus Totius Operis (7 Thematic Units)
--------------------------------------------
+.. _table-of-contents:
+
+Table of Contents
+-----------------
 
 {conspectus_text}
 
 ----
 
-Apparatus Criticus & Cross-Repository Indices
----------------------------------------------
+.. _scholarly-apparatus:
+
+Scholarly Apparatus
+-------------------
 
 * :ref:`Petersen Master Cross-Repository Concordance <concordance>` — Mapping Petersen's heuristic loci, transformations, circle systems, and constructibility criteria across ``geometor/altshiller-court``, ``geometor/euclid``, ``geometor/elements``, ``geometor/hilbert``, ``geometor/pappus``, ``geometor/lemoine``, and ``geometor/etc``.
 * :ref:`Systematic Bibliography <bibliography>` — Primary Danish/English/French/German editions, classical treatises, and modern heuristic descendants.
-* :ref:`Prosopographical Index of Persons <persons>` — Ancient and modern geometers cited across the 410 problems and commentary.
+* :ref:`People <persons>` — Ancient and modern geometers cited across the 410 problems and commentary.
 * :ref:`Technical Glossary of Constructive Geometry <glossary>` — Bilingual Danish/English/Greek analytical and transformational vocabulary.
 
 .. toctree::
@@ -228,7 +243,7 @@ Apparatus Criticus & Cross-Repository Indices
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Critical Apparatus
+   :caption: Scholarly Apparatus
 
    concordance
    bibliography
@@ -353,12 +368,13 @@ def _render_concordance_page(apparatus: PetersenApparatus, workspace_root: Path)
 
     rows_txt = "\n".join(rows)
     details_txt = "\n\n".join(detail_blocks)
-    return f""":layout: book
+    return f""":navigation: footer
+:nav_title: Concordance
 
 .. _concordance:
 
-Petersen Master Cross-Repository Concordance
-============================================
+Concordance
+===========
 
 .. rubric:: Mapping Julius Petersen's *Methods and Theories* (1866 / 1879) across the GEOMETOR Constructive & Historical Canon
 
@@ -370,7 +386,7 @@ Petersen Master Cross-Repository Concordance
 Primary Editions Aligned
 ------------------------
 
-* **``schonberg_1866``**: *Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver, anvendte paa c. 400 Opgaver* (Copenhagen: Karl Schønbergs Forlag, 1866 — Editio Princeps).
+* **``schonberg_1866``**: *Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver, anvendte paa c. 400 Opgaver* (Copenhagen: Karl Schønbergs Forlag, 1866 — First Danish Edition).
 * **``host_1879_da``**: *Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver, anvendte paa over 400 Opgaver*, 2nd rev. Danish edition (Copenhagen: Andr. Fred. Høst & Søns Forlag, 1879).
 * **``haagensen_1879_en``**: *Methods and Theories for the Solution of Problems of Geometrical Constructions, Applied to 410 Problems*, trans. Sophus Haagensen (Copenhagen: Andr. Fred. Høst & Son; London: Sampson Low, Marston, Searle & Rivington, 1879 — Copy-text of this Book Codex).
 * **``chemin_1880_fr`` / ``fischer_benzon_1879_de``**: Simultaneous French (*Méthodes et théories*, Gauthier-Villars, 1880) and German (*Methoden und Theorien*, Høst, 1879) sister editions.
@@ -396,26 +412,53 @@ Detailed Concordance Entries
 
 
 def _render_persons_page(apparatus: PetersenApparatus) -> str:
-    blocks: list[str] = []
+    author_keys = ("petersen", "haagensen")
+    author_blocks: list[str] = []
+    for key in author_keys:
+        if key in apparatus.persons:
+            p = apparatus.persons[key]
+            slug = apparatus_slug(key)
+            author_blocks.append(
+                f".. _person-{slug}:\n\n"
+                f"**{p['name']}** ({p['dates']}) — *{p['role']}*\n"
+                f"   {p['summary']}"
+            )
+
+    cited_blocks: list[str] = []
     for key in sorted(apparatus.persons, key=lambda k: apparatus.persons[k]["name"].split()[-1]):
+        if key in author_keys:
+            continue
         p = apparatus.persons[key]
         slug = apparatus_slug(key)
-        blocks.append(
+        cited_blocks.append(
             f".. _person-{slug}:\n\n"
             f"**{p['name']}** ({p['dates']}) — *{p['role']}*\n"
             f"   {p['summary']}"
         )
-    body = "\n\n".join(blocks)
-    return f""":layout: book
+
+    authors_txt = "\n\n".join(author_blocks)
+    cited_txt = "\n\n".join(cited_blocks)
+
+    return f""":navigation: header
+:order: 5
+:nav_title: People
 
 .. _persons:
 
-Index of Persons
-================
+People
+======
 
-.. rubric:: Prosopographical Registry of Geometers & Algebraists
+.. rubric:: Authors, Translators & Cited Geometers across Methods and Theories
 
-{body}
+Authors, Translators & Editors
+------------------------------
+
+{authors_txt}
+
+Cited Geometers, Philosophers & Scholars
+----------------------------------------
+
+{cited_txt}
 """
 
 
@@ -435,12 +478,14 @@ def _render_bibliography_page(apparatus: PetersenApparatus) -> str:
             f"   {c['note']}"
         )
     body = "\n\n".join(blocks)
-    return f""":layout: book
+    return f""":navigation: header
+:order: 6
+:nav_title: Bibliography
 
 .. _bibliography:
 
-Systematic Bibliography
-=======================
+Bibliography
+============
 
 .. rubric:: Primary Editions, Classical Sources & Heuristic Descendants
 
@@ -461,14 +506,15 @@ def _render_glossary_page(apparatus: PetersenApparatus) -> str:
             f"   {g['definition']}"
         )
     body = "\n\n".join(blocks)
-    return f""":layout: book
+    return f""":navigation: footer
+:nav_title: Glossary
 
 .. _glossary:
 
-Technical Glossary of Constructive Geometry
-===========================================
+Glossary
+========
 
-.. rubric:: Analytical, Locus & Transformational Terminology (*English · Dansk · Classical*)
+.. rubric:: Technical Glossary of Constructive Geometry (*English · Dansk · Classical*)
 
 {body}
 """

@@ -1,15 +1,26 @@
+:navigation: header
+:order: 1
+:nav_title: Methods and Theories
 :layout: book
+:book_title: Methods and Theories for Geometrical Constructions
+:book_subtitle: Julius Petersen (1866 / tr. Sophus Haagensen, 1879)
+:author: Julius Petersen
+:year: 1879
 
 .. _methods-and-theories-index:
 
-METHODS AND THEORIES FOR GEOMETRICAL CONSTRUCTIONS
+Methods and Theories for Geometrical Constructions
 ==================================================
 
-.. rubric:: *Applied to 410 Problems* — Julius Petersen (1866 / 1879)
+.. rubric:: Applied to 410 Problems — Julius Petersen (1866 / 1879)
 
-| **Editio Princeps (Dansk, 1866):** *Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver, anvendte paa c. 400 Opgaver*, Karl Schønbergs Forlag, Kjøbenhavn, 1866 (2nd rev. ed., Andr. Fred. Høst & Søns Forlag, 1879).
-| **Authorized English Edition (1879):** Translated by *Sophus Haagensen*, Cand. Polyt. C. E., Andr. Fred. Høst & Son, Copenhagen / Sampson Low, Marston, Searle & Rivington, London, 1879 (100% Public Domain).
-| **Digital Critical Codex:** Synchronized 3-track edition (*English 1879 · Summary · Notes*) curated within the GEOMETOR canon.
+.. container:: title-page
+
+   | **Author:** :person:`Julius Petersen <petersen>` (1839–1910)
+   | **Translator:** :person:`Sophus Haagensen <haagensen>` (Cand. Polyt. C.E., 1879)
+   | **First Danish Edition (1866):** *Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver*, Karl Schønbergs Forlag, Kjøbenhavn, 1866 (2nd rev. ed., Andr. Fred. Høst & Søns Forlag, 1879)
+   | **Authorized English Edition (1879):** Andr. Fred. Høst & Son, Copenhagen / Sampson Low, Marston, Searle & Rivington, London, 1879 (Public Domain)
+   | **GEOMETOR Digital Edition:** Synchronized 3-track edition (*English 1879 · Summary · Notes*) curated within the GEOMETOR canon
 
 .. epigraph::
 
@@ -19,8 +30,10 @@ METHODS AND THEORIES FOR GEOMETRICAL CONSTRUCTIONS
 
 ----
 
-Conspectus Totius Operis (7 Thematic Units)
--------------------------------------------
+.. _table-of-contents:
+
+Table of Contents
+-----------------
 
 **Unit I: Preface & The Anatomy of a Geometric Construction** (*Forord og Indledning — Analyse, Konstruktion, Bevis og Diskussion* — pp. 1–6 (with Problem 42, p. 15); Foundations & Problem 42)
    :ref:`English (1879) <petersen-unit-01-anatomy-of-construction-en>` · :ref:`Summary <petersen-unit-01-anatomy-of-construction-summary>` · :ref:`Notes <petersen-unit-01-anatomy-of-construction-notes>`
@@ -45,12 +58,14 @@ Conspectus Totius Operis (7 Thematic Units)
 
 ----
 
-Apparatus Criticus & Cross-Repository Indices
----------------------------------------------
+.. _scholarly-apparatus:
+
+Scholarly Apparatus
+-------------------
 
 * :ref:`Petersen Master Cross-Repository Concordance <concordance>` — Mapping Petersen's heuristic loci, transformations, circle systems, and constructibility criteria across ``geometor/altshiller-court``, ``geometor/euclid``, ``geometor/elements``, ``geometor/hilbert``, ``geometor/pappus``, ``geometor/lemoine``, and ``geometor/etc``.
 * :ref:`Systematic Bibliography <bibliography>` — Primary Danish/English/French/German editions, classical treatises, and modern heuristic descendants.
-* :ref:`Prosopographical Index of Persons <persons>` — Ancient and modern geometers cited across the 410 problems and commentary.
+* :ref:`People <persons>` — Ancient and modern geometers cited across the 410 problems and commentary.
 * :ref:`Technical Glossary of Constructive Geometry <glossary>` — Bilingual Danish/English/Greek analytical and transformational vocabulary.
 
 .. toctree::
@@ -89,7 +104,7 @@ Apparatus Criticus & Cross-Repository Indices
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Critical Apparatus
+   :caption: Scholarly Apparatus
 
    concordance
    bibliography
