@@ -28,7 +28,6 @@ Petersen's landmark treatise systematizing how geometric constructions are *disc
 Context & Architecture
 ----------------------
 
-* :doc:`Mission & Heuristic Vision <mission/index>`
 * :doc:`Reader's Guide & Platform Usage <usage/index>`
 * :doc:`Exact Symbolic Demonstrations Gallery <demos/index>`
 * :doc:`About This Critical Edition & Archival Provenance <about/index>`
@@ -41,3 +40,4 @@ Context & Architecture
 
    methods_and_theories/index
    usage/index
+   about/index
