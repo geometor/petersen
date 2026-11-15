@@ -8,7 +8,7 @@ Solution of Problems of Geometrical Constructions, Applied to 410 Problems*
 
 from __future__ import annotations
 
-__version__ = "0.1.2"
+__version__ = "0.1.3"
 
 from geometor.petersen.compile_codex import build_codex, export_all_figures
 from geometor.petersen.concordance import (

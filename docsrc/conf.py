@@ -37,8 +37,6 @@ copyright = (
 )
 
 html_static_path = ["_static"]
-if not (_REPO_ROOT / "docsrc" / "_static" / "logo.png").is_file():
-    html_logo = None
 
 # Restrict AutoAPI strictly to `src/geometor` and avoid duplicate root index with modules/index.rst
 autoapi_dirs = [str(_REPO_ROOT / "src" / "geometor")]
