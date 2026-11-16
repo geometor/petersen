@@ -1,5 +1,6 @@
 :navigation: header
 :order: 1
+:type: book
 :nav_title: Methods and Theories
 :breadcrumb_title: Methods and Theories
 :layout: book
