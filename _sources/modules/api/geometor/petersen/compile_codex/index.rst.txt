@@ -11,8 +11,8 @@ geometor.petersen.compile_codex
 
    1. Standalone theme-adaptive ``.euclid-graphic`` SVG figures in ``docsrc/_static/figures/``;
    2. Root ``resources/{persons,citations,glossary}.json`` mirrors for ``photon_platform.publish``;
-   3. Synchronized 3-track Book Codex units (``<slug>-en.rst``, ``<slug>-summary.rst``,
-      ``<slug>-notes.rst``) and scholarly apparatus pages in ``docsrc/methods_and_theories/``.
+   3. Synchronized 3-track Book Codex canonical chapters and sections (``index.rst``,
+      ``summary.rst``, ``notes.rst``) and scholarly apparatus pages in ``docsrc/methods_and_theories/``.
 
 
 

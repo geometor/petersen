@@ -112,7 +112,7 @@ Module Contents
 
    .. py:method:: by_unit(unit_slug: str) -> list[ConcordanceEntry]
 
-      Return concordance entries belonging to ``unit_slug``.
+      Return concordance entries belonging to ``unit_slug`` (canonical path or legacy slug).
 
 
 

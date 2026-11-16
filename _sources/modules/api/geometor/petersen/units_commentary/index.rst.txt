@@ -7,8 +7,9 @@ geometor.petersen.units_commentary
 
    Structured ``Summary`` and ``Notes`` companion tracks for ``geometor-petersen``.
 
-   Provides ``UNIT_SPECS``, ``UNITS_SUMMARY``, and ``UNITS_NOTES`` for all seven thematic
-   units of the 3-track synchronized Book Codex (`English 1879 · Summary · Notes`).
+   Provides canonical and unit specifications, summaries, and notes for the 3-track
+   synchronized Book Codex (`English 1879 · Summary · Notes`) of Julius Petersen's
+   *Methods and Theories for the Solution of Problems of Geometrical Constructions* (1879).
 
 
 
@@ -17,7 +18,11 @@ Attributes
 
 .. autoapisummary::
 
+   geometor.petersen.units_commentary.CANONICAL_CHAPTERS
+   geometor.petersen.units_commentary.CANONICAL_SECTIONS
    geometor.petersen.units_commentary.UNIT_SPECS
+   geometor.petersen.units_commentary.CANONICAL_SUMMARY
+   geometor.petersen.units_commentary.CANONICAL_NOTES
    geometor.petersen.units_commentary.UNITS_SUMMARY
    geometor.petersen.units_commentary.UNITS_NOTES
 
@@ -27,15 +32,116 @@ Classes
 
 .. autoapisummary::
 
+   geometor.petersen.units_commentary.ChapterSpec
+   geometor.petersen.units_commentary.SectionSpec
    geometor.petersen.units_commentary.UnitSpec
 
 
 Module Contents
 ---------------
 
+.. py:class:: ChapterSpec
+
+   Metadata specification for one canonical Petersen chapter container.
+
+
+   .. py:attribute:: slug
+      :type:  str
+
+
+   .. py:attribute:: order
+      :type:  int
+
+
+   .. py:attribute:: folio
+      :type:  str
+
+
+   .. py:attribute:: title
+      :type:  str
+
+
+   .. py:attribute:: subtitle
+      :type:  str
+
+
+   .. py:attribute:: page_span
+      :type:  str
+
+
+   .. py:attribute:: is_leaf
+      :type:  bool
+
+
+.. py:class:: SectionSpec
+
+   Metadata specification for one canonical Petersen codex section.
+
+
+   .. py:attribute:: chapter
+      :type:  str
+
+
+   .. py:attribute:: section
+      :type:  str | None
+
+
+   .. py:attribute:: rel_path
+      :type:  str
+
+
+   .. py:attribute:: order
+      :type:  int
+
+
+   .. py:attribute:: folio
+      :type:  str
+
+
+   .. py:attribute:: title
+      :type:  str
+
+
+   .. py:attribute:: subtitle
+      :type:  str
+
+
+   .. py:attribute:: page_span
+      :type:  str
+
+
+   .. py:attribute:: problem_span
+      :type:  str
+
+
+   .. py:attribute:: figure_svg
+      :type:  str | None
+      :value: None
+
+
+
+   .. py:attribute:: constructor_name
+      :type:  str | None
+      :value: None
+
+
+
+   .. py:attribute:: legacy_slug
+      :type:  str
+      :value: ''
+
+
+
+   .. py:property:: slug
+      :type: str
+
+
+      Alias returning rel_path for compatibility.
+
+
 .. py:class:: UnitSpec
 
-   Metadata specification for one 3-track Book Codex unit.
+   Legacy metadata specification for one 3-track Book Codex unit.
 
 
    .. py:attribute:: slug
@@ -70,8 +176,20 @@ Module Contents
       :type:  str
 
 
+.. py:data:: CANONICAL_CHAPTERS
+   :type:  tuple[ChapterSpec, ...]
+
+.. py:data:: CANONICAL_SECTIONS
+   :type:  tuple[SectionSpec, ...]
+
 .. py:data:: UNIT_SPECS
    :type:  tuple[UnitSpec, ...]
+
+.. py:data:: CANONICAL_SUMMARY
+   :type:  dict[str, str]
+
+.. py:data:: CANONICAL_NOTES
+   :type:  dict[str, str]
 
 .. py:data:: UNITS_SUMMARY
    :type:  dict[str, str]

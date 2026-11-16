@@ -6,12 +6,32 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Demos &mdash; GEOMETOR • petersen</title>
+
+  <title>Demos — Julius Petersen • GEOMETOR</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="canonical" href="https://geometor.github.io/petersen/demos/" />
+  <meta name="description" content="Every flagship method in Julius Petersen’s Methods and Theories (1866 / 1879) is realized in geometor.petersen.constructions as a 100% exact, float-free SymPy construction using Model(…" />
+  <meta property="og:site_name" content="GEOMETOR" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Demos — Julius Petersen • GEOMETOR" />
+  <meta property="og:description" content="Every flagship method in Julius Petersen’s Methods and Theories (1866 / 1879) is realized in geometor.petersen.constructions as a 100% exact, float-free SymPy construction using Model(…" />
+  <meta property="og:url" content="https://geometor.github.io/petersen/demos/" />
+  <meta property="og:image" content="https://geometor.github.io/petersen/_static/social/banner.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Julius Petersen — GEOMETOR" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Demos — Julius Petersen • GEOMETOR" />
+  <meta name="twitter:description" content="Every flagship method in Julius Petersen’s Methods and Theories (1866 / 1879) is realized in geometor.petersen.constructions as a 100% exact, float-free SymPy construction using Model(…" />
+  <meta name="twitter:image" content="https://geometor.github.io/petersen/_static/social/banner.png" />
+  <meta name="twitter:image:alt" content="Julius Petersen — GEOMETOR" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=99410eb1" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=81e79cc0" />
   <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
@@ -23,14 +43,14 @@
 <body class="book-theme-classical-serif">
   <header>
     <div class="logo">
-      <a href="../index.html">
-        <img src="../_static/logo.png" class="logo" alt="Logo"/>
+      <a href="../index.html" title="Home">
+        <img src="../_static/logo.png" class="logo" alt="GEOMETOR petersen"/>
+        <div class="org-repo">
+          <span class="org">GEOMETOR</span>
+          <span class="sep" aria-hidden="true">&bull;</span>
+          <span class="repo">petersen</span>
+        </div>
       </a>
-      <div class="org-repo">
-        <span class="org">GEOMETOR</span>
-        •
-        <span class="repo">petersen</span>
-      </div>
     </div>
     <nav aria-label="Header">
       <input type="checkbox" id="nav-Header-toggle" >
@@ -40,10 +60,13 @@
           <a href="../methods_and_theories/index.html"  >Methods and Theories</a>
         </li>
         <li>
-          <a href="../methods_and_theories/persons.html"  >People</a>
+          <a href="../methods_and_theories/concordance.html"  >Concordance</a>
         </li>
         <li>
           <a href="../methods_and_theories/bibliography.html"  >Bibliography</a>
+        </li>
+        <li>
+          <a href="../methods_and_theories/persons.html"  >People</a>
         </li>
         <li>
           <a href="../about/index.html"  >About</a>
@@ -68,20 +91,18 @@
     <article class="book-layout book-reading-pane">
       <header class="book-header">
         <div class="book-header-bar">
-          <div class="book-header-identity">
-            <a class="book-portal-link" href="../index.html" title="Return to Project Portal">&larr; petersen</a>
-            <span class="book-header-sep">/</span>
-            <a class="book-title-link" href="../index.html">GEOMETOR • petersen</a>
-          </div>
+          <nav class="book-breadcrumbs" aria-label="Breadcrumb">
+            <span class="book-crumb-current is-section-root" aria-current="page">Demos</span>
+          </nav>
         </div>
         <div class="book-header-nav">
           <div class="book-nav-prev">
-            <a class="book-nav-btn" href="../about/index.html" title="About">&larr; <span class="nav-label">Prev</span></a>
+            <a class="book-nav-btn" href="../methods_and_theories/glossary.html" title="Glossary">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
           </div>
           <div class="book-nav-next">
-            <a class="book-nav-btn" href="../log/index.html" title="Log"><span class="nav-label">Next</span> &rarr;</a>
+            <a class="book-nav-btn" href="../about/index.html" title="About"><span class="nav-label">Next</span> &rarr;</a>
           </div>
         </div>
       </header>
@@ -104,7 +125,7 @@
         <ul class="simple">
         <li><p><strong>Constructor</strong>: <a class="reference internal" href="../modules/api/geometor/petersen/constructions/index.html#geometor.petersen.constructions.inscribe_square_by_homothety" title="geometor.petersen.constructions.inscribe_square_by_homothety"><code class="xref py py-func docutils literal notranslate"><span class="pre">geometor.petersen.constructions.inscribe_square_by_homothety()</span></code></a></p></li>
         <li><p><strong>Demo Script</strong>: <code class="docutils literal notranslate"><span class="pre">demos/homothety_inscribed_square.py</span></code></p></li>
-        <li><p><strong>Codex Unit</strong>: <a class="reference internal" href="../methods_and_theories/unit-06-method-of-similitude/unit-06-method-of-similitude-en.html#petersen-unit-06-method-of-similitude-en"><span class="std std-ref">Unit VI: Multiplication of Curves &amp; Method of Similitude</span></a></p></li>
+        <li><p><strong>Codex Unit</strong>: <a class="reference internal" href="../methods_and_theories/ch_01_loci/sec_03_similitude/index.html#petersen-unit-06-method-of-similitude-en"><span class="std std-ref">Unit VI: Multiplication of Curves &amp; Method of Similitude</span></a></p></li>
         </ul>
         <img alt="Petersen Problem 155 — Inscribing a Square in a Triangle by Homothety" class="align-center" src="../_images/unit06-homothety-inscribed-square.svg" />
         <p>Suppressing the condition <span class="math notranslate nohighlight">\(F \in BC\)</span> on Heronian <span class="math notranslate nohighlight">\((13, 14, 15)\)</span> triangle <span class="math notranslate nohighlight">\(A = (0, 0)\)</span>, <span class="math notranslate nohighlight">\(B = (14, 0)\)</span>, <span class="math notranslate nohighlight">\(C = (5, 12)\)</span>, prototype square <span class="math notranslate nohighlight">\(D_0 E_0 F_0 C\)</span> of side <span class="math notranslate nohighlight">\(h_c = 12\)</span> yields <span class="math notranslate nohighlight">\(F_0 = (17, 12)\)</span>. Homothetic ray <span class="math notranslate nohighlight">\([A, F_0]\)</span> meets <span class="math notranslate nohighlight">\([B, C]\)</span> at <span class="math notranslate nohighlight">\(F = \left(\frac{119}{13}, \frac{84}{13}\right)\)</span>, producing exact inscribed square <span class="math notranslate nohighlight">\(DEFG\)</span> of rational side <span class="math notranslate nohighlight">\(\frac{84}{13}\)</span> (quadrance <span class="math notranslate nohighlight">\(\frac{7056}{169}\)</span>).</p>
@@ -115,7 +136,7 @@
         <ul class="simple">
         <li><p><strong>Constructor</strong>: <a class="reference internal" href="../modules/api/geometor/petersen/constructions/index.html#geometor.petersen.constructions.equilateral_on_three_parallels" title="geometor.petersen.constructions.equilateral_on_three_parallels"><code class="xref py py-func docutils literal notranslate"><span class="pre">geometor.petersen.constructions.equilateral_on_three_parallels()</span></code></a></p></li>
         <li><p><strong>Demo Script</strong>: <code class="docutils literal notranslate"><span class="pre">demos/rotation_three_parallels.py</span></code></p></li>
-        <li><p><strong>Codex Unit</strong>: <a class="reference internal" href="../methods_and_theories/unit-05-axial-reflection-and-rotation/unit-05-axial-reflection-and-rotation-en.html#petersen-unit-05-axial-reflection-and-rotation-en"><span class="std std-ref">Unit V: Axial Reflection &amp; Theory of Revolution</span></a></p></li>
+        <li><p><strong>Codex Unit</strong>: <a class="reference internal" href="../methods_and_theories/ch_03_rotation/index.html#petersen-unit-05-axial-reflection-and-rotation-en"><span class="std std-ref">Unit V: Axial Reflection &amp; Theory of Revolution</span></a></p></li>
         </ul>
         <img alt="Petersen Problem 349 — Equilateral Triangle Across Three Parallel Lines" class="align-center" src="../_images/unit05-rotation-three-parallels.svg" />
         <p>Taking <span class="math notranslate nohighlight">\(P = (0, 0) \in L_1\)</span> (<span class="math notranslate nohighlight">\(y = 0\)</span>) as <strong>pivot point</strong> with <span class="math notranslate nohighlight">\(v = 60^\circ, f = 1\)</span>, revolving <span class="math notranslate nohighlight">\(L_2\)</span> (<span class="math notranslate nohighlight">\(y = 1\)</span>) by <span class="math notranslate nohighlight">\(+60^\circ\)</span> via <em>Euclid I.1</em> produces <span class="math notranslate nohighlight">\(L'_2: \sqrt{3}\,x - y + 2 = 0\)</span>, meeting <span class="math notranslate nohighlight">\(L_3\)</span> (<span class="math notranslate nohighlight">\(y = 3\)</span>) at <span class="math notranslate nohighlight">\(R = \left(\frac{\sqrt{3}}{3}, 3\right)\)</span> and rotating back to <span class="math notranslate nohighlight">\(Q = \left(\frac{5\sqrt{3}}{3}, 1\right)\)</span> over <span class="math notranslate nohighlight">\(\mathbb{Q}(\sqrt{3})\)</span>, with exact side quadrance <span class="math notranslate nohighlight">\(\frac{28}{3}\)</span> and interior spread <span class="math notranslate nohighlight">\(\frac{3}{4}\)</span>.</p>
@@ -126,7 +147,7 @@
         <ul class="simple">
         <li><p><strong>Constructor</strong>: <a class="reference internal" href="../modules/api/geometor/petersen/constructions/index.html#geometor.petersen.constructions.trapezoid_from_four_sides" title="geometor.petersen.constructions.trapezoid_from_four_sides"><code class="xref py py-func docutils literal notranslate"><span class="pre">geometor.petersen.constructions.trapezoid_from_four_sides()</span></code></a></p></li>
         <li><p><strong>Demo Script</strong>: <code class="docutils literal notranslate"><span class="pre">demos/translation_trapezoid.py</span></code></p></li>
-        <li><p><strong>Codex Unit</strong>: <a class="reference internal" href="../methods_and_theories/unit-04-parallel-translation/unit-04-parallel-translation-en.html#petersen-unit-04-parallel-translation-en"><span class="std std-ref">Unit IV: Parallel Translation &amp; Replacing</span></a></p></li>
+        <li><p><strong>Codex Unit</strong>: <a class="reference internal" href="../methods_and_theories/ch_02_transformation/sec_01_parallel_translation/index.html#petersen-unit-04-parallel-translation-en"><span class="std std-ref">Unit IV: Parallel Translation &amp; Replacing</span></a></p></li>
         </ul>
         <img alt="Petersen Problem 259 — Trapezoid from Four Sides via Parallel Translation" class="align-center" src="../_images/unit04-trapezoid-translation.svg" />
         <p>For <span class="math notranslate nohighlight">\((a, b, c, d) = (19, 5, 13, 15)\)</span>, translating leg <span class="math notranslate nohighlight">\(BC\)</span> parallel to upper base <span class="math notranslate nohighlight">\(CD\)</span> into <span class="math notranslate nohighlight">\(ED\)</span> concentrates all four given lengths into auxiliary triangle <span class="math notranslate nohighlight">\(\triangle AED\)</span> of sides <span class="math notranslate nohighlight">\((14, 13, 15)\)</span>, yielding <span class="math notranslate nohighlight">\(D = (9, 12)\)</span> and <span class="math notranslate nohighlight">\(C = (14, 12)\)</span> on the integer lattice <span class="math notranslate nohighlight">\(\mathbb{Z}^2\)</span>.</p>
@@ -137,7 +158,7 @@
         <ul class="simple">
         <li><p><strong>Constructor</strong>: <a class="reference internal" href="../modules/api/geometor/petersen/constructions/index.html#geometor.petersen.constructions.apollonius_two_loci" title="geometor.petersen.constructions.apollonius_two_loci"><code class="xref py py-func docutils literal notranslate"><span class="pre">geometor.petersen.constructions.apollonius_two_loci()</span></code></a></p></li>
         <li><p><strong>Demo Script</strong>: <code class="docutils literal notranslate"><span class="pre">demos/two_loci_apollonius.py</span></code></p></li>
-        <li><p><strong>Codex Unit</strong>: <a class="reference internal" href="../methods_and_theories/unit-02-loci-of-points/unit-02-loci-of-points-en.html#petersen-unit-02-loci-of-points-en"><span class="std std-ref">Unit II: Loci of Points</span></a></p></li>
+        <li><p><strong>Codex Unit</strong>: <a class="reference internal" href="../methods_and_theories/ch_01_loci/sec_01_loci_of_points/index.html#petersen-unit-02-loci-of-points-en"><span class="std std-ref">Unit II: Loci of Points</span></a></p></li>
         </ul>
         <img alt="Petersen Locus f — Circle of Apollonius &amp; Method of Two Loci" class="align-center" src="../_images/unit02-apollonius-two-loci.svg" />
         <p>Internal and external harmonic division points <span class="math notranslate nohighlight">\(C = (10, 0)\)</span> and <span class="math notranslate nohighlight">\(C_1 = (30, 0)\)</span> of <span class="math notranslate nohighlight">\(A = (0, 0), B = (15, 0)\)</span> in ratio <span class="math notranslate nohighlight">\(2 : 1\)</span> satisfy <span class="math notranslate nohighlight">\(\operatorname{CR}(A, B; C, C_1) = -1\)</span>. Intersecting the Apollonius circle <span class="math notranslate nohighlight">\((M, C)\)</span> (<span class="math notranslate nohighlight">\(M = (20, 0), R = 10\)</span>) with parallel locus <span class="math notranslate nohighlight">\(y = 8\)</span> determines <span class="math notranslate nohighlight">\(P_1 = (14, 8)\)</span> and <span class="math notranslate nohighlight">\(P_2 = (26, 8)\)</span> with <span class="math notranslate nohighlight">\(Q(P_1, A) = 260 = 4 \cdot 65 = 4\,Q(P_1, B)\)</span> and orthogonal bisectors <span class="math notranslate nohighlight">\([P_1, C] \perp [P_1, C_1]\)</span>.</p>
@@ -148,7 +169,7 @@
         <ul class="simple">
         <li><p><strong>Constructor</strong>: <a class="reference internal" href="../modules/api/geometor/petersen/constructions/index.html#geometor.petersen.constructions.tangent_circle_by_inversion" title="geometor.petersen.constructions.tangent_circle_by_inversion"><code class="xref py py-func docutils literal notranslate"><span class="pre">geometor.petersen.constructions.tangent_circle_by_inversion()</span></code></a></p></li>
         <li><p><strong>Demo Script</strong>: <code class="docutils literal notranslate"><span class="pre">demos/inversion_tangent_circle.py</span></code></p></li>
-        <li><p><strong>Codex Unit</strong>: <a class="reference internal" href="../methods_and_theories/unit-07-inversion-and-constructibility/unit-07-inversion-and-constructibility-en.html#petersen-unit-07-inversion-and-constructibility-en"><span class="std std-ref">Unit VII: Inverse Figures, Circle Systems &amp; Constructibility</span></a></p></li>
+        <li><p><strong>Codex Unit</strong>: <a class="reference internal" href="../methods_and_theories/appendix/sec_03_constructibility/index.html#petersen-unit-07-inversion-and-constructibility-en"><span class="std std-ref">Unit VII: Inverse Figures, Circle Systems &amp; Constructibility</span></a></p></li>
         </ul>
         <img alt="Petersen Problem 199 — Tangent Circle to Three Concurrent Circles by Inversion" class="align-center" src="../_images/unit07-inversion-tangent-circle.svg" />
         <p>Inversion in <span class="math notranslate nohighlight">\(\Omega(O, 12)\)</span> transforms concurrent circles <span class="math notranslate nohighlight">\(K_1(-12, 0)\)</span>, <span class="math notranslate nohighlight">\(K_2(0, -9)\)</span>, <span class="math notranslate nohighlight">\(K_3(12, 9)\)</span> through <span class="math notranslate nohighlight">\(O = (0, 0)\)</span> into the <span class="math notranslate nohighlight">\((18, 24, 30)\)</span> right triangle <span class="math notranslate nohighlight">\(V_1 = (12, -8)\)</span>, <span class="math notranslate nohighlight">\(V_2 = (-6, 16)\)</span>, <span class="math notranslate nohighlight">\(V_3 = (-6, -8)\)</span> with incircle <span class="math notranslate nohighlight">\(\omega'(J', 6)\)</span> at <span class="math notranslate nohighlight">\(J' = (0, -2)\)</span>. Inverting contact points <span class="math notranslate nohighlight">\(T'_1, T'_2, T'_3\)</span> back across <span class="math notranslate nohighlight">\(\Omega\)</span> yields <span class="math notranslate nohighlight">\(T_1 = \left(-\frac{108}{5}, -\frac{36}{5}\right)\)</span>, <span class="math notranslate nohighlight">\(T_2 = (0, -18)\)</span>, and <span class="math notranslate nohighlight">\(T_3 = (27, 9)\)</span>, determining exact tangent circle <span class="math notranslate nohighlight">\(\omega\)</span> centered at <span class="math notranslate nohighlight">\(J = (0, 9)\)</span> of radius <span class="math notranslate nohighlight">\(R = 27\)</span>.</p>
@@ -175,13 +196,13 @@
         <div class="book-footer-ornament">&#10086;</div>
         <div class="book-footer-nav">
           <div class="book-nav-prev">
-            <a class="book-nav-btn" href="../about/index.html" title="About">&larr; <span class="nav-label">About</span></a>
+            <a class="book-nav-btn" href="../methods_and_theories/glossary.html" title="Glossary">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
-            <a class="book-toc-link" href="../index.html">GEOMETOR • petersen</a>
+            <a class="book-toc-link" href="../index.html">Julius Petersen</a>
           </div>
           <div class="book-nav-next">
-            <a class="book-nav-btn" href="../log/index.html" title="Log"><span class="nav-label">Log</span> &rarr;</a>
+            <a class="book-nav-btn" href="../about/index.html" title="About"><span class="nav-label">Next</span> &rarr;</a>
           </div>
         </div>
       </footer>
@@ -240,7 +261,6 @@
   <footer>
     <div class="footer-nav">
       <ul>
-        <li><a href="../methods_and_theories/concordance.html"  >Concordance</a></li>
         <li><a href="../methods_and_theories/glossary.html"  >Glossary</a></li>
       </ul>
     </div>

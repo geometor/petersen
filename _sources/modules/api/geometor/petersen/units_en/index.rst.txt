@@ -5,12 +5,12 @@ geometor.petersen.units_en
 
 .. autoapi-nested-parse::
 
-   Optically verified 1879 English edition tracks (`<slug>-en.rst`) for `geometor-petersen`.
+   Optically verified 1879 English edition tracks for `geometor-petersen`.
 
    Transcribed from multimodal visual inspection of Sophus Haagensen's Authorized English
    Edition (*Methods and Theories for the Solution of Problems of Geometrical Constructions,
    Applied to 410 Problems*, Copenhagen: Andr. Fred. Høst & Son / London: Sampson Low,
-   Marston, Searle & Rivington, 1879, pp. 1–102; HathiTrust `uc1.31822009486531`).
+   Marston, Searle & Rivington, 1879; HathiTrust `uc1.31822009486531`).
 
 
 
@@ -19,11 +19,15 @@ Attributes
 
 .. autoapisummary::
 
+   geometor.petersen.units_en.CANONICAL_EN
    geometor.petersen.units_en.UNITS_EN
 
 
 Module Contents
 ---------------
+
+.. py:data:: CANONICAL_EN
+   :type:  dict[str, str]
 
 .. py:data:: UNITS_EN
    :type:  dict[str, str]
