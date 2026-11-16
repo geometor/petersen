@@ -2,13 +2,13 @@
 
 .. container:: author-overline
 
-   the works of
+   semantic digital archive • the works of
 
 ===============
 Julius Petersen
 ===============
 
-The mission of this project is to capture a semantic digital library of the works of :person:`Julius Petersen <petersen>` (1839–1910), the Danish mathematician whose *Methods and Theories for the Solution of Problems of Geometrical Constructions* transformed Euclidean geometry into systematic problem-solving heuristics.
+The works of :person:`Julius Petersen <petersen>` (1839–1910) transformed Euclidean geometry into systematic problem-solving heuristics in his landmark treatise *Methods and Theories for the Solution of Problems of Geometrical Constructions*. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, these foundational texts are liberated from static print bounds into addressable semantic units, calibrated vector diagrams, primary-source folio provenance, and exact symbolic models speaking one shared geometric language.
 
 .. collection::
    :type: book
