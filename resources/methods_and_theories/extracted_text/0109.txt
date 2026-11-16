@@ -1,0 +1,38 @@
+                                              93
+
+           welche a fällt, in zwei Punkten               schneiden,       nämlich in «a und
+           einem anderen Punkte          d.        Man      kennt     nun    alle Seiten      des
+           Dreiecks dbe.
+    393.   Man   soll drei Kreise zeichnen,           wenn        der Punkt        gegeben    ist,
+           von dem aus die Kreise gleich gross erscheinen, ein Punkt
+           auf jeder Kreisperipherie, das Verhältniss zwischen den Radien
+           der Kreise   und    die Winkel,          unter     denen       die Centralen       von
+           dem gegebenen Punkte aus gesehen werden.
+           Man kennt den gemeinschaftlichen Drehungspunkt                              der    drei
+           Kreise,   ihre Drehungsverhältnisse            und     Drehungswinkel.            Des-
+           halb kann man die zwei gegebenen Punkte auf denselben Kreis
+           hinüberdrehen, auf dem der dritte liegt, und dann kennt man
+           drei Punkte dieses Kreises.
+    394.   Gegeben    sind zwei Kreise, welche            sich in A und .D schneiden
+           sowie zwei Punkte P und X; man soll in jedem der Kreise
+           eine Sehne”so ziehen, dass jede von diesen Sehnen durch
+           einen der gegebenen Punkte geht, und dass die beiden Linien,
+           welche die Endpunkte der Sehnen verbinden, durch A gehen.
+           Betrachtet man die beiden Sehnen als ähnliche Figuren, so
+           wird D der Drehungspunkt für diese und für die Kreise.
+           Man kennt den Drehungswinkel und das Drehungsverhältniss
+|          und kann also den einen der gegebenen Punkte auf die Sehne
+           hinüber   drehen,    welche        den     anderen        Punkt        enthält;    nun
+           kennt man    zwei Punkte dieser Sehne.
+|   395.   X ist der Drehungspunkt            für AB        und      CY, wo A, B und            ©
+           gegebene Punkte sind; was für eine Curve beschreibt X, wenn
+           Y eine gegebene Curve durchläuft?
+           Man bringe das Dreieck BAX durch Parallelverschiebung in
+           die Lage B,CX,. Die ähnlichen Dreiecke B,CX, und YCX
+           zeigen dann, dass B,Y und COX, ein constantes Product
+           haben und sich in entgegensetzten Richtungen mit gleicher
+           Winkelgeschwindigkeit drehen. X und Y beschreiben deshalb
+           inverse Curven.
+    396. Ein Feldmesser        kann      drei Punkte            A,    B     und     CE aufdem
+           Felde sehen;    die entsprechenden             Punkte      «, 5 und e sind auf
+           dem Messtisch abgetragen.               Er soll den Punkt auf dem Mess-

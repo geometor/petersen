@@ -1,0 +1,42 @@
+                                                82                               R
+
+selbe bleiben, welchen           von diesen          man     auch betrachten   möge, denn
+die drei Kreismittelpunkte              sind in beiden Fällen homologe Punkte,
+und man       erhält    das Grunddreieck,              wenn     man    drei solche Punkte
+verbindet.         Betrachtet     man     nun        einen     Punkt A    auf dem       einen
+Kreise, so werden diesem die beiden homologen Punkte ZB und C
+auf den beiden anderen Kreisen entsprechen, wenn man den einen,
+d und     c, wenn        man      den anderen          Drehungspunkt        benutzt.      Das
+Grunddreieck kann also, wenn sein einer Eckpunkt auf A fällt, die
+beiden Lagen ABC und Abe einnehmen, und man kann leicht be-
+weisen, dass es keine anderen einnehmen kann.  Löst man nämlich
+allgemein die Aufgabe, das Grunddreieck mit dem einen Eckpunkt
+auf A und mit den beiden anderen auf die beiden Kreise zu legen,
+so erhält man zufolge der oben angegebenen Construction nur zwei
+Lösungen, welche also genau mit den hier auf anderem Wege ge-
+fundenen übereinstimmen müssen.
+     Das      Grunddreieck        kann also nur auf den               drei Kreisen gleiten,
+     indem es homologen Punkten folgt,                        aber dieses kann       auf zwei
+     Arten geschehen.
+             12.     Wenn       ein Polygon,          welches einem gegebenen          ähnlich
+     ist, sich so dreht, dass drei Linien der Figur (welche nicht von
+     demselben Punkte ausgehen) jede einen festen Punkt enthalten,
+     so wird sich auch auf jeder anderen zur Figur gehörigen Linie
+     ein fester Punkt bejinden.
+                                    Die drei Linien AB, BC und CD
+                              mögen beziehungsweise die festen Punkte
+                              M, N und P enthalten; es kommt
+                              dann darauf an zu beweisen, dass eine
+                              vierte Linie DA        auch einen festen
+                              Punkt enthalten muss.       Zunächst ist
+                              ersichtlich, das alle Lagen des Polygons
+                              einen gemeinschaftlichen Drehungspunkt
+                              haben müssen.        Sucht man nämlich
+                              diesen für zwei Lagen des Polygons,
+                              ABCD und A,B,C,D,;,, so muss man
+zufolge 5 einen Kreis construiren, welcher durch die homologen
+         -
+
+
+Punkte B und B, und durch den Durchschnittspunkt M der ho-
+mologen Linien geht; dieser Kreis muss auch durch N gehen, und

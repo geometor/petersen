@@ -1,0 +1,40 @@
+                                                    9
+
+                                          h. Der geometrische                       Ort aller Punkte,
+             p                     für    welche die Quadrate                       der Entfernungen
+      Bl                           von zwei gegebenen Punkten eine constante
+     £B   =                        Diüferenz a? haben, ist eine senkrechte Ge-
+   Be                              rade auf der Verbindungslinie der beiden
+ A    D| "nn                       Punkte.
+      A und D seien die gegebenen Punkte, P einer der gesuchten,
+“PD   sei senkrecht auf AD.                Jeder Punkt             der PD                muss       dann   die
+ verlangte       Eigenschaft   haben,       denn            betrachtet             man       z. B. P,,      so
+ hat man
+                   2           2                2            2                 2                2
+             APR =AD               + PD;                BP        =BD-                   PD,
+                                     -2                 2              2                 2
+                       woraus PAD —             P,A=              BD       —       AD
+und   auf dieselbe Weise
+                               2            2                —2                2
+                     PB—-PA=BD-AD.
+       Zeichnet man ein beliebiges rechtwinkeliges Dreieck, dessen eine
+ Kathete «a ist, und beschreibt man um A und 2 als Mittelpunkte
+ Kreise, deren Radien beziehungsweise gleich der Hypotenuse und
+ der anderen Kathete sind, so geht die gesuchte Linie durch die
+ Schnittpunkte dieser beiden Kreise. Die andere Kathete des recht-
+ winkeligen Dreiecks muss so gross genommen                                werden, dass die Kreise
+ sich schneiden.        Hier wurde vorausgesetzt, dass P von D die grössere
+ Entfernung haben solle.
+       Zusatz 1. Der geometrische Ort aller Punkte, von denen aus
+ man gleich grosse Tangenten an zwei Kreise ziehen kann (welche
+ dieselbe Potenz haben mit Beziehung auf die beiden Kreise), ist eine
+ Gerade, senkrecht auf der Centrale (Radicalaxe, Potenzlinie der Kreise);
+ man sieht nämlich leicht, dass die Punkte solche Entfernungen von
+ den Kreismittelpunkten haben müssen, dass die Differenz der Qua-
+ drate derselben gleich der Differenz der Quadrate der Radien ist.
+ Wenn die Kreise sich schneiden, geht die Potenzlinie durch die
+ Durchschnittspunkte derselben. Die drei Potenzlinien für drei Kreise
+ gehen durch denselben Punkt, das Potenzcentrum (Radicalcentrum).
+ Dadurch bestimmt man leicht einen Punkt der Potenzlinie für 2
+ Kreise, welche sich nicht schneiden; man hat nur nöthig einen be-
+ liebigen Kreis zu zeichnen, der beide schneidet.

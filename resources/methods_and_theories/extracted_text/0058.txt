@@ -1,0 +1,46 @@
+                                             42
+
+217.   In ein gegebenes Viereck ein Parallelogramm                      zu beschreiben,
+       dessen Seiten gegebene Richtungen haben.
+       Nimmt        man     eine     von   den Seiten     des Vierecks    fort,   so be-
+       schreibt die freie Ecke des Parallelogramms eine gerade
+       Linie.
+218.   Durch einen gegebenen Punkt eine Gerade zu ziehen, welche
+       drei gegebene gerade Linien so schneidet, dass die drei Durch-
+       schnittspunkte und der gegebene Punkt harmonisch liegen.
+       Nimmt man eine der gegebenen Geraden fort, so beschreibt
+       der freie Punkt eine gerade Linie durch den Durchschnitts-
+       punkt der beiden anderen gegebenen Geraden.
+219.   Ein Dreieck         zu      construiren    aus   w.,   B   und    dem   Abstande
+       von   C von wu.
+       Man   lege w„ hin und errichte eine Senkrechte                    auf w, in A.
+       Die Aufgabe ist nun auf die vorhergehende reducirt, indem
+       nur der Bogen, welcher / A fasst, an die Stelle der einen
+       gegebenen Geraden getreten ist.
+
+
+
+               B.         Geometrische           Oerter für Linien.
+      Die gerade Linie ist ebenso wie der Punkt dadurch bestimmt,
+dass sie zwei Bedingungen erfüllen soll, und ebenso wie dieser wird
+sie zum Theil durch eine Bedingung bestimmt, da es immer die eine
+oder andere Curve giebt, welche alle Linien, die diese Bedingung
+erfüllen, berühren müssen. Nach Analogie kann man deshalb diese
+Curve den geometrischen Ort für die Linien nennen. In besonderen
+Fällen kann diese Curve ein Punkt werden, so dass also alle Linien
+von der verlangten Eigenschaft durch diesen Punkt gehen.        Mit
+Ausnahme dieses Falles kommen hier nur solche Fälle in Betracht,
+in denen die Curve ein Kreis wird.
+      Sofern man also zwei geometrische Oerter für eine Linie be-
+stimmen kann, ist die Aufgabe auf eine der folgenden zurückge-
+führt:
+1. Eine gerade Linie durch zwei gegebene Punkte zu ziehen.
+2. Von einem gegebenen Punkte eine Tangente an einen Kreis
+      zu ziehen. (16).
+
+                                                                                               N
+                                                                                               ED
+
+
+
+                                                                                           b

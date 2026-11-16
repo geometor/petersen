@@ -1,0 +1,42 @@
+[4
+
+
+                                                    46
+
+              man den umbeschriebenen Kreis des Dreiecks construirt. Ver-
+              längert man nämlich w,, und errichtet eine Senkrechte auf
+              der Mitte von @, so müssen diese Linien sich auf der Mitte
+              des zu a gehörigen Bogens schneiden; hat man diesen Punkt
+              gefunden, so ist der Kreis leicht gezeichnet.
+            . An einen Kreis eine Tangente zu ziehen, deren Abstände von
+              zwei gegebenen Punkten eine gegebene Summe haben.
+              Gegeben ist ein Viereck ABCD; man soll durch dasselbe
+              eine Gerade ziehen, welche gleichen Abstand von A und C,
+              sowie gleichen Abstand von B und D hat.           (Die gleich
+              grossen Abstände mit entgegengesetzten Vorzeichen).
+     235.       In einen gegebenen           Kreis ein Viereck ABCD             zu beschreiben,
+                wenn die Diagonale AC gegeben ist, ferner der Winkel zwi-
+                schen den Diagonalen, und wenn sich zugleich in das gesuchte
+                Viereck ein Kreis beschreiben lassen soll.
+                Man trage die Diagonale AC als Sehne in den Kreis ein;
+                dann kennt man die Richtung von BD und folglich auch die
+                Mitten der zu BD gehörigen Bogen. Die Linien, welche die
+                Winkel      A     und    C halbiren,       lassen   sich     dann     ziehen    und
+                müssen sich in dem Mittelpunkte des in das Viereck beschrie-
+                benen Kreises schneiden.             Die Linien, welche die Winkel B
+                und D halbiren, müssen              durch diesen und durch die Mitten
+                der zu AC gehörigen Bogen gehen; sie lassen sich                                also
+                jetzt ziehen, und dadurch sind 3 und D bestimmt.
+            .   Ein Quadrat       zu    zeichnen,    dessen    Seiten      einzeln   durch     einen
+                der vier Punkte A, DB, C und D gehen.
+                Ueber      AB   und     CD   als Durchmesser        beschreibe       man     Kreise,
+                welche also geometrische Oerter                für zwei Eckpunkte des
+                Quadrats sind; da die Diagonale                des Quadrats die Winkel
+                halbirt,   muss    dieselbe durch        die Mitten von den          beiden Halb-
+                kreisbogen gehen und lässt sich also sofort ziehen.     Durch
+                diese werden zwei Eckpunkte des Quadrats bestimmt und da-
+                durch leicht die beiden anderen.
+     237.       Ein Viereck zu zeichnen, welches einem gegebenen ähnlich
+                ist, und dessen Seiten einzeln durch vier gegebene Punkte
+                gehen.
+                Diese Aufgabe ist eine leichte Erweiterung der vorhergehenden

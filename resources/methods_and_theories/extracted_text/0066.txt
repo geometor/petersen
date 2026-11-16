@@ -1,0 +1,42 @@
+                                             50
+
+in neue       Lagen     verschiebt,      die den     ursprünglichen             parallel sind.
+Im       Besonderen     wird   sich      diese    Methode         oft    anwenden        lassen,
+wenn man von der Figur zwei Linien und den Winkel,                               welchen sie
+mit einander bilden, kennt, da man,                 wenn      man        die eine Linie so
+verschiebt,     dass ihr einer Endpunkt             mit dem einen Endpunkt                   der
+anderen      zusammenfällt,     ein Dreieck erhält, welches sich sofort con-
+struiren lässt. Bei einem beliebigen Polygon kann man die Stücke
+in der Weise zusammenbringen, dass man alle Seiten derartig ver-
+schiebt, dass sie alle von demselben Punkte ausgehen.   Die Linien
+können in solcher Richtung gezogen werden, dass die Winkel
+welche sie mit einander bilden, gleich den Aussenwinkeln des ur-
+sprünglichen Polygons sind, deren Summe bekanntlich 4 Rechte be-
+trägt.     Verbindet    man    die Endpunkte        der Linien, so erhält man               ein
+neues Polygon, welches oft leichter zu construiren ist als das ur-
+sprüngliche. Die folgenden speciellen Fälle werden dieses genauer
+erläutern.
+                               Das Dreieck.   Durch Verschiebung
+                         bildet man aus dem Dreieck ABC das
+                         Dreieck CODE, AE= AB, ud DB= AG.
+                                  Die Linien,      welche     von A ausgehen,              sind
+                                  dann      die Seiten     des ursprünglichen Drei-
+                                  ecks, und die Winkel                  bei A die Aussen-
+                                  winkel desselben. Da                  DC =2C(0,
+                        sind die Seiten des neuen Dreiecks die
+doppelten Medianen des ursprünglichen, während umgekehrt A der
+Durchschnittspunkt der Medianen des neuen Dreiecks ist.   Da D
+und D       gleiche    Entfernung     von    AC    haben,         so werden       die Höhen
+des Dreiecks ABC auch Höhen der in A zusammenstossenden
+Dreiecke sein. Da die Winkel bei paralleler Verschiebung nicht
+verändert     werden,    werden     alle Winkel,         welche     Seiten,      Höhen     und
+Medianen mit einander bilden, auch in der neuen Figur vorkommen.
+Da A DAC= A ABC, ist der Flächeninhalt von DZC dreimal
+so gross wie der von ADC.     Sobald man A DEC oder eins der
+kleinen Dreiecke zeichnen kann, kann man leicht von diesem auf
+das A ABC zurückkommen.
+
+
+
+
+                                                                        u   a

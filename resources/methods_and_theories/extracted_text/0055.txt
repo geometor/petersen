@@ -1,0 +1,44 @@
+ZN
+
+
+
+
+                                             39
+
+     201.   In einen Kreis ein Dreieck ABC zu beschreiben, so dass jede
+            Seite durch einen gegebenen Punkt (a, 5 und ec) geht.
+            Man verfährt wie ‚in der vorigen Aufgabe, wobei man nur
+            drei Inversionen anstatt vier erhält. Die Folge hiervon ist
+            indessen,    dass PA      und P,A      keine   gerade Linie    bilden,     da
+            die Winkel     mit dem Kreise         entgegengesetzte Vorzeichen        be-
+            kommen. Man         invertire deshalb einen der Punkte, in welchen
+            Pa den Kreis        schneidet, um a, db und c; der dadurch ge-
+            fundene     Punkt     sei @.   Die Linien      aP und     PA   sind dann
+            nach der Inversion übergegangen in QP, und P,A, welche
+            deshalb denselben Winkel mit einander bilden wie die beiden
+            ersten Linien.        Diese Winkel haben dasselbe Vorzeichen             (den
+            Grund     hierfür begreift man    leicht, wenn     mau    den Inversionen
+            folgt; die geraden Linien entsprechen sich paarweise, aber
+            ihre Durchschnittspunkte entsprechen sich nicht), und die vier
+            Linien    begrenzen    deshalb ein Sehnenviereck,        so dass A durch
+            einen Kreis durch ?, P, und den Durchschnittspunkt von
+            aP und P/,Q bestimmt wird.
+            Die Lösung lässt sich leicht auf jedes Polygon von ungerader
+            Seitenzahl ausdehnen.
+
+
+
+                     Geometrische Oerter im Allgemeinen.
+           Ausser den geometrischen Oertern, welche im Vorhergehenden
+     Erwähnung fanden, giebt es viele, welche häufig angewandt werden,
+     deren einzelne Aufführung aber zu weitläufig werden würde.     Man
+     muss deshalb bei jeder Aufgabe, bei welcher die früher erwähnten
+     Oerter sich nicht anwenden lassen, selbst suchen gerade Linien oder
+     Kreise zu finden, welche geometrische Oerter für die Punkte der
+     Figur sind. Eine genau ausgeführte Zeichnung kann hier ein, aller-
+     dings wenig wissenschaftliches, aber sehr practisches Hülfsmittel
+     abgeben.
+           Häufig kommt es vor, dass man, wenn man eine Figur in
+     einer gewissen bestimmten Lage zeichnen soll, dieselbe nach Fort-
+     nahme einer der gestellten Bedingungen in einer zum Theil will-
+     kührlichen Lage zeichnen, und darauf durch paralleles Verschieben

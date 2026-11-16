@@ -1,0 +1,40 @@
+                                               24
+
+           gegebene    Gerade       mit        = und    ziehe   eine Linie    durch    O
+           und den gefundenen Durchschnittspunkt.             :
+118.       Durch den Punkt O innerhalb eines gegebenen Kreises eine
+           Sehne zu ziehen, welche durch den Punkt in zwei Abschnitte
+           getbeilt wird, die sich wie m:n             verhalten.
+           Man   nehme         O als Aebnlichkeitspunkt         und   multiplicire    den
+           Kreis mit —         =; die gesuchten Linien gehen dann nach den
+           Punkten, in denen der neue Kreis den gegebenen schneidet.
+           Liegt der gegebene Punkt ausserhalb des Kreises, so multipli-
+            R            Brick            n
+           cire man mit —          oder —.
+                               n          mM
+
+           Soll der ausserhalb des Kreises liegende Abschnitt sich zu der
+           abgeschnittenen Sehne wie m : n verhalten, so multiplieire
+                   e      Mm         d        m-+n
+           man   mit                            et
+                       m+n          Er
+119.       Durch den einen Durchschnittspunkt © zweier Kreise eine
+           Gerade zu ziehen, von welcher die Kreise gleich grosse Sehnen
+           abschneiden.                           .
+           Man multiplicire den einen Kreis mit — 1, indem man O
+           als Aehnlichkeitspunkt nimmt.
+120.       In ein gegebenes Viereck ein Parallelogramm’ zu beschreiben,
+           dessen Mittelpunkt auf einen gegebenen Punkt fällt.        a
+121.       Ein Dreieck zu construiren           aus a, db und m..                  P
+           Man lege m. = CE hin,                und beschreibe um        C als Mittel-
+           punkt mit den Radien « und db Bogen; einen von diesen mul-
+           tiplicire man mit — 1, indem man Z als Aehnlichkeitspunkt
+           nimmt.      Man könnte auch damit anfangen, eine der gege-
+           benen Seiten hinzulegen; dann müsste man den einen Bogen
+           mit 4 oder den andern mit 2 multipliciren; das letztere ist
+           in der Ausführung leichter, erfordert aber mehr Raum.
+       .   Ein Dreieck zu construiren aus a, A und m..
+           Ueber « beschreibe man den Bogen, welcher Z A fasst. Von
+           B aus schlage man einen Bogen mit dem Radius »n,; diesen
+           multiplicire man mit 2 oder den ersten Kreis mit 4, indem
+           man C als Aehnlichkeitspunkt nimmt.

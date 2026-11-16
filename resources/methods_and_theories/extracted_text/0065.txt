@@ -1,0 +1,31 @@
+                            Zweites Kapitel.
+
+                             Umformung         der Figur.
+         Die Bedingung        für die Anwendbarkeit           der in dem vorher-
+    gehenden Abschnitt         entwickelten Methoden          ist, dass die gege-
+    benen Stücke in der gezeichneten               Figur in einigermassen ein-
+    fachen Verbindungen mit einander               vorkommen, und namentlich,
+    dass sie ziemlich beisammen liegen, da es dadurch oft gelingt, einen
+    grösseren Theil der Figur gleich zu zeichnen, so dass die Aufgabe
+    sich darauf reducirt, einen Punkt oder eine Linie zu bestimmen.
+    Sobald dieses nicht der Fall ist, kann man nicht unmittelbar geo-
+    metrische Oerter anwenden; das Vorhergehende selber führt aber
+    leicht zu dem Princip, welches man dann zu befolgen hat und
+    welches die Grundlage für die nachfolgende Auseinandersetzung
+    bilden soll. Man muss nämlich suchen aus der gezeichneten Figur
+    eine andere zu bilden, in der die gegebenen Stücke so zusammengerückt
+    sind, dass man die Construction ausführen kann.        Ist diese Figur
+    gezeichnet,    so kann    man    in der Regel leicht auf die verlangte Figur
+    zurückgehen.         Die Methoden,    welche    zu    dieser Umformung           dienen
+    können, sind:
+                                A.    Parallelverschiebung,
+                                B.     Umlegung und
+                                C.    Drehung.
+
+
+                           A. Parallelverschiebung.
+         Man      bedient‘ sich dieser Methode um die gegebenen                      Stücke
+    zusammen        zu     rücken,    indem   man        einige   Linien       der    Figur
+                                                                           4
+
+1

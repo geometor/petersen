@@ -1,0 +1,40 @@
+TEE
+                                                6
+
+         Nc.    Der geometrische         Ort für alle Punkte,     welche von zwei ge-
+      gebenen Punkten      dieselbe Entfernung      haben,   ist eine   Gerade,   senk-
+      recht auf der Mitte der       Verbindungslinie der beiden Punkte.
+           d.   Der geometrische Ort für alle Punkte, welche von zwei ge-
+      gebenen   Geraden dieselbe Entfernung haben, wird von zwei auf ein-
+      ander senkrechten Geraden gebildet, welche die Winkel zwischen den
+      gegebenen (Geraden halbiren.
+           e. Der geometrische Ort für alle Punkte, welche so liegen,
+      dass die von ihmen an die Endpunkte einer gegebenen Strecke gezo-
+      genen Geraden einen gegebenen Winkel einschliessen, ist ein Kreis-
+      bogen über der gegebenen Strecke als Sehne.  Man sagt von dem
+      Bogen, dass er den gegebenen Winkel fasse, und von der Sehne,
+      dass sie von den Punkten des Bogens unter dem gegebenen Winkel
+      gesehen werde.
+           Hat ein Punkt des Bogens die verlangte Eigenschaft, so müssen
+      alle dieselbe haben, da alle Winkel Peripheriewinkel auf demselben
+      Bogen werden.     Zieht man eine Gerade, welche den Kreis in dem
+      einen Endpunkte der Sehne berührt, so muss diese mit der Sehne
+      einen Winkel bilden, welcher dem gegebenen gleich ist, da beide
+      durch denselben Bogen gemessen werden. Daraus ergiebt sich fol-
+      gende Construction: Man trage den gegebenen Winkel an die Sehne
+      in dem einen Endpunkte an; dadurch erhält man.eine Tangente;
+      eine Senkrechte auf dieser in dem Berührungspunkt muss durch den
+      Mittelpunkt gehen, der ausserdem auf einer Senkrechten. auf der
+      Mitte der Sehne liegen muss.
+           Der Bogen wird ein Halbkreis, wenn der gegebene Winkel ein
+      Rechter ist.
+           Anmerkung.     Wenn man nicht weiss, auf welcher Seite der
+      gegebenen Linie der gesuchte Punkt liegt, muss man zwei Bogen
+      construiren,     welche   den Winkel      fassen,   einen   auf jeder Seite der
+      Linie.  Die beiden anderen Bogen der beiden Kreise fassen dann
+      den Supplementwinkel des gegebenen Winkels.   Spricht man nicht
+      von dem Winkel        zwischen       zwei Linien, sondern von dem Winkel
+      von einer Linie bis zu einer anderen und nimmt man diesen Winkel
+      mit Vorzeichen, indem man eine der beiden Umlaufsrichtungen
+      als positiv einführt, so wird der geometrische Ort ein Vollkreis.
+      Sind die gegebenen        Punkte    A und D, so wird der Winkel         von der

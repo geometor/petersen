@@ -1,0 +1,39 @@
+                                               71
+
+dem      einen     Eckpunkt      A     eines    Dreiecks        AOa      beschrieben      wird,
+welches sich unter Beibehaltung seiner Form um seinen anderen
+Eckpunkt O dreht, während der dritte Eckpunkt « die gegebene
+Curve %k durchläuft.  Eine Curve um O mit v als Drehungswinkel
+und / als Drehungsverhältniss zu drehen möge heissen: Die Curve
+mit /, mit Beziehung auf O zu multipliciren.
+     2. Jeder Punkt der Ebene kann als dem einen Systeme zu-
+gehörig betrachtet werden und wird dann seinen homologen Punkt
+in dem anderen System haben. Betrachtet man den Drehungspunkt
+auf diese Weise, so wird er sein eigener homologer Punkt (ein sich
+selbst     entsprechender       Punkt)     sein,      und       könnte   auf Grund       dieser
+Eigenschaft auch der Doppelpunkt der Systeme heissen. Man kann
+sich gleichfalls denken,‘ dass die ganze Ebene sich um O so
+dreht, dass einer der Punkte eine gegebene Curve durchläuft; wenn
+dann das ganze System von Punkten in der Ebene während der
+Drehung seine Form behält, muss auch jeder andere von seinen
+Punkten eine Curve beschreiben, welche der gegebenen ähnlich ist.
+      3. Sobald der Drehungspunkt nebst Drehungswinkel und Dre-
+hungsverhältniss bekannt ist, kann man mittelst Zirkel und Lineal
+jedes System von geraden Linien und Kreisbogen drehen.         Ein
+Punkt      a     wird   um   einen     Punkt        O gedreht,        indem    man   Z aOA
+gleich dem Drehungswinkel und OA = f. 0a macht. Eine gerade
+Linie wird gedreht, indem man einen beliebigen Punkt derselben
+dreht und den’ Winkel,            welchen      sie mit der von diesem            Punkte     bis
+zum Drehungspunkte gezogenen Geraden bildet, ebenso gross bleiben
+lässt     wie    vor    der Drehung.        Ein Kreis wird          gedreht,     indem    man
+seinen Mittelpunkt und einen beliebigen Punkt der Peripherie
+dreht.
+      4. Mit Hülfe des oben Entwickelten kann man folgende all-
+gemeine Aufgabe lösen:
+         Ein Dreieck,        welches   einem gegebenen ähnlich ist, so zu legen,
+         dass der eine Eckpunkt auf einen gegebenen Punkt und die
+         beiden anderen auf zwei gegebene Curven fallen.
+         Nimmt man nämlich den gegebenen Punkt als Drahnnespunke
+und dreht man            die eine Curve        um     diesen,     so dass der Drehungs-
+winkel der Winkel des Dreiecks ist, dessen Scheitelpunkt in O liegt,
+und das Drehungsverhältniss das Verhältniss der diesen Winkel ein-

@@ -1,0 +1,40 @@
+                                            7
+
+Linie durch A bis zur Linie durch 2 gleich dem Winkel von der
+Tangente in A bis AD.
+     Zusatz 1. Der geometrische Ort für die Mittelpunkte aller
+durch einen gegebenen Punkt gezogenen Sehnen ist ein Kreis,
+denn die Linien, welche den Mittelpunkt der Sehne mit dem Mittel-
+punkt des Kreises und mit dem gegebenen Punkte verbinden, schliessen
+einen rechten Winkel ein.
+     Zusatz 2. Zeichnet man in einen Kreis Dreiecke ADC mit
+einer gemeinschaftlichen Seite AD und beschreibt in diese Dreiecke
+Kreise, so wird der geometrische Ort für die Mittelpunkte we
+ein Kreisbogen über AD als Sehne, beschrieben von der Mitte des
+Bogens AB; der übrige Theil des Kreises ist der geometrische Ort |
+für die Mittelpunkte der äusseren Berührungskreise.    AB wird|
+nämlich von den gesuchten utelDtnkian aus unter Winkeln ge-
+sehen, die        beziehungsweise        ER. arCC ‚undi          — 3 c sind,   und
+                                                                                     WANT
+                                                                                       PP
+
+welcher gleich           2% — C ist.
+                        IE               f. ‚Der geometrische Ort aller Punkte,
+                  ;               deren Entfernungen von 2 gegebenen Punk-
+          >=     in)              ten in einem gegebenen Verhältniss m:n
+      A         CB            G   stehen, ist eine Kreislinie.
+      A und B seien die gegebenen Punkte, Z einer der gesuchten.
+ Man halbire Z APB und dessen Nebenwinkel durch PC und PC..
+ Dann hat man
+                AC      AC,     m
+                GE TEBG,        13 ee       a
+     Die Punkte C und ©, theilen also die Linie AD innen und
+aussen nach dem gegebenen Verhältniss und bleiben dieselben für
+jedes P. Da die Strecke CC, von P aus unter einem rechten
+Winkel gesehen wird, so muss zufolge e der geometrische Ort für
+P ein Kreis mit dem Durchmesser CC, sein.
+     Man sagt, dass die Punkte C und C©, die AB harmonisch nach
+dem       Verhältniss   m:n   theilen,    und die Aufgabe ist also darauf zu-
+rück geführt
+     Eine gegebene Linie harmonisch nach einem gegebenen                 Verhält-
+niss zu theilen.

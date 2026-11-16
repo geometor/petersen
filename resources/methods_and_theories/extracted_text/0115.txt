@@ -1,0 +1,40 @@
+                                             99
+
+der Kreis die beiden Kreise ungleichartig, so geht die Linie durch
+den inneren Aehnlichkeitspunkt.
+     Bedeutet O den Aehnlichkeitspunkt, so sind die beiden Kreise
+inverse   Curven     mit     O     als    Inversionscentrum,      und     das   Product
+OA. OB ist deshalb constant.
+     11. Die drei äusseren Aehnlichkeitspunkte für je zwei von drei
+Kreisen liegen auf einer geraden Linie.
+       Die Kreise seien A,          B      und    C,   y der Aehnlichkeitspunkt     für
+A und B,           für     A und    ©, a für        B und C. Man ziehe an den
+                                                   Kreis D zwei Tangenten, welche
+                                     den   gemeinschaftlichen Tan-
+                                    genten an A und C parallel‘
+                                     sind und sich in einem Punkte
+                                     P schneiden.    Betrachtet man
+                                    nun die beiden Kreise A und
+                                    B, so sind % und P homologe
+                                    Punkte und liegen also zugleich
+                                    mit dem Aehnlichkeitspunkt 7
+                                    auf einer geraden Linie.    Be-
+trachtet man die Kreise 3 und C, so werden P und £ gleichfalls
+homologe Punkte und liegen also zugleich mit « auf einer geraden
+Linie.    Daraus folgt, dass «, 8 und y auf einer geraden Linie
+liegen.
+      Zusatz 1. Auf dieselbe Weise sieht man, dass eine gerade
+Linie durch zwei von den inneren Aehnlichkeitspunkten durch den
+äusseren Aehnlichkeitspunkt des dritten Kreispaares geht.
+      Zusatz 2. Der Satz gilt auch für drei beliebige Curven, von
+denen je zwei ähnlich gegen einander liegen; man kann nämlich
+zu den drei Curven drei homologe Kreise hinzufügen; der Satz gilt
+dann für die Aehnlichkeitspunkte dieser, und diese werden auch
+die Aehnlichkeitspunkte der Curven.
+
+
+                                         Beispiele.
+397.   Einen Kreis zu zeichnen,              welcher zwei gegebene Kreise be-
+       rührt, so dass die Linie, welche die beiden Berührungspunkte
+       verbindet, durch einen gegebenen Punkt geht.
+                                                                        T7*

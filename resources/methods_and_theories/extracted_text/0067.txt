@@ -1,0 +1,46 @@
+                                           Beispiele.
+         246.   Ein Dreieck aus seinen drei Medianen zu construiren.
+                Man zeichne DEC und bestimme darauf A und B.
+         247.   Ein Dreieck zu construiren aus m., h, und Ay.
+                Man zeichne DOC (55); darauf ziehe man OB                   —=        0A.
+                Ein Dreieck zu construiren aus
+         248.   hu m. und m..
+         249.   hu, m, und he.
+         250.   Au, m, und Me.
+         251.   A, Au und mu.
+         252.   hu m. und he:b.
+         253.   A, hu und m,.
+         254.   Ma, m. und Z (m,, a).
+         25.    ma, hu und hy.
+         256.   hu A, und 2. (mu b).
+         257.   hu, a und £ (mu 6).
+         258.   Au db + e und lv:he
+                                                     Das Viereck. Beim                 Viereck
+                                                 kann man AB und AD                     bis in
+                                                 die Lagen    CD,     und        CD,        ver-
+                                                 schieben;   das gebildete       Parallelo-
+                                           gramm BD,D,D wird dann viele _
+                                            Stücke des Vierecks in einfacher
+         Verbindung mit einander enthalten:
+               Die von € ausgehenden Linien sind die Seiten des Vierecks.
+               Die um € herum liegenden Winkel sind die Winkel des
+         Vierecks.
+                                                                                                   eaa
+                                                                                                   S
+                                                                                                   e
+                                                                                                   1
+                                                                                                   e r
+                                                                                                     2
+               Die Seiten des Parallelogramms sind die Diagonalen des Vier-
+         ecks, und die Winkel    desselben,     die Winkel zwischen    den Diagonalen
+         des Vierecks.
+              Die Winkel zwischen den von C ausgehenden Linien und den
+         Seiten des Parallelogrammes sind die Winkel zwischen den Diago-
+         nalen und Seiten des Vierecks.
+               Der Flächeninhalt des Parallelogrammes ist doppelt so gross
+         wie der des Vierecks.
+                          :                                                 4*
+
+
+
+u   Ba          ae u a               Fra    =   Pe      &               nn       zu

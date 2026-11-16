@@ -49,8 +49,22 @@ class PetersenApparatus:
         return self.entries
 
     def by_unit(self, unit_slug: str) -> list[ConcordanceEntry]:
-        """Return concordance entries belonging to ``unit_slug``."""
-        return [entry for entry in self.entries if entry.unit == unit_slug]
+        """Return concordance entries belonging to ``unit_slug`` (canonical path or legacy slug)."""
+        legacy_map = {
+            "unit-01-anatomy-of-construction": "intro",
+            "unit-02-loci-of-points": "ch_01_loci/sec_01_loci_of_points",
+            "unit-03-loci-of-lines": "ch_01_loci/sec_06_loci_of_lines",
+            "unit-04-parallel-translation": "ch_02_transformation/sec_01_parallel_translation",
+            "unit-05-axial-reflection-and-rotation": "ch_03_rotation",
+            "unit-06-method-of-similitude": "ch_01_loci/sec_03_similitude",
+            "unit-07-inversion-and-constructibility": "appendix/sec_03_constructibility",
+        }
+        target = legacy_map.get(unit_slug, unit_slug)
+        res = [entry for entry in self.entries if entry.unit == unit_slug or entry.unit == target]
+        if not res and unit_slug in legacy_map.values():
+            rev_keys = {k for k, v in legacy_map.items() if v == unit_slug}
+            res = [entry for entry in self.entries if entry.unit in rev_keys]
+        return res
 
 
 def load_apparatus(repo_root: Path | None = None) -> PetersenApparatus:

@@ -1,0 +1,42 @@
+                                           100
+
+398.   Einen Kreis zu zeichnen, welcher zwei gegebene Kreise gleich-
+       artig berührt und eine durch den äusseren Aehnlichkeitspunkt
+       der Kreise gehende gegebene Gerade unter einer gegebenen
+       Sehne schneidet.
+399.   Gegeben     sind    zwei Kreise      A     und D,       sowie    die Punkte    D,
+       E und F; man\soll durch .D einen Kreis                     C so ziehen,       dass
+       die Potenzlinie       für   A und     © durch Z,         und     die Potenzlinie
+       für B und € durch 7 geht.
+400.   In einem Viereck ABCD liegt die Seite AB fest, und die
+       Verhältnisse zwischen den Abschnitten der Diagonalen sind
+                                                                                            el
+                                                                                             n
+       constant;     man    bestimme     den geometrischen            Ort für CD,
+       Die Diagonalen mögen sich in O schneiden, und es sei
+                AOMO Gem           BO ODI PEN:
+       man   nehme an, dass der Punkt O, welcher beliebig ist, eine
+       gewisse Curve Ä durchlaufe.                Multiplicirt man diese mit Be-
+       ziehung     auf A mit Mn                  und mit Beziehung          auf BD mit
+
+       Baur
+         7 7, so erhält man die Curven, welche gleichzeitig von C
+       und .D durchlaufen werden;                dieselben   sind ähnlich    nach dem
+                   pm+n
+       Verhältniss     Bee          9) und        ihr Aehnlichkeitspunkt        ist ein
+       auf der Linie AB belegener Punkt M.       (ll. Zusatz 2). Da
+       nun © und .D homologe Punkte sind, geht die Linie CD
+       durch M, da das Verhältniss MC: MD gleich dem angege-
+       benen ist. Auf dieselbe Weise ist ersichtlich, dass das Ver-
+       hältniss MB         : MA    constant ist, so dass         M ein fester Punkt
+       und also der geometrische Ort für CD wird.
+401,   Einen Kreis zu zeichnen, welcher zwei gegebene                       Kreise be-
+       rührt und durch einen gegebenen Punkt geht.
+       Man kennt die Potenz des Aehnlichkeitspunktes der gege-
+       benen Kreise mit Beziehung auf den gesuchten Kreis. Da-
+       durch lässt sich noch ein Punkt                von    diesem    bestimmen,    und
+       die Aufgabe ist nun auf 238 reducirt.
+402.   Einen Kreis zu zeichnen, welcher durch einen gegebenen                               a
+
+       Punkt geht und eine gegebene Gerade sowie einen gegebenen
+       Kreis berührt.

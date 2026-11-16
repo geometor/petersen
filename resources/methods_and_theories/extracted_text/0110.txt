@@ -1,0 +1,35 @@
+                                                         Bir
+                                                           0 u du AIR
+
+
+
+
+                           94
+
+tisch bestimmen,   der seinem Standpunkte auf dem    Felde   ent-
+spricht.
+Der gesuchte Punkt ist der Drehungspunkt für die Dreiecke
+ABC und abe. Zieht man mit Hülfe des Diopterlineals Linien
+durch a, 5b und ce, welche verlängert beziehungsweise durch
+4A, B und © gehen würden, so bilden diese Linien das so-
+genannte Fehlerdreieck; dieses sei a9, und zwar mögen sich
+die Linien durch a und 5 in y schneiden u.s.w. Die Winkel
+a, % und 7 können bei kleinen Veränderungen in der Stellung
+des Messtisches wegen der grossen Entfernung der Punkte A,
+B und C als constant betrachtet werden. Der gesuchte Punkt
+ist deshalb der Durchschnittspunkt der Kreise ayb und aße.
+Indessen lassen sich diese Kreise nicht gut für die Construction
+verwenden, da sie sich nur schwierig genau zeichnen lassen
+und ihre Mittelpunkte oft ausserhalb des Tischblattes fallen.
+Nimmt man die inversen Figuren der Kreise mit a als Inversions-
+centrum und aß.ay als Inversionspotenz, so geht der gesuchte
+Punkt   über in den Durchschnittspunkt   von zwei geraden,    be-
+ziehungsweise durch £ und y gehenden, Linien, welche mit
+P$r beziehungsweise die Winkel aby und acß bilden.       Die
+Construction ist also folgende:  Man trägt Z AO, = fea
+und ZyßO, =yba ab (die Umlaufsrichtungen der Winkel sind
+hier berücksichtigt) und bestimmt dadurch einen Punkt O..
+Nun wird der Messtisch gedreht, bis O,«a die Visirlinie nach
+A wird; die Dreiecke abe und ABC sind dann ähnlich lie-
+gend, und das Fehlerdreieck wird auf den gesuchten Punkt
+reducirt.

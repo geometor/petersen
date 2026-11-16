@@ -1,0 +1,38 @@
+                                          12
+
+schliessenden   Seiten,     so   wird    die gedrehte   Curve   die   andere    ge-
+gebene Curve in den Punkten schneiden, auf welche der zweite Eck-
+punkt des Dreiecks        fallen kann;     den dritten Eckpunkt       erhält   man,
+wenn man den gegebenen Winkel bei O anträgt.
+      Kennt man statt der Form des Dreiecks den Winkel, dessen
+Scheitelpunkt auf den gegebenen Punkt fällt, und das Produkt der
+diesen Winkel einschliessenden Seiten, so wird die Aufgabe in ähn-
+licher Weise gelöst, indem man nur statt eine Curve zu drehen,
+welche einer der gegebenen ähnlich ist, die inverse Curve derselben
+dreht.
+                                    Beispiele.
+349.   Ein gleichseitiges Dreieck mit den Eckpunkten auf drei Pa-
+       rallelen zu legen.
+       Der eine Eckpunkt kann auf einen beliebigen Punkt der
+       einen Linie gelegt werden; dieser Punkt wird der Drehungs-
+       punkt; v =     60%, f=1.
+350.   Ein gleichseitiges Dreieck mit den Eckpunkten auf drei con-
+       centrische Kreise zu legen.
+351.   In ein Parallelogramm ein gleichschenkeliges Dreieck mit einem
+       gegebenen Winkel zu beschreiben; die Spitze soll auf dem
+       einen Eckpunkt des Parallelogrammes liegen.
+352.   In ein gegebenes Dreieck ein anderes zu beschreiben, welches
+       einem gegebenen ähnlich ist, so dass der eine Eckpunkt auf
+       einen gegebenen Punkt der einen Seite fällt.
+353.   In einen gegebenen Kreisabschnitt ein Dreieck zu beschreiben,
+        welches einem gegebenen ähnlich ist, so dass der eine Eck-
+       punkt auf einen gegebenen Punkt der Sehne fällt.
+354.   In einem gegebenen Kreise eine Sehne zn ziehen, deren
+        Länge in gegebenen Verhältnissen zu den Abständen ihrer
+       Endpunkte von einem gegebenen Punkt steht.
+355.   In ein Parallelogramm ein Rechteck zu beschreiben mit ge-
+       gebenem Winkel zwischen den Diagonalen.
+        Die Mittelpunkte der beiden Parallelogramme müssen zusam-
+        menfallen.
+356.    In ein Parallelogramm einen Rhombus mit gegebenem Ver-
+        hältniss der Diagonalen zu beschreiben.

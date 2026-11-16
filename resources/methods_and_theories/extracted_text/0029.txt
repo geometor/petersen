@@ -1,0 +1,44 @@
+                                                                                                   Te   2
+
+
+
+
+                                              13
+
+ 22.     In    einem   Dreieck     einen     Punkt    zu    bestimmen,          dessen     Ab-
+         stände von den drei Eckpunkten in gegebenen Verhältnissen
+         stehen.  (f).
+ 23.     Durch einen gegebenen Punkt eine gerade Linie so durch einen
+         gegebenen Kreis zu ziehen, dass die Abstände der Durchschnitts-
+         punkte von einer gegebenen Geraden eine gegebene Summe
+         haben.
+         Man      bestimme    den Mittelpunkt der Sehne.                (e Zus. 1 und b).
+ 24.     Einen     Punkt     so zu bestimmen,        dass   die   von     dem    Punkte       an
+         zwei gegebene Kreise gezogenen Tangenten gegebene Längen
+         haben. (a Zus. 1).
+       . Einen Punkt zu bestimmen, von dem aus zwei gegebene Kreise
+         unter gegebenen Winkeln gesehen werden. (a Zus. 2).
+ 26.     In ein gegebenes Dreieck ein gleichschenkeliges Dreieck mit
+         gegebener Höhe zu beschreiben, so dass die Grundlinie der
+         einen Seite parallel wird. (b und e).
+Alle     Einen Kreis zu zeichnen, dessen Mittelpunkt auf einer gege-
+         benen Geraden liegt, und dessen Peripherie gegebene Abstände
+      von zwei gegebenen Geraden hat. (k).
+    . Ein Dreieck zu construiren aus A, w„ und o. (d, b und 16). h
+      Ein einbeschriebenes Viereck aus AB, BC, AC und dem
+      Winkel zwischen den Diagonalen zu construiren. (3 und 1).
+      Einen Punkt zu bestimmen, so dass die von ihm an drei ge-
+      gebene Kreise gezogenen Tangenten gleiche Länge haben. (h
+      Zus. 1).
+ 3l. Ein Dreieck zu construiren aus A, a und 5? + e?. (e und ii).
+         In einem gegebenen Dreieck einen Punkt so zu bestimmen,
+         dass die von ihm nach den Eckpunkten gezogenen Linien das
+         Dreieck in drei inhaltsgleiche Theile theilen.
+         Das Dreieck sei ABC, der gesuchte Punkt 0.                       Sind A AOB
+         und A AOC inhaltsgleich, so muss der geometrische Ort für
+         O eine durch A gehende Gerade sein.    Da die Mediane das
+         Dreieck halbirt, muss die Mitte von DC ein Punkt des geo-
+         metrischen     Ortes sein,    und     dieser ist also die Mediane               selber.
+        ‚Der gesuchte Punkt ist folglich der Durchschnittspunkt der
+         Medianen.
+         In ein gegebenes Dreieck ein anderes mit zwei gegebenen

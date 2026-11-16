@@ -1,0 +1,39 @@
+                                    60
+
+       so erhällt man eine Gerade und einen Kreis als geometrische
+       Oerter für Y.
+310.   Von einem gegebenen Punkte ? ist eine Linie PA nach
+       einem Punkte A auf einer gegebenen Curve gezogen, und
+       von einem anderen gegebenen Punkte Z.die Linie ZB
+       parallel der PA, so dass ZB: PA = min; was wird der
+       geometrische Ort für 3?
+
+
+
+                            B.    Umlegung.
+     Man bedient sich dieser Methode wie der vorhergehenden um
+eine für die Ausführung der Construction bequemere Lage der ge-
+gebenen   Stücke   zu erhalten.   Sie besteht    darin,   dass ein Theil der
+Figur in eine neue Lage gebracht wird, indem man dadurch
+sucht:
+      1) Die gegebenen Stücke zusammen zu bringen.
+311. In einen gegebenen Kreis ein Viereck ABCD zu beschreiben,                  E
+       von dem man die Grösse der beiden gegenüberliegenden
+       Seiten AD und CD und das Verhältniss der beiden anderen
+       Seiten kennt.
+       Legt man das Dreieck ABC so um, dass A auf C und €
+       auf A fällt, so muss A ebenso wie vorher auf der Kreisperi-
+       pherie liegen.   Hierdurch hat man es erreicht, dass die ge-
+       gebenen Stücke auf eine bequeme Weise liegen, da man jetzt
+       zwei aneinanderstossende Seiten und das Verhältniss der beiden
+       anderen kennt; man kann also die beiden gegebenen Seiten
+       gleich abtragen und darauf den vierten Eckpunkt bestim-
+        men.   (229).
+       Jetzt ist es nur nöthig, das Dreieck ADC in seine ursprüng-
+       liche Lage zurück zu bringen.
+312.   Ein Viereck ABCD, in welches sich ein Kreis beschreiben
+       lässt, zu construiren aus AD, AB, Z Dund ZB.
+       Dreht man ADC um die Linie, welehe      Z/ A halbirt, so
+       werden D und C auf D, und C, fallen, und D,C, wird’
+       fortfahren Tangente zu sein. Man kann jetzt das Dreieck
+       construiren,   dessen eine Seite DD,     ist, da man   diese Seite und

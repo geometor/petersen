@@ -1,0 +1,38 @@
+en
+
+                                            26
+
+              eine durch die Endpunkte von zwei parallelen Radien ge-
+              zogene Gerade geht durch den äusseren oder inneren Aehn-
+              lichkeitspunkt, je nachdem die Radien gleich oder entgegen-
+              gesetzt gerichtet sind. Eine Tangente von dem einen Aehn-
+              lichkeitspunkt an den einen Kreis berührt auch den an-
+              deren.
+            . Gegeben sind ein Punkt O und zwei Kreise; man soll an
+             jeden der Kreise eine Tangente        so ziehen,    dass die beiden
+              Tangenten parallel sind nnd dass ihre Abstände von O in
+              einem gegebenen Verhältniss stehen.
+              Durch eine Multiplication des einen Kreises mit Beziehung
+              auf O wird die Aufgabe auf 137 reducirt.
+     139.     Ein Dreieck zu construiren     aus A, m, und      £ (a, m.).
+     140.     Auf einer Kreisperipherie sind die Punkte A und B gegeben;
+              man bestimme auf der Peripherie einen Punkt X, so dass
+              XA und XB einen gegebenen Durchmesser in zwei Punkten
+              Y und      Z schneiden,   deren Abstände   vom     Kreismittelpunkt
+              in einem gegebenen Verhältniss stehen.                                 \
+              Multiplieirt man AX mit Beziehung auf den Kreismittelpunkt,           a
+              so dass Yauf Z fällt, so fällt A auf einen bekannten Punkt
+              A, und 2 A,ZB ist bekannt.
+     14].     Ein Drejeck“zu zeichnen, wenn man die Lage von drei Punkten
+              kennt, welche die drei Seiten nach gegebenen Verhältnissen
+              theilen.
+              ABC sei das gesuchte Dreieck,      D, E und £ die gegebenen
+              Punkte und BD:DA=m:n;               AF: FC = p:g; CE:EB
+              =   r:s.    Nimmt   man   D   als Aehnlichkeitspunkt    und multi-
+              plicirt BD mit — —, so bleibt D liegen, und B fällt auf
+              den unbekannten     Punkt A; multiplieirt man       darauf PA   mit
+              —   = mit Beziehung auf, so,fällt A auf C, und 7) kommt
+              auf einen bekannten Punkt D,; multiplieirt man darauf D,C
+              mit —      — mit Beziehung auf EZ, so fällt C’auf        B und D,
+              auf einen neuen bekannten Punkt D,. Da die Richtung einer
+              Geraden durch Multiplieation nicht verändert wird, muss ZD,

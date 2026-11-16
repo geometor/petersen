@@ -1,0 +1,43 @@
+                                       65
+
+            Man bringe das Dreieck ABY in die Lage BAY,,           so dass
+            Z XAY, der gegebene Winkel ist.
+     334.   Ein Dreieck zu construiren aus A, op und e — b.
+            Nennt man den Mittelpunkt des einbeschriebenen Kreises O,
+            so kennt man von dem Dreieck BOC drei Stücke, nämlich
+            Z. O, die Höhe OF und den Abstand des Punktes 7’ von der
+            Mitte von BC.
+     335.   Ein Dreieck zu construiren au op, c—bund     C—B.
+            Man zeichne dasselbe Dreieck wie bei der vorhergehenden
+            Aufgabe. .
+
+
+                           Drehung um       eine Axe
+     ist nur ein besonderer Fall der Umlegung, aber sie wird so oft
+     angewandt, dass sie verdient besonders hervorgehoben zu werden.
+     Man    sucht durch diese dieselben Vortheile zu erreichen, indem   man
+     einen Theil der Figur sich um eine gerade Linie drehen lässt, so
+     dass die beiden Lagen mit Beziehung auf diese symmetrisch
+     werden.      Hierdurch löst man zum Beispiel leicht die allgemeine
+     Aufgabe:
+     336. ‚Eine gerade Linie, senkrecht auf einer gegebenen, so zu legen,
+          ı dass zwei gegebene Curven von ihr gleiche Stücke abschneiden.
+        “    Dreht man nämlich die eine Curve um die gegebene Linie
+            als Axe, so wird sie die andere in den gesuchten Punkten
+            schneiden.
+     337. Ein Quadrat so zu legen, dass zwei gegenüberliegende Eck-
+            punkte auf eine gegebene Gerade und die beiden anderen auf
+            zwei gegebene Kreisperipherien fallen (336).
+     338. Auf einer gegebenen Geraden einen Punkt X zu bestimmen,
+            dessen Verbindungslinien mit zwei gegebenen Punkten A und
+            B auf derselben Seite der Linie gleiche Winkel mit der ge-
+            gebenen Linie bilden.
+            Dreht man den einen der gegebenen Punkte A um die ge-
+            gebene Gerade bis in die Lage A, so ist BXA, eine gerade
+            Linie.
+            Anmerkung.      Diese Aufgabe kommt oft in der Natur vor, da
+            ein elastischer Körper, welcher gegen eine Ebene gestossen
+                                                               5
+
+
+BR

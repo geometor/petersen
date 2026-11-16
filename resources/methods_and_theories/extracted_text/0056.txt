@@ -1,0 +1,39 @@
+                                      40
+
+     oder durch Drehen um einen gewissen Punkt in die verlangte Lage
+     bringen kann   Die geometrischen Oerter für die Punkte der Figur
+     sind dann beziehungsweise parallele Gerade oder concentrische Kreise.
+
+
+                                  Beispiele.
+     202.   Einen Kreis mit gegebenem Radius zu zeichnen, dessen Mit-
+            telpunkt auf einer gegebenen geraden Linie liegt, und der
+            eine andere gegebene Gerade unter einer Sehne von gegebener
+            Länge schneidet.
+            Man zeichne den Kreis, so dass er an einer beliebigen Stelle
+            von der gegebenen Geraden die gegebene Sehne abschneidet;
+            darauf kann man ihn in die verlangte Lage bringen, indem
+            man den Mittelpunkt eine der gegebenen parallele Gerade
+            beschreiben lässt.
+     203.   Einen Kreis mit gegebenem Radius zu zeichnen, dessen Mit-
+            telpunkt auf einer gegebenen .Kreisperipherie liegt, und der
+            einen anderen Kreis unter einer Sehne von’ gegebener Länge
+            schneidet.
+Te
+     204.   Einen Kreis mit gegebenem Radius zu zeichnen, der durch
+            einen gegebenen Punkt geht und eine gegebene Gerade unter
+            einer gegebenen Sehne schneidet.
+     205.   Ein Dreieck zu zeichnen, welches einem gegebenen Dreieck
+            congruent ist, so dass eine Seite desselben auf eine gege-
+            bene Gerade und die gegenüberliegende Ecke auf eine andere
+            gegebene Gerade fällt.
+     206.   In einen gegebenen Kreisabschnitt ein Dreieck zu beschreiben,
+            welches einem gegebenen Dreieck congruent ist.
+     207.   Einen Kreis mit gegebenem Radius zu zeichnen, welcher zwei
+            gegebene Geraden oder zwei Kreise unter gegebenen Sehnen
+            schneidet.
+     208.   An einen Kreis eine Tangente zu ziehen, von welcher zwei
+            gegebene Parallelen oder zwei gegebene concentrische Kreise
+            ein Stück von gegebener Länge abschneiden.
+     209.    Durch einen Punkt eine Gerade zu ziehen, so dass das Stück
+            derselben, welches zwischen zwei concentrischen Kreisen ab-

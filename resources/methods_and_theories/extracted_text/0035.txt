@@ -1,0 +1,40 @@
+                                             19
+
+               A BDC lässt sich also ohne weiteres construiren, und man             be-
+               stimmt dann A mit Hülfe von e.
+     88. Ein Dreieck zu construiren aus ec, w, und                B—   (.
+               Das Dreieck,    in dem e und w, Seiten     sind,    lässt    sich sofort
+               construiren, da Z (ws. a) = W’ — 1(B — C).
+     89.       Ein Trapez aus den Diagonalen, einer der parallelen Seiten und
+               einem Winkel zu construiren.
+     90. Gegeben ist eine Gerade, auf derselben der Punkt A und ausserhalb
+               derselben der Punkt £.    Man soll auf der gegebenen Geraden
+               einen solchen Punkt X bestimmen, dass AX + XP = m,
+               wo m gegeben ist. (AX ist mit Vorzeichen zu nehmen).
+               Man trage ®n auf der gegebenen Geraden von A aus ab; X
+               lässt sich dann durch e bestimmen.
+N
+     91.       Gegeben sind zwei Punkte A und D, und eine durch BD ge-
+               hende Gerade;   auf dieser Geraden   sollen zwei Punkte      X und     Y
+               in gleicher Entfernung von D so bestimmt werden, dass XY
+               von A aus unter einen gegebenen Winkel gesehen werde.
+               Man verlängere AB bis (C, so dass BC = ADB.
+     92.       Gegeben sind zwei Parallelen, auf der einen ein Punkt A, auf
+               der anderen ein Punkt D, und zwischen           den Parallelen ein
+               Punkt ©.    Man soll durch O eine Gerade        ziehen, welche die
+               Parallelen in X und Y so schneidet, dass AX und BY (mit
+               Vorzeichen genommen) eine gegebene Summe haben.
+               Die Gerade geht durch die Mitte von AC, wenn YÜ — AX,
+    +93.       Ein Dreieck zu construiren aus a, A und, CD .b, worin D
+               den Fusspünkt von h, bedeutet.
+               Der Fusspunkt von 4 lässt sich leicht bestimmen.
+           .   Ein Dreieck zu construiren aus 3, e —         a und der Differenz
+               der beiden Abschnitte, in welche 5 durch     Ah, getheilt wird.
+             Trägt man die gegebenen Differenzen als AD und AZ auf
+             AB und ACab, so ist Z AED bekannt. (BE= BD= BO)
+             Gegeben sind drei Punkte A, B, C und eine durch A gehende
+             Gerade.    Man soll einen Kreis beschreiben, der durch A und
+           - B geht und die gegebene Gerade in einem solchen Punkte D
+             schneidet, dass DC eine Tangente des Kreises ist.
+             £ BDC= 2 BAD, wonach sich D leicht auffinden lässt.
+                                       2                               9%

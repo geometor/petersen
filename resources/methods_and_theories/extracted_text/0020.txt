@@ -1,0 +1,28 @@
+                                             4
+
+wandt      wurde,   lässt   sich    für     die    zusammengesetzteren         erweitern.
+Die Regel würde dann folgende werden:
+     Man denke sich eine von den für die gesuchte Figur gestellten
+Bedingungen als nicht vorhanden und suche geometrische Oerter für
+die Punkte der dann unbestimmten Figur.
+     Man sieht leicht, dass es von der grössten Wichtigkeit ist viele
+geometrische Oerter zu kennen, so weit dieselben gerade Linien
+oder Kreise sind.    Im ersten Kapitel sind daher die wichtigsten
+von diesen zugleich wit einer genaueren Entwicklung der oben an-
+gegebenen Hauptregeln aufgeführt.
+     Falls man nicht unmittelbar geometrische Oerter anwenden
+kann, wird die Hauptregel folgende: Aus der gezeichneten Figur
+bilde man eine andere, in der die Verbindung zwischen den gege-
+benen und den gesuchten Stücken bequemer ist; die genauere Ent-
+wickelung hiervon findet sich im zweiten Kapitel.
+      Der Kürze wegen wird in dem Folgenden ein Dreieck durch
+ABC,       die Länge seiner Seiten           durch     a, b und ce bezeichnet.        Die
+Höhe auf «a heisst A., die nach derselben Seite gezogene Me-
+diane (Schwerpunktstransversale), m.. wa ist die Länge der Linie,
+welche den Z A halbirt.      r und . sind die Radien der um- und
+einbeschriebenen Kreise, während 0, 5 und po. die Radien der
+äusseren     Berührungskreise        sind     (der Kreis    mit Pa berührt        « und
+die Verlängerungen          von    db und c etc).        Wenn    von   einem     Viereck
+ABCD        die Rede ist, so hat man              sich die Eckpunkte in der Reihen-
+folge zu denken, in der sie genannt sind.
+      Z. (a, b) bezeichnet den Winkel zwischen                  zwei Linien @ und b.

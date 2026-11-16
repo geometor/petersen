@@ -1,0 +1,39 @@
+                                         2
+
+        Bei der Auflösung der bestimmten Aufgabe sind anzugeben:
+        Die Ausführung der Construction.
+        Der Beweis für die Richtigkeit derselben.
+     Eine Discussion, d. h. eine Angabe der Grenzen, zwischen
+denen die gegebenen Grössen liegen müssen, damit die Aufgabe
+0, 1. 2 u.s. w. Lösungen erhält.
+     Unter den unbestimmten Aufgaben haben diejenigen ein be-
+sonderes Interesse, bei denen eine hinzugefügte Bedingung die
+Aufgabe bestimmt machen würde.     Obgleich eine solche Aufgabe
+unendlich viele Lösungen hat, wird derselben doch nicht von jeder
+Figur genügt,      sondern     alle ihre Lösungen      gruppiren sich auf eine
+durch     die gegebenen      Bedingungen       bestimmte Weise.           So ist ein
+Punkt bestimmt, sobald er zwei gegebene Bedingungen                   erfüllen soll;
+wird aber nur eine Bedingung gestellt, so wird er unbestimmt, aber
+alle Punkte, welche diese erfüllen, werden auf einer geraden oder
+krummen Linie liegen; diese heisst der geometrische Ort für die
+Punkte, welche diese Bedingung erfüllen. Auf dieselbe Weise geht
+es mit einer Figur, zu deren Bestimmung es an einer Bedingung
+fehlt, indem im Allgemeinen dasselbe mit jedem Punkte der Figur
+der Fall sein wird, so dass jeder von diesen seinen geometrischen
+Ort erhält.
+     Eine vollkommen allgemeine Methode für die Auflösung geo-
+metrischer Aufgaben hat man in der analytischen Geometrie.      Es
+folgt indessen    von   selbst, dass man,       wenn   man     eine   Methode    auf
+die verschiedensten Aufgaben anwenden will, sehr häufig grosse Umwege
+machen muss.       So betrachtet man in der analytischen Geometrie
+den     Abstand   der Punkte     von   einem    Paar   Axen,     welche     im All-
+gemeinen nicht das geringste mit der Aufgabe zu thun haben;
+ausserdem kommt man bei Anwendung dieser Methode leicht dazu
+mechanisch zu rechnen, da man nicht immer der geometrischen
+Bedeutung der erhaltenen Gleichungen folgen kann, und diese werden
+ausserdem, und das ist vielleicht der gewichtigste Einwand, leicht
+so complieirt, dass ihre Auflösung practisch unausführbar wird.
+      In Folge dieser Schwierigkeiten bei der directen Anwendung
+von Descartes’ Geometrie hat man in neuerer Zeit eine Menge
+specieller Methoden (durch verschiedene Coordinatensysteme u. s. W.)
+angegeben, wodurch die Auflösung der einzelnen Aufgabe natürlicher

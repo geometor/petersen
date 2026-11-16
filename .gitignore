@@ -35,4 +35,4 @@ resources/sources/*.pdf
 resources/methods_and_theories/pdfs/*.pdf
 resources/methods_and_theories/sources/*.pdf
 resources/methods_and_theories/scans/
-resources/**/*.png
+

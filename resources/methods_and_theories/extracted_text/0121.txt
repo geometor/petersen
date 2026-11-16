@@ -1,0 +1,39 @@
+                                   105
+
+algebraischen Gleichungen, Kopenhagen, Andr. Fred. Host & Sohn
+1878. Kap. VIL»      Hierin findet man folgende Sätze bewiesen:
+     1. Ausser den Kegelschnitten giebt es keine Curven, deren
+Durchsehnittspunkte mit einer beliebigen geraden Linie durch Zirkel
+und Lineal bestimmt werden können.
+    2. Ausser den Kegelschnitten giebt es keine Curven, an welche
+man mit Hülfe von Zirkel und Lineal. Tangenten von einem belie-
+bigen Punkte ziehen kann.
+      3. Falls man durch Zirkel und Lineal die Durchschnittspunkte
+eines beliebigen Strahls eines Strahlenbüschels und einer Curve, welche
+nicht durch den Scheitel des Strahlenbüschels geht, finden kann, muss
+die Ordnung der Curve eine Potenz von 2 sein, und in dem Büschel
+müssen wenigstens zwei Strahlen vorkommen, von deren Durchschnitts-
+punkten mit der Curve je zwei zusammenfallen.
+     Aus diesen Sätzen lassen      sich neue   durch Transformation   ab-
+leiten, ebenso wie    man auch die Untersuchungen weiter           führen
+kann bis an andere    Liniensysteme als den Strahlenbüschel,       bis an
+Kreissysteme u. s. w.    Hier mag es genügen, in Betreff dieser Er-
+weiterungen auf die erwähnten Schriften zu verweisen, und nur
+folgende anzuführen:
+     4. Es giebt keine anderen Curven als den Kreis und die ge-
+rade Linie, deren Durchschnittspunkte mit einem beliebigen Kreise
+durch Zirkel und Lineal bestimmt werden können.
+     Dieser Satz lässt sich durch Inversion leicht aus dem oben zu-
+erst genannten   Satze ableiten,    da der Kreis   und   die gerade Linie
+die einzigen Curyen sind, welche durch Inversion mit einem be-
+liebigen Inversionscentrum Kegelschnitte geben.
+      Diese Sätze sind in mannigfachen Fällen ausreichend.
+      Man nehme z. B. an, dass bei einer Aufgabe eine Linie ge-
+geben sei, deren Lage ganz willkürlich ist, und dass ein gewisser
+Punkt X der Figur auf diese Linie fallen solle. Sieht man von dieser
+Bedingung ab, so erhält X einen geometrischen Ort, und zufolge
+des ersten der aufgestellten Sätze muss dieser ein Kegelschnitt sein,
+falls sich die Aufgabe mit Zirkel und Lineal lösen lassen soll. Auf
+ähnliche Weise lässt sich der zweite Satz benutzen, wenn die
+Figur einen Punkt enthält, dessen Lage willkürlich ist.
+     Betrachtet man    im Besonderen     den ersten Fall, so sieht man,

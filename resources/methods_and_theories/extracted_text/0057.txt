@@ -1,0 +1,39 @@
+                                   41
+
+       geschnitten wird, von dem Mittelpunkt       dieser aus unter einem
+      gegebenen Wifikel gesehen wird.
+210. Gegeben sind zwei Kreise; man soll einen solchen Punkt be-
+      stimmen, dass die von ihm an die beiden Kreise gezogenen
+      Tangenten einen gegebenen Winkel einschliessen, und die eine
+    . eine gegebene Länge hat.
+      Man zeichne die Tangente, deren Länge gegeben ist, so dass
+      sie den einen Kreis in einem beliebigen Punkte berührt und
+      trage an dem Endpunkt derselben den gegebenen Winkel an;
+      dann drehe man den anderen Kreis um den Mittelpunkt des
+      ersten, bis er die soeben gezogene Linie berührt, und führe ihn
+      dann nebst der Tangente in seine frühere Stellung zurück.
+211. Einen Kreis zu zeichnen, welcher zwei gegebene Parallelen
+      berührt und durch einen gegebenen Punkt geht.
+212. Durch einen gegebenen Punkt eine Gerade zu ziehen, von
+      welcher zwei gegebene Paare von Parallelen gleich grosse Stücke
+      abschneiden.
+      Die Linie muss der Diagonale des Parallelogrammes parallel
+      sein, welches von den beiden Paaren von Parallelen gebildet
+      wird.
+213. Zwei Kreise mit gegebenen Radien zu zeichnen, so dass der
+      eine eine Gerade unter einer gegebenen Sehne, der andere eine
+      zweite Gerade unter einer anderen gegebenen Sehne schneidet;
+      zugleich sollen die Kreise sich berühren und die an den Be-
+      rührungspunkt gezogene gemeinsame Tangente eine gege-
+      bene Richtung haben.
+214. In einen gegebenen Kreis ein Dreieck mit gegebener Seite zu
+       beschreiben,   so dass   die zu   dieser   Seite   gehörige   Mediane
+       durch einen gegebenen Punkt geht und eine gegebene Länge
+       hat.
+215.   In einen gegebenen Kreis ein Dreieck zu beschreiben, von
+       dem eine Seite und die zu einer der anderen Seiten gehörige
+       Mediane gegeben ist, wenn zugleich der Durchschnittspunkt
+       der Medianen auf einen gegebenen Durchmesser fallen soll.
+216.   In einem gegebenen Kreise soll man eine Sehne von gege-
+       bener Länge ziehen, so dass sie von einem gegebenen Durch-
+       messer nach gegebenem Verhältniss getheilt werde.

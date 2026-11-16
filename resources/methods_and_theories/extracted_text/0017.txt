@@ -1,0 +1,36 @@
+                                                        =
+                                                        #2
+
+
+
+
+                                Einleitung.
+
+Die Sätze        der Geometrie       treten     in zwiefacher      Form        auf,   indem   ı!
+sie entweder ausdrücken, dass eine Figur, welche auf eine gewisse
+vorgeschriebene Art gezeichnet ist, gewissen Bedingungen genügt,
+oder indem sie fordern, dass eine Figur in solcher Weise ge-
+zeichnet (construirt) werden soll, dass sie gewisse gegebene Be-
+dingungen erfüllt.   Im ersten Falle hat man den Lehrsatz, im
+zweiten die Constructionsaufgabe.
+      Bei der Auflösung von Constructionsaufgaben muss man, da
+dieselbe durch Zeichnen ausgeführt wird, einige Apparate anwenden;
+dem     Herkommen           gemäss   bedient    man     sich nur des Lineals,           mit
+Hülfe       dessen    man    eine gerade Linie        durch    zwei gegebene Punkte
+ziehen kann,          und   des Zirkels,      mittelst dessen man         um     einen ge-         e
+
+gebenen Mittelpunkt mit gegebenem Radius einen Kreis beschreiben                                   T
+kann.     Irgend eine beliebige Auflösung wird deshalb aus diesen
+beiden Operationen zusammengesetzt sein.
+      Diese Einschränkung bringt es mit sich, dass viele anscheinend
+sogar einfache Aufgaben sich’ nicht lösen lassen (die Dreitheilung
+des Winkels, Quadratur des Kreises u. s. w.); allgemein lässt sich
+nachweisen, dass dies der Fall mit solchen Aufgaben ist, deren
+Berechnung auf Gleichungen führt, die sich nicht auf den ersten
+oder zweiten Grad reduciren lassen.
+     Eine Aufgabe ist überbestimmt, wenn mehr Bedingungen
+für die gesuchte Figur gestellt sind, .als für deren Bestimmung
+nothwendig       sind, sie ist bestimmt,              wenn    sie eine endliche,       un-
+bestimmt,            wenn   sie eine unendliche Anzahl von Lösungen hat.
+ x                                                                         1
+      dan

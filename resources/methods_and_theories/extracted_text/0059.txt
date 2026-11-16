@@ -1,0 +1,39 @@
+                                       43
+
+  3.   An zwei Kreise die gemeinschaftlichen Tangenten zu zie-
+      hen. (137).
+       Im Folgenden werden die wichtigsten geometrischen Oerter für
+ Linien angeführt.
+      l. .Der geometrische Ort für alle gleich grossen Sehnen desselben
+ Kreises ist ein dem gegebenen concentrischer Kreis.
+      Man trage die Sehne von gegebener Länge in den Kreis ein
+ und zeichne den concentrischen        Kreis, welcher diese berührt.
+       m. ‚Der geometrische Ort für die Linien, deren Abstände von
+. zwei festen Punkten in einem gegebenen Verhältniss stehen, ist der
+  Punkt, welcher die Verbindungslinie der gegebenen Punkte nach dem
+  gegebenen Verhältniss theilt. Die Abstände sind mit Vorzeichen zu
+  nehmen.
+       n. Der geometrische Ort für die Linien, deren Abstände von
+  zwei gegebenen Punkten eine gegebene Summe haben, ist ein Kreis,
+ dessen Mittelpunkt auf der Mitte der Verbindungslinie der beiden ge-
+ gebenen Punkte liegt.
+       Soll die Differenz der Abstände gleich einer gegebenen Linie
+ sein, so besteht der geometrische Ort aus zwei unendlich fernen
+ Punkten, und die Linien bilden also zwei Systeme von Parallelen.
+ Die Richtung dieser wird durch die Tangenten bestimmt, welche
+ man    von   dem   einen Punkt   an   den Kreis   zieht,   welcher    um   den
+ anderen Punkt als Mittelpunkt mit der gegebenen Linie als Radius
+ beschrieben wird.
+      Anmerkung.   Die Abstände sind hier mit Vorzeichen genom-
+ men.     Wird der Abstand von einem bestimmten der gegebenen
+ Punkte zum Minuendus genommen, so wird der geometrische Ort
+ nur von einem der beiden unendlich fernen Punkte gebildet.
+     0. Zeichnet man in einem Kreise Peripheriewinkel auf demselben
+ Bogen und theilt alle in dieselben beiden Winkel, so wird der geo-
+ metrische Ort für die Theilungslinien der Punkt des Bogens, welchen
+ man erhält, wenn man einen beliebigen der Peripheriewinkel auf die
+ gegebene Weise theilt.
+       p. Zeichnet man durch zwei gegebene Punkte Kreise, welche
+ einen gegebenen Kreis schneiden (oder berühren), so ist der geo-
+ metrische Ort für die gemeinschaftlichen Sehnen ein Punkt auf der
+ Verbindungslinie der gegebenen Punkte.

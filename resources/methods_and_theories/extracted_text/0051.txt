@@ -1,0 +1,39 @@
+BE   ac
+
+
+
+                                                35
+
+          Geraden   einer gegebenen     Curve    X folgt.   Auf der Geraden    be-
+          stimme man einen Punkt A, derartig, dass PA.PA = I we I
+          (die Inversionspotenz) constant ist (positiv oder negativ).     Der
+          Punkt A, wird dann eine Curve X, beschreiben.        Von den Curven
+          KundK, heisst die eine die inverse Curve der anderen (die trans-
+          formirte durch reciproke Radien). A und A, heissen correspondirende
+          Punkte.
+                                        Die inverse Curve einer geraden Linie
+                                    ist ein Kreis durch das Inversionscentrum.
+                                        PB sei senkrecht auf der gegebenen
+                                   Geraden und DB, sei derD correspondirende
+                          "14      Punkt, während A und A, zwei andere
+                                   correspondirende Punkte seien. Aus
+                                 PA.PA, = PB.PB..
+          folgt dann, dass die Dreiecke BPA und A,PB, ähnlich sind, so
+          das Z PA,B, = ER. Der geometrische Ort für 4, ist deshalb
+          ein Kreis mit dem Durchmesser PB,.
+                Geht die gegebene Gerade durch das Inversionscentrum, so ist
+          sie ihre eigene inverse Curve.
+                Durchläuft A, die Kreislinie, so wird A die Gerade durch-
+          laufen; die inverse   Curve eines durch das Inversionscentrum   gehenden
+          Kreises ist deshalb eine Gerade.
+               Die inverse Curve eines Kreises, welcher nicht durch das In-
+          versionscentrum geht, ist ein Kreis, und das Inversionscentrnm ist
+          ein Aehnlichkeitspunkt für diesen und den gegebenen.
+
+
+
+
+              B und B, seien zwei correspondirende Punkte, während PB
+          den Kreis zum zweiten Male in DD schneidet.     Beide Producte
+          PB.PB,      und PB.PD       sind dann constant,    und deshalb ist auch
+                                                                    gr

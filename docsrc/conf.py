@@ -29,7 +29,9 @@ repo_name = "petersen"
 
 setup_globals(org, org_name, repo, repo_name)  # noqa: F405
 
-project = "GEOMETOR • petersen"
+site_title = "Julius Petersen"
+project = site_title
+html_title = f"{site_title} • {org_name}"
 author = "Julius Petersen"
 copyright = (
     "1866 / 1879 Andr. Fred. Høst & Son · Sampson Low, Marston, Searle & Rivington · "

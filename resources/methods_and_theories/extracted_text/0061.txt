@@ -1,0 +1,39 @@
+                                           45
+
+226.  In einen gegebenen Kreis ein Dreieck zu beschreiben, wenn
+     man die Richtung der einen Seite kennt, die Halbirungslinie
+     des gegenüberliegenden Winkels, sowie einen Punkt dieser
+     letzteren.
+     Die gegebene Richtung der einen Seite bestimmt die Mitte
+     des zugehörigen Bogens, und dadurch ist die Halbirungslinie
+     des gegenüberliegenden Winkels bestimmt.
+227. Man soll durch einen gegebenen Punkt eine Gerade ziehen,
+     deren Abstand von einem gegebenen Punkt gleich der Summe
+     ihrer Abstände von zwei anderen gegebenen Punkten ist.
+228. Auf einer gegebenen Kreisperipherie sind die Punkte A und B
+     gegeben; man soll durch einen gegebenen Punkt P eine Gerade
+       ziehen,     welche     den Kreis     in den beiden           Punkten     X und      Y
+       so schneidet, dass AX und BY einen gegebenen Winkel mit
+       einander bilden. (220).
+229.   Einen gegebenen Kreisbogen in zwei Stücke zu theilen, deren
+       Sehnen in einem gegebenen Verhältniss stehen.
+       Der Winkel, welchen die gesuchten Sehnen mit einander
+       bilden,     wird     von   der Linie     halbirt,     welche        die Sehne      des
+       gegebenen Bogens nach dem gegebenen Verhältniss theilt und
+       durch die Mitte des Bogens geht, welcher den gegebenen Bogen
+       zu einem Vollkreise ergänzt.
+230.   Durch einen gegebenen Punkt eine Gerade zu ziehen, welche
+       durch den Durchschnittspunkt zweier gerader Linien geht, ohne
+       dass man die letzteren bis zum Durchschnitt verlängert.
+       Zieht man      zwischen     den gegebenen Linien              zwei Parallelen,     die
+       eine durch den gegebenen Punkt, so theilt die gesuchte Ge-
+       rade beide Parallelen nach demselben Verhältniss.
+231.   Ein Dreieck        zu construiren,       wenn   man     die Stücke        kennt,    in
+       welche      { A und a durch eine Linie AD                     getheilt werden.
+       Man      zeichne    den    umbeschriebenen          Kreis     mit    a   als Sehne;
+       dann kennt man zwei Punkte der AD.                          (o).
+232.   Ein Dreieck        zu construiren    aus A, w. und m..
+       Die rechtwinkeligen Dreiecke, welche durch die drei gegebenen
+       Linien bestimmt sind, lassen sich sofort zeichnen;                       man    kennt
+       nun A und die Gerade auf der a liegt; es kommt daraufan, die
+       Punkte B und © zu bestimmen.         Diese erhält man, wenn

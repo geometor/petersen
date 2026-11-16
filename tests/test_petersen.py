@@ -26,7 +26,11 @@ from geometor.petersen import (
     trapezoid_from_four_sides,
 )
 from geometor.petersen.__main__ import main as cli_main
-from geometor.petersen.units_commentary import UNIT_SPECS
+from geometor.petersen.units_commentary import (
+    CANONICAL_CHAPTERS,
+    CANONICAL_SECTIONS,
+    UNIT_SPECS,
+)
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
@@ -236,20 +240,28 @@ def test_book_codex_and_apparatus_integrity(tmp_path: Path) -> None:
     assert len(apparatus.sources_manifest.get("witnesses", [])) >= 3
 
     codex_root = REPO_ROOT / "docsrc" / "methods_and_theories"
-    assert len(UNIT_SPECS) == 7
-    for spec in UNIT_SPECS:
-        unit_dir = codex_root / spec.slug
-        assert unit_dir.is_dir(), f"Missing unit directory {unit_dir}"
-        for suffix in ("en", "summary", "notes"):
-            track_rst = unit_dir / f"{spec.slug}-{suffix}.rst"
+    assert len(CANONICAL_CHAPTERS) == 5
+    for ch in CANONICAL_CHAPTERS:
+        ch_dir = codex_root / ch.slug
+        assert ch_dir.is_dir(), f"Missing chapter directory {ch_dir}"
+        assert (ch_dir / "index.rst").is_file(), f"Missing chapter index {ch_dir / 'index.rst'}"
+
+    assert len(CANONICAL_SECTIONS) == 14
+    for spec in CANONICAL_SECTIONS:
+        sec_dir = codex_root / spec.rel_path
+        assert sec_dir.is_dir(), f"Missing section directory {sec_dir}"
+        for fname in ("index.rst", "summary.rst", "notes.rst"):
+            track_rst = sec_dir / fname
             assert track_rst.is_file(), f"Missing track file {track_rst}"
             content = track_rst.read_text(encoding="utf-8")
             assert content.startswith(":layout: book\n")
+            assert f":folio: {spec.folio}" in content
             assert ".. py_file::" not in content
             assert "$" not in content
 
-        fig_svg = REPO_ROOT / "docsrc" / "_static" / "figures" / spec.figure_svg
-        assert fig_svg.is_file(), f"Missing calibrated SVG {fig_svg}"
+        if spec.figure_svg:
+            fig_svg = REPO_ROOT / "docsrc" / "_static" / "figures" / spec.figure_svg
+            assert fig_svg.is_file(), f"Missing calibrated SVG {fig_svg}"
 
     # Verify CLI status command succeeds
     assert cli_main(["status"]) == 0

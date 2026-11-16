@@ -1,0 +1,49 @@
+                                            52
+
+      Die Diagonalen des Parallelogramms sind doppelt so gross wie
+die Linien, welche die Mitten der gegenüberliegenden Seiten des
+Vierecks mit einander verbinden; das ergiebt sich leicht wenn man
+das Parallelogramm betrachtet, welches entsteht, wenn man die
+Mitten der Seiten des Vierecks der Reihe nach mit einander ver-
+bindet.
+      Es kommen also in dem Parallelogramm alle die Grössen vor,
+welche man im Allgemeinen beim Viereck betrachtet.        Die Ver-
+schiebung erweist sich namentlich nützlich, wenn man die Diago-
+nalen und deren Winkel kennt, denn in diesem Falle lässt das
+Parallelogramm sich sofort zeichnen, und dadurch wird die Aufgabe
+darauf reducirt, den Punkt C zu bestimmen.     Für diesen giebt es
+sofort zwei geometrische Oerter, sobald man von den oben ge-
+nannten Stücken zwei oder eine gewisse Abhängigkeit zwischen
+mehreren kennt (z. B. das Verhältniss                   zweier Seiten, die Summe
+oder Differenz ihrer Quadrate u. s. w.).                 Die zahlreiche Klasse von
+Aufgaben,       welche    sich   hierdurch       ohne   weiteres      lösen lässt, wird
+noch   ferner    vermehrt,       wenn     man     beachtet,    dass     man   in einem
+Viereck zwei gegenüberliegende Seiten                als Diagonalen       und die Dia-
+gonalen als Seiten        betrachten      kann;      dadurch   lassen sich nämlich
+alle entsprechenden       Aufgaben       lösen, bei denen statt der Diagonalen
+und deren Winkel zwei gegenüberliegende Seiten und deren Winkel
+gegeben sind.
+      Zur genaueren Darlegung der Methode soll in dem Folgenden
+die Anwendung derselben auf einige Aufgaben verschiedener Art
+gezeigt werden.            ö
+                                                                                          -
+
+                                                                                          ü
+                                                                                          >-
+                                        Beispiele.                                        \ü
+                                                                                          :
+259.   Ein Trapez aus den vier Seiten zu construiren.
+                                                                                          5
+       Verschiebt man die eine der nicht parallelen                       Seiten bis an   ‘
+                                                                                          )
+       die andere,       so entsteht      ein Dreieck,    in dem       alle drei Seiten
+       bekannt sind.
+260.   In einem Kreise sind zwei Sehnen, AB und CD, gezogen;
+       man soll auf der Peripherie einen solchen Punkt
+                                                     X bestimmen,
+       dass die Linien XA und XD von der Sehne CD ein Stück
+       FG abschneiden, welches einer gegebenen Linie gleich ist.
+
+
+
+                                                         wei                     um

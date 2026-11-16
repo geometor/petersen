@@ -1,0 +1,45 @@
+                                           86
+
+           Sind die beiden Drehungspunkte A und B, und betrachtet man
+      den Punkt A, so wird dieser bei der Drehung um A liegen bleiben,
+      und bei der Drehung um D auf einen Punkt C fallen. Dreht man
+      dagegen zuerst um B, so fällt A auf C und darauf durch Drehung
+      um A auf einen Punkt D.       CD oder DC ist also die Grösse der
+      Parallelverschiebung, welche hinzugefügt werden muss, wenn die
+      Reihenfolge der beiden Drehungen verändert wird.
+           17. Zwei Drehungen lassen sich zu einer zusammensetzen.
+           Die Drehungen mögen um die Punkte A und B vor sich gehen.
+      Von    der Drehung,    welche diese beiden ersetzen   soll, ist nur der Dre-
+      hungspunkt C unbekannt. Der Punkt A bleibt bei der Drehung um
+      A liegen, und fällt bei der Drehung um DB auf einen Punkt A,.
+      C muss nun so bestimmt werden, dass Z ACA, gleich der Summe
+      der gegebenen Drehungswinkel ist, während das Verhältniss CA, : CA
+      gleich dem Producte der gegebenen Drehungsverhältnisse ist. Die
+      gegebenen Drehungswinkel und Drehungsverhältnisse bestimmen also
+      die Winkel und die Verhältnisse der Seiten in dem Dreick, dessen
+      Eckpunkte auf die drei Drehungspunkte fallen. Im Besonderen be-
+      achte man, dass, wenn zwei von diesen Punkten               zusammenfallen,
+      alle drei zusammenfallen, wie oben gezeigt wurde,           und dass, wenn
+      die gegebenen Drehungswinkel Null sind, die drei Drehungspunkte
+      auf einer Geraden liegen.       Die Drehungspunkte sind in diesem
+      Falle die Aehnlichkeitspunkte der Figuren, welche paarweise ähn-
+      lich liegen.     Dieser Satz wird später auf eine andere Art be-
+      wiesen werden.
+            185. Es wurde gezeigt, wie man durch Drehung und Inversion
+      dazu gelangt solche Punktsysteme zu betrachten, wo jedem Punkte
+      des einen Systems ein Punkt des anderen Systems, und jedem
+      Kreise des einen Systems ein Kreis des anderen Systems entspricht
+      (unter den Begriff Kreis die gerade Linie mit einbegriffen), und
+      ferner wurde gezeigt, wie eben dieser Zusammenhang die Bedeutung
+      der erwähnten Transformationen für die elementare Geometrie be-
+      dingt.     Es liegen deshalb Gründe vor zu untersuchen, ob es nicht
+      auch   noch   andere   Transformationen    giebt,   bei   denen   Punkt   und
+      Punkt sowie     Kreis und Kreis sich gegenseitig entsprechen, wenn
+nn
+mn
+u
+EEE
+EZ
+Tr
+ u    alle Punkte      der Ebene mit in beide Systeme . aufgenommen
+      werden.

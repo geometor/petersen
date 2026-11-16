@@ -1,0 +1,42 @@
+                                           78
+
+               X und    Y so bestimmen,    dass BX      und DYin     einem   gege-
+               benen Verhältniss stehen, und Z XAY einem gegebenen
+               Winkel gleich ist.
+               Wird DX hinüber auf DY gedreht, so fällt A auf einen be-
+               kannten Punkt A,, und der Winkel      AYA, ist bekannt.
+        372.   Ein Viereck ABCD so zu legen, dass B und © auf gegebene
+               Punkte, und A und D auf gegebene Linien fallen, wenn zu-
+               gleich 3 — C und das Verhältniss BA: CD gegeben ist.
+               Lässt sich durch eine Umlegung reduciren (4).
+        373.   Durch den einen Durchschnittspunkt S zweier Kreise sollen
+               zwei gerade Linien ASa     und BSb      (A und B     auf der einen,
+               und a und 5 auf der anderen Peripherie), welche einen gege-
+               benen Winkel einschliessen, so gezogen werden, dass die
+               Dreiecke ASB und aSb gleich gross sind.
+               Der Durchschnittspunkt der Kreise ist der Drehungspunkt für
+               Aa und Bb, also auch für AB und ab. Dreht man AB hin-
+|LT
+—TTT—
+   —
+               über auf ab, so fällt S auf einen bekannten Punkt S,. ab
+               hat eine bekannte Länge und Abstände          von S und S,,     die
+               in einem bekannten Verhältniss stehen.
+               Eine einfachere Lösung erhält man, wenn        man   beachtet, dass
+               die in S auf den beiden Sehnen errichteten Senkrechten die
+               Centrale in gleichen Abständen von deren Mitte schneiden.
+        374.   Gegeben sind zwei Kreise, auf dem einen ein Punkt A, auf
+               dem anderen ein Punkt 3; man soll durch A und B einen
+               Kreis ziehen, welcher die beiden Kreise in X und Y so
+               schneidet, dass die Bogen AX und DY ähnlich sind.
+               Man bestimme den Drehungspunkt für die beiden Kreise, A
+               und B als homologe Punkte genommen.     Da AX und BY
+               homologe Linien sind, so schneiden sie sich auf dem Kreise‘
+               ABO, aber sie schneiden sich auch auf der Potenzlinie der
+               beiden gegebenen Kreise.
+               Verbindet man die Mitten der Seiten eines Dreiecks, so ent-
+               steht ein Dreieck, welches dem gegebenen ähnlich ist; wie
+               leicht ersichtlich ist der Drehungswinkel für diese beiden
+               Dreiecke 180° und das Drehungsverhältniss 4. Der Drehungs-
+               punkt muss also jede Linie, welche zwei homologe Punkte
+               verbindet, in zwei Abschnitte    theilen, die in diesem Verhältniss

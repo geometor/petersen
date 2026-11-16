@@ -1,0 +1,39 @@
+                                          61
+
+       die beiden       anliegenden     Winkel        kennt;      der Kreis- lässt sich
+      dann leicht zeichnen, da er die drei Seiten dieses                            Dreiecks
+      berührt.
+     2) Die gegebenen Stücke in die Figur einzuführen.
+313. Ein Dreieck zu construiren aus a,b und       A— B.
+       Man     lege das Dreieck        so um,         dass A     auf B und D auf A
+       fällt; dann     kann   man     das Dreieck       construiren,        in dem       a und
+       b Seiten sind und        A —     BD der eingeschlossene Winkel.
+314.   Ein Dreieck       zu construiren     aus a, A, und              B—    C.
+       Man     führe    DB—    C ein,     indem        man     das Dreieck        so umlegt,
+       dass DB auf C, C auf B und A auf einen Punkt A, fällt.
+       Nun kann man das Parallelogramm zeichnen, dessen eine
+       Diagonale AA,, und dessen dritter Eckpunkt BD ist, da die
+       von D gezogene Diagonale von A aus unter einem bekannten
+       Winkel gesehen wird.
+315.   Ein Dreieck      zu construiren     aus de, m, und            BD —      C.
+       Wird das Dreieck in die Lage 5A,C umgelegt, so wird der
+       bekannte Flächeninhalt von A,DA gleich dem Flächeninhalt
+       des gleichschenkeligen         Dreiecks,       dessen    Schenkel     m, sind.
+      3) Gleichgrosse Linien oder Winkel zur Deckung zu bringen;
+dieses thut man am häufigsten, wenn die geichgrossen Stücke un-
+bekannt      sind, und die Methode         dient dann          in gewisser Weise          dazu,
+ein -solches Stück zu eliminiren. Einer ähnlichen Methode kann
+man sich bedienen, wenn das Verhältniss zweier Linien bekannt
+ist; um dieselben zur Deckung zu bringen lässt man dann den
+einen Theil der Figur, während man ihn umlegt, in dem gegebenen
+Verbältniss wachsen.
+316.   Ein     Sehnenviereck        ABCD        aus     den     vier Seiten         zu    con-
+       struiren.
+       Man multiplieire die Seiten des Dreiecks ABC                         mit     AD: AB
+       nnd lege dasselbe darauf um in die Lage ADC,, wo dann
+       DC, und CD eine gerade Linie bilden. Nun kann man das
+       Dreieck CAC, construiren, denn man kennt das Verhältniss
+       CA: (C,A, sowie CD, DC, und DA.
+317.   In einem        Kreis ein Dreieck       zu beschreiben,         wenn       die Mitten
+       der drei zugehörigen          Bogen gegeben sind.
+       Das gesuchte Dreieck           sei ADC,         7 die Mitte von        AD,        £ von

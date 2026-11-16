@@ -1,0 +1,42 @@
+                                      1 DL
+
+     die drei Seiten gleich gross erscheinen (unter gleichen Winkeln
+     gesehen werden). (e).
+47. Einen Punkt zu bestimmen, von dem aus drei gegebene Kreise
+     gleich gross erscheinen.
+   - Die Abstände des Punktes von den Kreismittelpunkten müssen
+    sich wie die Radien       verhalten;     man    findet   deshalb    den Punkt
+    durch f.
+48. Ein Dreieck zu construiren aus a, A, und b:c. (b und ff).
+49. In einem gegebenen Viereck einen Punkt zu bestimmen, dessen
+      Abstände von den zwei gegenüberliegenden Seiten eine gegebene
+      Summe und von den beiden anderen ein gegebenes Verhältniss
+      haben.
+50. Auf einer gegebenen Kreisperipherie einen Punkt so zu be-
+      stimmen, dass die Summe seiner Abstände von zwei gegebenen
+      Geraden ein Minimum werde. (k).
+   . Einen Kreis zu construiren, der drei gegebene Kreise recht-
+      winkelig schneidet. (h Zus. 3).
+   . Einen Kreis zu construiren, der drei gegebene Kreise unter
+      Durchmessern schneidet. (h Zus. 2).
+    . In einen gegebenen Kreis soll ein rechtwinkeliges Dreieck so
+      beschrieben werden, dass die Katheten jede durch einen gege-
+      benen Punkt gehen. (e).
+   . In einen gegebenen Kreis soll ein rechtwinkeliges Dreieck be-
+      schrieben werden; man kennt den einen spitzen Winkel und
+      einen Punkt der einen Kathete. (e).                                            M
+BPy Auf einem kreisförmigen Billard liegen zwei Bälle auf dem-
+    selben Durchmesser;       wie muss man         den einen stossen,    damit er
+    nach dem Zurückprallen den anderen trifft? (f}.
+    Bei den vorhergehenden Aufgaben konnte man ohne weiteres
+geometrische Oerter anwenden,        da entweder unmittelbar ein Punkt
+bestimmt   werden   sollte,   oder es sich gleich herausstellte,          dass die
+Aufgabe durch Bestimmung eines solchen gelöst sei.                 Ist das nicht
+der Fall, so wende man folgende Regeln an:
+     -Man führe die gegebenen Stücke in die Figur ein; ist z. B.
+die Summe zweier Linien gegeben, so genügt es nicht, dass diese
+Linien einzeln vorkommen, sondern man muss die gegebene Summe
+
+
+                                                                                     el
+                                                                                     u>Un

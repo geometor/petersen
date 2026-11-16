@@ -1,0 +1,41 @@
+                                                 38
+
+      198.   Man      beweise,    dass     ein   beliebiger    Kreis    durch     die     Durch-
+             schnittspunkte zweier Kreise ein System von Kreisen, welche
+             die beiden gegebenen berühren (darunter eine gemeinschaftliche
+             Tangente),    unter gleichen Winkeln             schneidet.
+           Der Satz wird durch Inversion aus folgendem gebildet: Eine
+           beliebige gerade Linie durch den Aehnlichkeitspunkt eines
+           Systems ähnlich liegender Kreise schneidet alle Kreise unter
+           gleichen Winkeln.
+      199. Einen Kreis zu construiren, der drei gegebene Kreise berührt,
+           welche alle durch denselben Punkt gehen.
+      200. In einen gegebenen Kreis ein Viereck zu beschreiben, dessen
+           Seiten jede durch einen gegebenen Punkt gehen.
+           Die Seiten AB, BC, CD und DA mögen beziehungsweise
+             durch    die Punkte a, d, e und d gehen.                  Man      benutze     diese
+             Punkte als Inversionscentra, indem man für jeden Punkt die
+             Potenz desselben mit Beziehung auf den Kreis als Inversions-
+             potenz nimmt. A wird dann durch vier successive Inversionen
+             um a, d, e und d wieder auf A fallen.   7 sei der Punkt,
+             welcher durch drei Inversionen um a, 5b und ce auf d fällt;
+             man findet diesen Punkt, indem man nach und nach d um
+             ec, b und a invertirt.         Jeder Kreis oder jede Gerade durch ?
+             geht durch Inversion           um a, d jund ce über in einen Kreis
+             durch    d und darauf, durch Inversion             um     d, über in eine Ge-
+             rade.     Die Gerade PA geht deshalb nach den vier Inver-
+             sionen    über in eine Gerade P,A, wo P, der Punkt ist,
+             welchen     man     erhält,     wenn     man     a nach    und nach um          db, ec
+non
+mn
+Te
+er           und d invertirt. Da nun der Winkel zwischen PA und dem
+             Kreise weder Grösse noch Vorzeichen bei den vier Inversionen
+             verändert, und der Kreis liegen bleibt, müssen PA um BEA
+             eine gerade Linie bilden.
+             Die Lösung wird hiernach folgende: Man bestimme ?, durch
+             Inversiin    von    a um      b, ce und        d; darauf/ durch Inversion
+             von d um ec, db und a. Die Linie PP, schneidet dann den
+             Kreis in A.
+             Die Lösung lässt sich leicht auf jede Figur mit gerader Sei-
+             tenzahl ausdehnen.

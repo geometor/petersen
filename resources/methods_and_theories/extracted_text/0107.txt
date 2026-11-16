@@ -1,0 +1,40 @@
+                                         91
+
+386.     Die Mittelpunkte dreier Kreise liegen auf den drei Eckpunkten
+         B,   € und     D    eines   Parallelogramms.    Ein      Parallelogramm
+         mit gegebenen Winkeln soll mit seinem einen Eckpunkt auf
+         den vierten Eckpunkt A des Parallelogramms gelegt werden,
+         und mit seinen anderen Eckpunkten auf die drei Kreisperi- *
+         pherien.
+         Multiplicirt man den Kreis C mit 4 mit Beziehung auf A, so
+         erbält man einen neuen Kreis. Dieser und die Kreise D und
+         D haben eine gerade Linie, deren beide Abschnitte gleich
+         gross sind, zum Grunddreieck.  Die Diagonale 3,D, des ge-
+         suchten Parallelogramms muss deshalb diese drei Kreise in
+         homologen Punkten schneiden und wird von A aus unter
+         einem gegebenen Winkel gesehen.    Dreht man BB, hinüber
+         auf DD,,       so fällt A   auf einen    bekannten      Punkt A,,          und
+         Z AD,A, ist bekannt.
+       . Man bestimme den geometrischen Ort für die Punkte, von
+         welchen Tangenten an zwei gegebene Kreise in einem gege-
+         benen Verhältniss stehen.
+                                   Die Kreise mögen sich in A und B
+                      M;           schneiden und JM sei einer der ge-
+                                   suchten Punkte; die Linie MB schnei-
+                    A                  det die beiden   Kreise     in     D und Z,
+                        \              und zufolge der gestellten Bedingung
+                                       ist dann das Verhältniss zwischen
+                        )              MD.MB und ME.MB, also auch
+                                       zwischen   MD    und ME          constant;    da
+                    B
+                                     zugleich die Winkel im Dreieck ADE
+         constant sind,     wird die ganze Figur ADEM von constanter
+         Form,    und wenn sie sich um A so dreht, dass D und E
+         Kreise   beschreiben, mnss M auch einen Kreis beschreiben.
+         Da A gemeinschaftlicher Drehungspunkt für diesen und die
+         gegebenen Kreise ist, so muss er ebenso wie diese durch A
+         gehen.    DEM stellt dass Grunddreieck dar, und da das
+         Dreieck, welches man durch Verbindung der drei Kreismittel-
+         punkte erhält, diesem ähnlich ist, so sieht man, dass diese
+         auf einer geraden Linie liegen müssen; die Abstände des ge-
+         suchten Mittelpunktes       von den gegebenen        verhalten sich wie

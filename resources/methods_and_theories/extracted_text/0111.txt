@@ -1,0 +1,26 @@
+                          Zusätze.
+
+           Ueber den Durchschnitt von          Kreisbogen.
+      Das Vorhergehende hat häufig gezeigt, wie wichtig es ist, eine
+Figur einer sorgfältigen Untersuchung zu unterwerfen, um die ein-
+fachen Beziehungen zu finden, welche zwischen den Stücken der
+Figur, namentlich zwischen ihren Winkeln statt finden. Eine solche
+Untersuchung lässt sich in der Regel mit Hülfe der Sätze über die
+Abhängigkeit zwischen Winkeln und Kreisbogen und ähnlicher ele-
+mentarer Sätze durchführen; sind aber die Figuren ziemlich zu-
+sammengesetzt, so wird die grosse Menge der vorkommenden Winkel
+das Auffinden der einfachen Beziehungen oft erschweren.      Deshalb
+wird es zweckmässig sein sich Mittel zu verschaffen, welche eine
+solche Untersuchung erleichtern können.    Ein solches Mittel erhält
+man, wenn man eben die Winkel betrachtet, welche von Kreisbogen
+gebildet werden, da diese Betrachtung eine Figur oft übersichtlicher
+macht.    Es ist nicht meine Absicht, hier eine erschöpfende Be-
+handlung dieser Frage zu geben, sondern nur einige hierher ge-
+hörende Sätze aufzustellen, deren Anwendung in der Praxis man oft
+bequem finden wird.
+      1. In einem Polygon, welches von Kreisbogen gebildet wird,
+ist die Summe der Seiten vermehrt um die Summe der Nebenwinkel
+der Polygomwinkel gleich 4 R.
+      Eine gerade Linie möge sich nämlich um das Polygon herum-
+drehen, so dass sie bei einem Eckpunkt     anfängt,   und die eine Seite
+berührt,   bis sie den nächsten Eckpunkt     erreicht hat;   dann drehe

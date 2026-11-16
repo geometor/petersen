@@ -1,0 +1,39 @@
+                                        68
+
+       . Ein Polygon     zu construiren,     wenn       man    die Halbirungslinien
+      der Winkel der Lage nach kennt.
+      Die Auflösung ist der vorhergehenden analog.
+  3. An zwei gegebene Kreise Tangenten zu ziehen, welche sich
+      auf einer gegebenen Geraden schneiden und mit dieser gleiche
+      Winkel bilden.
+      Analog 338; die Aufgabe wird auf 137 reducirt.
+    . Auf einer gegebenen Geraden einen Punkt X zu bestimmen,
+      dessen Abstände von zwei gegebenen Punkten A und BD eine
+      gegebene Summe haben.
+         Man    führe die gegebene     Summe         in die Figur ein, indem      man
+         AX bis B, verlängert, so dass XD, = XD.           X wird nun
+         der Mittelpunkt eines Kreises sein, welcher durch den be-
+         kannten Punkt B geht und den bekannten Kreis berührt,
+         dessen Mittelpunkt A und dessen Radius AD, ist. Beachtet
+         man, dass der gesuchte Kreis zugleich durch den Punkt gehen
+         muss, welchen man durch Drehung von 3 um die gegebene
+         Linie erhält, so ist die Aufgabe zu 238 reducirt.
+345.     Auf einer gegebenen Geraden einen Punkt zu bestimmen,
+         dessen Abstände von zwei gegebenen Punkten eine gegebene
+         Differenz haben.         ’
+         Die Auflösung ist der vorhergehenden analog.
+         Anmerkung.     Die beiden letzten Aufgaben können auch fol-
+         gendermassen ausgedrückt werde:
+         Man    soll die Durchnittspunkte      zwischen        einer gegebenen    Ge-
+         raden und einem Kegelschnitt finden, dessen Hauptaxe und
+         Brennpunkte gegeben sind.      Diese Aufgabe lässt sich also
+         immer mit Zirkel und Lineal lösen.      Nimmt man dagegen
+         an Stelle der gegebenen Geraden einen beliebigen Kreis, so
+         lässt sich die Aufgabe nicht mit Zirkel und Lineal lösen.
+346.     In    einem   Dreieck   ABC       halbirt     die    AD   den   Winkel    A;
+         man soll auf AD einen solchen Punkt M bestimmen, dass
+         die Differenz der Winkel DMC und DMB ein Maximum
+         werde.
+         Wird durch Drehung der AB um die Halbirungslinie des Win-
+         kels auf 185 reducirt.
+347.     Zwei Kreise gehen beziehungsweise durch A und 3; auf ihrer

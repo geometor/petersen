@@ -1,16 +1,15 @@
-"""Optically verified 1879 English edition tracks (`<slug>-en.rst`) for `geometor-petersen`.
+"""Optically verified 1879 English edition tracks for `geometor-petersen`.
 
 Transcribed from multimodal visual inspection of Sophus Haagensen's Authorized English
 Edition (*Methods and Theories for the Solution of Problems of Geometrical Constructions,
 Applied to 410 Problems*, Copenhagen: Andr. Fred. Høst & Son / London: Sampson Low,
-Marston, Searle & Rivington, 1879, pp. 1–102; HathiTrust `uc1.31822009486531`).
+Marston, Searle & Rivington, 1879; HathiTrust `uc1.31822009486531`).
 """
 
 from __future__ import annotations
 
-UNITS_EN: dict[str, str] = {
-    "unit-01-anatomy-of-construction": r"""
-.. _petersen-en-preface:
+CANONICAL_EN: dict[str, str] = {
+    "intro": r""".. _petersen-en-preface:
 
 Preface (1879)
 --------------
@@ -69,7 +68,7 @@ The complete solution of a :term:`determinate problem <determinate-problem>` con
 .. _petersen-en-notation:
 
 Standard Triangle Notation (p. 6)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------
 
 *[p. 6]* Throughout the 410 problems, unless otherwise stated, in any triangle :math:`ABC`:
 
@@ -81,8 +80,7 @@ Standard Triangle Notation (p. 6)
 * :math:`R` denotes the radius of the circumscribed circle, :math:`r` the radius of the inscribed circle, and :math:`r_a, r_b, r_c` the radii of the three escribed circles;
 * :math:`\angle(l, m)` denotes the angle included between straight lines :math:`l` and :math:`m`, and :math:`R` (in angle formulas such as :math:`4R`) denotes a right angle (:math:`90^\circ`).
 """,
-    "unit-02-loci-of-points": r"""
-.. _petersen-en-loci-points:
+    "ch_01_loci/sec_01_loci_of_points": r""".. _petersen-en-loci-points:
 
 Chapter I — Loci · A. Loci of Points
 ------------------------------------
@@ -140,8 +138,8 @@ The points :math:`C` and :math:`C_1` are therefore **fixed points** dividing :ma
 
 * **Locus k** (*pp. 13–14*): *The locus of points whose distances from two given intersecting lines have a given sum or difference* :math:`a` *consists of four straight line segments forming a rectangle* (for the sum) *and their eight infinite prolongations* (for the difference).
 
-Selected Canonical Problems on Point Loci (Problems 1–116 & 202–219)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Selected Canonical Problems on Point Loci (Problems 1–116)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * **Problem 21** (*p. 14*): To find a point, the distances of which from three given lines have given ratios (**g** — four solutions).
 * **Problem 22** (*p. 14*): In a triangle to find a point, the distances of which from the three vertices have given ratios (**f** — intersection of two Apollonius circles; for :math:`PA : PB : PC = bc : ca : ab`, yields the isodynamic points).
@@ -152,11 +150,78 @@ Selected Canonical Problems on Point Loci (Problems 1–116 & 202–219)
 * **Problem 42** (*p. 15*): Divide a given line into two parts having a given line as a mean proportional (**e** and **b**).
 * **Problem 45** (*p. 15*): Find a point from which three contiguous segments :math:`AB, BC, CD` of a straight line are seen under equal angles (**f**, since the internal bisector of :math:`\angle BPC` divides :math:`BC` in the ratio :math:`PB : PC`!).
 * **Problem 47** (*p. 15*): To find a point from which three given circles appear under equal visual angles (*their distances from the centres must stand in the same ratios as the radii; solved by* **f**).
-
-*Loci in General* (*pp. 37–40, Problems 202–219*): *[p. 38]* Even when a locus is not immediately listed under **a–k**, removing one positional condition often permits drawing the rigid figure in *any* convenient position first, and then bringing it into the required position by parallel translation or revolution around a fixed centre—the loci of its vertices being parallel lines or concentric circles (*Problems 202–209*).
 """,
-    "unit-03-loci-of-lines": r"""
-.. _petersen-en-loci-lines:
+    "ch_01_loci/sec_02_multiplication": r"""Multiplication of Curves (Homothety, pp. 22–27, Problems 117–149)
+-----------------------------------------------------------------
+
+*[pp. 22–24]* Take a fixed point :math:`P` and join it to an arbitrary point :math:`a` of a given curve :math:`k`. If along the straight line :math:`Pa` we determine :math:`A` such that :math:`PA : Pa = m : n`—either on the same side of :math:`P` (*multiplication by* :math:`+\frac{m}{n}`) or on the opposite side (*multiplication by* :math:`-\frac{m}{n}`)—the locus of :math:`A` is a curve :math:`K` similar and similarly situated (*homothetic*) to :math:`k`, with :math:`P` as :term:`centre of similitude <centre-of-similitude>` (a pure specialization of Chapter III's revolution with :math:`v = 0^\circ` or :math:`180^\circ`):
+
+1. **Multiplying a Straight Line**: Yields a parallel straight line whose distance from :math:`P` is multiplied by :math:`\pm \frac{m}{n}`.
+2. **Multiplying a Circle**: Yields a circle whose centre and radius are both multiplied from :math:`P` by :math:`\pm \frac{m}{n}`. Conversely, *any two unequal circles have two centres of similitude*—the **external centre** (dividing the line of centres externally in ratio :math:`+R_1 : R_2`) and the **internal centre** (dividing it internally in ratio :math:`-R_1 : R_2`).
+3. **Intersections With Scaled Curves** (*Problems 117–145*): To draw through :math:`P` a secant cut by two curves :math:`k, K_1` in segments :math:`Pa : PA = n : m`, multiply :math:`k` from :math:`P` by :math:`\pm \frac{m}{n}` and intersect with :math:`K_1`!
+""",
+    "ch_01_loci/sec_03_similitude": r""".. _petersen-en-method-of-similitude:
+
+The Method of Similitude (pp. 28–33, Problems 150–191)
+------------------------------------------------------
+
+*[pp. 27–29]* The :term:`Method of Similitude <method-of-similitude>` ranks alongside the Method of Two Loci as the most natural and fertile heuristic in elementary geometry. It applies under two distinct structural regimes:
+
+* **Case a — Given Only One Linear Magnitude Together With Angles and Ratios (pp. 27–28, Problems 146–153)**:
+  If all conditions save *one* determine only the **form** (shape) of the sought figure—specifying angles and ratios of lines—while a single given length fixes its **size**, *set aside the given length, adopt any convenient arbitrary length in its stead, construct a prototype figure similar to the sought one*, and finally scale the prototype by fourth-proportional similarity (:cite:`Euclid VI.12 <euclid:elements>`)!
+  - **Problem 152** (*p. 28*): *Construct a triangle given its three altitudes* :math:`h_a, h_b, h_c`. Since :math:`a h_a = b h_b = c h_c = 2\Delta`, the sides satisfy :math:`a : b : c = \frac{1}{h_a} : \frac{1}{h_b} : \frac{1}{h_c} = h_b h_c : h_c h_a : h_a h_b` (or secants from an external point to a circle of products). Construct any prototype triangle :math:`\triangle A'B'C'` with sides in those ratios, measure its altitude :math:`h'_a`, and scale from :math:`A'` by :math:`h_a / h'_a`!
+
+* **Case b — Positional Similitude by Omitting One Boundary Condition (pp. 28–33, Problems 154–191)**:
+  *[pp. 28–29]* Even when the sought figure must be inscribed in or placed upon a given figure, *if omitting one condition leaves a system of figures that remain similar and similarly situated with respect to a fixed* :term:`centre of similitude <centre-of-similitude>`, then **every point of the variable figure describes a straight line (or scaled curve) through that centre of similitude**! Drawing *any one* convenient prototype figure fixes that straight-line locus, whose intersection with the omitted boundary immediately gives the true figure!
+
+.. picture:: /_static/figures/unit06-homothety-inscribed-square.svg
+   :class: euclid-picture
+
+**Figure 6.1 — Petersen's Problem 155 (p. 29): Inscribing a Square in a Given Triangle by Homothety.** Suppressing the condition that the upper-right vertex lie on :g:`[ B C ]`, we erect prototype square :g:`< D0 E0 F0 C >` of side :math:`h_c = 12` resting on base :g:`[ A B ]` with upper-left vertex at :g:`C` on :g:`[ A C ]`. Taking :g:`A` as **centre of similitude**, the locus of the free vertex is ray :g:`[ A F0 ]`, which intersects :g:`[ B C ]` at :g:`F` :math:`= (119/13, 84/13)`, yielding exact inscribed square :g:`< D E F G >` of side :math:`84/13`.
+
+Flagship Homothety Constructions (Problems 154–191)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* **Problem 155** (*p. 29*): *To inscribe a square in a given triangle, sector, or segment.*
+  - **Analysis & Construction for** :math:`\triangle ABC`\ **:** Require square :math:`DEFG` with :math:`D, E \in AB`, :math:`G \in AC`, and :math:`F \in BC`. *Omit the condition* :math:`F \in BC`! Every square :math:`D_0 E_0 F_0 G_0` resting on :math:`AB` with :math:`G_0 \in AC` is homothetic with respect to vertex :math:`A` as centre of similitude, because :math:`AD_0 : D_0 G_0 = \cot A` is constant. Hence the free fourth vertex :math:`F_0` moves along the straight ray :math:`AF_0`! Construct any one prototype square (for instance, with :math:`G_0 = C` and side :math:`h_c`), connect :math:`A F_0` to meet :math:`BC` in :math:`F`, and complete :math:`DEFG` by parallels and perpendiculars.
+  - *For a circular sector*: Take the centre of the circle as centre of similitude (if two vertices lie on the radii) or the midpoint of the base chord (for a segment)!
+* **Problem 166** (*p. 30*): *In a given triangle* :math:`ABC` *to inscribe another* :math:`XYZ`\ *, knowing the direction of* :math:`YZ`\ *, the fixed point* :math:`X \in BC`\ *? — or knowing the ray* :math:`AX` *on which* :math:`X` *falls, the direction of* :math:`YZ`\ *, and the ratio* :math:`XY : XZ`. Remove :math:`BC` (retaining ray :math:`AX`) and take :math:`A` as centre of similitude!
+* **Problem 170** (*p. 30*): *In a triangle to inscribe a rhombus, one vertex of which coincides with one of the vertices of the triangle* (homothety from :math:`A`, coinciding with the internal angle bisector :math:`v_A`).
+* **Problem 181** (*p. 31*): *Construct a circle passing through a given point* :math:`P` *and touching two given intersecting straight lines* — take the intersection of the two lines as centre of similitude, draw *any* prototype circle touching both lines, intersect ray :math:`OP` with the prototype circle at :math:`P_1, P_2`, and scale by :math:`OP / OP_1` and :math:`OP / OP_2` (**two solutions**)!
+""",
+    "ch_01_loci/sec_04_inversion": r"""Inverse Figures (pp. 34–38, Problems 192–201)
+---------------------------------------------
+
+*[pp. 33–36]* Let a fixed point :math:`P` (*the centre of inversion*) and a constant positive product :math:`I` (*the power of inversion*) be chosen. If on every ray through :math:`P` we associate to each point :math:`A \neq P` the point :math:`A_1` satisfying
+
+.. math::
+
+   PA \times PA_1 = I,
+
+then as :math:`A` traces a curve :math:`k`, :math:`A_1` traces its :term:`inverse curve <inverse-figures>` :math:`k_1`. Petersen establishes four foundational theorems (*pp. 33–36*):
+
+1. **Circle Through the Centre** (*p. 34*): *The inverse curve of a circle passing through the centre of inversion is a straight line* perpendicular to the diameter through :math:`P` (and conversely, the inverse of any straight line not passing through :math:`P` is a circle through :math:`P`).
+2. **Circle Not Through the Centre** (*p. 34*): *The inverse curve of a circle not passing through* :math:`P` *is another circle, and* :math:`P` *is a centre of similitude of both circles.* In particular, if :math:`I` equals the tangent power of :math:`P` with respect to the given circle, that circle is its **own** inverse!
+3. **Preservation of Contact** (*p. 35, a*): *If two curves intersect or touch each other at* :math:`A \neq P`\ *, their inverse curves intersect or touch each other at the corresponding point* :math:`A_1`.
+4. **Conformality** (*pp. 35–36, b*): *If two curves intersect at* :math:`A` *forming a certain angle, their inverse curves intersect at* :math:`A_1` *forming the* **same** *angle* (with opposite orientation).
+
+.. picture:: /_static/figures/unit07-inversion-tangent-circle.svg
+   :class: euclid-picture
+
+**Figure 7.1 — Petersen's Problem 199 (p. 36): Circle Touching Three Concurrent Circles via Circle Inversion.** Given three circles :g:`( M1 O )`, :g:`( M2 O )`, :g:`( M3 O )` concurrent at :g:`O`, inversion in :g:`( O R0 )` (:math:`\Omega`) transforms all three circles into straight lines bounding :math:`\triangle V_1 V_2 V_3`. Constructing its incircle :g:`( Jp T1p )` (:math:`\omega'`) and inverting contact points :g:`T1p`, :g:`T2p`, :g:`T3p` back to :g:`T1`, :g:`T2`, :g:`T3` determines exact tangent circle :g:`( J T1 )` (:math:`\omega`, radius ``27``).
+
+* **Problem 197** (*p. 36*): *Construct a circle passing through a given point* :math:`P` *and touching two given circles.* Inverting from :math:`P` reduces the sought circle to a **common tangent** of the two inverted circles (and :math:`I` may be chosen equal to the power of :math:`P` with respect to one given circle so that circle remains unaltered!).
+* **Problem 199** (*p. 36*): *Construct a circle touching three given circles, which all pass through the same point* :math:`O`. Inverting from :math:`O` transforms the three given circles into three straight lines; the inscribed and escribed circles of that triangle invert into the **four tangent solution circles**!
+* **Problems 200–201 — Castillon's Problem** (*pp. 36–37*): *In a given circle to inscribe a quadrilateral (or triangle), each side of which passes through a given point* — solved by composing successive inversions in the given points using their powers with respect to the given circle!
+""",
+    "ch_01_loci/sec_05_loci_in_general": r"""Geometrical Loci in General (pp. 39–41, Problems 202–219)
+----------------------------------------------------------------------------------
+
+*[pp. 37–40, Problems 202–219]* *[p. 38]* Even when a locus is not immediately listed under **a–k**, removing one positional condition often permits drawing the rigid figure in *any* convenient position first, and then bringing it into the required position by parallel translation or revolution around a fixed centre—the loci of its vertices being parallel lines or concentric circles (*Problems 202–209*).
+
+By treating a sought configuration as a rigid body with one degree of freedom, unknown vertices describe standard linear or circular tracks whose intersections with the remaining constraints determine the complete solution.
+""",
+    "ch_01_loci/sec_06_loci_of_lines": r""".. _petersen-en-loci-lines:
 
 Chapter I — B. Loci of Lines (Envelopes & Tangential Conditions)
 ----------------------------------------------------------------
@@ -199,11 +264,10 @@ Selected Canonical Problems on Line Loci (Problems 220–245, pp. 42–45)
 * **Problem 236** (*p. 44*): *To draw a square, each side of which contains one of four given points* :math:`A, B, C, D`. Describe circles on diameters :math:`AB` and :math:`CD`; by **o**, the diagonal of the square bisects the right angles at opposite vertices and therefore passes through the midpoints of the appropriate semicircles on :math:`AB` and :math:`CD`!
 * **Problem 238** (*p. 44*): *Describe a circle passing through two given points A and B and touching a given circle.* Draw *any* auxiliary circle through :math:`A` and :math:`B` cutting the given circle in :math:`C, D`; by **p**, line :math:`CD` meets :math:`AB` in the radical centre :math:`O`, from which tangents drawn to the given circle determine the exact points of contact!
 """,
-    "unit-04-parallel-translation": r"""
-.. _petersen-en-parallel-translation:
+    "ch_02_transformation/sec_01_parallel_translation": r""".. _petersen-en-parallel-translation:
 
-Chapter II — Transformation of the Figure · A. Parallel Translation & B. Replacing
-----------------------------------------------------------------------------------
+Chapter II — Transformation of the Figure · A. Parallel Translation
+-------------------------------------------------------------------
 
 *[p. 46]* In order to apply the locus methods of the First Chapter directly, the given elements of the sought figure must be *adjoining* to a certain extent, so that a substantial portion of the figure can be drawn at once and the remainder reduced to a single point or line. As soon as the given parts lie scattered, loci fail until we invoke our second great principle:
 
@@ -211,8 +275,8 @@ Chapter II — Transformation of the Figure · A. Parallel Translation & B. Repl
 
 Once this transformed auxiliary figure has been constructed, reversing the transformation yields the original figure immediately. The three fundamental transformations of Chapter II are **A. Parallel Translation**, **B. Replacing**, and **C. Revolution**.
 
-A. Parallel Translation (pp. 46–55)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Parallel Translation (pp. 49–59, Problems 246–308)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *[pp. 46–47]* :term:`Parallel translation <parallel-translation>` gathers dispersed sides, medians, diagonals, or angles by shifting certain segments to new positions parallel and equal to their original ones until their extremities meet in a constructible triangle or parallelogram:
 
@@ -225,7 +289,7 @@ A. Parallel Translation (pp. 46–55)
 
 **Figure 4.1 — Petersen's Problem 259 (p. 49): Trapezoid from its Four Sides via Parallel Translation.** Translating leg :g:`/ B C /` (:math:`c = 13`) parallel to upper base :g:`/ C D /` (:math:`b = 5`) into :g:`/ E D /` gathers all four given lengths into the Euclidean three-side auxiliary triangle :g:`< A E D >` with base :math:`AE = a - b = 14`, :math:`AD = d = 15`, and :math:`ED = c = 13`. Reversing the translation along parallelogram :math:`EBCD` yields :g:`< A B C D >` on the exact integer lattice.
 
-Canonical Parallel-Translation Paradigms (Problems 259–310)
+Canonical Parallel-Translation Paradigms (Problems 259–308)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * **Problem 259** (*p. 49*): *Construct a* :term:`trapezium <trapezium>` *(trapezoid), the four sides of which are given.* **Solution**: *Translate one of the sides, which are not parallel, to the extremity of the other, and we obtain a triangle, of which the three sides are known* (:math:`a - b`, :math:`c`, and :math:`d`).
@@ -238,9 +302,9 @@ Canonical Parallel-Translation Paradigms (Problems 259–310)
   *[p. 52]* A potent variant of parallel translation applies when a circle must touch given straight lines or circles: *diminish the radius of the smallest given circle to zero* so it shrinks to its centre point, while translating tangent lines parallel to themselves by that radius and expanding/contracting the other circles concentrically by :math:`\pm r`!
   - **Problem 275** (*p. 52*): *To draw the common tangents to two circles* :math:`(O_1, R_1)` and :math:`(O_2, R_2)` — reduced to drawing tangents from point :math:`O_2` to concentric circles :math:`(O_1, R_1 \mp R_2)`.
   - **Problems 276–278** (*pp. 52–53*): Circle touching two lines and a circle, or touching a circle and a line at a given point.
-
-B. Replacing (pp. 56–60, Problems 311–335)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""",
+    "ch_02_transformation/sec_02_replacing": r"""B. Replacing (pp. 60–64, Problems 309–335)
+------------------------------------------
 
 *[pp. 56–57]* :term:`Replacing <replacing>` rearranges a sub-figure into a flipped or proportionally scaled congruent/similar position to achieve one of three ends:
 
@@ -248,14 +312,8 @@ B. Replacing (pp. 56–60, Problems 311–335)
 2. **To introduce given sums or differences of angles/sides** (*Problem 313, p. 57*): Construct :math:`\triangle ABC` from :math:`a, b`, and :math:`A - B` by replacing :math:`\triangle ABC` with :math:`A` and :math:`B` interchanged.
 3. **To make equal or proportional unknown lines cover each other** (*Problem 316, p. 57*): *Construct an inscribable (cyclic) quadrilateral* :math:`ABCD` *whose four sides* :math:`a, b, c, d` *are given* — scale :math:`\triangle ABC` by :math:`d : a` and flip it into position :math:`ADC_1`; because :math:`\angle B + \angle D = 180^\circ`, :math:`DC` and :math:`DC_1` become collinear, eliminating the unknown circumcircle and yielding :math:`\triangle CAC_1` directly via Locus **f**!
 """,
-    "unit-05-axial-reflection-and-rotation": r"""
-.. _petersen-en-reflection-rotation:
-
-Chapter II (cont.) & Chapter III — Axial Reflection & Rotation Around a Point
------------------------------------------------------------------------------
-
-Revolution Around an Axis (Chapter II.B cont., pp. 60–64, Problems 336–348)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    "ch_02_transformation/sec_03_axial_reflection": r"""C. Revolution Around an Axis (Axial Reflection, pp. 65–69, Problems 336–348)
+----------------------------------------------------------------------------
 
 *[p. 60]* :term:`Revolution around an axis <revolution-around-an-axis>` (reflection across a straight line of symmetry) is a special case of *Replacing*, yet so fruitful that it warrants independent treatment. By revolving one half of a figure around an axis of symmetry, symmetric intersections become direct intersections of known curves, and broken equal-angle paths straighten into single segments:
 
@@ -272,13 +330,11 @@ Revolution Around an Axis (Chapter II.B cont., pp. 60–64, Problems 336–348)
 * **Problem 339 — Polygonal Billiards** (*pp. 61–62*): *Two balls M and N lie on an n-sided polygonal billiard table; roll M against side AB so that after striking all n sides successively it hits N.* Unfold :math:`M \mapsto M_1 \mapsto M_2 \mapsto \dots \mapsto M_n` by reflecting successively across each side in order, reducing the :math:`n`-cushion path to a single straight line!
 
 * **Problem 340 — Minimum-Perimeter Inscribed Polygon** (*p. 62*): *In a given n-gon to inscribe another n-gon of minimum perimeter.* Consecutive sides must form equal angles with each host side; unfolding the entire polygon through :math:`n` axial reflections straightens the perimeter into one segment, proving why **odd-**\ :math:`n` **polygons** admit a unique determinate solution (for an acute triangle, its orthic triangle) whereas **even-**\ :math:`n` **polygons** are either impossible or indeterminate (porismatic)!
+""",
+    "ch_03_rotation": r""".. _petersen-en-theory-of-revolution:
 
-----
-
-.. _petersen-en-theory-of-revolution:
-
-Chapter III — The Theory of Revolution (pp. 65–68, §§ 1–5 & Problems 349–362)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Chapter III — The Theory of Revolution (pp. 70–94, §§ 1–5 & Problems 349–402)
+-----------------------------------------------------------------------------
 
 *[p. 65]* **1.** From a given point :math:`O`, let straight lines be drawn to all points :math:`a` of a given curve :math:`k`; revolve every such ray around :math:`O` through a given constant angle :math:`v`, increasing (or diminishing) its length simultaneously in a given constant ratio :math:`f`, so that the extremity :math:`A` satisfies
 
@@ -314,104 +370,33 @@ Canonical Rotation & Spiral-Similarity Problems (pp. 67–68)
 * **Problem 352** (*p. 67*): *In a given triangle to inscribe another triangle similar to a given one and having one vertex at a given point P on one side.* Pivot at :math:`P` with :math:`(v, f)` taken from the prototype triangle!
 * **§ 5 — Existence & Construction of the Pivot Point (p. 68)**: Any two directly similar figures in the plane admit a unique pivot point :math:`O` (unless congruent and parallel-translated): if corresponding lines :math:`AB` and :math:`ab` meet at :math:`P`, then :math:`O` is the **second intersection of circles** :math:`PAa` **and** :math:`PBb` (Miquel's pivot theorem).
 """,
-    "unit-06-method-of-similitude": r"""
-.. _petersen-en-method-of-similitude:
+    "appendix/sec_01_circle_arcs": r"""Appendix I — Intersection of Arcs of Circles (pp. 95–97)
+--------------------------------------------------------
 
-Chapter I (Subsections) — Multiplication of Curves & The Method of Similitude
------------------------------------------------------------------------------
+*[pp. 89–92 / 95–97]* Rolling a tangent line around a curvilinear polygon formed by circular arcs proves (*Theorem 1, p. 89*) that *the sum of the arc-measures of the sides (signed positively or negatively) plus the sum of the exterior supplement angles equals* :math:`4R` (:math:`360^\circ`), streamlining angle-chasing across intricate circle configurations.
 
-Multiplication of Curves (Homothety, pp. 22–27, Problems 117–145)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-*[pp. 22–24]* Take a fixed point :math:`P` and join it to an arbitrary point :math:`a` of a given curve :math:`k`. If along the straight line :math:`Pa` we determine :math:`A` such that :math:`PA : Pa = m : n`—either on the same side of :math:`P` (*multiplication by* :math:`+\frac{m}{n}`) or on the opposite side (*multiplication by* :math:`-\frac{m}{n}`)—the locus of :math:`A` is a curve :math:`K` similar and similarly situated (*homothetic*) to :math:`k`, with :math:`P` as :term:`centre of similitude <centre-of-similitude>` (a pure specialization of Chapter III's revolution with :math:`v = 0^\circ` or :math:`180^\circ`):
-
-1. **Multiplying a Straight Line**: Yields a parallel straight line whose distance from :math:`P` is multiplied by :math:`\pm \frac{m}{n}`.
-2. **Multiplying a Circle**: Yields a circle whose centre and radius are both multiplied from :math:`P` by :math:`\pm \frac{m}{n}`. Conversely, *any two unequal circles have two centres of similitude*—the **external centre** (dividing the line of centres externally in ratio :math:`+R_1 : R_2`) and the **internal centre** (dividing it internally in ratio :math:`-R_1 : R_2`).
-3. **Intersections With Scaled Curves** (*Problems 117–145*): To draw through :math:`P` a secant cut by two curves :math:`k, K_1` in segments :math:`Pa : PA = n : m`, multiply :math:`k` from :math:`P` by :math:`\pm \frac{m}{n}` and intersect with :math:`K_1`!
-
-----
-
-The Method of Similitude (pp. 27–33, Problems 146–191)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-*[pp. 27–29]* The :term:`Method of Similitude <method-of-similitude>` ranks alongside the Method of Two Loci as the most natural and fertile heuristic in elementary geometry. It applies under two distinct structural regimes:
-
-* **Case a — Given Only One Linear Magnitude Together With Angles and Ratios (pp. 27–28, Problems 146–153)**:
-  If all conditions save *one* determine only the **form** (shape) of the sought figure—specifying angles and ratios of lines—while a single given length fixes its **size**, *set aside the given length, adopt any convenient arbitrary length in its stead, construct a prototype figure similar to the sought one*, and finally scale the prototype by fourth-proportional similarity (:cite:`Euclid VI.12 <euclid:elements>`)!
-  - **Problem 152** (*p. 28*): *Construct a triangle given its three altitudes* :math:`h_a, h_b, h_c`. Since :math:`a h_a = b h_b = c h_c = 2\Delta`, the sides satisfy :math:`a : b : c = \frac{1}{h_a} : \frac{1}{h_b} : \frac{1}{h_c} = h_b h_c : h_c h_a : h_a h_b` (or secants from an external point to a circle of products). Construct any prototype triangle :math:`\triangle A'B'C'` with sides in those ratios, measure its altitude :math:`h'_a`, and scale from :math:`A'` by :math:`h_a / h'_a`!
-
-* **Case b — Positional Similitude by Omitting One Boundary Condition (pp. 28–33, Problems 154–191)**:
-  *[pp. 28–29]* Even when the sought figure must be inscribed in or placed upon a given figure, *if omitting one condition leaves a system of figures that remain similar and similarly situated with respect to a fixed* :term:`centre of similitude <centre-of-similitude>`, then **every point of the variable figure describes a straight line (or scaled curve) through that centre of similitude**! Drawing *any one* convenient prototype figure fixes that straight-line locus, whose intersection with the omitted boundary immediately gives the true figure!
-
-.. picture:: /_static/figures/unit06-homothety-inscribed-square.svg
-   :class: euclid-picture
-
-**Figure 6.1 — Petersen's Problem 155 (p. 29): Inscribing a Square in a Given Triangle by Homothety.** Suppressing the condition that the upper-right vertex lie on :g:`[ B C ]`, we erect prototype square :g:`< D0 E0 F0 C >` of side :math:`h_c = 12` resting on base :g:`[ A B ]` with upper-left vertex at :g:`C` on :g:`[ A C ]`. Taking :g:`A` as **centre of similitude**, the locus of the free vertex is ray :g:`[ A F0 ]`, which intersects :g:`[ B C ]` at :g:`F` :math:`= (119/13, 84/13)`, yielding exact inscribed square :g:`< D E F G >` of side :math:`84/13`.
-
-Flagship Homothety Constructions (Problems 154–191)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* **Problem 155** (*p. 29*): *To inscribe a square in a given triangle, sector, or segment.*
-  - **Analysis & Construction for** :math:`\triangle ABC`\ **:** Require square :math:`DEFG` with :math:`D, E \in AB`, :math:`G \in AC`, and :math:`F \in BC`. *Omit the condition* :math:`F \in BC`! Every square :math:`D_0 E_0 F_0 G_0` resting on :math:`AB` with :math:`G_0 \in AC` is homothetic with respect to vertex :math:`A` as centre of similitude, because :math:`AD_0 : D_0 G_0 = \cot A` is constant. Hence the free fourth vertex :math:`F_0` moves along the straight ray :math:`AF_0`! Construct any one prototype square (for instance, with :math:`G_0 = C` and side :math:`h_c`), connect :math:`A F_0` to meet :math:`BC` in :math:`F`, and complete :math:`DEFG` by parallels and perpendiculars.
-  - *For a circular sector*: Take the centre of the circle as centre of similitude (if two vertices lie on the radii) or the midpoint of the base chord (for a segment)!
-* **Problem 166** (*p. 30*): *In a given triangle* :math:`ABC` *to inscribe another* :math:`XYZ`\ *, knowing the direction of* :math:`YZ`\ *, the fixed point* :math:`X \in BC`\ *? — or knowing the ray* :math:`AX` *on which* :math:`X` *falls, the direction of* :math:`YZ`\ *, and the ratio* :math:`XY : XZ`. Remove :math:`BC` (retaining ray :math:`AX`) and take :math:`A` as centre of similitude!
-* **Problem 170** (*p. 30*): *In a triangle to inscribe a rhombus, one vertex of which coincides with one of the vertices of the triangle* (homothety from :math:`A`, coinciding with the internal angle bisector :math:`v_A`).
-* **Problem 181** (*p. 31*): *Construct a circle passing through a given point* :math:`P` *and touching two given intersecting straight lines* — take the intersection of the two lines as centre of similitude, draw *any* prototype circle touching both lines, intersect ray :math:`OP` with the prototype circle at :math:`P_1, P_2`, and scale by :math:`OP / OP_1` and :math:`OP / OP_2` (**two solutions**)!
+By decomposing complex contact systems into circular-arc triangles and applying the angle-sum invariant, the contact relations between mutually tangent circles can be evaluated directly without solving transcendental or high-order equations.
 """,
-    "unit-07-inversion-and-constructibility": r"""
-.. _petersen-en-inversion-and-constructibility:
+    "appendix/sec_02_circle_systems": r"""Appendix II — Systems of Circles, Monge's Theorem & Apollonius's Problem (pp. 98–103)
+--------------------------------------------------------------------------------------------------
 
-Inverse Figures, Systems of Circles & Straightedge-and-Compass Constructibility
--------------------------------------------------------------------------------
+*[pp. 92–95 / 98–103]*
 
-Inverse Figures (Chapter I Subsection, pp. 33–37, Problems 192–201)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* **Theorem 10** (*p. 92*): If a circle touches two given circles at :math:`A` and :math:`B`, line :math:`AB` passes through the external centre of similitude (for like contacts) or internal centre of similitude (for unlike contacts).
 
-*[pp. 33–36]* Let a fixed point :math:`P` (*the centre of inversion*) and a constant positive product :math:`I` (*the power of inversion*) be chosen. If on every ray through :math:`P` we associate to each point :math:`A \neq P` the point :math:`A_1` satisfying
+* **Theorem 11 — Monge's Theorem** (*pp. 92–93*, :person:`Monge <monge>`): *The three external centres of similitude for each pair of three circles lie in one straight line* (and likewise any two internal centres with the third external centre).
 
-.. math::
-
-   PA \times PA_1 = I,
-
-then as :math:`A` traces a curve :math:`k`, :math:`A_1` traces its :term:`inverse curve <inverse-figures>` :math:`k_1`. Petersen establishes four foundational theorems (*pp. 33–36*):
-
-1. **Circle Through the Centre** (*p. 34*): *The inverse curve of a circle passing through the centre of inversion is a straight line* perpendicular to the diameter through :math:`P` (and conversely, the inverse of any straight line not passing through :math:`P` is a circle through :math:`P`).
-2. **Circle Not Through the Centre** (*p. 34*): *The inverse curve of a circle not passing through* :math:`P` *is another circle, and* :math:`P` *is a centre of similitude of both circles.* In particular, if :math:`I` equals the tangent power of :math:`P` with respect to the given circle, that circle is its **own** inverse!
-3. **Preservation of Contact** (*p. 35, a*): *If two curves intersect or touch each other at* :math:`A \neq P`\ *, their inverse curves intersect or touch each other at the corresponding point* :math:`A_1`.
-4. **Conformality** (*pp. 35–36, b*): *If two curves intersect at* :math:`A` *forming a certain angle, their inverse curves intersect at* :math:`A_1` *forming the* **same** *angle* (with opposite orientation).
-
-.. picture:: /_static/figures/unit07-inversion-tangent-circle.svg
-   :class: euclid-picture
-
-**Figure 7.1 — Petersen's Problem 199 (p. 36): Circle Touching Three Concurrent Circles via Circle Inversion.** Given three circles :g:`( M1 O )`, :g:`( M2 O )`, :g:`( M3 O )` concurrent at :g:`O`, inversion in :g:`( O R0 )` (:math:`\Omega`) transforms all three circles into straight lines bounding :math:`\triangle V_1 V_2 V_3`. Constructing its incircle :g:`( Jp T1p )` (:math:`\omega'`) and inverting contact points :g:`T1p`, :g:`T2p`, :g:`T3p` back to :g:`T1`, :g:`T2`, :g:`T3` determines exact tangent circle :g:`( J T1 )` (:math:`\omega`, radius ``27``).
-
-* **Problem 197** (*p. 36*): *Construct a circle passing through a given point* :math:`P` *and touching two given circles.* Inverting from :math:`P` reduces the sought circle to a **common tangent** of the two inverted circles (and :math:`I` may be chosen equal to the power of :math:`P` with respect to one given circle so that circle remains unaltered!).
-* **Problem 199** (*p. 36*): *Construct a circle touching three given circles, which all pass through the same point* :math:`O`. Inverting from :math:`O` transforms the three given circles into three straight lines; the inscribed and escribed circles of that triangle invert into the **four tangent solution circles**!
-* **Problems 200–201 — Castillon's Problem** (*pp. 36–37*): *In a given circle to inscribe a quadrilateral (or triangle), each side of which passes through a given point* — solved by composing successive inversions in the given points using their powers with respect to the given circle!
-
-----
-
-Appendix I & II — Intersection of Circular Arcs & Systems of Circles (pp. 89–97)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* **Intersection of Arcs of Circles** (*pp. 89–92*): Rolling a tangent line around a curvilinear polygon formed by circular arcs proves (*Theorem 1, p. 89*) that *the sum of the arc-measures of the sides (signed positively or negatively) plus the sum of the exterior supplement angles equals* :math:`4R` (:math:`360^\circ`), streamlining angle-chasing across intricate circle configurations.
-
-* **Systems of Circles, Monge's Theorem & Apollonius's Problem** (*pp. 92–95*):
-  - **Theorem 10** (*p. 92*): If a circle touches two given circles at :math:`A` and :math:`B`, line :math:`AB` passes through the external centre of similitude (for like contacts) or internal centre of similitude (for unlike contacts).
-  - **Theorem 11 — Monge's Theorem** (*pp. 92–93*, :person:`Monge <monge>`): *The three external centres of similitude for each pair of three circles lie in one straight line* (and likewise any two internal centres with the third external centre).
-  - **Problem 403 — Apollonius's Problem** (*pp. 94–95*, :person:`Apollonius <apollonius>`, :person:`Gergonne <gergonne>`): *To draw a circle touching three given circles* :math:`A, B, C`. Petersen presents three distinct solutions, culminating in **Gergonne's synthesis** (*p. 95*): join the pole in circle :math:`A` of a similitude axis of :math:`(A, B, C)` to the **radical centre** of :math:`(A, B, C)`; its intersections with :math:`A` give the exact points of contact for pairs of the **eight Apollonius circles**!
+* **Problem 403 — Apollonius's Problem** (*pp. 94–95*, :person:`Apollonius <apollonius>`, :person:`Gergonne <gergonne>`): *To draw a circle touching three given circles* :math:`A, B, C`. Petersen presents three distinct solutions, culminating in **Gergonne's synthesis** (*p. 95*): join the pole in circle :math:`A` of a similitude axis of :math:`(A, B, C)` to the **radical centre** of :math:`(A, B, C)`; its intersections with :math:`A` give the exact points of contact for pairs of the **eight Apollonius circles**!
 
 * **Problem 404 — Petersen's Elementary Proof of Steiner's Malfatti Construction** (*pp. 95–97*):
   *In a triangle* :math:`ABC` *to inscribe three circles* :math:`S_a, S_b, S_c`\ *, each touching the other two circles and two sides of the triangle.* Fulfilling his Preface (*p. 2*), Petersen replaces :person:`Schröter's <schroeter>` intricate 1874 inversion proof with a two-page elementary angle-and-chord deduction of :person:`Steiner's <steiner>` 1826 theorem (*the common internal tangent to* :math:`S_a` *and* :math:`S_b` *at their contact* :math:`\gamma` *touches two of the incircles of the sub-triangles formed by the three angle bisectors of* :math:`\triangle ABC`).
+""",
+    "appendix/sec_03_constructibility": r""".. _petersen-en-constructibility:
 
-----
+Appendix III — Possibility of Solving Problems by Straight Edge & Compasses (pp. 104–112)
+-----------------------------------------------------------------------------------------
 
-.. _petersen-en-constructibility:
-
-Appendix III — Possibility of Solving a Problem by Straight Edge & Compasses (pp. 97–102)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-*[pp. 97–98]* When we fail to solve a proposed problem, either we have missed the right geometric method, or **the problem belongs to those which cannot be solved by straight edge and compasses**. Every Euclidean construction compounds intersections of straight lines (:math:`ax + by + c = 0`) and circles (:math:`(x - h)^2 + (y - k)^2 = r^2`), whose elimination produces equations of **only the first or second degree** at each step. Conversely, every rational operation and every quadratic radical :math:`\sqrt{k}` is constructible by fourth proportionals and mean proportionals (*Problem 42*). Hence Petersen's fundamental theorem (*p. 98*):
+*[pp. 97–98 / 104–112]* When we fail to solve a proposed problem, either we have missed the right geometric method, or **the problem belongs to those which cannot be solved by straight edge and compasses**. Every Euclidean construction compounds intersections of straight lines (:math:`ax + by + c = 0`) and circles (:math:`(x - h)^2 + (y - k)^2 = r^2`), whose elimination produces equations of **only the first or second degree** at each step. Conversely, every rational operation and every quadratic radical :math:`\sqrt{k}` is constructible by fourth proportionals and mean proportionals (*Problem 42*). Hence Petersen's fundamental theorem (*p. 98*):
 
    *The necessary and sufficient condition for the possibility of the demanded construction by straight edge and compasses is, that the required quantities may be expressed in terms of the given, rationally or irrationally only by square roots.*
 
@@ -437,3 +422,15 @@ Immediately following this proof (*p. 101*), writing in **1879**—three years b
 * **Problem 410** (*pp. 101–102*): *Given a point P and two circles, draw a line through P and tangents to each circle so that P and the two points of contact are the midpoints of the sides of the triangle thus formed.* Revolving one circle around :math:`P` reduces the construction to *Problem 408*, proving the final 410th problem of the treatise **unsolvable by straight edge and compasses**.
 """,
 }
+
+# Backward-compatible mapping for legacy unit slugs
+UNITS_EN: dict[str, str] = dict(CANONICAL_EN)
+UNITS_EN.update({
+    "unit-01-anatomy-of-construction": CANONICAL_EN["intro"],
+    "unit-02-loci-of-points": CANONICAL_EN["ch_01_loci/sec_01_loci_of_points"],
+    "unit-03-loci-of-lines": CANONICAL_EN["ch_01_loci/sec_06_loci_of_lines"],
+    "unit-04-parallel-translation": CANONICAL_EN["ch_02_transformation/sec_01_parallel_translation"],
+    "unit-05-axial-reflection-and-rotation": CANONICAL_EN["ch_03_rotation"],
+    "unit-06-method-of-similitude": CANONICAL_EN["ch_01_loci/sec_03_similitude"],
+    "unit-07-inversion-and-constructibility": CANONICAL_EN["appendix/sec_03_constructibility"],
+})

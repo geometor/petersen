@@ -1,0 +1,43 @@
+                                   74
+
+                         AB     und ab müssen        dann     den Drehungs-
+                         winkel     bilden;     dieser Winkel     wird     auch
+                         von den Linien gebildet, welche zwei ho-
+                         mologe Punkte mit dem Drehungspunkte
+                         verbinden, und dieser muss folglich auf
+                         demselben Kreise liegen wie der Durch-
+                         schnittspunkt    von     zwei     homologen     Linien
+                         und      zwei   homologe        Punkte   auf    diesen
+                         Linien.
+                               Der Drehungspunkt für zwei homologe
+Linien in zwei ähnlichen Figuren ist der Drehungspunkt für die
+Figur selber, denn dreht man die eine Linie, so dass sie die andere
+deckt, so muss die eine Figur auch die andere decken.
+      Der Drehungspunkt für zwei unendliche gerade Linien, als
+ähnliche Figuren betrachtet, ist vollkommen unbestimmt; wählt man
+zwei Punkte auf den Linien als homologe Punkte, so erhält man einen
+Kreis als geometrischen Ort für den Drehungspunkt; werden noch
+zwei homologe Punkte gegeben, oder was dasselbe ist, das Drehungs-
+verhältniss, so wird der Drehungspunkt vollkommen bestimmt; es
+giebt nur einen, da sich die Kreise zum zweiten Male im Durch-
+schnittspunkte der Geraden schneiden.
+      Für zwei Kreise ist der Drehungspunkt unbestimmt, da zwei
+beliebige von ihren Punkten als homologe Punkte betrachtet werden
+können; da die Abstände des Drehungspunktes von den Kreismittel-
+punkten sich wie die Radien verhalten müssen, so wird der geo-
+metrische Ort desselben ein Kreis, welcher die Centrale harmonisch
+nach diesem Verhältniss theilt (der Kreis durch die Aehnlichkeits-
+punkte der beiden gegebenen Kreise mit dem Mittelpunkte auf der
+Centrale).    Wählt man zwei Punkte der Kreise als homologe
+Punkte, so wird der Drebungspunkt bestimmt und lässt sich am
+leichtesten mit Hülfe der beiden homologen Radien finden, da die
+Mittelpunkte immer homologe Punkte sind.
+      6. Der Drehungspunkt für zwei gegenüberliegende Seiten eines
+ Vierecks ist auch der Drehungspunkt für die beiden anderen.
+      O sei der Drehungspunkt für BA und CD; dann ist A ABO
+A     DOC, aber hieraus folgt leicht, dass          A AODw         A     BOG,
+und daraus folgt dann wieder,     dass   O der Drehungspunkt für AD
+
+
+
+                                                                                  See

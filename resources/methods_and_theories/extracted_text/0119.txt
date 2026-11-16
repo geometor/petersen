@@ -1,0 +1,38 @@
+                             103
+
+Punkte D und bildet gleichgrosse Winkel mit AB und AC
+(9). Die Tangenten desselben in c, und D schneiden sich
+deshalb auf der Linie, welche Z A halbirt, und bilden mit
+den beiden Seiten ein einbeschriebenes Viereck, so dass der
+Bogen c,D gleich dem Winkel A ist. Der Kreis e,aß geht
+auch durch c,. Dieser Kreis und der Kreis ADb, mögen
+sich in Z schneiden.    Nun ist Z 2b, = Z GR
++ 2 b,Dß —= 180° — 44; hieraus folgt, dass der Kreis
+c,Eb, seinen Mittelpunkt in A hat.    Der Kreis c,c,aß
+schneidet AB, AE und die Tangente in c, unter gleichen
+Sehnen,   denn   Ac,   =   AZ,   und der Kreis schneidet   AB   und
+Dpße, unter gleichen Winkeln.    Auf dieselbe Weise ist er-
+sichtlich, dass der Kreis #2.Db, die AE und die Tangente
+in D unter gleichen Sehnen schneidet. Nun mögen die Tan-
+genten in c, und D sich in 7 schneiden, während sie AE
+bezüglich in @ und Z schneiden. Aus „F = DF, 0,6
+—= EG, DH = EH folgt, dass die eine Seite des Dreiecks
+GFH gleich der Summe der beiden anderen ist. Die Punkte
+@G und HZ müssen deshalb mit 7 zusammen fallen, so dass
+AEF den Winkel A halbirt.     Der Kreis c,c,aß schneidet
+also AB, AE und die Tangenten in « und A unter gleichen
+Winkeln, und man kann deshalb einen diesem concentrischen
+Kreis zeichnen, der die vier Linien berührt.  Auf dieselbe
+Weise wird bewiesen, dass dieser Kreis auch die Linie be-
+rührt, welche den Winkel 2 halbirt, und damit ist dann der
+Steinersche Satz abgeleitet.       Will man auch solche Kreise in
+Betracht ziehen, welche die Verlängerungen der Seiten be-
+rühren, so erhält die Aufgabe andere Lösungen, welche sich
+durch einfache Aenderungen des hier Entwickelten ergeben.
+Wenn man in der Aufgabe an Stelle der Seiten des Dreiecks
+drei Kreise setzt, so kann man die inverse Figur betrachten
+mit einem Durchschnittspunkt von zwei von den Kreisen als
+Inversionscentrum.   Man schliesst dann leicht, dass der oben
+bewiesene Satz sich auf diesen Fall erweitern lässt, wenn man
+an Stelle der Halbirungslinien der Winkel die Kreise setzt,
+welche die Winkel zwischen je zwei von den gegebenen hal-

@@ -1,0 +1,42 @@
+                                        76
+
+       X und      Y so schneidet,     dass die Abschnitte              AX       und BY in
+       einem gegebenen Verhältniss stehen.
+       Man bestimme den Drehungspunkt                       O    für     die      gegebenen
+       Linien, indem    man   A und B sowie X                   und     Y als homologe
+       Punkte betrachtet; das gegebene Verhältniss ist also das
+       Drehungsverbältniss.  Da nın    A OXYw A OAD, so wird
+       die Linie OP von dem Punkte X aus unter einem bekannten
+       Winkel gesehen, und dadurch lässt sich X leicht bestimmen.
+       Anmerkung. Diese Aufgabe ist von Apollonius in einer Schrift
+       «de sectione rationis» gestellt und behandelt.  Die Schrift
+       selber ist verloren gegangen, aber von Halley nach einer er-
+       haltenen arabischen Uebersetzung wieder hergestellt.
+364.   Durch einen gegebenen Punkt eine gerade Linie zu ziehen,
+       welche zwei gegebene ähnliche Curven in zwei homologen
+       Punkten schneidet.
+       Die Aufgabe ist eine einfache Erweiterung der vorhergehenden
+       und wird ebenso wie diese gelöst.
+       Gegeben sind zwei gerade Linien und auf jeder derselben ein
+       Punkt, A und D, sowie ausserdem ein Punkt £.         Man soll
+       durch ./ eine Gerade ziehen, welche die gegebenen Linien in
+       X und Y so schneidet, dass die Abschnitte AX und BY
+       eine gegebene Summe haben.
+       Trägt man auf der einen Linie das Stück 3.D gleich der ge-
+       gebenen Summe ab, so muss AX = YD sein, und dadurch
+       ist die Aufgabe auf 363 reducirt.
+366.   Durch einen gegebenen Punkt / eine gerade Linie zu ziehen
+       welche in Verbindung mit zwei gegebenen Geraden ein Dreieck
+       mit gegebenem Flächeninhalt bildet.
+       A sei der Durchschnittspunkt der gegebenen Geraden; man
+       stelle den gegebenen Rlächeninhalt in Form eines Dreiecks dar,
+       dessen    eine Seite AP ist,          und   dessen       andere      Seite    auf eine
+       der gegebenen     Geraden      fällt; die gesuchte             Linie muss      nun    sO
+       gezogen     werden,    dass     das     Flächenstück,           welches       zu     dem
+       Dreieck     hinzukommt,       gleich    dem ist, welches                 abgeschnitten
+       wird;     diese beiden Flächenstücke sind aber zwei Dreiecke,
+       deren     Höhen bekannt sind, nämlich die Abstände des Punktes
+       P von     den beiden Geraden.           Das Verhältniss der Grundlinien
+
+                                                                                                   ne)
+                                                                            =                     y

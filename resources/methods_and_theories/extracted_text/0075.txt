@@ -1,0 +1,43 @@
+                                            59
+
+       Analog 261.
+305. Ein Trapez          zu   construiren        aus   den   Diagonalen,       der     Linie,
+       welche     die Mitten     der Diagonalen          verbindet,      und   der Linie,
+       welche die Mitten von zwei gegenüberliegenden Seiten ver-
+       bindet.
+306.   In einen Kreis ein Trapez zu beschreiben, wenn man die Höhe
+       und die Summe der parallelen Seiten kennt.
+       Das Trapez lässt sich so hinlegen, dass es von einem belie-
+       gen Durchmesser symmetrisch getheilt wird.       Die Mitte von
+       einer der nicht parallelen Seiten muss auf einer bekannten
+       Linie liegen, welche dem Durchmesser parallel ist. Der Fuss-
+       punkt der Höhe, welche von dem Endpunkt einer der nicht
+       parallelen Seiten gefällt ist, lässt sich nun bestimmen.   (271
+       und 336).
+307.   Auf eine gegebene gerade Linie AB eine andere CD von
+       gegebener Länge so zu legen, dass € und D die AB har-
+       monisch theilen.
+       Ueber AB als Sehne beschreibe man einen beliebigen Kreis,
+       und ziehe, indem man die Aufgabe als gelöst ansieht, von ©
+       und D die Linien CE und DF an die Mitten der beiden
+       Bogen AD.      Diese Linien stehen auf einander senkrecht, und
+       schneiden sich auf der Peripherie des Kreises. Verschiebt man
+       CD     parallel    bis ZG,        so wird FG          von   .D aus unter einem
+       rechten Winkel         gesehen.      —      Ist M     die Mitte     von AD,         so
+       kennt man das Product und die Differenz von MC und M.D
+       auch hierdurch lässt sich die Aufgabe leicht lösen.
+308.   Gegeben sind zwei Punkte A und DB und zwischen ihnen
+       zwei     Parallelen;    man   soll       zwischen      diesen   eine    Linie    MN
+       mit gegebener Richtung so ziehen, dass AM + MN + NB
+       ein Minimum werde.
+309.   Durch einen gegebenen Punkt P eine Gerade zu ziehen,
+       deren Abstände AX und BY von zwei gegebenen Punkten
+       A und BD ein gegebenes Product haben.
+       Verschiebt man BY bis AY,, so wird der Ort für Y, eine
+       Gerade, während der Ort für X ein Kreis über AP als Durch-
+       messer ist; verschiebt man die Gerade um dass Stück AD,
+
+
+                                                                                                h
+                                                                                                a
+                                                                                                a

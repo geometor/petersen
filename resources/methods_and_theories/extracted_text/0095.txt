@@ -1,0 +1,39 @@
+                                                79
+
+            stehen, und da die Medianen               solche Linien        sind, muss     er auf
+            dem Durchschnittspunkte dieser liegen. Da die Durchschnitts-
+            punkte der Höhen homologe Punkte sind, und dieser Punkt
+            des kleinen Dreiecks der Mittelpunkt des um das grosse
+            Dreieck   beschriebenen Kreises ist, so sieht man,                dass in jedem
+        Dreieck der Durchschnittspunkt der Höhen, der Durchschnitts-
+        punkt der Medianen und der Mittelpunkt des umbeschriebenen
+        Kreises auf einer Geraden liegen, deren Abschnitte sich wie
+        1:2 verhalten.
+376.    Gegeben       sind ein Kreis, die Punkte              O und / und ein Winkel
+         v; eine durch P gezogene Gerade schneidet den Kreis in A
+         und B; man bestimme den geometrischen Ort für einen
+        solchen Punkt X, dass             Z OBX          =    ZZ 04X          =v.
+        Der Kreis AOXB schneidet OP in zwei festen Punkten. Er
+        bewegt sich deshalb um O als Drehungspunkt, so dass sein
+        Mittelpunkt eine gerade Linie durchläuft.  X durchläuft des-
+        halb auch eine gerade Linie.     Falls O der Mittelpunkt des
+        gegebenen        Kreises ist, und v» —           90°, durchläuft X die Polare
+        von P.
+       8.     Hat man     drei ähnliche     Systeme          A, B und        C, und ist ein
+Punkt        O der Drehungspunkt          für        A und B,    und        zugleich     für B
+und     ©, so     muss    er auch   der, Drehungspunkt               für     A und      € sein;
+der Punkt wird also gemeinschaftlicher Drehungspunkt                            für die drei
+Systeme,        und   dasselbe   kann     natürlich       der Fall     für eine beliebige
+Anzahl von Systemen sein.
+      Verbindet man drei homologe Punkte a, 5 und e der drei Sy-
+steme mit dem Drehungspunkte O, so müssen die Verhältnisse
+dieser Linien, sowie die Winkel,; welche sie mit einander bilden,
+constant sein; daraus folgt, das die Form des Dreiecks abe auch
+constant ist, und ich will es deshalb das Grunddreieck nennen.                             Auf
+dieselbe Weise sieht man, dass mehreren ähnlichen Figuren                                  mit
+einem gemeinschaftlichen Drehungspunkt ein gewisses Grundpolygon
+von constanter        Form   entspricht;        dreht    dasselbe     sich um        den Dre-
+hungspunkt, so dass der eine Eckpunkt die eine Figur durchläuft,
+werden die übrigen Eckpunkte die übrigen Figuren durchlaufen, und
+jeder andere Punkt der Ebene, als zugehörig zum Grundpolygon be-
+trachtet,      wird eine den übrigen ähnliche                 Figur durchlaufen.            Da

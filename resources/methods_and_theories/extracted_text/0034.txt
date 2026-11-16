@@ -1,0 +1,38 @@
+                                                     18
+
+            D mit B; wie             leicht ersichtlich    lässt sich nun          A CDB       so-
+            fort construiren, dd Z    D= 34. Den Eckpunkt A bestimmt
+            man dann mittelst c.
+            Zugleich ersieht man hieraus, dass, wenn BC eine gegebene
+            Sehne     ist,    und     man    eine     Sehne BA       bis     D um     ein Stück
+            AD = DC verlängert, der geometrische Ort für D ein Kreis
+            ist, dessen Mittelpunkt auf der Mitte des Bogens BC liegt.
+            Ein Dreieck       zu construiren        aus A, db und a—c.
+            Man verlängere e über A hinaus um das Stück a — c.
+          . Einen gegebenen Bogen in zwei andere so zu theilen, dass die
+            Summe der zugehörigen Sehnen ein Maximum werde.
+            Man construire ein Dreieck aus A, db+c und      u +                               DE,
+            wo D den Fusspunkt von A, bedeutet.
+            Ein Dreieck zu construiren aus    ,db-+eund DB — C
+            Ein Dreieck zu construiren aus aa Aunddb — c«.
+           Um ein gegebenes Quadrat ein anderes gegebenes Quadrat zu
+           beschreiben (73).
+           Um ein gegebenes regelmässiges neck ein anderes gegebenes
+           regelmässiges neck zu beschreiben.
+      .    Ein Viereck        zu     construiren     aus   AB,     BC,       BD,     Z2 A     und
+        u:
+      . Man construire              ein Viereck      aus AB,      AC,       ZA,      Z D und
+        RG.
+      . Ein einbeschriebenes Viereck                  zu construiren        aus r, AC,        BD
+           und AB + BC.
+           Man      zeichne    den     Kreis,      trage   AC    hinein     und    bestimme     3
+           (73); dann findet man            D.
+   . Ein einbeschriebenes Viereck zu construiren aus AB, BC, AC
+     und CD+ DA.
+85. Ein Viereck zu construiren aus AB, CD, AC, Z£ BAC und
+           ZEABID:
+86.        Ein einbeschriebenes Viereck               zu construiren        aus AB     + BC,
+           DA, BD und £ 4.
+  .        Ein Dreieck zu construiren aus                   ,db —cund    B— C.
+           Man ziehe BD, so dass AD =                      AB und also DC =b —                 c;
+           es ergiebt sich dann leicht, dass               Z DBC        =    4 (B-C).         Das

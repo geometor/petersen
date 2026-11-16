@@ -1,0 +1,39 @@
+                                                al
+
+           Sehne ZC gegeben. Man soll eine Sehne AD ziehen, welche
+           BCin E so schneidet, dass DE und DC in einem gege-
+           benen Verhältniss stehen.
+           Man kennt die Form des Dreiecks CE.D und zeichnet ein
+           diesem      ähnliches    Dreieck,    indem       man       C als Aehnlichkeits-
+           punkt nimmt.
+164.       In einem Kreise sind zwei Radien gegeben; man ziehe eine
+           Sehne, welche von diesen in drei gleiche Theile getheilt
+           wird.
+165.       In ein Viereck      einen    Rhombus         zu beschreiben,       dessen   Seiten
+           den Diagonalen          des Vierecks parallel sind.
+166.       Ein Dreieck XYZ            soll in ein,‚gegebenes Dreieck            beschrieben
+           werden; man kennt die Richtung von YZ, den Punkt von
+           BC, auf welchen X fallen soll und das Verhältniss XY: XZ.,
+           Man       betrachte DC als nicht           vorhanden       (aber nicht die Linie
+      von A durch den auf BC gegebenen Punkt) und nehme A
+      als Aehnlichkeitspunkt.
+167. Eine Linie mit gegebener Richtung zu ziehen, -welche das
+      eine Paar gegenüberliegender Seiten eines Vierecks nach
+     ‚gleichem Verhältniss theilt (154).
+168. In einem Dreieck soll eine Linie parallel der einen Seite so
+      gezogen werden, dass sie die mittlere Proportionale zwischen
+           den Stücken      ist,    in welche        sie eine   von    den anderen     Seiten
+           theilt.
+       .   Gegeben      sind ein Punkt 3        und zwei Parallelen,        die eine durch
+           4. Durch A und 2 sollen zwei neue Parallelen gezogen
+           werden, welche in Verbindung mit den gegebenen 1) einen
+           Rhombus bilden; 2) ein Parallelogramm mit gegebenem Um-
+           fang; 3) ein Paralleloegramm mit gegebenem Verhältniss der
+           Seiten.
+       .   In ein Dreieck      einen    Rhombus         zu beschreiben,       dessen    einer
+           Winkel mit einem Winkel des Dreiecks zusammenfällt.
+171.       In einen Kreis ein gleichschenkeliges Dreieck zu beschreiben,
+           wenn die Summe aus Höhe und Grundlinie gegeben ist.
+           Man nehme A ABC als das verlangte an und führe die ge-
+           gebene Summe in die Figur ein, indem man die Höhe BD
+           bis # verlängert; dann muss DE—= 2 AD sein, so dass die

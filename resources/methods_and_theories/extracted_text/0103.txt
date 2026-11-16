@@ -1,0 +1,40 @@
+                                             87
+
+             A, B und (© seien drei beliebige Punkte des einen Systems,
+         und a, 5 und ce die entsprechenden Punkte des anderen Systems.
+         M sei ein beliebiger Punkt     des ersten   Systems,    der   nur   nicht auf
+         der Kreisperipherie ABC liegen darf.    Den beiden Kreisen ABM
+>me.
+ =
+         und BCM entsprechen zwei Kreise abm und bem des anderen Sy-
+         stems, und M muss deshalb = entsprechen.         Die Abhängigkeit
+         zwischen den beiden Systemen ist also vollständig bestimmt durch
+         drei Punktenpaare.   Nun beschreibe man in den Kreis ABC ein
+         Dreieck a,d,c, w abe derartig, dass Aa,, Db, und Ce, sich in
+         einem Punkte O schneiden.     Diese Aufgabe lässt sich leicht lösen,
+        da die Winkel bei O bekannt sind. Hieraus geht hervor, dass man
+        durch Inversion aus dem System ADC ein dem System abe ähn-
+        liches System bilden kann, und dieses kann dann wieder durch eine
+        Drehung (und nöthigenfalls durch eine Drehung um eine Axe) in
+        das System ade transformirt werden.
+             Dadurch ist bewiesen, dass zwei Systeme, in denen Punkt und
+        Punkt, Kreis und Kreis sich gegenseitig entsprechen, immer durch
+        Drehung und Imversion in einander transformirt werden können.
+             19. Aus den in der Drehungstheorie bewiesenen Sätzen lassen sich
+        neue Sätze von     allgemeinerer   Bedeutung    durch die Methoden         der
+        neueren Geometrie ableiten.   Da diese Anwendungen dem Plane
+        dieses Buches fremd sind, mag es genügen ein Beispiel anzuführen.
+        In 11 wurde bewiesen,      dass eine gerade Linie,      welche sich so be-
+        wegt, dass das Verhältniss der Abschnitte ab und de, welche auf
+        derselben durch drei feste Linien abgeschnitten werden, constant ist,
+        sich um einen festen Drehungspunkt dreht, woraus folgt, dass jeder
+        Punkt der Linie, welcher durch das Verhältniss          bestimmt ist, nach
+         welchem er z. B. ab theilt, auch eine gerade Linie beschreibt. Die
+         genannten Verhältnisse lassen sich durch Doppelverbältnisse aus-
+         drücken, wenn der Durchschnittspunkt der beweglichen Linie mit
+       . der unendlich fernen geraden Linie mit in Betracht gezogen wird.
+        In der Form,     welche   der Satz dadurch   erhält,    drückt er eine pro-
+        jectivische Eigenschaft aus, nämlich:
+              Wenn eine bewegliche Gerade vier feste gerade Linien in Punkten
+        mit constantem Doppelverhältniss schneidet, beschreibt jeder Punkt der
+         Geraden (bestimmt durch Doppelverhältnisse) eine gerade Linie.

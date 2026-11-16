@@ -1,0 +1,40 @@
+                                         83
+
+man     kann ihn also sofort zeichnen,        da er durch   die festen Punkte
+M und N geht und den bekannten Winkel D fasst.                          Der Dre-
+hungspunkt O ist also fest, da er ausser auf diesem                    auch noch
+auf einem anderen Kreise liegen muss, welcher auf ähnliche Weise
+durch N und P construirt ist. Ein Kreis, welcher durch O, P und
+D gezogen ist, muss nun auch durch D, gehen, sowie durch den
+Durchschnittspunkt der homologen Linien AD und A,D, für eine
+beliebige Lage dieser letzten Linie, und folglich ist dieser Durch-
+schnittspunkt fest.   Auch dieser Satz lässt naturgemäss eine Er-
+weiterung zu, welche indessen um die Sache von verschiedenen
+Seiten zu betrachten,        auf eine andere Weise     bewiesen   werden    soll.
+       13. Lässt man ein Polygon, welches einem gegebenen ähnlich
+ ist, sich um einen festen Drehungspunkt drehen, so wurde bis hier-
+ her die Bewegung dadurch bestimmt gedacht, dass ein Punkt des
+ Polygons eine gegebene Curve durchlief; die Bestimmung kann in-
+ dessen auch dadurch geschehen, dass eine Seite des Polygons während
+ der Bewegung beständig eine gegebene Curve berühren (einhüllen,
+ generiren) soll.  In diesem Falle muss auch jede andere Linie des
+ Polygons eine Curve einhüllen, welche der gegebenen ähnlich ist.
+ Denkt man sich nämlich, dass AB bei steter Berührung der gege-
+ benen Curve nach und nach die Lagen AB, A,b,, 4,B,
+u.s. w. einnimmt, und eine andere Linie 3C des Polygons die ent-
+ sprechenden Lagen BC, B,C,, B,C, u.s.w., dann müssen sich
+ diese beiden Systeme von Linien durch eine Drehung um den festen
+ Punkt zur Deckung bringen lassen, wenn man den constanten
+ Winkel zwischen zwei sich entsprechenden Linien zum Drehungs-
+ winkel, und das constante Verhältniss der Abstände zweier solcher
+ Linien vom Drehungspunkte zum Drehungsverhältniss nimmt.         Die
+ Figuren, welche von den beiden Systemen von Linien gebildet
+ werden, sind folglich ähnlich, und da dieses unabhängig von der
+ Anzahl der Lagen gilt, muss es auch gelten, wenn diese unendlich
+wird,    und   also   die   gebildeten   Figuren   eben die generirten     Curven
+sind.
+      Man sieht leicht, das der gegebene Punkt auch der gemein-
+schaftliche Drehungspunkt für die erzeugten Curven wird, indem der
+Drehungswinkel gleich dem Winkel zwischen den generirenden Linien
+ist, und das Drehungsverhältniss gleich dem Verhältniss zwischen den
+                                                                  6*

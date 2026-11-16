@@ -1,0 +1,41 @@
+                                                   16
+
+            selber einführen;   in der Regel       macht      man   dies so,     dass    der eine
+            Endpunkt auf einen gegebenen Punkt fällt.
+                  Man   unterwerfe   die Figur     einer    sorgfältigen     Untersuchung     um
+            die Linien und Winkel zu finden, welche sich, ohne gegeben zu sein,
+            leicht mit Hülfe der gegebenen Stücke bestimmen lassen.
+                  Darauf suche man      einen solchen Theil der Figur ausfindig zu
+            machen, welcher für sich durch die gegebenen Stücke bestimmt ist,
+            und welcher also, wenn man Un gleich zeichnet, als Ausgangspunkt
+           für die Bestimmung des übrigen Theils der Figur dienen kann.
+            Hier kann man die Wahl zwischen mehreren Theilen haben und
+           muss dann in der Regel den wählen, wodurch man gleich den
+           grössten Theil der gesuchten Figur gezeichnet erhält. Besonders
+            wird oft das Princip angewandt,        nach Dreiecken          mit drei bekannten
+    Stücken zu suchen.
+           Zur Einführung der Seiten eines Dreiecks oder von Summen
+    und Differenzen aus diesen bedient man sich oft der vier Berüh-
+    rungskreise des Dreiecks.     Auf jeder Seite liegen zwei Eckpunkte
+    und vier Berührungspunkte, und der Abstand zwischen zwei be-
+    liebigen von diesen lässt sich einfach durch die Seiten des Dreiecks
+    ausdrücken. Insbesondere beachte man, wenn s den halben Dreiecks-
+    umfang bedeutet:
+      a) Der einbeschriebene Kreis theilt die Seiten in die Stücke s—a,
+ as
+           s—b und s—c.
+ITEM”
+EEE   b me Der Abstand von A bis zu den Punkten, wo der Kreis mit
+                  dem   Radius o.    die Seiten    5 und e berührt,          ist ss.    Der Ab-
+                   stand dieser Berührungspunkte von dem Berührungspunkte des
+                   einbeschriebenen Kreises ist a.
+              C Ds Der innere und der eine äussere Berührungskreis    berühren «a
+                   in Punkten, welche gleichweit von BD und C entfernt sind, und
+                   deren Abstand von einander 5b—c oder c—b beträgt.
+
+
+                                               Beispiele.
+            56.   Ein Viereck ABCD        zu    construiren     aus AB,       BC,       AC, BD- #
+                  und Z D.                                    5
+                  A ABC kann sofort gezeichnet werden; darauf bestimme man
+                  D. (a und e).

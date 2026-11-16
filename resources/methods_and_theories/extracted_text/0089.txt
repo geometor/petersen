@@ -1,0 +1,39 @@
+                                     73
+
+357. In ein Quadrat ein gleichseitiges Dreieck zu beschreiben.
+358. Gegeben sind ein Kreis und zwei Punkte A und D; man
+       soll an den Kreis eine Tangente      so ziehen, dass diese und die
+       von BD darauf gefällte Senkrechte Abstände von A haben,
+       welche in einem gegebenen Verhältniss stehen.
+       Durch eine Drehung um A bringt man es dahin, dass D auf
+       der Tangente zu liegen kommt.
+359.   In ein gegebenes Parallelogramm einen Rhombus mit gege-
+       benem Flächeninhalt zu beschreiben.
+360.   Zwei Punkte A.und DB sind gegeben, sowie zwei Gerade,
+       welche sich in Ü schneiden;        man   sell durch   A und B zwei
+       gerade Linien ziehen, welche einen gegebenen Winkel ein-
+       schliessen und die beiden gegebenen Geraden beziehungsweise
+       in X nnd Y so schneiden, dass AX und BYin einem ge-
+       gegebenen Verhältniss stehen.
+       Man bringe AX und BY durch Parallelverschiebung in die
+       Lagen A,C und BC.
+361.   Ein Dreieck zu construiren aus A, B — (C und be.
+362.   Durch einen gegebenen Punkt A zwei Kreise zu ziehen, welche
+       sich unter   einem   Winkel   v schneiden;     das Verhältniss    ihrer
+        Radien ist gleich f gegeben, und jeder von ihnen soll eine
+        gegebene Gerade berühren.
+        Multiplieirt man die eine gegebene Gerade mit / mit Be-
+        ziehung auf A, so wird die Aufgabe auf 181 reducirt.
+      5. Sind zwei ähnliche Figuren gegeben, so werden sie immer,
+wenn nur die Stücke in derselben Umlaufsrichtung auf einander
+folgen (im Allgemeinen wird dies in dem Folgenden bei ähnlichen
+Figuren vorausgesetzt), einen Drehungspunkt haben, dass heisst
+einen Punkt, um welchen die eine Figur gedreht werden kann, so
+dass sie zur Deckung mit der anderen Figur gelangt; das Drehungs-
+verhältniss ist bestimmt, da zwei beliebige homologe Linien in
+diesem Verhältniss stehen, und der Drehungswinkel ist der Winkel
+zwischen zwei beliebigen homologen Linien.     Um den Drehungs-
+punkt zu bestimmen, könnte man das bekannte Verhältniss seiner
+Abstände von zwei Paaren homologer Punkte benutzen, aber man
+kann eine andere einfachere Construction         anwenden.    A und a,D
+und    5 seien zwei   Paare   homologer Punkte; die homologen           Linien

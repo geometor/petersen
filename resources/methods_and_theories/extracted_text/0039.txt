@@ -1,0 +1,38 @@
+                                        23
+
+liegend betrachtet werden.   Die beiden Aehnlichkeitspunkte heissen
+dann der äussere und der innere Aehnlichkeitspunkt der beiden
+Kreise.
+      Mit Hülfe des hier gesagten kann man eine allgemeine Auf-
+gabe lösen, welche eine sehr häufige Anwendung findet:
+      Durch einen Punkt P eine Gerade zu ziehen, welche zwei ge-
+gebene Curven K und K' in den Punkten A und a so schneidet, dass
+PA und Pa in einem gegebenen Verhältniss mn stehen.
+      Man betrachtet nämlich den gegebenen Punkt als Aehnlich-
+keitspunkt und zeichnet eine Curve %, ähnlich liegend gegen X und
+in dem Verhältniss n : m; diese wird dann Ä’ in dem gesuchten
+Punkte schneiden. Die Anzahl der Lösungen ist gleich der Anzahl
+von Durchschnittspunkten zwischen X’ und k. Die Aufgabe lässt
+sich   immer   mit   Zirkel   und     Lineal     lösen,   sobald   die   gegebenen
+Curven aus geraden Linien und Kreisbogen zusammengesetzt                     sind.
+      Soll der gegebene Punkt auf derselben Seite von A und a
+liegen (m:n positiv), so zeichnet man % direct ähnlich liegend gegen
+K, soll er dagegen: zwischen A und a liegen (m : n negativ), so
+zeichnet man k- umgekehrt ähnlich liegend gegen K.
+      Eine Curve in ähnlicher Lage gegen eine gegebene im Ver-
+hältniss m :n zu zeichnen, nenne ich der Kürze wegen: dieselbe
+mit Beziehung auf den Aehnlichkeitspunkt mit +- zu multiplieiren,
+nämlich + oder —, je nachdem die ähnliche Lage direct oder
+umgekehrt ist.
+      Soll eine gerade Linie multiplieirt werden, so bleibt die Richtung
+unverändert, und man hat also nur nöthig einen ihrer Punkte zu
+multipliciren.
+      Soll ein Kreis multiplieirt werden, so muss man Mittelpunkt
+und Radius oder Mittelpunkt und einen Punkt der Peripherie mul-
+tiplieiren.
+
+                                    Beispiele.
+117.   Durch einen gegebenen Punkt O eine Gerade zu ziehen, welche
+       zwei gegebene gerade Linien so schneidet, dass die Abstände
+       der Durchschnittspunkte von O sich wie m:n verhalten.
+       Man nehme O als Aehnlichkeitspunkt, multiplieire die eine

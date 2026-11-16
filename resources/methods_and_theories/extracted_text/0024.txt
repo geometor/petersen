@@ -1,0 +1,46 @@
+                                             8
+
+                                      Diese Construction ist in nebenstehender
+                                 Figur ausgeführt.  AD und BE stehen in
+|                                dem gegebenen Verhältniss und sind parallel
+E
+                        =,       gezogen, BF ist gleich BE.             DF und DE
+                                 schneiden       dann   die AD      in den   gesuchten
+                                 Punkten.
+
+          e ist ein besonderer    Fall von f, wenn        nämlich     m = n.
+
+          g.   Der geometrische    Ort für alle Punkte,          deren Entfernungen
+     von zwei gegebenen Geraden in einem gegebenen Verhältniss mn
+     stehen, wird von zwei geraden Linien gebildet, die durch den Schnitt-
+     punkt der gegebenen   Geraden gehen.
+
+                                          Die gegebenen Geraden seien OA und
+                                     OB. Falls ein Punkt P die verlangte
+                                     Eigenschaft hat, müssen alle Punkte der
+                                     OP sie auch haben; nimmt man z. B.
+                                    P,, so hat man
+
+                  OP,
+                 ep
+                           AT          BRD,
+                                       ep
+                                                         A,P,
+                                                         BER
+                                                              _ AP
+                                                                BEL
+           Die Linie lässt sich also ziehen, sobald man einen Punkt der-
+     selben kennt; dieser kann leicht mit Hülfe von b gefunden werden,
+     wenn man die beiden Entfernungen beliebig in dem gegebenen Ver-
+     hältniss wählt. Die andere Linie wird auf ähnliche Weise gezeichnet;
+     sie fällt in den Nebenwinkel von       AOB. Diese vier durch-O ge-
+     henden Geraden bilden einen harmonischen Strahlenbüschel.
+     Eine beliebige gerade Linie wird nämlich von ihnen in vier har-
+     monischen Punkten geschnitten.
+           d ist ein specieller Fall von g, nämlich für m = n.
+
+           Zusatz. Sind zwei gerade Linien AB und CD gegeben, und
+    _ wird ein solcher Punkt 7 gesucht, dass A PAB und A PCD in
+      einem gegebenen Verhältniss stehen, so muss der geometrische Ort
+      für P der hiergenannte sein, denn das Verhältniss der Höhen ist
+      constant.

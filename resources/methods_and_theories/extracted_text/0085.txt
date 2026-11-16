@@ -1,0 +1,15 @@
+                                      69
+
+       Potenzlinie   soll ein   solcher Punkt   P   bestimmt     werden,    dass
+       die Linie, welche die beiden Punkte (Q und X) verbindet, in
+       denen PA und PB die Kreise zum               zweiten    Male schneiden,
+       senkrecht auf der Potenzlinie steht.
+       Dreht man den Kreis durch A um               die Potenzlinie,   so fällt
+       A auf einen Punkt A, und Q auf Q,; um die Vierecke
+       QABR und Q,A,BR lassen sich Kreise beschreiben, und
+       daraus folgt, dass der Kreis AA,D durch P geht.
+348.   Gegeben ist eine Gerade PQ und auf derselben Seite von
+       dieser die Punkte A und 2; man soll auf der Geraden                 einen
+       Punkt X bestimmen, so dass   { BAQ—=2[/ AXP.
+       Man drehe AX um PQ in die Lage A,X und bestimme die
+       Projection von D auf A,X.

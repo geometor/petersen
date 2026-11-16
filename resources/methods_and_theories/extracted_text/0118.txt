@@ -1,0 +1,39 @@
+                                         102
+
+        punkte zwischen A und den gemeinschaftlichen Tangenten
+        von A und C verbindet. Diese beiden Linien schneiden sich
+       deshalb in dem Punkte, welcher dem Potenzcentrum der ge-
+       gebenen Kreise homolog ist, und die Verbindungslinie dieser
+       beiden Punkte geht deshalb durch den gesuchten Berührungs-
+       punkt. Die übrigen Aufgaben, in denen der Kreis durch drei
+       der oben genannten Bedingungen bestimmt wird, können
+       sämmtlich   als specielle Fälle dieser Aufgabe betrachtet
+       werden.
+404,   In ein Dreieck ABC          sollen      drei Kreise   S,,     S, und   $. be-
+       schrieben werden, so dass jeder von ihnen die beiden anderen
+       und zwei Seiten des Dreiecks berührt.
+       Diese berühmte Aufgabe wurde zuerst von dem italienischen
+       Mathematiker Malfatti (7 1807) gelöst, welcher die Radien
+       der gesuchten    Kreise berechnete und für diese Werthe fand,
+       welche sich leicht construiren liessen.    1826 gab Steiner
+       an, dass jede der gemeinschaftlichen Tangenten in einem der
+       Berührungspunkte von zwei von den Kreisen zugleich zwei
+       .von den Kreisen       berührt,      die sich   in die      drei Dreiecke   be-
+       schreiben lassen, in welche das gegebene Dreieck durch die
+       Halbirungslinien der Winkel getheilt wird, ein Satz, welcher
+       sofort eine einfache Construction giebt. Steiner gab indessen
+       keinen   Beweis      für den Satz,      sondern   gab an,       derselbe lasse
+       sich allein   mit Hülfe einer Reihe             Sätze über Aehnlichkeits-
+       punkte, Potenzlinien, Potenzkreise u. s. w. lösen, welche Sätze
+       er gleichzeitig aufstellte. Dieser Beweis wurde erst vollkom-
+       men übereinstimmend mit Steiners Forderungen im Jahre
+       1874 von Schröter geführt, der indessen ziemlich zusammen-
+       gesetzte Inversionen benutzt. Hier soll nun die Steinersche
+       Construction mit Hülfe ganz elementarer Sätze abgeleitet
+       werden.
+       Die Berührungspunkte mit den Seiten mögen so bezeichnet
+       werden, dass man, indem man den Umfang des Dreiecks
+       durchläuft,   nach     und nach auf die Punkte           A, c,, 6, D, Qa,,
+       Aa, C, b,, d, trifft, und S, und S, mögen sich in 7, S, und
+       S. in A, ‚8; und S. in « berühren. Ein Kreis, welcher S. und
+       S. in 8 berührt und durch ce, geht,               schneidet AC in einem

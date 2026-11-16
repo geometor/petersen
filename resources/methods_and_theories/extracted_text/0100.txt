@@ -1,0 +1,39 @@
+                                          54
+
+Abständen dieser Linien vom Drehungspunkt.        Nimmt man das
+Polygon in einer bestimmten Lage, so müssen alle Seiten die ge-
+nerirten Curven in homologen Punkten berühren und also selber
+homologe Linien der Curven sein. Ein System von beliebigen      an-
+deren homologen Linien der Curven wird natürlich ein Polygon
+bilden, welches dem gegebenen ähnlich ist, und dasselbe erhält also
+eine Bedeutung, welche der des Grundpolygons vollständig ent-
+spricht; ich nenne es daher das Grundpolygon der zweiten Art.
+Es existirt eine innige Verbindung zwischen den beiden Grundpo-
+Iygonen; das der ersten Art lässt sich in das der zweiten Art be-
+schreiben und es wird fortfahren einbeschrieben zu sein, sobald eins
+der Polygone so um den festen Punkt gedreht wird, dass der eine
+Eckpunkt des einbeschriebenen Polygons fortwährend auf der einen
+Seite des umbeschriebenen liegt.
+      Die Bewegung des Polygons, welche hier betrachtet wurde,
+lässt sich auch auf andere Weise bestimmen;                   indessen soll bier nur
+der Fall betrachtet werden, wo sie dadurch                    bestimmt wird, dass
+drei Seiten des Polygons auf ähnlichen Curven gleiten; damit die
+Bewegung dieselbe wie oben werden kann, müssen diese drei Curven
+einen gemeinschaftlichen Drehungspunkt haben und die drei Seiten
+des Polygons beständig die Curven in homologen Punkten berühren;                         l
+da dieses ausreichend      für die Bestimmung            der Bewegung      ist,   muss
+diese   dieselbe   wie   oben   werden,        und     also   darin   bestehen,   dass
+das Polygon sich um den Drehungspunkt der Curven dreht, wäh-
+rend jede seiner Linien eine Curve generirt, welche den gegebenen
+ähnlich ist; das Dreieck,       welches    von       den drei Seiten des Polygons
+gebildet wird, die auf den gegebenen Curven gleiten, wird für diese
+das Grunddreieck der zweiten Art. Der Satz in 12 wird ein specieller
+Fall von diesem, wenn       die Curven         Punkte sind.
+     14. Bestimmt man den Drehungspunkt für zwei Kreise, indem
+man zwei Punkte A und a als homologe Punkte annimmt, so
+werden die Tangenten an diese Punkte einen durch die Lage der
+Punkte bestimmten Winkel bilden, und dieser Winkel wird unver-
+ändert bleiben, wenn A und «a ähnliche Bogen durchlaufen.      Um-
+gekehrt kann man, sobald der Winkel gegeben ist, ein Paar homologer
+Punkte und den diesen entsprechenden Drehungspunkt bestimmen.
+Zwei beliebige Tangenten, welche den gegebenen Winkel mit ein-

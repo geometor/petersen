@@ -1,0 +1,40 @@
+                                          sl
+
+das Dreieck,    dessen    Eckpunkte       die drei Kreismittelpunkte     sind, ist
+das Grunddreieck, und jedes andere Dreieck, welches man durch Ver-
+bindung von drei homologen Punkten erhält, ist also diesem ähnlich.
+    11.    Wenn ein Polygon, welches einem gegebenen ähnlich ist, sich
+    so bewegt, dass drei von seinen Punkten gerade Linien be-
+    schreiben, (welche nicht durch denselben Punkt gehen), dann muss
+    auch jeder andere Punkt der Figur eine gerade Linie beschreiben.
+     Das Dreieck,        welches man      durch Verbindung      der drei Punkte
+erhält, hat constante      Form,    und      nimmt   man   es zum   Grunddreieck
+so kann man den Drehungspunkt für die drei Linien bestimmen,
+auf denen. die Punkte sich bewegen. Zufolge $ ist dieser Punkt in-
+dessen auch der Drehungspunkt für alle Lagen des Grunddreiecks,
+und folglich auch für alle Lagen des Polygons, zu dem das Dreieck
+gehört; da also die Bewegung des gegebenen Polygons darin besteht,
+dass es sich um einen festen Drehungspunkt dreht, so müssen alle
+Punkte   desselben   ähnliche      Curven,     also gerade Linien   beschreiben.
+     Falls alle drei Linien durch denselben Punkt gehen, kann,
+wie in 9 gezeigt wurde, ein Fall eintreten, wo der Satz nicht gilt.
+     Der Satz lässt sich leicht erweitern, denn das Polygon kann
+mit drei von seinen Punkten auf drei ähnlichen Curven mit ge-
+meinschaftlichem Drehungspunkte gleiten. Die drei Punkte müssen
+indessen während der Bewegung beständig mit drei homologen
+Punkten der Curven zusammenfallen, und das Dreieck, welches sie
+bestimmen, muss also das Grunddreieck der Curven sein; ist dieses
+der Fall, so sieht man auf dieselbe Weise wie oben, dass jeder
+andere Punkt des Polygons eine Curve beschreiben muss, welche
+den gegebenen ähnlich ist. Man sieht nun leicht, dass die genann-
+ten Bedingungen zahlreicher sind, als für die Bestimmung der Be-
+wegung nothwendig ist, und es soll deshalb versucht werden, die
+überflüssigen fortzuschaffen, indem nur Rücksicht genommen wird
+auf den Fall, wo die drei Curven Kreise sind, denn nur dieser kann
+hier Bedeutung haben. Es soll dann namentlich untersucht werden,
+ob hier derselbe Satz wie bei geraden Linien gilt: dass das Grund-
+dreieck nur    auf den     drei Curven       gleiten kann, indem    es beständig
+den homologen Punkten folgt.
+     Es wurde gezeigt, dass drei Kreisen zwei gemeinschaftliche
+Drehungspunkte entsprechen; das Grunddreieck muss indessen das-
+                                                                    6

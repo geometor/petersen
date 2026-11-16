@@ -1,0 +1,41 @@
+                                          64
+
+     die Parallölen, so fällt AD in eine neue Lage, deren Richtung
+     bekaunt ist.    Der Winkel zwischen dieser und AB bestimmt
+     den Winkel des Rhombus.
+    . Ein Dreieck mit gegebener Grundlinie zu construiren, dessen                         5
+                                                                                           e
+      Spitze auf einer gegebenen Linie liegt, wenn zugleich die                           7
+                                                                                            |
+      Differenz der Winkel an der Grundlinie gegeben ist.
+      Man lege das Dreieck um wie in 313 und benutze die
+      Aehnlichkeitsmethode.
+328. In einem Dreieck ist eine Linie von der Spitze bis an einen
+      gegebenen Punkt der Grundlinie gezogen; man soll auf dieser
+      Linie einen Punkt bestimmen, von dem aus die beiden Ab-
+      schnitte der Grundlinie unter gleichgrossen Winkeln gesehen
+      werden.
+329. In einem Dreieck ABC ist AC in die Abschnitte AD und
+      DC getheilt; man soll auf der AB einen Punkt X be-
+      stimmen, von dem aus AD und DC unter gleichen Winkeln
+      gesehen werden.
+      Man kann den Punkt auf AB bestimmen, welcher symmetrisch
+      zu C liegt, DAX als Symmetrieaxe genommen.
+330. Durch den Eckpunkt B eines Dreiecks soll man eine solche
+      Gerade    ziehen,      dass   die auf     dieselbe     gefällten    Senkrechten
+     AP   und      CQ zwei Dreiecke ABP             und CBQ         abgrenzen,    deren
+     Flächeninhalte ein gegebenes Verhältniss haben.
+     Man bringe APP, indem man zugleich die Grösse verändert,
+     in die Lage      CDP,,         und    zeichne über DC          als Durchmesser
+      einen Kreis; die Sehne ?,Q hat dann eine bekannte Länge
+      und wird von BC nach einem bekannten Verhältniss ge-
+      theilt.
+      Ein Dreieck zu construiren aus m., 6°—c? und Z (a, m.).
+      Ein Viereck aus den vier Seiten so zu construiren, dass die
+     eine Diagonale den einen Winkel des Vierecks halbirt.
+   . Zwei Kreise mit den Mittelpunkten A und DB sind gegeben;
+     man zeichne einen Kreis, welcher durch A und D geht und
+     die beiden Kreise beziehungsweise in X und Y (auf ver-
+      schiedenen    Seiten     von AD)         schneidet,    so    dass   die Summe
+      der Winkel       ABY          und    BAX       einem        gegebenen      Winkel
+      gleich ist.

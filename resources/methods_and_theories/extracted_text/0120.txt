@@ -1,0 +1,40 @@
+                                   104
+
+          birt (die Potenzkreise), und an Stelle der Tangente in 9 den
+          dieser entsprechenden Kreis in der inversen Figur u. s. w.
+
+
+
+Ueber die Möglichkeit, eine gegebene Aufgabe mit Hülfe
+            von. Zirkel und Lineal zu lösen.
+     Befindet man sich in der Lage, die Auflösung einer gegebenen
+Aufgabe nicht finden zu können, so würde die Frage sein, ob der
+Grund dafür darin liegt, dass man es nicht verstanden hat, die
+Aufgabe richtig anzufassen, oder ob der Grund vielleicht der ist,
+dass die Aufgabe zu denen gehört, welche sich mit Hülfe von Zirkel
+und Lineal nicht lösen lassen.    Das Folgende wird Mittel an die
+Hand geben, um in den meisten Fällen diese Frage zu beant-
+worten.
+     Sobald sich eine Aufgabe lösen lässt, muss die Lösung, wie
+complieirt sie auch sein mag, aus den beiden Operationen zusam-
+mengesetzt sein: eine gerade Linie durch zwei gegebene Punkte zu
+ziehen,    und einen Kreis zu zeichnen,   dessen Mittelpunkt     und Radius
+gegeben sind.   Jeder Punkt ist bestimmt als Durchschnittspunkt
+von zwei geraden Linien, oder von einer geraden Linie und einem
+Kreise, oder von zwei Kreisen.       Denkt   man   sich   nun,   dass   man
+mit Hülfe der Formeln und Methoden der analytischen Geometrie
+die Coordinaten der Punkte berechnet, wie man sie nach und nach
+construirt, so hat man im Laufe der ganzen Rechnung nur nöthig,
+Gleichungen des ersten und zweiten Grades aufzulösen.   Man kann              „
+also jede durch die Construction bestimmte Grösse mit Hülfe der               BrE
+                                                                                1
+gegebenen Grössen ausdrücken, so dass die gefundenen Grössen
+keine anderen irrationalen Ausdrücke als Quadratwurzeln enthalten;
+da sich nun andererseits ein jeder solcher Ausdruck construiren
+lässt, so ist die nothwendige und ausreichende Bedingung dafür, dass
+sich eine Aufgabe mittelst Zirkel und Lineal lösen lässt, die, dass
+die gesuchten Grössen rational durch die gegebenen und durch Qua-
+dratwurzeln ausgedrückt werden können.
+     Eine Untersuchung der Gleichungen, welche sich durch Quadrat-
+wurzeln auflösen lassen, findet sich in des Verfassers «Om Lig-
+ninger, der kunne loses ved Kvadratrod», und «Theorie der

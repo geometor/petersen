@@ -1,0 +1,42 @@
+                                                            90
+
+                   Aufgabe wird für ein anderes Verhältniss auf ähnliche Weise
+                   gelöst.
+              383. Ein Dreieck zu zeichnen, welches einem gegebenen congruent
+                   ist, so dass jede der drei Seiten durch einen gegebenen Punkt
+                   geht.
+                   Man zeichnet leicht ein Dreieck, welches dem gegebenen
+                   ähnlich ist, und dessen Seiten durch die” gegebenen Punkte
+                   gehen; diese betrachte man als ähnliche Curven und das ge-
+                     zeichnete        Dreieck     als Grunddreieck          der   zweiten    Art;    dann
+                     bestimme man den Drehungspunkt,                        und multiplicire das ge-
+                     zeichnete     Dreieck, so dass es die verlangte Grösse erhält.                    Da
+                     das Drehungsverhältniss für das so erhaltene und das gesuchte
+                     Dreieck 1 ist, müssen zwei homologe Seiten gleichen Abstand
+                     vom Drehungspunkte haben, und eine der gesuchten Linien
+                     ist also     dadurch       bestimmt,        dass   sie einen    bekannten      Kreis
+                   berührt und durch einen gegebenen Punkt geht.
+              384. Ein Viereck zu zeichnen, welches einem gegebenen ähnlich ist,
+                   so dass die vier Seiten einzeln durch einen von vier gegebenen
+                   Punkten gehen.
+                   Man zeichne ein, beliebiges Viereck, welches dem gegebenen
+                   ähnlich ist, so dass drei Seiten durch drei von den gegebenen
+                   Punkten gehen, und bestimme den Drehungspunkt wie in der
+                   vorhergehenden Aufgabe.      Dieses Viereck muss nun so ge-
+                   dreht werden, dass die vierte Seite durch den vierten Punkt
+                     geht; das geschieht leicht, da sie ausser diesem Punkte einen
+                     festen Punkt enthält, der sich auf zwei Weisen bestimmen
+                     lässt (analog 378).
+              385.   Um   das Dreieck ABC             ist ein Kreis beschrieben;             von einem
+—-—run-uoi-
+                     Punkte O auf dessen Peripherie ist an jede Dreiecksseite
+                     eine Linie gezogen, welche mit dieser Seite einen gegebenen
+                     Winkel      bildet;    man     beweise,       dass die Fusspunkte         der drei
+                     Linien auf einer Geraden liegen.                   .
+                     Wählt      man     A, BD und       einen      passenden      Punkt     auf AB    zu
+m:
+———
+                     homologen Punkten auf den drei Seiten, so wird O Drehungs-
+                     punkt und die drei Fusspunkte homologe Punkte.        Diese
+                     liegen auf einer Geraden, da das Grunddreieck eine gerade
+                     Linie ist.

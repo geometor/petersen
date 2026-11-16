@@ -1,0 +1,44 @@
+                                                     10
+
+                 Zusatz 3.        Der geometrische Ort für die Mittelpunkte der
+            Kreise, welche       zwei gegebene Kreise unter einem Durchmesser
+         ‚schneiden, ist eine Gerade,        senkrecht       auf der Centrale in demselben
+        Abstand von dem einen Kreismittelpunkt wie die Potenzlinie von
+        dem anderen.
+              Zusatz 2. Der geometrische Ort für die Mittelpunkte aller
+        Kreise, welche zwei gegebene Kreise rechtwinkelig schneiden (so dass
+        die im Durchschnittspunkt an beide gelegten Tangenten rechte
+        Winkel bilden), ist die Potenzlinie der Kreise.
+              i,. Der geometrische Ort aller Punkte, für welche die Quadrate
+h
+f rn   |der Entfernungen von zwei gegebenen Punkten eine constante Summe
+j           a? haben, ist ein Kreis, dessen Mittelpunkt auf der Mitte der Ver-
+||          bindungslinie der beiden Punkte legt.
+ |                                           A und D seien die gegebenen Punkte,
+                                   4     P einer der gesuchten.   Zieht man die
+
+
+                                                                                                  i
+                                   -—-B      Mediane PC, hat man wie bekannt
+                                                     2     2       2     —
+
+                                                                                                  |
+                                                  AP+BP=2PC+           2
+                                                     oder PO — }at — 4AB.
+                                             Die gesuchten Punkte           haben    also con-
+                                             stanten Abstand         von ©.     Um      auf AB
+                                    \        die Punkte’zu        bestimmen,    durch welche
+       , der Kreis geht,        trage man         Z BAD = 45° in A an.           Von B be-
+       |schreibe man      mit dem        Radius    a einen    Bogen,     welcher AD      in den
+        Punkten D und .D, schneidet.      Fällt man nun von D und D,
+        Senkrechte auf AB, so sind ihre Fusspunkte E und E, die gesuchten
+        Fr denn
+        |                © _ DE+EB und a — D,E,+B,B,
+                           aber DE=AE        und DE,Ä,=AE..
+                k.   ‚Der geometrische Ort für alle Punkte, deren Abstände von
+         zwei gegebenen        Geraden   eine gegebene       Summe     oder Differenz    KR
+       ‚ist ein System von vier geraden Linien.
+                Die gegebenen Geraden seien AB                und AC,      P einer der ge-
+         suchten     Punkte,     also PCÜ+-PE=a.                 Macht    man   PD=PE,
+         muss der geometrische Ort für D aus zwei Geraden bestehen, die
+         der AC im Abstande a parallel sind. Diese seien BD und D,B,.

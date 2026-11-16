@@ -1,0 +1,38 @@
+                                            66
+
+       wird,     ein   Lichtstrahl,      welcher      einen    Spiegel,    eine    Welle,
+       welche eine Ebene trifft, u.s.w., so zurückgeworfen werden,
+       dass der Ausfallswinkel gleich dem Einfallswinkel ist. Man
+       kann sich z. B. unter A einen leuchtenden Punkt und unter
+       der Linie den Durchschnitt eines Spiegels vorstellen.    Die
+       Aufgabe besteht dann darin, den Weg zu finden, welchen                         der
+       Lichtstrahl einschlagen muss, um nach der Zurückwerfung BD
+       zu treffen.   Da der Gesammtweg, welchen der Lichtstrahl
+       zurücklegt, gleich der geraden Linie BA, ist, während der-
+       selbe für jeden anderen Punkt als X gleich einer gebrochenen
+       Linie     zwischen     denselben      beiden      Punkten    sein    würde,     so
+       sieht man, dass der Lichtstrahl sein Ziel auf dem kürzesten
+        Wege erreicht.
+       Würde der Strahl nach einem anderen Punkte als X gehen,
+       so würde er doch so zurückgeworfen werden, als ob er von
+       A, ausginge, so dass man bei solchen Aufgaben sich die
+       Linie als nicht vorhanden            denken     kann, wenn man        den Punkt
+       A durch A, ersetzt.
+339.   Auf einem Billard, welches die Form eines n ecks hat, liegen
+       zwei Bälle M und N; man soll M gegen die Seite AB
+       stossen, so dass er gegen BC zurückgeworfen wird und so
+       fort, bis er, nachdem          er alle Seiten     berührt hat, N trifft.
+       Man drehe          M um AB in die Lage M,; nun kann man von
+       AB      absehen,     indem     man   M    durch    M,    ersetzt.     Auf    diese
+       Weise fährt man fort, bis die Aufgabe auf die vorhergehende
+       reducirt ist. Den gesuchten Punkt auf der letzten Seite be-
+       stimmt man also zuerst, und von da geht man leicht zu den
+       anderen zurück.    Sobald einer der gesuchten Punkte auf die
+       Verlängerung der Seite fällt, ist die Aufgabe unmöglich.
+340.   In ein gegebenes Polygon ein anderes zu beschreiben, dessen
+       Umfang ein Minimum ist.
+       Zwei aneinanderstossende Seiten müssen gleiche Winkel mit
+       der Seite des gegebenen Polygons bilden, auf welche ihr
+       Durchschnittspunkt fällt, denn würde dieses für einen der Punkte
+       nicht der Fall sein, so würde der Umfang kleiner werden,
+       wenn man den Punkt so legte, dass es der Fall wäre.           Die

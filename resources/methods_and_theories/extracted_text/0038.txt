@@ -1,0 +1,50 @@
+                                                                         eu         ac      een
+                                       .         en       nd
+      ai      en
+|
+
+20
+ee                                                     22
+
+                 Endpunkten von w„                in    demselben         bekannten              Verhältniss
+                 (b + c):a stehen.
+
+
+
+                              Multiplieation von Curven.
+
+                                                            Zieht   man       von        einem     Punkt    P
+                                            A      eine        Gerade     nach           einem     beliebigen
+TEE
+EFF
+TH
+FETTE
+                                                A, Punkt einer gegebenen                   Curve K und
+ETF                                                theilt man diese (Gerade durch den
+                                           A,      Punkt a so, dass Pe:PA=m:n
+                                                   dann ist der geometrische Ort für a
+                                                   eine Curve           k, welche          der gegebenen
+                                                   ähnlich ist.
+                Man sagt von den beiden Curven, dass sie ähnlich gegen
+          einander liegen.     heisst ihr Aehnlichkeitspunkt, die Geraden durch
+        “ P Aehnlichkeitsstrahlen.    Homologe Punkte der Onrven nennt man,
+          solche, welche auf demselben Aehnlichkeitsstrahl liegen, homologe
+          Linien solche, welche homologe Punkte verbinden.             Der Be-
+          griff lässt sich erweitern, denn irgend ein beliebiger Punkt der
+          Ebene kann als dem einen System angehörig betrachtet werden und
+          erhält -dadurch seinen homologen Punkt in dem anderen System.
+           Der Aehnlichkeitspunkt      ist dann        der Punkt         der Ebene,              welcher, als
+           zugehörig zu dem einen Systeme betrachtet, mit seinem homologen
+           Punkte in dem anderen System zusammenfällt. Da die Theorie der
+           ähnlichen   Lage   in den       meisten          Lehrbüchern       der Geometrie                be-
+           handelt wird, so soll hier nur an folgende Sätze                      erinnert werden:
+                 Einer geraden Linie oder einem Kreise entspricht eine gerade
+           Linie oder ein Kreis.         i                             i
+                 Alle homologen Linien sind parallel.
+               . Alle homologen Winkel sind gleich.
+                 Alle homoiogen Linien stehen in dem Verhältniss m:n.      Die
+           Figuren heissen deshalb ähnlich nach diesem Verhältniss.
+                 Trägt man Pa auf der Verlängerung von PA über P ab, so
+           gelten doch dieselben Sätze.     Man sagt dann, dass die Systeme
+           umgekehrt ähnlich liegen.
+                 Zwei beliebige Kreise können als direct und umgekehrt ähnlich

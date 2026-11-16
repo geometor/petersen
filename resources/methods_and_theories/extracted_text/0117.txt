@@ -1,0 +1,39 @@
+                                  101
+
+       Die Aufgabe ist ein specieller Fall der vorhergehenden, denn
+       man kann die gegebene Gerade als einen Kreis mit unendlich
+       grossem Radius betrachten.
+403.   Einen Kreis zu zeichnen, welcher drei gegebene Kreise be-
+       rührt.
+       Die Aufgabe lässt sich durch die bei der Parallelverschiebung.
+       (S. 56) angeführte Methode auf 401 reduciren.
+       Diese Aufgabe kann auch durch ein Verfahren gelöst werden,
+       welches ganz dem bei 201 angewendeten gleicht. Das zu con-
+       struirende Dreieck ist dann dasjenige, dessen Eckpunkte auf die
+       gesuchten Berührungspunkte fallen; die Seiten desselben gehen
+       durch drei von den Aehnlichkeitspunkten der gegebenen Kreise,
+       und benutzt man diese als Inversionscentra und nimmt solche
+       Inversionspotenzen, dass je zwei Kreise durch die Inversion
+       vertauscht werden,   so wird jeder der Kreise nach drei Inver-
+       sionen wieder auf sich selbst zurückfallen.   Es ist also kein
+       wesentlicher Unterschied zwischen dieser und der früher ge-
+       lösten Aufgabe.
+       Die einfachste und eleganteste Lösung erhält man indessen
+       durch Benutzung des Satzes, dass die Potenzlinie zweier
+       Kreise einen Kreis, der beide berührt, und eine der gemein-
+       schaftlichen Tangenten unter gleichen Winkeln schneidet.
+       Hieraus folgt nämlich, dass die Tangenten, welche den ge-
+       suchten Kreis in seinen Durchschnittspunkten mit den Potenz-
+       linien der gegebenen Kreise berühren, denjenigen von den ge-
+       meinschaftlichen Tangenten der gegebenen Kreise parallel sind,
+       welche zu demselben System berührender Kreise gehören, wie
+       der betrachtede. (Die äusseren gemeinschaftlichen Tangenten
+       zweier Kreise gehören zu dem System von Kreisen, welches
+       die beiden gleichartig, die inneren zu dem, welches die beiden
+       ungleichartig berührt.     A, D und C seien die gegebenen
+       Kreise.    Betrachtet man den gesuchten Kreis und den Kreis
+       A als ähnlich liegend mit dem Berührungspunkt als Aehnlich-
+       keitspunkt, so sind die beiden Potenzlinien für A und 2 und
+       für A und C homolog den beiden Linien, von denen die eine
+       die Berührungspunkte zwischen A und den gemeinschaftlichen
+       Tangenten von A und D, und die andere die Berührungs-

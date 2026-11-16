@@ -1,0 +1,39 @@
+                                           57
+
+2831.   Ein Trapez zu construiren aus            den Diagonalen,           dem     Winkel
+        derselben, und der Summe             oder Differenz      zweier aneinander-
+        stossender Seiten.
+282.    Ein Dreieck zu construiren aus                 mu,   Z   (m,, m.)        und     dem
+        Flächeninhalt.
+283.    In einem Dreieck ABC, indem                    ZB=,           soll man           eine
+                                                                                  u
+        Transversale     X Y von gegebener Länge so ziehen, dass AX                        +
+        XY + YC gleich einem gegebenen Quadrate ist.
+        Der Punkt Y (s. 264) wird durch a bestimmt.
+234.    Ein Sehnenviereck zu construiren aus den Diagonalen, dem
+        Winkel derselben und dem Winkel zwischen der einen Dia-
+        gonale und einer Seite.
+285.    Ein Viereck zu construiren aus den Diagonalen, dem Winkel
+        derselben,     dem   Verbältniss    zweier aneinanderstossender                Seiten
+        und dem Winkel zwischen den beiden anderen Seiten.
+286.    Um ein gegebenes Dreieck das grösstmögliche gleichseitige
+        Dreieck zu beschreiben.
+287.    Ein Viereck zu construiren aus zwei gegenüberliegenden Win-
+        keln, dem      Flächeninhalte      und   den    beiden   Linien,     welche       die
+        Mitten von zwei gegenüberliegenden Seiten verbinden.
+        Der Winkel zwischen den beiden gegebenen Linien wird durch
+        diese und den Flächeninhalt bestimmt.     Nun lässt sich‘ die
+        allgemeine Verschiebung für das Viereck anwenden.
+288.    Ein Viereck ABCD zu construiren aus AB, CD, Z BAC,
+        2 ACD und Z BDA.
+289. Ein Viereck zu construiren aus zwei gegenüberliegenden Seiten
+        und allen Winkeln.
+2%.     Ein Trapez zu construiren aus den Diagonalen, dem Winkel
+        derselben und einer Seite.
+291.    Ein Viereck zu construiren aus drei Seiten -und den Winkeln
+        an der vierten.
+292.    Ein Viereck ABCD zu construiren aus AB, CD, AG,
+        / ABD und Z BDC.
+293.    Ein Viereck zu construiren aus Z BCA, £ CAD, den Dia-
+        gonalen und dem Winkel zwischen diesen.
+294.    Gegeben sind zwei Parallelen Z und M, eine dritte Gerade

@@ -1,0 +1,39 @@
+                                         27
+
+         parallel DB sein, so dass DD, wit AB zusammenfällt.
+         Um die Seite BC zu erhalten, wiederholt man dieselben Ope-
+         rationen auf entgegengesetztem Wege, indem man von #
+         ausgeht.
+         Dieselbe Construction lässt sich auf ein beliebiges Polygon
+         anwenden.     Im    Besonderen       beachte   man     den Fall,     wo       die
+         Mitten aller Seiten gegeben sind und die Seitenzahl gerade
+         ist; die Aufgabe ist dann unbestimmt oder unmöglich (Mathe-
+         matisk Tidsskrift for 1862 pag. 159).
+142.     Gegeben sind vier concentrische Kreise; man soll eine gerade
+         Linie ziehen, welche dieselben beziehungsweise             in A,         B,    C
+         und D schneidet, so dass AB = CD.
+         Bedeutet (AB) die Potenz eines Punktes des Kreises A mit
+         Beziehung auf den Kreis 3, und schneidet die Gerade die
+         Kreise zum zweiten Mal beziehungsweise in den Punkten
+         A,, B,, €, und D,. so ist (AD) = AD.AD\,; (BC) =
+         B.6.BC,; AD, = BC, also
+                         AD BE=FAD)(l2C).
+         Dieses Verhältniss lässt sich leicht construiren, indem man
+         zwei Linien so zieht, dass der Abschnitt zwischen                den Kreisen
+         A und B auf der einen gleich dem Abschnitt zwischen B
+         und C auf der anderen ist.    Man kennt nun auch das Ver-
+         hältniss AB : AC und kann die gesuchte Linie durch einen
+         willkürlich gewählten Punkt A ziehen.
+143.     Von einem Viereck ABCD sind AB, BC, CD und AC ge-
+         geben; wenn man AD in eine bestimmte Lage bringt, was wird
+         dann der geometrische Ort für
+         a) den Eckpunkt D,
+         ?%) für den Mittelpunkt der Diagonale BD,
+         y) für den Mittelpunkt der Linie, welche die Mitten der
+         Diagonalen verbindet ?
+144.     In einem Kreise mit dem Mittelpunkt O ist der feste Durch-
+         messer AOB gezogen und eine Sehne DC, welche bis D
+         verlängert ist,    so   dass   CD    =   BC.     Man     suche     den    geo-
+         metrischen Ort für den Durchschnittspunkt von OD und AC.
+       . Man bestimme den geometrischen Ort für den zu einem
+         festen Punkte A symmetrischen Punkt mit Beziehung auf

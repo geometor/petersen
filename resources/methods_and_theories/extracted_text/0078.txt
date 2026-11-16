@@ -1,0 +1,37 @@
+                                           62                                           ’
+           AC und a von BC.            Dreht man       den Punkt     A um      7, und
+           darauf um     «a und ,     so   muss     er wieder auf A fallen, wäh-
+           rend ein beliebiger Punkt der Kreisperipherie, welcher in
+           einer gewissen Entfernung von A liegt, durch die gleiche
+           Operation wieder in dieselbe Entfernung von A kommen wird,
+           aber nach der entgegengesetzten Seite. A lässt sich also be-
+           stimmen indem man von einem beliebigen Punkt ausgeht,                 da A
+           in der Mitte zwischen den beiden Lagen dieses Punktes liegen
+           muss.     Die Aufoabe lässt sich auf ein neck ausdehnen; man
+           sieht leicht, dass sie unbestimmt oder unmöglich wird für ein
+           gerades n, aber bestimmt für ein ungerades n.
+    318.   Gegeben ist eine Gerade und darauf ein Punkt A; man ziehe
+           von dem Mittelpunkte O eines gegebenen Kreises eine Gerade,
+           welche die Peripherie.in Y und die gegebene Gerade in X so
+           schneidet, dass XY       und XA        in einem   gegebenen   Verhältniss
+           stehen.
+           Bringt man XY (wachsend) zur Deckung mit XA, so fällt
+|           O auf einen bekannten Punkt O,, und AY ist der 0,0
+           parallel.
+    319.   Ein Viereck   ABCD       zu construiren     aus AB, AD,       ZB,     2 D
+            und dem Verhältniss BC: CD.
+            Man benutze dieselbe Umlegung wie bei 316.
+           4) Eine symmetrische Figur hervorzubringen, so dass ein ge-
+     suchter Punkt auf der Symmetrieawe liegt.                        I
+    320. Auf einer gegebenen Geraden einen Punkt zu bestimmen,
+            welcher gleiche Abstände von einem gegebenen Punkte der-
+            selben Geraden und von einer anderen gegebenen geraden
+            Linie hat.
+            Man errichte eine Senkrechte in dem gegebenen Punkte und
+            halbire den Winkel zwischen dieser und der anderen gege-
+            benen Geraden.
+     321. Einen Kreis zu construiren, welcher eine gegebene Gerade in
+            einem gegebenen Punkte berührt und einen gegebenen Kreis
+            unter einem gegebenen Winkel schneidet.
+            Legt man den gegebenen Kreis so um, dass er die gegebene
+            Gerade in dem gegebenen Punkte unter dem gegebenen

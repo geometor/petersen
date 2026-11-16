@@ -1,0 +1,40 @@
+                                         67
+
+       Aufgabe ist also verwandt mit der vorhergehenden und lässt
+       sich auf analoge Weise lösen.
+       Man kann mit dem gesuchten Punkt auf einer der Seiten be-
+       ginnen, aber da man       nicht weiss, wo er liegt, muss          man   die
+       ganze Seite nach und nach um alle übrigen Seiten des Po-
+       lygons drehen. Auf diese Weise setzt man sämmtliche Seiten
+       der gesuchte Figur nach und nach zu einer geraden Linie an
+       einander, und die äussersten Stücke dieser werden die beiden
+       Seiten, welche auf der Linie, die man              zuerst gedreht hat, zu-
+       sammenstossen.     Da die eine von diesen während der Dre-
+       hungen beständig die gedrehte Seite begleitet hat, so bleibt
+       ihr Winkel mit dieser unverändert, und die Aufgabe ist jetzt
+       auf folgende reducirt:
+       Zwischen zwei gleich langen geraden Linien eine dritte zu
+       ziehen, welche mit diesen gleiche Winkel bildet und von den-
+       selben, von einem bestimmte Endpunkt aus gerechnet, gleiche
+       Stücke abschneidet.
+       Falls die gleichen Winkel Wechselwinkel werden, wird die
+       Aufgabe offenbar unbestimmt, wenn die Linien parallel sind,
+       und unmöglich, wenn dies nicht der Fall ist. Dieser Fall
+       tritt ein, wenn die Seitenzahl des gegebenen Polygons gerade
+       ist; ist dieselbe dagegen ungerade, wird die Aufgabe immer
+       möglich sein, sobald man auch solche Polygone als einbe-
+       schrieben   betrachtet,   deren        Eckpunkte    auf die Verlängerung
+       der Seiten des gegebenen Polygons fallen.
+341.   Ein Polygon zu construiren, wenn man die Senkrechten auf
+       den Mitten der Seiten der Lage nach kennt.
+       A sei einer der gesuchten Eckpunkte, B ein beliebiger Punkt;
+       dreht man die Linie AB nach und nach um alle Senkrechten,
+       so muss A zuletzt wieder auf A fallen, während B in eine
+       andere Lage DB, kommt; da die Linie indessen beständig
+       ihre Länge behält, so mus BA = B,A sein. Dadurch lässt
+       sich die Aufgabe leicht lösen; man beginnt nämlich mit dem
+       beliebigen Punkt B und bestimmt B,.          A muss dann auf
+       der Mittelsenkrechten auf BB, liegen.       Benutzt man einen
+       anderen beliebigen Punkt auf dieselbe Weise, so construirt
+       man A vollständig.    Die Discussion ist ähnlich wie bei 340.
+                                                                    5*

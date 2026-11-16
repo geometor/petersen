@@ -1,0 +1,26 @@
+                     Erstes Kapitel.
+
+                      Geometrische       Oerter.
+             A.   Geometrische     Oerter   für Punkte,
+        a. Der geometrische Ort für alle Punkte, welche von einem
+  gegebenen Punkte eine gegebene Entfernung haben, ist ein Kreis um
+  den gegebenen Punkt als Mittelpunkt und mit der gegebenen Ent-
+  fernung als Radius.
+        Zusatz 1. Der geometrische Ort für die Endpunkte gleich
+  langer Tangenten desselben Kreises ist ein dem gegebenen concen-
+  trischer Kreis.
+    .   Zusatz 2. Der geometrische Ort für alle Punkte, welche die
+  Eigenschaft haben, dass die von ihnen an einen gegebenen Kreis
+  gezogenen Tangentenpaare denselben Winkel einschliessen, ist ein
+  dem gegebenen concentrischer Kreis.
+        Zusatz 3. Der geometrische Ort für die Mittelpunkte aller
+  Kreise mit gegebenem Radius, welche einen gegebenen Kreis berühren,
+  wird von zwei dem gegebenen concentrischen Kreisen gebildet, deren
+‚ Radien gleich der Summe und der Differenz der gegebenen Ra-
+  dien sind.
+        b. .Der geometrische Ort für alle Punkte, welche von einer ge-
+  gebenen Geraden eine gegebene Entfernung haben, besteht aus zwei
+   Geraden, parallel der gegebenen in der gegebenen Entfernung.
+        Zusatz 1. Der geometrische Ort für die Spitzen aller gleich
+ grossen Dreiecke über derselben Grundlinie ist eine der Grundlinie
+ parallele Gerade, denn die Dreiecke müssen alle dieselbe Höhe haben.

@@ -1,0 +1,38 @@
+                                        21
+
+       von einem gegebenen Winkel ein Dreieck von gegebenem Um-
+       fang abschneidet.
+       Einer der äusseren Berührungskreise des Dreiecks lässt sich
+       construiren.
+105.   Ein Dreieck zn construiren        aus A, w, unda+b   +
+106.   Ein Dreieck zu”construiren        aus Ad,  ounda+b-+ c.
+107.   Ein Dreieck zu construiren        aus A, rundda +5 -+ ce.
+       Da a bekannt ist, reducirt sich die Aufgabe auf 73 oder 137.
+108.   Ein Dreieck zu construiren aus o, 9. und ww.
+       Durch o und 9. ist Ah. bestimmt.
+109.   Ein Dreieck zu construiren aus 2, o. und b — c.
+       b — e ist der Abstand zwischen zwei Berührungspunkten.
+110.   Ein Dreieck zu construiren aus a, o und db + e.
+       s und a sind bekannt und bestimmen             zwei Berührungspunkte
+       so wie den einen Eckpunkt.
+LIT.   Ein Dreieck zu     construiren    aus «a, po und    db—    ce.
+112.   Ein Dreieck     zu construiren    aus 4, punda+bdb-+e.
+       Man kennt «.
+113.    fin Dreieck zu construiren aus a, 9, und pe.
+       Das Stück zwischen den Berührungspunkten der beiden Kreise
+       ist bekannt.
+114.   Ein   Dreieck   zu construiren    aus ou, 9, und a +             b.
+       Das Stück zwischen den Berührungspunkten der beiden Kreise
+       ist bekannt.
+115.   Ein Dreieck zu construiren aus 9, p. und D — C.
+       Der Winkel zwischen DC und der Oentrale der beiden Kreise
+       ist bekannt.
+116.   Ein Dreieck zu construiren        aus «, 5 +       e und   u.
+       Da die Mittelpunkte des inneren und. äusseren Berührungskreises
+       und die Durchschnittspunkte ihrer gemeinschaftlichen Tan-
+       genten harmonische Punkte sind, so müssen die Projektionen
+       derselben auf AB auch harmonische Punkte sein. Von diesen
+       vier Punkten kennt man drei und bestimmt also leicht den
+       vierten.
+       Leichter lässt sich die Aufgabe lösen, wenn man w, hinlegt
+       und B    und    C dadurch   bestimmt,    dass ihre Abstände           von .den

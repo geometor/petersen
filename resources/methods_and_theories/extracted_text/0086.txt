@@ -1,0 +1,25 @@
+                      Drittes Kapitel.
+
+                      Die Drehungstheorie.
+     1. Wenn man von einem gegebenen Punkte O gerade Linien
+nach den Punkten einer gegebenen Curve % zieht und diese Linien
+um einen Winkel » um O dreht, während man sie gleichzeitig nach
+einem gegebenen Verhältniss f wachsen lässt, so erhält man eine
+neue Curve X als geometrischen Ort für die Endpunkte der ge-
+                           drehten Linien.  Diese muss % ähnlich
+                           sein, denn man kann sich die Opera-
+                              tion in der Weise          denken,   dass     man
+                              zuerst nur die Drehung ausführt, wo-
+                              durch nur die Lage der Curve verändert
+                              wird, und darauf die Curve mitf mit
+                              Beziehung auf O multiplieirt.      Ein
+                              Punkt @ der Curve k wird durch die
+                              Drehung einen Punkt A der Curve
+                              K bestimmen.      Zwei solche Punkte
+heissen homolog.      Homologe Linien sind solche, welche homologe
+Punkte   verbinden,   und homologe    Winkel       solche, welche von     homo-
+logen Linien gebildet werden.  Der Punkt O möge der Drehungs-
+punkt heissen, v der Drehungswinkel, / das Drehungsverhältniss.
+Für zwei beliebige hbomologe Punkte A und a muss dass Dreieck
+4A0a dieselbe Form haben, da         Z a0A     =     v und nn =         f con-
+stant sind.   Man kann deshalb auch sagen,            dass die Curve X von

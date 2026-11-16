@@ -1,0 +1,43 @@
+                                        11
+
+                                              Die gesuchten Punkte sollen
+                                              nun denselben Abstand von
+                                              AE und von einer von diesen
+                                               Geraden haben und müssen
+                                             . also auf einer von den vier
+                                               Geraden    liegen,   welche die
+                                               Winkel an den beiden Durch-
+                                               schnittspunkten halbiren. Hier-
+                                               durch ist die Aufgabe auch
+                                               gelöst, wenn die Differenz der
+                                              Abstände        a sein soll; denn     bei
+                                              einer     genaueren        Untersuchung
+                                        .     der     Figur     findet    man   leicht,
+     dass für die vier begrenzten Abschnitte BF, FB,, BF,                   und F,B
+     die Summe,   und für die übrigen       unbegrenzten       Stücke    die Differenz
+     der Abstände «a sei.
+           Anmerkung.    Kommt man überein CP als positiv oder negativ
+     zu rechnen, je nachdem P auf der einen oder anderen Seite der
+     gegebenen Geraden AF liegt und auf ähnliche Weise ZP als po-
+     sitiv oder negativ, je nachdem / auf der einen oder der anderen
+     Seite von AB liegt, so erhält man eine unendliche Gerade als geo-
+     metrischen Ort, indem man beziehungsweise für die vier Linien hat
+                       CP+EP=a,       CP—-EP=a;
+                 — C(P+EP=a;—-            (P—-   EP =a«
+
+
+
+
+          Mit Hülfe dieser geometrischen Oerter lassen sich die folgenden
+     Aufgaben leicht lösen: man betrachte die beiden für den gesuchten
+     Punkt gestellten Bedingungen jede für sich; dadurch erhält man
+     zwei geometrische Oerter für den Punkt.
+
+                                 Beispiele.
+      1. Einen Punkt zu bestimmen, der von drei gegebenen Punkten
+         gleiche Entfernung hat. (e).
+      2. Einen Punkt zu bestimmen, welcher von drei gegebenen Ge-
+       . raden gleiche Entfernung hat. (d).
+
+
+ne

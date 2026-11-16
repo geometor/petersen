@@ -1,0 +1,45 @@
+                                     56
+
+     Eine eigenthümliche Art von Parallelverschiebung wird oft an-
+gewandt, wenn man es mit Kreisen zu thun hat, welche andere
+Kreise oder gerade Linien berühren; man denkt sich dann den
+Radius des einen Kreises bis Null abnehmend, so dass der Kreis
+auf seinen Mittelpunkt redueirt wird, während gleichzeitig die be-
+rührenden Geraden oder Kreise mitfolgen, die ersteren mit Beibe-
+haltung ihrer Richtung, die letzteren mit Beibehaltung ihrer Mittel-
+punkte.    Dadurch gelingt es oft, eine Aufgabe auf eine einfachere
+zu reduciren, indem die gestellten Bedingungen im Uebrigen die-
+selben bleiben, aber ein Kreis durch         einen Punkt    ersetzt wird.
+275.   An zwei Kreise die gemeinschaftlichen Tangenten zu ziehen.
+       Lässt man den kleineren Kreis bis auf einen Punkt abnehmen
+       während   die Tangenten   ihm      folgen, so muss   der andere Kreis
+       welcher fortfahren   soll die Tangenten zu berühren, einen
+       Radius bekommen,     welcher gleich der Summe oder Differenz
+       der gegebenen   Radien ist, je nachdem         man   die inneren      oder
+       äusseren Tangenten betrachtet.  Dadurch ist die Aufgabe auf
+       16 reducirt.
+276.   Einen Kreis zu construiren, welcher zwei gegebene gerade
+       Linien und einen gegebenen Kreis berührt.
+       Lässt   man   den gegebenen     Kreis    bis auf seinen        Mittelpunkt
+       abnehmen, so wird die Aufgabe auf 181 reducirt.     Der ge-
+       suchte Kreis kann den gegebenen auf zwei Arten berühren,
+       denen die Verschiebung der Tangenten in entgegengesetzten
+       Richtungen entspricht.
+277.   Einen Kreis zu construiren, welcher einen gegebenen Kreis -
+       und eine gegebene Gerade berührt, die letztere in einem ge-
+       gebenen Punkte.
+278.   Einen Kreis zu construiren, welcher zwei gegebene Kreise
+       berührt, den einen in einem gegebenen Punkte.
+
+
+       Vermischte      Beispiele für Parallelverschiebung.
+279.   Ein Viereck zu construiren aus den vier Seiten und dem
+       Winkel zwischen zwei gegenüberliegenden Seiten.
+280.   Ein Viereck zu construiren aus den Diagonalen, dem Winkel
+       derselben und zwei gegenüberliegenden Winkeln.
+                                                                  \
+
+
+
+
+                                                   nenn

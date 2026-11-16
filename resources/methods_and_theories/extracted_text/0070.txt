@@ -1,0 +1,47 @@
+                                            54
+
+           ziehen, so dass XY eine gegebene Länge erhält und
+           AKT —          80
+           Verschiebt man XY bis in die Lage AY,, so kann man den
+           Punkt Y, bestimmen, da man seine Entfernung von A und
+           die Form des Dreiecks Y, YC kennt.
+        5. Durch zwei gegebene Kreise eine gerade Linie in gegebener
+           Richtung zu ziehen, so dass die abgeschnittenen Sehnen eine
+           gegebene Summe oder Differenz bekommen.
+           Man verschiebe den einen Kreis in der gegebenen Richtung,
+           bis er den      anderen   auf der gesuchten        Linie    schneidet;   sein
+         Mittelpunkt in dieser Lage lässt sich dann leicht bestimmen.
+    266. Durch einen gegebenen Punkt eine Gerade zu ziehen, welche
+         von zwei gegebenen Kreisen unter gleichen Sehnen geschnitten
+         wird.
+         Man verschiebe den einen Kreis, bis die beiden gleich grossen
+         Sehnen zusammenfallen; sein Mittelpunkt in dieser Lage lässt
+         sich dann dadurch bestimmen, dass die gegebene Centrale von
+         ihm aus unter einem rechten Winkel gesehen wird, und dass
+         seine Entfernung von dem gegebenen Punkte bekannt wird
+         die von dem gegebenen Punkte an diesen Kreis gezogene
+         Tangente ist nämlich gleich der Tangente an den festen
+         Kreis.
+    267. In zwei gegebenen Kreiser mit den Mittelpunkten A und D
+         zwei parallele Radien AX und BY zu ziehen, welche von
+         einem gegebenen Punkte P aus unter gleichen Winkeln ge-
+         sehen werden.
+         Man verschiebe das Dreieck AXP um ein Stück, gleich und
+         parallel der Centrale, während man es gleichzeitig mit dem
+           Verhältniss    der Radien     multiplieirt,   so dass AX      und BY zu-
+           sammenfallen.      Der Punkt / wird dann in eine neue Lage P,
+           kommen,       welche   sich   leicht   bestimmen     lässt,    da man     die
+           Länge und Richtung der Linie DPF, kennt.                   Da Z     YP,B=
+           2 XPA,        so müssen   die Punkte     ?, P,,      B und        Y auf der-
+           selben Kreisperipherie liegen, und dadurch ist Y bestimmt.
+    268.   Ein’ Parallelogramm aus den Seiten und dem Winkel der
+DEE,
+ZEN
+BETEN
+ EBD
+ u
+ EEE
+ ET
+ EEE
+           Diagonalen zu construiren,
+           Verschiebt man die eine Diagonale, bis ihr Endpunkt auf den

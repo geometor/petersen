@@ -1,0 +1,39 @@
+                                               85
+
+ander bilden, werden            nämlich     die Kreise in den homologen Punkten
+berühren.         (Zwei Auflösungen).
+        15.     Eine     Drehung    um      einen     gegebenen    Punkt      kann      immer
+durch     eine Drehung         um   einen      beliebigen Punkt     und      eine Parallel-
+verschiebung ersetzt werden, wobei das Drehungsverhältniss und der
+Drehungswinkel unverändert bleiben, und die Parallelverschiebung
+nur von diesen Grössen und der Lage des Drehungspunktes ab-
+hängig wird.
+     Da das Drehungsverhältniss unverändert beibehalten ist, erhält
+nämlich die Figur durch die neue Drehung die richtige Grösse, und
+da der Drehungswinkel unverändert beibehalten ist, werden die
+Linien der Figur in die richtigen Richtungen fallen.   Die Parallel-
+verschiebung wird also der Grösse und Richtung nach durch die
+Linie bestimmt, welche die beiden Lagen verbindet, in welche irgend
+ein beliebiger Punkt der Curve durch die beiden Drehungen gelangt.
+     Nun sei O der gegebene Drehungspunkt, O, der neue. Durch
+die Drehung um O wird der Punkt O,, den man als zu der gege-
+benen Curve gehörig betrachten kann, auf einen neuen Punkt O,
+kommen,         während      er bei der Drehung          um   ©,    liegen    bleibt.     Die
+Linie 0,0,             bestimmt also die Parallelverschiebung.               Die Parallel-
+verschiebung          wird   also durch     die Linie      bestimmt,      welche der neue
+Drehungspunkt durchläuft, wenn man in um den gegebenen ‚Dre-
+hungspunkt dreht.
+     Umgekehrt kann eine Parallelverschiebung und eine Drehung
+immer         durch    eine Drehung       um    einen neuen       Punkt    ersetzt werden,
+welcher sich nach obiger Auseinandersetzung leicht bestimmen
+lässt.
+       16. Die Reihenfolge, in der zwei auf einander folgende Dre-
+hungen        vorgenommen       werden      sollen,    kann umgekehrt werden,            wenn
+man eine Parallelverschiebung hinzufügt.
+      Denn welche Reihenfolge man auch wählen möge, jede Linie des
+Systems wird um einen Winkel gedreht, welcher gleich der Summe
+der gegebenen Drehungswinkel ist, und wird mit dem Producte der
+gegebenen Drehungsverhältnisse multiplicirt. Die beiden erhaltenen
+Figuren müssen deshalb dieselbe Grösse, und ihre homologen Seiten
+dieselbe Richtung bekommen; eine Parallelverschiebung kann des-
+halb die eine zur Deckung mit der anderen bringen.

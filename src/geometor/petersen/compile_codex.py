@@ -4,8 +4,8 @@ Compiles:
 
 1. Standalone theme-adaptive ``.euclid-graphic`` SVG figures in ``docsrc/_static/figures/``;
 2. Root ``resources/{persons,citations,glossary}.json`` mirrors for ``photon_platform.publish``;
-3. Synchronized 3-track Book Codex units (``<slug>-en.rst``, ``<slug>-summary.rst``,
-   ``<slug>-notes.rst``) and scholarly apparatus pages in ``docsrc/methods_and_theories/``.
+3. Synchronized 3-track Book Codex canonical chapters and sections (``index.rst``,
+   ``summary.rst``, ``notes.rst``) and scholarly apparatus pages in ``docsrc/methods_and_theories/``.
 """
 
 from __future__ import annotations
@@ -31,7 +31,16 @@ from geometor.petersen.constructions import (
     trapezoid_from_four_sides,
 )
 from geometor.petersen.render import export_svg
-from geometor.petersen.units_commentary import UNIT_SPECS, UNITS_NOTES, UNITS_SUMMARY, UnitSpec
+from geometor.petersen.units_commentary import (
+    CANONICAL_CHAPTERS,
+    CANONICAL_SECTIONS,
+    ChapterSpec,
+    SectionSpec,
+    UNIT_SPECS,
+    UNITS_NOTES,
+    UNITS_SUMMARY,
+    UnitSpec,
+)
 from geometor.petersen.units_en import UNITS_EN
 
 
@@ -154,30 +163,16 @@ def export_all_figures(repo_root: Path | None = None) -> list[Path]:
     return exported
 
 
-def _render_codex_index(specs: tuple[UnitSpec, ...]) -> str:
-    conspectus_blocks: list[str] = []
-    en_toc: list[str] = []
-    sum_notes_toc: list[str] = []
-
-    for spec in specs:
-        s = spec.slug
-        conspectus_blocks.append(
-            f"**{spec.title}** (*{spec.danish_subtitle}* — {spec.page_span}; {spec.problem_span})\n"
-            f"   :ref:`English (1879) <petersen-{s}-en>` · "
-            f":ref:`Summary <petersen-{s}-summary>` · "
-            f":ref:`Notes <petersen-{s}-notes>`"
-        )
-        en_toc.append(f"   {s}/{s}-en")
-        sum_notes_toc.append(f"   {s}/{s}-summary")
-        sum_notes_toc.append(f"   {s}/{s}-notes")
-
-    conspectus_text = "\n\n".join(conspectus_blocks)
-    en_toc_text = "\n".join(en_toc)
-    sum_toc_text = "\n".join(sum_notes_toc)
+def _render_codex_index() -> str:
+    chapter_tocs: list[str] = []
+    for ch in CANONICAL_CHAPTERS:
+        chapter_tocs.append(f"   {ch.slug}/index")
+    chapter_toc_text = "\n".join(chapter_tocs)
 
     return f""":navigation: header
 :order: 1
 :nav_title: Methods and Theories
+:breadcrumb_title: Methods and Theories
 :layout: book
 :book_title: Methods and Theories for Geometrical Constructions
 :book_subtitle: Julius Petersen (1866 / tr. Sophus Haagensen, 1879)
@@ -212,7 +207,8 @@ Methods and Theories for Geometrical Constructions
 Table of Contents
 -----------------
 
-{conspectus_text}
+.. collection::
+   :sort: order
 
 ----
 
@@ -227,18 +223,11 @@ Scholarly Apparatus
 * :ref:`Technical Glossary of Constructive Geometry <glossary>` — Bilingual Danish/English/Greek analytical and transformational vocabulary.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
-   :caption: English Edition (1879)
+   :caption: Methods & Theories
 
-{en_toc_text}
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Summaries & Commentary
-
-{sum_toc_text}
+{chapter_toc_text}
 
 .. toctree::
    :maxdepth: 1
@@ -252,47 +241,96 @@ Scholarly Apparatus
 """
 
 
-def _render_unit_tracks(
-    spec: UnitSpec,
+def _render_chapter_container(ch: ChapterSpec, sections: list[SectionSpec]) -> str:
+    sec_tocs = [f"   {s.section}/index" for s in sections if s.section]
+    sec_toc_text = "\n".join(sec_tocs)
+    head = _underline(ch.title, "=")
+    return f""":layout: book
+:order: {ch.order}
+:folio: {ch.folio}
+
+.. _petersen-{ch.slug}:
+.. _petersen-{ch.slug}-en:
+
+{head}
+
+.. rubric:: {ch.subtitle}
+
+.. collection::
+   :sort: order
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+{sec_toc_text}
+"""
+
+
+def _render_section_tracks(
+    spec: SectionSpec,
     apparatus: PetersenApparatus,
     workspace_root: Path,
 ) -> tuple[str, str, str]:
-    s = spec.slug
+    s = spec.slug.replace("/", "-")
     en_head = _underline(spec.title, "=")
+    legacy_en = f".. _petersen-{spec.legacy_slug}-en:\n" if spec.legacy_slug else ""
+    body_en = UNITS_EN[spec.rel_path].strip()
+
     en_doc = f""":layout: book
+:order: {spec.order}
+:folio: {spec.folio}
+:tracks: English: index | Summary: summary | Notes: notes
 
+.. _petersen-{s}:
 .. _petersen-{s}-en:
-
+{legacy_en}
 {en_head}
 
 .. rubric:: Julius Petersen — *Methods and Theories* (Authorized Translation by Sophus Haagensen, 1879 · {spec.page_span})
 
-.. contents:: In This Unit
+.. contents:: In This Section
    :local:
    :depth: 2
    :backlinks: none
 
-{UNITS_EN[s].strip()}
+{body_en}
+
+.. toctree::
+   :hidden:
+
+   summary
+   notes
 """
 
     sum_head = _underline(f"{spec.title} — Summary", "=")
+    legacy_sum = f".. _petersen-{spec.legacy_slug}-summary:\n" if spec.legacy_slug else ""
+    body_sum = UNITS_SUMMARY[spec.rel_path].strip()
+
     sum_doc = f""":layout: book
+:order: {spec.order}
+:folio: {spec.folio}
+:tracks: English: index | Summary: summary | Notes: notes
 
 .. _petersen-{s}-summary:
-
+{legacy_sum}
 {sum_head}
 
-.. rubric:: Structural & Heuristic Overview — *{spec.danish_subtitle}* ({spec.page_span} · {spec.problem_span})
+.. rubric:: Structural & Heuristic Overview — *{spec.subtitle}* ({spec.page_span} · {spec.problem_span})
 
 .. contents:: In This Summary
    :local:
    :depth: 2
    :backlinks: none
 
-{UNITS_SUMMARY[s].strip()}
+{body_sum}
 """
 
-    unit_entries: list[ConcordanceEntry] = apparatus.by_unit(s)
+    notes_head = _underline(f"{spec.title} — Notes", "=")
+    legacy_notes = f".. _petersen-{spec.legacy_slug}-notes:\n" if spec.legacy_slug else ""
+    body_notes = UNITS_NOTES[spec.rel_path].strip()
+
+    unit_entries: list[ConcordanceEntry] = apparatus.by_unit(spec.rel_path)
     conc_lines: list[str] = []
     for entry in unit_entries:
         probs = f" (*Problems {', '.join(entry.problems)}*)" if entry.problems else ""
@@ -303,12 +341,15 @@ def _render_unit_tracks(
         for ref in entry.cross_refs:
             conc_lines.append(_format_cross_ref_bullet(ref, workspace_root))
 
-    conc_block = "\n".join(conc_lines)
-    notes_head = _underline(f"{spec.title} — Notes", "=")
+    conc_block = "\n".join(conc_lines) if conc_lines else "*No direct concordance entries for this subsection.*"
+
     notes_doc = f""":layout: book
+:order: {spec.order}
+:folio: {spec.folio}
+:tracks: English: index | Summary: summary | Notes: notes
 
 .. _petersen-{s}-notes:
-
+{legacy_notes}
 {notes_head}
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary ({spec.page_span})
@@ -318,7 +359,7 @@ def _render_unit_tracks(
    :depth: 2
    :backlinks: none
 
-{UNITS_NOTES[s].strip()}
+{body_notes}
 
 Cross-Repository Concordance Links
 ----------------------------------
@@ -349,98 +390,90 @@ def _render_concordance_page(apparatus: PetersenApparatus, workspace_root: Path)
             f"     - {sister_repos}"
         )
 
-        ref_bullets = "\n".join(
+        cross_bullets = [
             _format_cross_ref_bullet(ref, workspace_root) for ref in entry.cross_refs
+        ]
+        cross_block = "\n".join(cross_bullets) if cross_bullets else "  - *(Internal)*"
+        ctor_line = (
+            f"* **Executable SymPy Constructor**: :func:`~geometor.petersen.constructions.{entry.constructor}`\n"
+            if entry.constructor
+            else ""
         )
-        sec_head = _underline(f"{entry.title} ({entry.petersen_locus})", "~")
-        detail_blocks.append(
-            f".. _concordance-{entry.id}:\n\n"
-            f"{sec_head}\n\n"
-            f"{entry.summary}\n\n"
-            f"* **Unit Track**: :ref:`English <petersen-{entry.unit}-en>` · "
-            f":ref:`Summary <petersen-{entry.unit}-summary>` · "
-            f":ref:`Notes <petersen-{entry.unit}-notes>`\n"
-            f"* **Canonical Problems**: {probs_txt}\n"
-            f"* **Exact Symbolic Constructor**: {ctor_txt}\n"
-            f"* **Sister Repository Links**:\n\n"
-            f"{ref_bullets}"
+        probs_line = (
+            f"* **Petersen 1879 Problems**: {', '.join(entry.problems)}\n"
+            if entry.problems
+            else ""
         )
 
-    rows_txt = "\n".join(rows)
-    details_txt = "\n\n".join(detail_blocks)
-    return f""":navigation: footer
+        slug = entry.unit.replace("/", "-")
+        detail_blocks.append(
+            f".. _concordance-{entry.id}:\n\n"
+            f"{entry.petersen_locus} — {entry.title}\n"
+            f"{'^' * (len(entry.petersen_locus) + len(entry.title) + 3)}\n\n"
+            f"* **Section Track**: :ref:`English <petersen-{slug}-en>` · "
+            f":ref:`Summary <petersen-{slug}-summary>` · "
+            f":ref:`Notes <petersen-{slug}-notes>`\n"
+            f"{probs_line}"
+            f"{ctor_line}"
+            f"* **Theoretical Essence**: {entry.summary}\n\n"
+            f"**Cross-Repository Canon Realizations**:\n\n"
+            f"{cross_block}"
+        )
+
+    table_body = "\n".join(rows)
+    details_body = "\n\n".join(detail_blocks)
+
+    return f""":navigation: header
+:order: 5
 :nav_title: Concordance
 
 .. _concordance:
 
-Concordance
-===========
+Petersen Master Cross-Repository Concordance
+============================================
 
-.. rubric:: Mapping Julius Petersen's *Methods and Theories* (1866 / 1879) across the GEOMETOR Constructive & Historical Canon
+.. rubric:: Heuristic Loci, Transformations & Constructibility Across the GEOMETOR Canon
 
-.. contents:: Concordance Sections
-   :local:
-   :depth: 2
-   :backlinks: none
-
-Primary Editions Aligned
-------------------------
-
-* **``schonberg_1866``**: *Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver, anvendte paa c. 400 Opgaver* (Copenhagen: Karl Schønbergs Forlag, 1866 — First Danish Edition).
-* **``host_1879_da``**: *Methoder og Theorier til Løsning af geometriske Konstruktionsopgaver, anvendte paa over 400 Opgaver*, 2nd rev. Danish edition (Copenhagen: Andr. Fred. Høst & Søns Forlag, 1879).
-* **``haagensen_1879_en``**: *Methods and Theories for the Solution of Problems of Geometrical Constructions, Applied to 410 Problems*, trans. Sophus Haagensen (Copenhagen: Andr. Fred. Høst & Son; London: Sampson Low, Marston, Searle & Rivington, 1879 — Copy-text of this Book Codex).
-* **``chemin_1880_fr`` / ``fischer_benzon_1879_de``**: Simultaneous French (*Méthodes et théories*, Gauthier-Villars, 1880) and German (*Methoden und Theorien*, Høst, 1879) sister editions.
-
-Master Synopsis Table
----------------------
-
-.. list-table:: Petersen's Heuristic Taxonomy Across the GEOMETOR Canon
+.. list-table:: Petersen Heuristic Concepts & Canonical Cross-Repository Correspondences
    :header-rows: 1
-   :widths: 28 16 28 28
+   :widths: 34 16 26 24
 
-   * - Petersen Locus (1879)
-     - Problems
-     - ``geometor.petersen`` Constructor
-     - Linked GEOMETOR Repositories
-{rows_txt}
+   * - Petersen Locus / Heuristic Operation
+     - 1879 Problems
+     - Symbolic Implementation
+     - Sister Repositories
+{table_body}
 
-Detailed Concordance Entries
-----------------------------
+----
 
-{details_txt}
+Detailed Concordance Analyses
+-----------------------------
+
+{details_body}
 """
 
 
 def _render_persons_page(apparatus: PetersenApparatus) -> str:
-    author_keys = ("petersen", "haagensen")
-    author_blocks: list[str] = []
-    for key in author_keys:
-        if key in apparatus.persons:
-            p = apparatus.persons[key]
-            slug = apparatus_slug(key)
-            author_blocks.append(
-                f".. _person-{slug}:\n\n"
-                f"**{p['name']}** ({p['dates']}) — *{p['role']}*\n"
-                f"   {p['summary']}"
-            )
-
+    authors_blocks: list[str] = []
     cited_blocks: list[str] = []
-    for key in sorted(apparatus.persons, key=lambda k: apparatus.persons[k]["name"].split()[-1]):
-        if key in author_keys:
-            continue
+
+    for key in sorted(apparatus.persons, key=lambda k: apparatus.persons[k]["name"]):
         p = apparatus.persons[key]
-        slug = apparatus_slug(key)
-        cited_blocks.append(
-            f".. _person-{slug}:\n\n"
-            f"**{p['name']}** ({p['dates']}) — *{p['role']}*\n"
-            f"   {p['summary']}"
+        dates = p.get("dates", "")
+        role = p.get("role", "")
+        desc = p.get("description", "")
+        target_list = authors_blocks if "Author" in role or "Translator" in role else cited_blocks
+        target_list.append(
+            f".. _person-{key}:\n\n"
+            f"**{p['name']}** ({dates}) — *{role}*\n"
+            f"   {desc}"
         )
 
-    authors_txt = "\n\n".join(author_blocks)
+    authors_txt = "\n\n".join(authors_blocks)
     cited_txt = "\n\n".join(cited_blocks)
 
     return f""":navigation: header
-:order: 5
+:order: 7
 :nav_title: People
 
 .. _persons:
@@ -534,19 +567,50 @@ def build_codex(repo_root: Path | None = None, *, export_figures: bool = True) -
     codex_dir = root / "docsrc" / "methods_and_theories"
     codex_dir.mkdir(parents=True, exist_ok=True)
 
+    # Clean up deprecated unit-* directories
+    for old_dir in (
+        "unit-01-anatomy-of-construction",
+        "unit-02-loci-of-points",
+        "unit-03-loci-of-lines",
+        "unit-04-parallel-translation",
+        "unit-05-axial-reflection-and-rotation",
+        "unit-06-method-of-similitude",
+        "unit-07-inversion-and-constructibility",
+    ):
+        p = codex_dir / old_dir
+        if p.is_dir():
+            shutil.rmtree(p)
+
+    # Render book root index
     index_path = codex_dir / "index.rst"
-    index_path.write_text(_render_codex_index(UNIT_SPECS), encoding="utf-8")
+    index_path.write_text(_render_codex_index(), encoding="utf-8")
     written.append(index_path)
 
-    for spec in UNIT_SPECS:
-        unit_dir = codex_dir / spec.slug
-        unit_dir.mkdir(parents=True, exist_ok=True)
-        en_txt, sum_txt, notes_txt = _render_unit_tracks(spec, apparatus, workspace_root)
-        for suffix, content in (("en", en_txt), ("summary", sum_txt), ("notes", notes_txt)):
-            p = unit_dir / f"{spec.slug}-{suffix}.rst"
+    # Render intermediate chapter container index files
+    for ch in CANONICAL_CHAPTERS:
+        if not ch.is_leaf:
+            ch_dir = codex_dir / ch.slug
+            ch_dir.mkdir(parents=True, exist_ok=True)
+            ch_sections = [s for s in CANONICAL_SECTIONS if s.chapter == ch.slug]
+            ch_index = ch_dir / "index.rst"
+            ch_index.write_text(_render_chapter_container(ch, ch_sections), encoding="utf-8")
+            written.append(ch_index)
+
+    # Render leaf sections (3 tracks: index.rst, summary.rst, notes.rst)
+    for spec in CANONICAL_SECTIONS:
+        sec_dir = codex_dir / spec.rel_path
+        sec_dir.mkdir(parents=True, exist_ok=True)
+        en_txt, sum_txt, notes_txt = _render_section_tracks(spec, apparatus, workspace_root)
+        for fname, content in (
+            ("index.rst", en_txt),
+            ("summary.rst", sum_txt),
+            ("notes.rst", notes_txt),
+        ):
+            p = sec_dir / fname
             p.write_text(content, encoding="utf-8")
             written.append(p)
 
+    # Render apparatus pages
     for filename, content in (
         ("concordance.rst", _render_concordance_page(apparatus, workspace_root)),
         ("bibliography.rst", _render_bibliography_page(apparatus)),

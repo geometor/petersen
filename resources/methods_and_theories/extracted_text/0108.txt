@@ -1,0 +1,39 @@
+                                               92
+
+           MD zu ME, und dieses Verhältniss ist das Quadrat des ge-
+           gebenen.
+388.       An zwei gegebene Kreise zwei Tangenten zu ziehen, welche
+           einen gegebenen Winkel mit einander bilden, und zwar so,
+           dass die Linie, welche die Berührungspunkte der beiden Tan-
+           genten verbindet, durch einen gegebenen Punkt geht.
+           Die Aufgabe wird durch 14 auf 364 zurückgeführt.
+389.       An zwei gegebene Kreise zwei Tangenten zu ziehen, welche
+           einen gegebenen Winkel mit einander bilden, und zwar so,
+           dass die Linie, welche die Berührungspunkte der Tangenten
+           verbindet, eine gegebene Richtung hat.
+           Die Aufgabe ist ein specieller Fall der vorhergehenden, indem
+           der gegebene Punkt hier in unendlicher Ferne liegt.
+39.        In   ein   Dreieck     ein    anderes     zu   beschreiben,      welches     einem
+           gegebenen ähnlich ist, so dass die eine Seite durch einen ge-
+           gebenen Punkt geht.
+           Man bestimme drei homologe Punkte auf den gegebenen
+           Linien, indem        man das Dreieck, welches einbeschrieben werden
+           soll, zum Grunddreieck nimmt.
+           Die Aufgabe ist nun auf 364 reducirt.
+       .   In ein Dreieck         ein anderes Dreieck          zu    beschreiben,     welches
+           einem gegebenen ähnlich ist, und dessen Schwerpunkt auf
+           eine der Medianen des gegebenen Dreiecks fällt.
+           Man beschreibe in das Dreieck zwei beliebige Dreiecke, welche
+           dem gegebenen ähnlich sind; die Linie, welche die Schwer-
+           punkte von diesen verbindet, schneidet die gegebene Mediane
+           in dem gesuchten Schwerpunkt.      Die Eckpunkte lassen sich
+           nun leicht bestimmen, denn durch ein System von drei Eck-
+           punkten auf einer der Seiten des gegebenen Dreiecks werden
+           Abschnitte       bestimmt,      welche     sich    ebenso    verhalten     wie   die
+           Abschnitte,       welche      von   den    drei     Schwerpunkten        bestimmt
+           werden.
+392.       In ein Dreieck ein anderes zu beschreiben,                  so dass zwei seiner
+           Seiten gegebene Richtungen erhalten und die dritte Seite eine
+           gegebene Länge bekommt.
+           Das einbeschriebene Dreieck sei abe, und be sei die gegebene
+           Seite.     Der    um    abe   beschriebene        Kreis   wird   die Linie,      auf

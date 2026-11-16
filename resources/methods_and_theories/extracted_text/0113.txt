@@ -1,0 +1,44 @@
+                                             97
+
+            b.   In einem einbeschriebenen        Viereck ist die Summe              von    zwei
+     gegemüberliegenden   Winkeln gleich der Summe der beiden an-
+     deren.    Gehen die vier Seiten durch denselben Punkt, so betragen
+     die gleichgrossen Winkelsummen 2 R, und die Summe der Seiten
+     ist Null. (4).
+           7. Falls in einem Viereck die Summe zweier gegenüberliegender
+     Winkel gleich der Summe         der beiden anderen ist, ist das Viereck ein
+     einbeschriebenes.
+           Aus 1 folgt nämlich, dass die Summe von zwei gegenüberlie-
+     genden Winkeln vermindert um die halbe Summe der Seiten gleich
+     2 R ist. Diese Summe indessen ist eben die Summe der gegen-
+     überliegenden Winkel in dem geradlinigen Viereck, dessen Eck-
+     punkte mit denen des gegebenen zusammenfallen.
+           8. Berühren zwei Kreise zwei andere Kreise gleichartig, so
+     liegen die vier Berührungspunkte auf einer Kreisperipherie. (f),
+           9. Jeder Kreis, welcher durch die Durchschnittspunkte von
+     zwei festen Kreisen geht, schneidet ein System von Kreisen, welche
+     die beiden festen (auf dieselbe Weise) berühren, unter gleichgrossen
+     Winkeln.
+          Dieser Satz wurde früher (198) durch Inversion bewiesen,                          hier
+     aber soll ein directer Beweis          geführt werden,           welcher       auch    gilt,
+     wenn    die beiden     festen Kreise    sich nicht       schneiden;        unter      einem
+     Kreise durch die Durchschnittspunkte dieser ist dann ein solcher
+     Kreis zu verstehen, dass derselbe und die beiden festen Kreise eine
+     gemeinschaftliche Potenzlinie haben.
+           Als einen Kreis kann man die gemeinschaftliche Tangente
+     nehmen; diese möge die festen Kreise S, und 8, in A und BD
+     berühren,    während    ein anderer    Kreis       S dieselben    in C und D be-
+     rührt.   Der Kreis durch die Durchschnittspunkte der festen Kreise
+     schneidet die gemeinschaftliche Tangente in#& und S in F. Die
+     Linien AC und BD schneiden sich auf S in dem Punkte O, dessen
+     Tangente der gemeinschaftlichen Tangente parallel ist.     Da die
+     Punkte A, C, D und B auf einer Kreisperipherie liegen, hat O
+     dieselbe Potenz mit Beziehung auf S, und S,. O hat deshalb auch
+     dieselbe Potenz mit Beziehung auf die Kreise ACF, EF und BDF
+     und muss deshalb auf der Potenzlinie von je zwei von diesen drei
+     Kreisen liegen. Da die drei Kreise den Punkt   7 gemeinsam haben,
+                                              #:               ER               7
+
+
+                                               BNELIO'
+I-                                                BET    na

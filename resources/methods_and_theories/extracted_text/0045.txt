@@ -1,0 +1,39 @@
+                                                29
+
+         Man     beginne        mit   der Tangente,           deren   Grösse    beliebig ge-
+         wählt    wird, und       suche    den Kreismittelpunkt.               Die Figur hat
+         nun die richtige Form und erhält leicht die richtige Grösse,
+         wenn   man     den Kreismittelpunkt  als Aehnlichkeitspunkt
+         nimmt.
+151.     Ein Dreieck       zu     construiren        aus A,     A, und dem        Verhältniss
+         der durch A, auf a gebildeten Abschnitte.
+152.     Ein Dreieck aus seinen drei Höhen zu construiren.
+         Das Verhältniss der Seiten ist bekannt. Zieht man ven einem
+         beliebigen Punkte an einen Kreis drei Secanten, deren äussere
+         Abschnitte gleich den gegebenen Höhen sind, so verhalten die
+         ganzen Secanten sich zu einander wie die gesuchten Dreiecks-
+         seiten.
+153.     Man     soll in einen        Halbkreis      ein Viereck      beschreiben,   welches
+       einem gegebenen Viereck ähnlich ist, so dass zwei Eckpunkte
+       auf den Durchmesser und zwei auf die Peripherie fallen.
+       Zuerst zeichne man einen Halbkreis um das gegebene Viereck.
+     ‘ Die so erhaltene Figur ist der gesuchten ähnlich.
+      b) Bei den oben angeführten Aufgaben war die Lage der ge-
+suchten Figur gleichgültig; soll dagegen die Figur eine bestimmte
+Lage mit Beziehung auf gewisse gegebene Linien oder Punkte ein-
+nehmen, so muss man suchen eine solche Bedingung fortzunelhmen,
+dass man ein "System von ähnlich liegenden Figuren bekommt.    Da-
+durch werden die geometrischen Oerter für alle Punkte der Figur
+gerade Linien durch den Aehnlichkeitspunkt, und dadurch bestimmt
+man dann leicht die gesuchte Figur, indem man zuerst eine be-
+liebige von den Figuren zeichnet und darauf die gegen diese ähnlich
+liegende Figur, welche zugleich die fortgenommene Bedingung er-
+füllt.    Die Bedindung,              welche    man     fortzunehmen       hat,    ist in der
+Regel entweder, dass eine Linie eine bestimmte Länge haben soll, oder
+dass ein Punkt auf einer gegebenen Linie liegen soll, oder dass eine
+Linie durch ‘einen gegebenen Punkt gehen soll.
+154. In ein gegebenes Dreieck ABC ein anderes abe zu beschreiben,
+      so dass die Seiten desselben gegebenen Geraden parallel
+      werden.
+      Nimmt man die Forderung fort, dass a auf BC fallen soll,
+      so wird den übrigen Forderungen durch ein System von ähn-

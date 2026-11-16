@@ -1,0 +1,54 @@
+                                                                                       1
+                                                                                           u
+
+
+                                            36                                             SE
+
+
+        das Verhältniss FB, : PD constant.      Man findet deshalb den geo-
+        metrischen Ort für D,, wenn man den geometrischen Ort für D
+        (den gegebenen Kreis) mit einer Constanten mit Beziehung auf P
+        multiplieirt. Der Ort ist also ein Kreis, ähnlich liegend gegen den
+        gegebenen, mit P als Aehnlichkeitspunkt.      Ist die Inversionspotenz
+        gleich der Potenz von P mit Beziehung auf den gegebenen Kreis,
+        so wird dieser seine eigene inverse Curve.
+              Es wurde bewiesen, dass 3 und B, gleichzeitig Kreislinien
+        durchlaufen; indessen muss man beachten, dass sie nicht gleichzeitig
+        ähnliche Bogen durchlaufen; dagegen durchlaufen D, und D ähn-
+        liche und ähnlich liegende Bogen.
+              Nun kann man folgende allgemeine Aufgabe lösen:
+              Durch einen gegebenen Punkt P eine Gerade zu ziehen, von
+        welcher zwei gegebene Curven K und K, zwei Stücke PX und PY
+        mit gegebenem Product abschneiden.
+              Nimmt man nämlich X, fort, so wird der geometrische Ort für
+         Y die inverse Curve von K mit P als Inversionscentrum und dem
+        gegebenen Product als Inversionspotenz.      Y wird also als Durch-
+        schnittspunkt zwischen dieser Curve und X, bestimmt.         Die Auf-
+        gabe lässt sich mit Zirkel und Lineal lösen, sobald die gegebenen
+        Curven aus geraden Linien und Kreisbogen zusammengesetzt sind.
+        192. Durch einen gegebenen Punkt     P eine Gerade zu ziehen, welche
+               die Schenkel eines gegebenen Winkels in A und B so schnei-
+                det, dass PA. PB = a?, wo a eine gegebene Strecke ist.
+        193. Gegeben ist ein Kreis, in demselben ein Durchmesser und ein
+               Punkt P; man soll durch P eine Gerade ziehen, welche den
+               Kreis    in X   und   den Durchmesser     in Y so schneidet,     dass
+             DE INE GR
+        194. Durch den einen Durchschnittspunkt zweier Kreise eine Ge-
+TESTS
+ EI
+             rade so zu ziehen, dass die durch die beiden Kreise abge-
+             schnittenen Sehnen ein gegebenes Product haben.
+        195.   Man     soll ein Dreieck   ABC    construiren;   bekannt sind:   Die
+               Seite des einbeschriebenen Quadrats, von dem zwei Eckpunkte
+               auf DC liegen, Z A und das Product der beiden Abschnitte
+               in welche AB durch einen Eckpunkt des Quadrates getheilt
+               wird.
+Ban
+©
+Sen
+ 5A
+ 275
+
+
+
+                                                                                               Kr

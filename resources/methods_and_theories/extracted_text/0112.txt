@@ -1,0 +1,45 @@
+                                                                   s u
+
+                                                                                 5
+                                                                                 4
+
+
+
+                                     6
+    sie sich um diesen Eckpunkt,    bis sie Tangente der folgenden Seite
+    wird, und so fort, bis sie in ihre Anfangslage zurückkehrt;       sie hat
+    sich dann nach und nach um Winkel gedreht, welche theils gleich
+    den Seiten des Polygons, theils gleich den Nebenwinkeln der Poly-
+|   gonwinkel sind, aber da sie sich gerade ein Mal herumgedreht hat,
+    ist die Summe dieser Winkel gleich 4 R.
+          Der Einfachheit wegen wurde vorausgesetzt, dass die Linie nach
+    einer Umdrehung in ihre Anfangslage zurückkehrt; bei nicht con-
+    vexen Polygonen kann sie sich indessen mehrere Male (oder keinmal)
+    herumgedreht haben, so dass die gesuchte Winkelsumme jedes Viel-
+    fache von 4R sein kann.
+          Damit der Satz allgemein gelten soll, muss man die Winkel
+    und Bogen mit Vorzeichen nehmen nach der Umlaufsrichtung, in
+    welcher sie durchlaufen werden.
+          2. In einem Dreieck ist die Summe der Winkel vermindert
+    um die Summe der Seiten gleich 2 R. Gehen die Seiten durch den-
+    selben Punkt (welcher nicht einer von den Eckpunkten des Dreiecks
+    ist), so beträgt die Summe der Winkel 2 R und die Summe der
+    Seiten st Null.
+        Der letzte Satz lässt sich leicht beweisen, wenn    man     statt der
+    Winkel des Dreiecks die ebenso grossen Winkel an dem gemein-
+    schaftlichen Durchschnittspunkt der Seiten nimmt.
+          3. In einem Zweiech sind die beiden Winkel gleich gross und
+    gleich der halben Summe der Seiten.
+          4. Ein Peripheriewinkel ist gleich der halben Summe aus seinen
+    Schenkeln und dem Bogen, auf welchem er steht.
+         Verlängert man die Schenkel, bis sie ein Zweieck         bilden,   so
+    wird der Winkel durch die halbe Summe der Seiten dieses Zweiecks
+    gemessen.   Die Summe der beiden Verlängerungen ist indessen
+    gleich dem Bogen, auf welchem der Peripheriewinkel steht (2).
+    Dieser Bogen muss mit engegengesetztem Vorzeichen genommen
+    werden, je nachdem man ihn als Seite des einen oder des andern
+    der beiden Dreiecke betrachtet, in welche das Zweieck getheilt ist.
+          5. Wenn von zwei Kreispaaren die Durchschnittspunkte jedes
+    Paares jeder auf einem Kreise des anderen Paares liegen, so
+    schneiden die beiden   Kreise   jedes Paares   sich   unter    demselben
+     Winkel (2).

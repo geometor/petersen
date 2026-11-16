@@ -1,0 +1,39 @@
+                                                75
+
+und BC ist.     Im ersten Falle sind 3 und C, und A und D ho-
+mologe Punkte, im zweiten B und A, und C und D.
+     Auf dieselbe Weise sieht man, dass der Drehungspunkt für
+AB und CD auch der Drehungspunkt für AC und BD                                 ist.
+       Verlängert man          die gegenüberliegenden            Seiten bis zum   Durch-
+schnitt, so werden die Kreise, durch welche der Drehunspunkt be-
+stimmt wird, um          die vier Dreiecke           beschrieben    sein, welche in der
+Figur gebildet werden;               derselben Kreise muss man sich bedienen
+um den Drehungspunkt                 für zwei beliebige Stücke der Figur zu be-
+stimmen,       welche     sich      nicht     in einem     ihrer Endpunkte    schneiden;
+daraus folgt also folgender Satz:
+       Bei einem vollständigen                Vierseit werden die Kreise, welche um
+       die vier Dreiecke beschrieben werden, die man erhält, wenn man
+       eine Seite nach der anderen fortnimmt, alle durch denselben
+       Punkt   gehen,         und    dieser    Punkt     wird   der Drehungspunkt     für
+       zwei beliebige Stücke der Figur sein, welche sich nicht in einem
+       ihrer Endpunkte schneiden.
+             7. Theilt man die Linien, welche homologe Punkte ähn-
+       licher Curven verbinden, nach demselben Verhältniss, so wird
+       der geometrische          Ort für die         Theilungspunkte   eine   Curve   sein,
+       welche den gegebenen ähnlich ist, und zwei beliebige solcher Curven
+       haben denselben Drehungspunkt wie die gegebenen.
+       A und a seien zwei homologe Punkte und die Linie Aa werde
+durch 7 nach einem gegebenen Verhältniss getheilt. Ist nun O der
+Drehungspunkt, so muss die ‘Form des Dreiecks AOa constant sein;
+dasselbe muss dann auch von A AOP gelten, und folglich muss
+P eine Curve beschreiben, welche den gegebenen ähnlich ist, wenn
+das Dreieck sich um O dreht.
+      Zusatz.  Zieht man in einem Viereck Linien, welche je zwei
+gegenüberliegende Seiten nach demselben Verhältniss theilen, so
+werden diese Linien selber nach demselben Verhältniss getheilt.
+
+
+                                       Anwendungen.
+363.    Gegeben        sind     zwei    gerade Linien,          auf jeder derselben    ein
+        Punkt,     A     und B,         und     ausserdem       ein Punkt P; -man      soll
+        durch P eine Gerade ziehen, welche die gegebenen Linien in

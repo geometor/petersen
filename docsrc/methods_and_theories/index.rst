@@ -1,6 +1,7 @@
 :navigation: header
 :order: 1
 :nav_title: Methods and Theories
+:breadcrumb_title: Methods and Theories
 :layout: book
 :book_title: Methods and Theories for Geometrical Constructions
 :book_subtitle: Julius Petersen (1866 / tr. Sophus Haagensen, 1879)
@@ -35,26 +36,8 @@ Methods and Theories for Geometrical Constructions
 Table of Contents
 -----------------
 
-**Unit I: Preface & The Anatomy of a Geometric Construction** (*Forord og Indledning — Analyse, Konstruktion, Bevis og Diskussion* — pp. 1–6 (with Problem 42, p. 15); Foundations & Problem 42)
-   :ref:`English (1879) <petersen-unit-01-anatomy-of-construction-en>` · :ref:`Summary <petersen-unit-01-anatomy-of-construction-summary>` · :ref:`Notes <petersen-unit-01-anatomy-of-construction-notes>`
-
-**Unit II: Chapter I, Part A — Loci of Points & The Method of Two Loci** (*Kapitel I.A — Geometriske Steder for Punkter (a–k)* — pp. 7–22, 37–40; Problems 1–116 & 202–219)
-   :ref:`English (1879) <petersen-unit-02-loci-of-points-en>` · :ref:`Summary <petersen-unit-02-loci-of-points-summary>` · :ref:`Notes <petersen-unit-02-loci-of-points-notes>`
-
-**Unit III: Chapter I, Part B — Loci of Lines & Tangential Envelopes** (*Kapitel I.B — Geometriske Steder for Linier (l–p)* — pp. 40–45; Problems 220–245)
-   :ref:`English (1879) <petersen-unit-03-loci-of-lines-en>` · :ref:`Summary <petersen-unit-03-loci-of-lines-summary>` · :ref:`Notes <petersen-unit-03-loci-of-lines-notes>`
-
-**Unit IV: Chapter II, Parts A & B — Parallel Translation & Replacing** (*Kapitel II — Figurens Omdannelse: Parallelforskydning og Omlægning* — pp. 46–60; Problems 246–335)
-   :ref:`English (1879) <petersen-unit-04-parallel-translation-en>` · :ref:`Summary <petersen-unit-04-parallel-translation-summary>` · :ref:`Notes <petersen-unit-04-parallel-translation-notes>`
-
-**Unit V: Axial Reflection & Chapter III — The Theory of Revolution** (*Drejning om en Axe og Kapitel III — Drejningstheorien (O, v, f)* — pp. 60–68; Problems 336–362)
-   :ref:`English (1879) <petersen-unit-05-axial-reflection-and-rotation-en>` · :ref:`Summary <petersen-unit-05-axial-reflection-and-rotation-summary>` · :ref:`Notes <petersen-unit-05-axial-reflection-and-rotation-notes>`
-
-**Unit VI: Multiplication of Curves & The Method of Similitude** (*Kurvers Multiplikation og Ligedannethedsmethoden* — pp. 22–33; Problems 117–191)
-   :ref:`English (1879) <petersen-unit-06-method-of-similitude-en>` · :ref:`Summary <petersen-unit-06-method-of-similitude-summary>` · :ref:`Notes <petersen-unit-06-method-of-similitude-notes>`
-
-**Unit VII: Inverse Figures, Circle Systems & Constructibility Criteria** (*Inversion, Cirkelsystemer og Konstruktion ved Lineal og Passer* — pp. 33–37 & Appendix pp. 89–102; Problems 192–201 & 403–410)
-   :ref:`English (1879) <petersen-unit-07-inversion-and-constructibility-en>` · :ref:`Summary <petersen-unit-07-inversion-and-constructibility-summary>` · :ref:`Notes <petersen-unit-07-inversion-and-constructibility-notes>`
+.. collection::
+   :sort: order
 
 ----
 
@@ -69,37 +52,15 @@ Scholarly Apparatus
 * :ref:`Technical Glossary of Constructive Geometry <glossary>` — Bilingual Danish/English/Greek analytical and transformational vocabulary.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
-   :caption: English Edition (1879)
+   :caption: Methods & Theories
 
-   unit-01-anatomy-of-construction/unit-01-anatomy-of-construction-en
-   unit-02-loci-of-points/unit-02-loci-of-points-en
-   unit-03-loci-of-lines/unit-03-loci-of-lines-en
-   unit-04-parallel-translation/unit-04-parallel-translation-en
-   unit-05-axial-reflection-and-rotation/unit-05-axial-reflection-and-rotation-en
-   unit-06-method-of-similitude/unit-06-method-of-similitude-en
-   unit-07-inversion-and-constructibility/unit-07-inversion-and-constructibility-en
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Summaries & Commentary
-
-   unit-01-anatomy-of-construction/unit-01-anatomy-of-construction-summary
-   unit-01-anatomy-of-construction/unit-01-anatomy-of-construction-notes
-   unit-02-loci-of-points/unit-02-loci-of-points-summary
-   unit-02-loci-of-points/unit-02-loci-of-points-notes
-   unit-03-loci-of-lines/unit-03-loci-of-lines-summary
-   unit-03-loci-of-lines/unit-03-loci-of-lines-notes
-   unit-04-parallel-translation/unit-04-parallel-translation-summary
-   unit-04-parallel-translation/unit-04-parallel-translation-notes
-   unit-05-axial-reflection-and-rotation/unit-05-axial-reflection-and-rotation-summary
-   unit-05-axial-reflection-and-rotation/unit-05-axial-reflection-and-rotation-notes
-   unit-06-method-of-similitude/unit-06-method-of-similitude-summary
-   unit-06-method-of-similitude/unit-06-method-of-similitude-notes
-   unit-07-inversion-and-constructibility/unit-07-inversion-and-constructibility-summary
-   unit-07-inversion-and-constructibility/unit-07-inversion-and-constructibility-notes
+   intro/index
+   ch_01_loci/index
+   ch_02_transformation/index
+   ch_03_rotation/index
+   appendix/index
 
 .. toctree::
    :maxdepth: 1

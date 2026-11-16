@@ -1,0 +1,42 @@
+                                               12
+
+         3. Ein Dreieck aus seinen drei Seiten zu construiren. (a).
+             Einen Kreis mit gegebenem Radius zu zeichnen, welcher
+         4. durch zwei gegebene Punkte geht, (a).
+         5. durch einen gegebenen Punkt geht und eine gegebene Gerade
+             berührt, (a und b).
+         6. durch einen gegebenen Punkt geht und einen gegebenen Kreis
+             berührt, (a).
+         7. zwei gegebene Gerade berührt, (b).
+         8.. eine gegebene Gerade und einen gegebenen Kreis berührt,
+             (a und b).
+I        9. zwei gegebene Kreise berührt, (a).
+|       10.   Ein Dreieck     zu construiren   aus a, A. und m..        (a und b).
+        u. An einen gegebenen Kreis eine Tangente zu ziehen, von der.
+         “ eine gegebene Gerade ein gegebenes Stück abschneidet.   (a
+              Zus. 1).
+        12.   Einen Kreis zu zeichnen, welcher durch einen gegebenen Punkt
+    \       geht und eine gegebene Gerade oder einen gegebenen Kreis in
+|         . einem gegebenen Punkte berührt (e).
+Ä       13. Auf einer gegebenen Kreislinie einen Punkt zu bestimmen,
+
+i
+|
+            der von einer gegebenen Geraden eine gegebene Entfernung
+            habe. (b).
+        14. Auf einer gegebenen Geraden einen Punkt zu bestimmen, der
+            von zwei gegebenen Punkten gleiche Entfernung habe. (e).
+        15. Einen Kreis zu zeichnen, der zwei parallele Gerade berührt und
+            durch einen gegebenen Punkt geht. (d und a).
+        16. Von einem gegebenen Punkte eine Tangente an einen Kreis
+            zu ziehen. (e).
+            Ein Dreieck zu construiren aus
+        17.A,    a und hu.      (e und b).
+        18. 4A, a und m.. (e und a).
+        19. Einen Punkt zu bestimmen, von dem aus zwei gegebene
+            Strecken unter gegebenen Winkeln gesehen werden (Pothenot’sche
+            Aufgabe). (e).
+        20. Ein einbeschriebenes Viereck zu construiren aus einem Winkel,
+            einer anliegenden Seite und den- beiden Diagonalen. (e und a).
+        21.   Einen   Punkt    zu bestimmen,        dessen   Abstände   von   drei gege-
+|             benen Geraden in gegebenen Verhältnissen            stehen.     (g).

@@ -1,0 +1,39 @@
+                                           58
+
+       N und ein Punkt ?;            man    soll durch P eine Gerade              ziehen,
+       welche die gegebenen         beziehungsweise          in den Punkten A, BD
+       und € so schneidet,         dass AB         und CP in einem gegebenen
+       Verhältniss stehen.
+       Man      verschiebe    AB   und     C’Pin    die Lagen A,Q           und      QP,,
+       wo Q den Durchschnittspunkt zwischen M und N bedeutet,
+       und bestimme ?..
+29.    In einem Dreieck AXBYC soll die XY in gegebener Rich-
+       tung so gezogen werden, dass AX und YC eine gegebene
+       Summe haben.
+296.   Ein Trapez aus den Diagonalen und den nicht: parallelen
+       Seiten zu construiren (142).
+297.   Man löse die Aufgaben in‘ 169, wenn A ein beliebiger
+       Punkt ist.
+298.   Ein Viereck zu construiren aus den Diagonalen, zwei gegen-
+       überliegenden Seiten und dem Winkel zwischen diesen.
+299.   Ein Viereck      zu construiren      aus der Linie,         welche   die Mitten      .
+       von zwei gegenüberliegenden Seiten verbindet, den Diagonalen,
+       dem Verhälltnisse von zwei gegenüberliegenden Seiten und der
+       Summe der Quadrate der beiden anderen.
+       Das      gewöhnliche    Parallelogramm        lässt    sich    construiren,     da
+       man die Seiten und eine Diagonale kennt.
+300.   Ein Viereck zu construiren aus den vier Seiten und der Linie,
+       welche die Mitten der Diagonalen verbindet.
+       Analog der vorhergehenden oder 261.
+301.   Ein Dreieck zu construiren aus zwei Medianen und. dem
+       Winkel zwischen der dritten Mediane und der zugehörigen
+       Seite.                       N:
+302.   Ein Trapez zu construiren aus den parallelen Seiten und den
+       Diagonalen.
+303.   In    einen   gegebenen     Kreis    ein Trapez        zu     beschreiben,     von
+       dem die Höhe und die- Differenz der parallelen Seiten ge-
+       geben ist.
+304.   Ein Viereck zu construiren aus zwei gegenüberliegenden Seiten,
+       der Linie, welche die beiden anderen gegenüberliegen Seiten
+       nach einem gegebenen Verhältniss theilt, dem Winkel zwischen
+       diesen und ihrern Verhältniss.

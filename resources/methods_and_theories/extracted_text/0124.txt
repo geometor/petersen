@@ -1,0 +1,35 @@
+                                       108                                              2
+
+       welche Doppelpunkte in den unendlich fernen imaginären
+       Kreispunkten und in A hat, während sie zugleich durch den
+       Kreismittelpunkt geht.      Da die Durchmesser einen Strahlen-
+       büschel bilden, dessen Scheitel ein nicht ausgezeichneter
+                                                             Punkt der
+       Curve ist, ist es eine nothwendige Bedingung für die Lösung
+       der Aufgabe, dass die Ordnung der Curve um eine Einheit
+       grösser ist als eine Potenz von 2. (S. die oben erwähnten
+       Schriften). Die Aufgabe lässt sich deshalb nicht mit Zirkel
+       und Lineal lösen.
+       Während auf solche Weise die Unlösbarkeit dieser alten be-
+       rühmten Aufgabe bewiesen ist, ist dasselbe dagegen nicht der Fall
+       mit der ebenso berühmten Aufgabe, einen Kreis zu quadriren.
+       Hierbei kommt es darauf an zu beweisen, dass x sich nicht
+       durch Quadratwurzeln ausdrücken lässt, aber es ist bis dahin
+       Niemandem gelungen diesen Beweis zu führen.
+410.   Ein Punkt P und zwei Kreise sind gegeben; man ziehe eine
+       Gerade durch P und eine Tangente an jeden der Kreise, so
+       dass P und die beiden Berührungspunkte die Mitten der
+       Seiten in dem von den drei Linien gebildeten Dreieck werden.
+       X und Y seien die beiden Berührungspunkte.       Das Dreieck
+       AYP muss dann so gelegt werden, dass die Höhen vonX
+       und Y durch die Kreismittelpunkte gehen.     Dreht man den
+       Kreis durch X um        / hinüber        auf den Kreis     durch   Y, fällt
+       X auf einen Punkt X,, so dass PY und PX, gleichgrosse
+       Winkel mit der von P an den Kreismittelpunkt gezogenen
+       Linie bilden. Der nach X, gezogene Radius bildet einen
+       bekannten    Winkel     mit PY,        denn   vor   der Drehung    stand    er
+       senkrecht auf PY und er wurde um einen bekannten Winkel
+       gedreht.  Sucht man nun das Dreieck PX, O zu construiren,
+       wo    O den Kreismittelpunkt       bedeutet,        so ist die Aufgabe auf
+       408    reducirt   und   lässt   sich    deshalb     nicht mit Zirkel       und
+       Lineal lösen.

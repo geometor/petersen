@@ -1,0 +1,50 @@
+                                                                                  ae eo
+
+
+
+
+                                       25
+
+123.   Durch einen auf einer Kreisperipherie gegebenen Punkt eine
+       Sehne zu ziehen, welche von einer anderen gegebenen Sehne
+       halbirt wird.
+       Man nehme den gegebenen Punkt als Aehnlichkeitspunkt und
+       multiplieire die gegebene Sehne mit 2 oder den Kreis mit 4.
+       Durch    zwei concentrische     Kreise   eine gerade Linie    zu ziehen,
+       so dass die kleine Sehne die Hälfte der grossen ist.
+        i        E               i               b
+       Ein Dreieck    zu construiren    aus a, — und m..
+                                                 C
+
+       Ein Dreieck zu construiren aus einem Winkel und zwei
+       Medianen.
+       Ein Dreieck aus seinen drei Medianen zu construiren.
+       Lässt sich auf 121 zurückführen, da die Medianen sich ge-
+       genseitig nach dem Verhältniss 1:2 theilen.
+       Für die Construction eines Dreiecks sind gegeben: Der Schwer-
+       punkt desselben (Durchschnittspunkt der Medianen), ein Eck-
+       punkt und zwei Curven (gerade Linien oder Kreise), auf welche
+       die beiden anderen fallen sollen.
+       Ein Dreieck zu construiren aus a, m, und £ (ma, b).
+       Ein Dreieck zu construiren aus d, m, und Z (ma, 4a).
+       Ein einbeschriebenes Viereck -zu construiren aus Z A, DB,                      6ala
+                                                                                      an
+                                                                                      Benni
+                                                                                      ALAn =HEun
+                                                                                            lSm=
+       Z2 ACD      und dem Verhältniss zwischen den Abschnitten
+       von AC.
+       Man soll ein Parallelogramm zeichnen, von dem zwei gegen-
+       überliegende Eckpunkte in gegebenen Punkten und die beiden
+       anderen auf einer gegebenen Kreisperipherie liegen.
+       In einem Dreieck soll man von A nach BC eine Linie AD zie-
+       hen, welche die mittlere Proportionale zwischen BD und DC ist.
+       Man     benutze den umbeschriebenen           Kreis des Dreiecks.
+       Ein Dreieck    zu construiren aus a, b und w..
+       Ein Dreieck zu construiren aus A, db und Z (mu, a).
+       In einem gegebenen Dreieck eine Linie durch A so zu ziehen,
+       dass die Abschnitte derselben von A bis an die Projectionen
+       von B und C in einem gegebenen Verhältniss stehen.
+       An zwei Kreise die gemeinschaftlichen Tangenten zu ziehen.
+       Zwei Kreise, als ähnlich liegende Figuren betrachtet, haben
+       zwei Aehnlichkeitspunkte.   Diese liegen auf der Centrale, und

@@ -1,0 +1,39 @@
+                                            107
+
+406.   Von zwei festen Punkten sind gerade Linien an einen belie-
+       bigen Punkt eines gegebenen Kreises gezogen; man beweise,
+       dass der geometrische Ort für die Linie, welche die beiden
+       anderen Durchschnittspunkte      der beiden Linien und des
+       Kreises verbindet, ein Kegelschnitt ist.
+       Der Satz folgt daraus, dass die Aufgabe 201 sich durch Zirkel
+       und Lineal lösen lässt.
+407.   Ein gegebenes Dreieck mit jedem seiner Eckpunkte auf eine
+       von drei gegebenen Kreisperipherien zu legen.
+       Die Aufgabe lässt sich nicht lösen, denn nimmt man den
+       einen Kreis fort, so erhält der dadurch frei gewordene Eck-
+       punkt einen geometrischen Ort, welcher weder ein Kreis noch
+       eine gerade Linie sein kann. In dem besonderen Falle, wo
+       die beiden Kreise gerade Linien sind, und das Dreieck in
+       eine gerade Linie übergegangen ist, sieht man nämlich leicht,
+       dass der geometrische Ort eine Ellipse ist.
+408. Ein Dreieck zu construiren aus a, e und                      B— C.
+       Trägt man    BC ab,      und     zieht      von B      aus zwei Linien,      von
+       denen    die eine mit BC einen Winkel                 bildet, welcher halb so
+       gross wie der gegebene ist, und die andere senkrecht auf der
+       zweiten steht, so wird die Aufgabe auf folgende reducirt: Von
+       C aus eine gerade Linie zu ziehen, von der die Schenkel
+       des rechten Winkels ein Stück 2c abschneiden.        Da diese
+       Aufgabe ein specieller Fall von 405 ist, muss sie besonders
+       untersucht werden.    Nimmt man den Punkt fort, so erzeugt
+       die Linie 2e, indem      sie auf den Schenkeln                des rechten Win-
+       kels gleitet eine Hypocycloide.              Da nun      « und der gegebene
+       Winkel    so verändert      werden         können,     dass   C eine    beliebige
+       Lage erhält, ohne dass die Hypocycloide verändert wird, so
+       lässt sich die Aufgabe nicht mit Zirkel und Lineal lösen.
+409.   Einen gegebenen Winkel in drei gleiche Theile zu theilen.
+       Die Aufgabe lässt sich leicht in folgende verwandeln:   Durch
+       einen gegebenen Punkt A einer Kreisperipherie eine gerade
+       Linie zu ziehen, welche den Kreis in X und einen beliebigen
+       gegebenen Durchmesser in Y so schneidet, dass XY gleich
+       dem Radius ist.     Nimmt        man       den Durchmesser         fort, so wird
+       der geometrische      Ort      für     Y eine        Curve    vierter   Ordnung,

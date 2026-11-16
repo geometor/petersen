@@ -1,0 +1,7 @@
+                                     :                                          “
+       gebenen Punkt P eine Gerade         ziehen,    welche   die Parallelen
+       in X und   Y so schneidet,        dass AX     und BY    iin einem ge-
+       gebenen Verhältniss stehen.
+245.   Gegeben sind ein Kreis und drei Punkte, A,                B und C.
+       Man soll durch A und B zwei Sehnen ZX und                 VY ziehen,
+       so dass XY und ZV durch € gehen.

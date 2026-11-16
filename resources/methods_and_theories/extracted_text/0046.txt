@@ -1,0 +1,43 @@
+                                               30
+
+               lichen Dreiecken genügt, welche A als Aehnlichkeitspunkt                        2
+               haben.    Zeichnet man irgend eines von diesen Dreiecken,                       =.
+               etwa a, db, c,, so wird Aa, die Seite BC in a schneiden.
+|   ‘155.      Ein Quadrat zu beschreiben in ein gegebenes Dreieck, Sector
+i              oder Segment.                                                                    an
+        156.   In ein gegebenes Dreieck ein Parallelogramm zu beschreiben,                        |
+               welches einem gegebenen ähnlich ist.
+        157.   Durch einen gegebenen Punkt. eine Gerade zu ziehen, welche
+               mit zwei gegebenen Geraden gleiche Winkel bildet.
+        158.   Durch einen gegebenen Punkt eine Gerade zu ziehen, so dass
+               drei gegebene durch einen Punkt gehende Gerade auf der-
+    5          selben zwei ‚Stücke abschneiden, welche in einem gegebenen
+               Verhältniss stehen.
+               Anstatt des gegebenen Punktes nehme man einen beliebigen
+               Punkt auf einer der gegebenen Geraden. (117).
+        159.   Durch einen gegebenen Punkt eine Gerade zu ziehen, welche
+               von den Schenkeln eines gegebenen Winkels Stücke ab-
+               schneidet, die in einem gegebenen Verhältniss stehen.
+        160.   In einem Dreieck soll man zu einer der Seiten eine Parallele
+               ziehen, welche in einem gegebenen Verhältniss zu einem der                  ;
+               Stücke   steht,   die   sie   von    einer   der   anderen   Seiten   ab-
+               schneidet.
+        161.   Eine gerade Linie in gegebener Richtung zu ziehen, auf wel-
+               cher die Schenkel zweier gegebener Winkel zwei Stücke ab-
+               schneiden. die in einem gegebenen Verhältniss stehen.
+               Sind die Winkel BAC und DEF,                  und ist X der gesuchte
+               Punkt auf ZF, so wird X, wenn                Z7 fortgenommer wird,
+               eine gerade Linie durch den Punkt von DE beschreiben, der
+               auf einer Geraden durch A in der gegebenen Richtung liegt.                       -
+        162.   Ein gleichschenkeliges Dreieck aus der zu einem der Schenkel
+               gehörigen Höhe und Mediane zu construiren.
+               Das Dreieck, in dem die gegebenen Linien Seiten sind, kann
+               sofort gezeichnet werden, und man kennt dann die Form des
+        .      Dreiecks, in welchem die Mediane die eine Seite und die
+               Spitze des gleichschenkeligen Dreiecks die gegenüberliegende
+               Ecke ist.
+    ‚163.      Auf einer Kreislinie ist ein Punkt A und ausserdem eine
+
+
+
+                                              Ki     "b                          |

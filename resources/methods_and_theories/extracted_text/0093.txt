@@ -1,0 +1,39 @@
+                                            17
+
+       dieser Dreiecke ist also bekannt, und dadurch ist die Aufgabe
+     auf 363 zurückgeführt.
+     Anmerkung.    Auch diese Aufgabe rührt von Apollonius her;
+     die davon handelnde Schrift «de sectione spatii» ist verloren
+     gegangen und nur zum Theil von Halley wieder hergestellt.
+367. Gegeben sind zwei Kreisperipherien, auf der einen ein Punkt
+       A,   auf der anderen         ein Punkt D;         man     soll auf den beiden
+       Peripherien beziehungsweise die Punkte X und Y bestimmen,
+       so dass die Bogen AX und DYähnlich sind, und XY eine
+       gegebene Länge hat.
+       Man bestimme den Drehungspunkt der beiden Kreise für A
+       und D als homologe Punkte; X und Y sind dann auch ho-
+       mologe Punkte und die Dreiecke ABO und XYO deshalb
+       ähnlich.        y
+       Hierin ist: 262 mit einbegriffen, wo der zweite Durchschnitts-
+       punkt der Kreise der Drehungspunkt ist.
+368.   Ein Rechteck zu construiren, dessen vier Seiten jede einen
+       gegebenen Punkt enthalten, und dessen Diagonale eine gege-
+       bene Länge hat.
+       Zeichnet   man       die    beiden    Kreise,    welche      die geometrischen
+       Oerter für zwei gegenüberliegende Eckpunkte des Rechtecks
+       sind, so wird die Aufgabe auf die vorhergehende reducirt.
+369.   Gegeben sind zwei gerade Linie AB und CD; man soll einen
+       Kreis zeichnen, welcher durch ihren Durchschnittspunkt geht,
+       und ABin        X,     CD     in Y so schneidet,          dass AX:     CY und
+       XB:YD gegebenen Verhältnissen gleich sind.
+       Der Kreis geht durch den Drehungspunkt von AX und CY,
+       und durch den Drehungspunkt von XD und YD.                1
+370,   Durch zwei gegebene Punkte A und DB zwei gerade Linien
+       zu ziehen, welche einen gegebenen Winkel v einschliessen,
+       und eine gegebene Gerade und einen gegebenen Kreis be-
+       ziehungsweise        in X     und     Y so      schneiden,     das    AX:   BY
+       einem gegebenen Verhältniss 1:% gleich sei.
+       Man multiplicire die gegebene Gerade mit %k, mit Beziehung
+       auf den Drehungspunkt von AX und DY.
+371.   Gegeben sind ein Punkt A und zwei gerade Linien BC und
+       DE; man soll auf diesen Linien beziehungsweise                       die Punkte

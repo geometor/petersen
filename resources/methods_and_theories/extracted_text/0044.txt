@@ -1,0 +1,45 @@
+                                                  28
+
+             eine Gerade,      welche    sich   um      einen   anderen      festen Punkt B
+             dreht.
+
+
+                             Die     Aehnlichkeitsmethode.
+
+             Die Methode, welche bei der Multiplication                   der Curven     ange-
+     wandt     wurde,      ist mit    einbegriffen      in   eine     allgemeinere,    die so-
+     genannte Aehnlichkeitsmethode.      Man wendet dieselbe an, sobald
+     man, nach Fortnahme einer der gestellten Bedingungen, ein System
+     von ähnlichen (und. ähnlich liegenden) Figuren erhält. Während bis
+     hieher nach Theilen der Figur gesucht wurde, welche für sich voll-
+     ständig bestimmt waren, so hat man num solche Theile der Figur
+
+|
+     zu suchen, deren       Form     bekannt ist.
+           Die wichtigsten Fälle sind folgende:
+|          a) Eine Länge ist gegeben, im Uebrigen aber nur Winkel und
+||    Verhältnisse.   Man sieht dann von der gegebenen Länge ab und
+|-   sucht eine Figur zu construiren, welche die gegebenen Winkel und
+ü    Verhältnisse hat, indem man die Länge einer von den Linien der
+E    Figur willkürlich wählt.    Die construirte Figur ist dann der ge-
+     suchten ähnlich, und man findet diese selber durch Einführung der
+     gegebenen Linie.
+     146. Ein Dreieck zu construiren aus zwei Winkeln und einer Linie
+             (Mediane, Höhe, Umfang u. s. w.).
+             Man construire ein beliebiges Dreieck, welches die gegebenen
+              Winkel     enthält, und zeichne          darauf ein     anderes   diesem    ähn-
+              liches Dreieck, welches die gegebene Linie enthält.
+     147.     Ein Dreieck zu construiren aus A, a und b:e.
+              Ein     beliebiges Dreieck    mit      dem     Winkel     A,   in welchem    die
+          diesen Winkel einschliessenden Seiten in dem gegebenen- Ver-
+          hältniss stehen, muss dem gesuchten ähnlich sein.
+     148. Ein Quadrat aus dem Unterschiede zwischen Diagonale und
+          Seite zu construiren.                      :
+     149. Ein Dreieck zu construiren aus A, db und a:c.
+                                                                                                     d
+     150. Gegeben ist ein Centriwinkel ACD; man ziehe eine Tangente                              4
+
+
+          welche durch den Berührungspunkt und die Schenkel des
+          Centriwinkels nach einem gegebenen Verbältniss getheilt
+          werde.

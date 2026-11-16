@@ -1,0 +1,39 @@
+                                                     80
+
+das Grundpolygon nach und nach dazu gelangt alle seine Lagen
+einzunehmen, wird der Drehungspunkt der gegebenen Figuren zu-
+gleich der Drehungspunkt für das Grundpolygon in allen seinen
+Lagen.
+        9,      Für     zwei gerade        Linien,        auf denen     zwei Punkte        als     ho-
+molog gegeben waren,                 musste      der Drehungspunkt            auf einen Kreis
+fallen,       der durch          die beiden     Punkte        und      den Durchschnittspunkt
+der Linien gezogen war; für drei gerade Linien, auf denen drei
+Punkte als homologe Punkte gegeben sind, wird der Drehungspunkt
+also als Durchschnittspunkt von zwei solchen Kreisen bestimmt;
+der dritte Kreis muss durch denselben Punkt gehen.     Verbindet
+man       die    drei    Punkte,      so    entsteht       das    Grunddreieck,      und         dieses
+kann also eine beliebige Form erhalten, da die drei Punkte will-
+kürlich gewählt werden können; den verschiedenen Grunddreiecken
+entsprechen aber verschiedene Drehungspunkte.  Für ein gegebenes
+Grunddreieck kann- man leicht den Drehungspunkt bestimmen, in-
+dem man ein dem gegebenen ähnliches Dreieck auf die drei ge-
+raden        Linien     legt,     (z. B. durch        154),      und   auf solche    Weise         drei
+homologe Punkte bestimmt.
+     Gehen die drei Geraden durch denselben Punkt O, wird dieser
+der Drehungspunkt für jedes Grunddreieck, so dass die einem ge-
+gebenen Grunddreieck ähnlichen Dreiecke ähnlich liegen und O
+zum Aehnlichkeitspunkt haben.    Doch wird der Drehungspunkt in
+einem besonderen Falle unbestimmt; falls nämlich die Eckpunkte
+A und B des Dreiecks AO und BO durchlaufen und               ZC=
+Z AODB, wird C eine durch O gehende Gerade durchlaufen.
+     10. Für zwei Kreise war der Drehungspunkt zufolge 6 unbe-
+stimmt, und man kann also für drei Kreise einen gemeinchaftlichen
+Drehungspunkt bestimmen; da dieser Punkt durch den Durchschnitt
+von zwei Kreisen bestimmt wird (s. 6), so giebt es zwei Lösungen,
+welche        beide     gültig    sind,     nämlich        die beiden     Punkte,    deren        Ab-
+stände von den Kreismittelpunkten   sich wie die Radien ver-
+halten.
+      Wählt man einen dieser Punkte als Drehungspunkt für die °
+Kreise, lassen sich die Drehungswinkel                           leicht bestimmen,     denn         die
+Kreismittelpunkte sind homologe Punkte, und also Linien, welche
+vom Drehungspunkt nach diesen gezogen sind, homologe Linien;

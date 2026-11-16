@@ -1,0 +1,46 @@
+EIER
+
+                                                33
+
+              Die Form    von AXYC        ist bekannt; man      nehme     A als Aehn-
+              lichkeitspunkt und wähle 2 statt X.
+       179.   In dem Dreieck ABC soll eine Transversale XY so gezogen
+              werden, dass BX       =     XY=        YC.
+              Die Form von BXYC ist bekannt.
+              Auf diese Aufgabe lässt sich folgende zurückführen: Ein Drei-
+              eck zu construiren aus      Aa +bdbunda- c.
+       180.   In einem Dreieck ABC soll eine Transversale XY parallel
+              der BC gezogen werden, so dass eine gegebene homogene
+              Relation zwischen XY, XB und YC statt findet (z. B.
+
+              ZE —XB.20,XY = BAT                                        ven),
+              ——          ——     ——                  _——       _——2
+
+
+
+       181. Einen Kreis zu zeichnen, der durch einen gegebenen PunktA
+            geht und zwei gegebene Gerade, die sich in © schneiden,
+            berührt.
+              Ein   beliebiger   Kreis,   welcher    die   beiden     Geraden   berührt,
+            muss gegen den gesuchten ähnlich liegen, wenn O der Aehn-
+            lichkeitspunkt ist. Die Linie OA muss den gezeichneten
+            Kreis in einem Punkte schneiden, welcher dem Punkte A in
+            dem gesuchten Kreise homolog ist. Die zwei Durchschnitts-
+            punkte entsprechen deshalb zwei Lösungen.         Zieht man in
+            dem gezeichneten Kreise Radien nach den Durchschnitts-
+            punkten, so erhält man die Mittelpunkte der gesuchten Kreise,
+            wenn man durch A Parallelen zu diesen Radien zieht.
+       182. Man soll auf einer gegebenen Geraden einen Punkt bestim-
+            men, der gleiche Abstände von einem gegebenen Punkt und
+            einer gegebenen Geraden hat.       (Durchschnitt zwischen einer
+            Geraden und einer Parabel).
+            Man nehme den gegebenen Punkt fort und wähle den Durch-
+            schnittspunkt der gegebenen Geraden zum Aehnlichkeitspunkt.
+            In Wirklichkeit ist die Aufgabe dieselbe, wie die vorhergehende.
+       183. Auf einer gegebenen Geraden soll man einen Punkt bestimmen,
+            dessen Abstände von einem gegebenen Punkt und einer ge-
+            gebenen Geraden in einem gegebenen Verhältnisse stehen.
+            (Durchschnitt zwischen einer Geraden und einem Kegelschnitt,
+            der durch Brennpunkt, Leitlinie und Excentricität bestimmt
+            ist). An Stelle der Senkrechten von dem gesuchten Punkte
+                                            ;                              3

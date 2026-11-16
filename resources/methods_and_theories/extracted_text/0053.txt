@@ -1,0 +1,39 @@
+                                                37
+
+    :196.    Ein   Dreieck    zu construiren     aus a,           Aund BD.BA,          wo D
+=            der Fusspunkt von A}. ist.
+          Oft wendet man mit Vortheil Inversion an, wenn man eine
+     Construction ausführen oder einen Beweis führen soll, da die inverse
+     Figur oft einfacher ist als die gegebene; namentlich sind hier fol-
+     gende Verbindungen zwischen zwei inversen Figuren zu merken:
+          a) Falls zwei Curven sich in A schneiden oder berühren, werden
+     die inversen Curven sich in dem A correspondirenden Punkte A,
+     schneiden oder berühren.
+            Liegt nämlich     A   auf beiden         Curven,     so   muss   A,    auf beiden
+     inversen Ourven liegen, und fallen zwei Durchschnittspunkte in A
+     zusammen, so müssen die entsprechenden in A, zusammenfallen.
+            Fällt A auf das Inversionscentrum               so gilt der Satz nicht, indem
+  dieser Punkt im Allgemeinen nicht einem Punkt, sondern der un-
+  endlich fernen Geraden entspricht.
+\       b) Schneiden zwei Curven sich in A unter einem gewissen Win-
+  kel (dem Winkel zwischen den Tangenten), so werden die inversen
+   Curven sich in A, unter demselben Winkel schneiden, (mit entgegen-
+  gesetztem Vorzeichen, sobald man den Winkel von einer bestimmten
+  der beiden Curven bis zur anderen misst).
+        Man sieht leicht (Fig. S. 35), dass der Satz gilt, sobald die
+  eine Curve ein Kreis und die andere eine Gerade durch das In-
+  versionscentrum ist. Derselbe gilt dann auch für zwei beliebige
+     Kreise, denn     eine gerade Linie von A nach dem                   Inversionscentrum
+     geht durch A,. Hierdurch zeigt man dann wieder leicht, dass der
+     Satz für zwei beliebige Curven gilt, denn diese bilden in A den-
+     selben Winkel      mit    einander   wie        zwei    beliebige   Kreise,   von denen
+     jeder eine der beiden Curven in A berührt.
+
+                                      Anwendungen.
+     197.    Einen Kreis zu construiren, der durch einen gegebenen Punkt
+             P geht und zwei gegebene Kreise berührt.
+             Durch Inversion mit P als Inversionscentrum wird die Auf-
+             gabe darauf reducirt, an zwei gegebene Kreise die gemein-
+             schaftlichen Tangenten zu ziehen. Die Inversionspotenz kann
+             so gewählt werden, dass der eine gegebene Kreis nicht ver-
+             ändert wird.

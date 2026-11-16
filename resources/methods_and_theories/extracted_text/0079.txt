@@ -1,0 +1,39 @@
+                                                63
+
+             Winkel schneidet, so muss die Symmetrieaxe der beiden Kreise
+             durch den Mittelpunkt des gesuchten Kreises gehen.
+            5) Einen Theil der Figur in eine solche Lage zu bringen, dass
+ zwei unbekannte Punkte in einen zusammen                       fallen, während           zwei hier-
+ durch        gehende gerade Linien         einen      bekannten     Winkel         mit    einander
+  bilden und jede einen bekannten Punkt enthalten. Man kann dann
+  einen Kreis zeichnen, welcher durch den Durchschnittspunkt der
+  beiden Linien geht.
+‚ 322. Gegeben sind zwei Kreise, und auf der Peripherie des einen
+             die Punkte     A und D;        man        soll auf dieser      Peripherie         einen
+             solchen    Punkt   X bestimmen,            dass,     wenn    AX    und BX          den
+             anderen Kreis beziehungsweise in den Punkten M und                                   N
+             schneiden, die Sehne MN eine gegebene Länge habe.
+             Ist   © der Mittelpunkt        des zweiten Kreises,            so ist         Z MON
+             bekannt.     Dreht    man    MA      um     diesen    Winkel      um     ©, so fällt
+             M auf N und A auf einen bekannten                       Punkt A,.              Da MA
+             und ND       einen bekannten Winkel            mit einander bilden, ist der
+            Winkel PNA,           bekannt und dadurch ist                N bestimmt.
+
+
+                    Vermischte           Beispiele        für Umlegung.
+        . In einen gegebenen Kreis ein Viereck zu beschreiben, wenn
+          man zwei gegenüberliegende Seiten und die Summe der beiden
+          anderen Seiten kennt.
+        .   Ein Dreieck zu construiren aus A, h, und mu.
+            Man lege das Dreieck so um, das B auf C und                                   C auf B
+            fällt, während A nach              der entgegengesetzten Seite auf A,
+            fällt.  Nun kann man               AA, abtragen und darauf ..D be-
+            stimmen.
+        . Um       einen Kreis ein Dreieck           zu beschreiben,        so dass die drei
+            Eckpunkte auf drei gegebene vom Kreismittelpunkt ausgehende
+            gerade Linien fallen.
+            Die Aufgabe ist 317 analog.
+ 326.       Einen Rhombus zu construiren, so dass zwei Seiten auf ge-
+            gebenen Parallelen liegen und die beiden anderen bezüglich
+            durch die Punkte A und 2 gehen.
+            Legt man den Rhombus mit den beiden anderen Seiten auf

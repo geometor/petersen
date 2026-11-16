@@ -1,0 +1,45 @@
+                                                       55
+
+              Endpunkt der anderen Diagonale fällt, so lässt sich das Dreieck
+              construiren, in dem die Diagonalen Seiten sind (18).
+            . Ein      Trapez     zu     construiren        aus   den     Diagonalen,    der Linie,
+              welche die Mitten der nicht parallelen Seiten verbindet, und
+              einem Winkel.
+              Die Aufgabe lässt sich durch dasselbe Verfahren, wie bei der
+              vorhergehenden, auf 3 zurückführen.
+     270.     In welchem Falle fällt bei der allgemeinen Verschiebung beim
+              Viereck der Punkt C auf eine der Diagonalen des Parallelo-
+              gramms?
+
+
+                    Mittelst      Parallelverschiebung            lässt     sich eine    allgemeine
+              Aufgabe      lösen, welche        oft vorkommt:
+              Auf zwei gegebene Curven eine Linie zu legen, welche einer ge-
+              gebenen gleich und parallel ist.
+              Verschiebt man die eine Curve um ein Stück gleich und
+              parallel der gegebenen Linie, so muss sie die andere Curve
+              in dem Punkt schneiden, wohin die Linie gezogen werden
+              soll. Die Aufgabe lässt sich immer mit Zirkel und Lineal
+              lösen,     sobald        die Curven      Systeme      von      geraden    Linien   und
+             Kreisbogen sind.
+     ZU.     Eine Linie, welche einer gegebenen gleich und parallel ist,                               2
+                                                                                                           /
+
+             mit ihren Endpunkten auf zwei gegebene Kreisperipherien zu
+             legen.
+     272.    In einem Dreieck eine Transversale von gegebener Länge zu
+              ziehen, welche           einer Seite parallel ist.
+     273.    In einem Kreise eine Sehne zu ziehen, welche einer gegebenen
+             Linie gleich und parallel ist.
+     274.    Von einem Schiffe aus sieht man zwei bekannte Punkte unter
+             einem gegebenen     Winkel; dasselbe segelt eine gegebene
+             Strecke in gegebener Richtung weiter, und nun sieht man
+             dieselben beiden Punkte unter einem anderen bekannten
+             Winkel;       man     soll den Ort des Schiffes bestimmen.
+              Beschreibt man            durch   die gegebenen Punkte Bogen,                  welche
+             die gegebenen Winkel fassen, so ist die Aufgabe auf 271 zu-
+             rückgeführt.
+
+
+
+\2

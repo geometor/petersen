@@ -1,0 +1,39 @@
+                                         98
+
+wird OF ihre gemeinsame Potenzlinie, und sie haben also noch
+einen gemeinschaftlichen, auf der OF belegenen, Durchschnittspunkt.
+Da die drei Kreise auf solche Art zwei Punkte gemeinsam haben,
+müssen ihre Mittelpunkte auf einer Geraden liegen. Da ACF und
+BDF durch die Berührungspunkte gehen, schneidet jeder von ihnen
+die gemeinschaftliche Tangente und die Tangente in / unter gleichen
+Winkeln,       und   ihre Mittelpunkte        liegen   deshalb        auf einer Linie,
+welche den Winkel zwischen den beiden Tangenten halbirt.       Da
+nun der Kreis ZF seinen Mittelpunkt auf derselben Linie hat, muss
+er auch die gemeinschaftliche Tangente und die Tangente in F oder
+den Kreis S unter gleichen Winkeln schneiden.
+
+
+
+                          Systeme von Kreisen.
+       Von den Bedingungen, durch welche ein Kreis bestimmt werden
+kann, sind besonders      zu bemerken,          1) dass   der Kreis durch einen
+gegebenen Punkt gehen soll, 2) dass er eine gegebene gerade Linie
+berühren soll und 3) dass er einen gegebenen Kreis berühren soll.
+Wählt man die drei Bedingungen, welche einen Kreis bestimmen,
+unter diesen aus, so erhält man eine Gruppe von Aufgaben, welche
+indessen, mit Ausnahme von vieren, in dem vorhergehenden gelöst
+worden sind.   Bevor nun aber an die Auflösung dieser und einiger
+anderer damit verwandter Aufgaben gegangen wird, sollen zwei Sätze
+angeführt werden, welche Anwendung finden werden.
+       10.   Berührt   ein Kreis    zwei andere        Kreise    in     A und B,    so
+geht die Linie AB durch einen der Achnlichkeitspunkte der beiden.
+Kreise.
+      ADB möge den Kreis durch B zum zweiten Male in 5 schnei-
+den.     Man   sieht dann leicht,    dass der Radius nach db parallel dem
+                                                                                         d
+in dem anderen Kreise nach A gezogenen Radius ist. A und d
+sind deshalb homologe Punkte in den beiden ähnlichliegenden
+Kreisen, und Ad geht deshalb durch den Aehnlichkeitspunkt.
+      Berührt der Kreis die beiden Kreise gleichartig, dass heisst so,
+dass er beide ausschliessend oder einschliessend berührt, so geht
+die Linie durch den äusseren Aehnlichkeitspunkt; berührt dagegen

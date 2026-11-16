@@ -1,0 +1,42 @@
+                                            34
+
+     auf die gegebene Gerade kann man eine Gerade nehmen,
+     welche mit der gegebenen Geraden einen gegebenen Winkel
+     bildet, ohne dass die Lösung wesentlich verändert wird.
+184. Einen Kreis zu zeichnen, der seinen Mittelpunkt auf einer
+     gegebenen Geraden hat, durch einen gegebenen Punkt geht,
+     und von dem eine gegebene Gerade einen Bogen mit gegebenem
+     Centriwinkel abschneidet.
+185. Einen Kreis zu zeichnen, der durch zwei gegebene Punkte
+     geht und eine gegebene Gerade berührt.
+186. In einem Dreieck ABC eine Linie mit gegebener Richtung
+       zu ziehen,      welche     AB     in X,         BCin       Y so schneidet,             dass
+       XY und        YA eine gegebene Summe                   haben.
+187.   Ein Dreieck zu construiren           aus a, Bundd                   —    Au.
+       Man verlängere         A, um      das gegebene Stück                d —        h.„ über a
+       hinaus. (182).
+188.   Ein   Dreieck     zu   construiren        aus    A,     «a—     c und          u +     CD,
+       wo D den Fusspunkt von A, bedeutet.
+       Man verlängere CD bis E, so dass DE = Äh, und BA bis
+       F, so dass AF= a — c. Wie leicht ersichtlich kann man
+       CE hinlegen, ebenso            Z CEB = 45° und eine Geräde durch
+       F, parallel der CE.           Darauf bestimme man 3 (183).
+189.   Ein Dreieck      zu construiren      aus a,       A und 5 +             ne, wo n eine
+       gegebene Zahl ist.
+190,   Ein Dreieck zu construiren           aus Ad            -+eceunda-+               ec.
+       Man   verlängere       5 um     c über A hinaus               bis D,           und e um
+       a über   B      hinaus;    dann    trage man          CD      ab,       ziehe DB       und
+       bestimme D.
+191.   In ein gegebenes Dreieck ABC einen Halbkreis zu beschreiben,
+       welcher BC in einem gegebenen PunktP berührt und dessen
+       beider Endpunkte auf den beiden anderen Seiten liegen.
+       Multiplieirt man AB oder AC mit — 1 mit Beziehung auf
+       P, so wird die Aufgabe auf 173 reducirt.
+
+                                 Inverse Figuren.
+     Eine Gerade drehe sich um einen festen Punkt P (das In-
+versionscentrum), während zugleich ein beweglicher Punkt A der
+                                                                                                       0
+                                                                                                     er |
+                                                                                                     E
+                                                                                                     2

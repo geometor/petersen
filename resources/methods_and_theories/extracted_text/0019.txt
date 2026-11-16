@@ -1,0 +1,41 @@
+                                            3
+
+     und eleganter wird, aber die Schwierigkeit wird nun auf die Wahl
+     der Methode übertragen.   Man hat dadurch einen Uebergang von
+     dem algebraischen zu dem rein geometrischen Verfahren gebildet.
+     Durch letzteres sucht man die Auflösung der Aufgabe dadurch ab-
+     zuleiten, dass man auf geometrischem Wege untersucht, welche
+     Verbindungen zwischen den gegebenen und den gesuchten Stücken
+     der Figur statt finden.   Um diese Untersuchungen zu erleichtern
+     beginnt    man   allemal    damit,    eine Figur zu    zeichnen,   welche   die
+     gesuchte Lösung darstellt, und es kommt nun darauf an, diese mit
+     Hülfe der aus der Geometrie bekannten Sätze zu untersuchen.
+          Zeigt es sich nun, was bei einer grossen Menge einfacherer
+     Aufgaben der Fall ist, dass Alles auf die Bestimmung eines unbe-
+     kannten Punktes ankommt,          so ergiebt sich die Methode, welche
+     man anzuwenden hat, unmittelbar aus dem Vorhergehenden:
+           Man betrachte die beiden Bedingungen, welche der gesuchte Punkt
+     erfüllen soll, jede für sich; jeder derselben wird dann ein geometrischer
+     Ort entsprechen,      und   sind diese gerade Linien oder Kreise,       ist die
+     Aufgabe gelöst, denn da der Punkt auf beiden liegen soll, muss er
+     dort liegen, wo sie sich schneiden.
+——
+m
+          Sind die geometrischen Oerter zwei gerade Linien, so erhält
+     die Aufgabe nur eine Lösung und kann nur unmöglich werden,
+     wenn die Linien parallel werden. Sind die geometrischen Oerter
+     zwei Kreise, oder ein Kreis und eine gerade Linie, so erhält die
+     Aufgabe zwei Lösungen, wenn sie sich schneiden, eine, wenn sie
+     sich berühren, und wird unmöglich, wenn sie ausserhalb einander
+     liegen.   Es ist ein qualitativer Unterschied zwischen diesem Falle
+     und dem vorhergehenden, wo die unmögliche Aufgabe nur ein
+     Grenzfall ist.
+            Sobald  die geometrischen Oerter andere Curven werden, kann
+     man    dieselben nicht direct für die Construction verwenden, sondern
+     muss    die Aufgabe    von anderen    Seiten   betrachten.     Doch ist es zu
+     beachten, dass ein Punkt, der durch        eine Gerade und einen Kegel-
+     schnitt bestimmt wird, auch durch          eine Gerade und einen Kreis
+     bestimmt    werden    kann, während     die Construktion     unausführbar ist,
+     sobald der Punkt durch zwei Kegelschnitte, die von einander unab-
+     hängig sind, bestimmt wird.
+           Die Methode, welche hier auf die einfachsten Aufgaben ange-

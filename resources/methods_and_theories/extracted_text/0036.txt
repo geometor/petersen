@@ -1,0 +1,39 @@
+                                       20
+
+"96.   Ein Dreieck    zu construiren    aus rs, A,und           B—    CC.
+       Der Winkel zwischen }, und             dem    nach A gezogenen Radius
+       ist bekannt.
+ IL. Im A ABC       soll die XY parallel zu BC gezogen werden,
+       0-03 X = XB 2.76.
+       Die gesuchte Linie geht durch den Mittelpunkt des einbe-
+       schriebenen    Kreises.
+ 98. Man soll ein Dreieck aus DB — ( und w, construiren, wenn
+           :               EL     c         3
+     zugleich das Verhältniss e—    gegeben ist.
+ 49. In einem Parallelogramm soll eine Linie AX nach X auf
+     CD gezogen werden, so dss AX = AB+ XD,
+     Trägt man AB auf AX ab, so fällt der Endpunkt auf BD.
+100. Von einem Dreieck ABC ist AB der Grösse und Lage nach
+     gegeben, ferner Z A nnd der Punkt D, in welchem der von
+     C aus gezogene Durchmesser AD schneidet; man soll den um
+     das Dreieck beschriebenen Kreis construiren.
+     BD wird vom Kreismittelpunkte aus unter einem bekannten
+     Winkel gesehen.
+101. Von einem Dreieck, worin AD den Winkel A halbirt, kennt
+       man AD, AB — BD                 und     AC —      CD.         Man    soll   das
+       Dreieck construiren.
+       BA    und CA werden auf BC abgetragen,                  so dass DA, nnd
+     DA, die gegebenen Differenzen sind.      Der Kreis durch A,
+     A,, A, ist dem einbeschriebenen Kreise des gesuchten Dreiecks
+     eoncentrisch und hat einen bekannten Durchmesser.
+102. Man construire ein Viereck, wenn die Projectionen des Durch-
+     schnittspunktes der Diagonalen auf die vier Seiten gegeben
+     sind.
+     Der Winkel zwischen den auf zwei gegenüberliegenden Seiten
+     errichteten Senkrechten ist bekannt.
+103. Auf dem einen Schenkel eines rechten Winkels sind die
+     Punkte A und D gegeben.         Man suche auf dem anderen
+     Schenkel einen solchen Punkt X, dass    ZAXB= 2 ZABR.
+       Man   bestimme      die Mitte    von    XY,     wenn     Y ein Punkt auf
+       RDRUndE Are BAY.
+104.   Durch einen gegebenen       Punkt eine Gerade zu ziehen,               welche

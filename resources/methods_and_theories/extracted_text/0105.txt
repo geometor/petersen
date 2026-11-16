@@ -1,0 +1,38 @@
+                                             89
+
+             struction anwendet, ist es unnöthig den Drehungspunkt zu
+             suchen.
+           . Auf vier gegebene gerade Linien eine fünfte so zu legen, dass
+             die auf dieser gebildeten drei Abschnitte in einem gegebenen
+             Verhältniss zu einander stehen.
+             Die Aufgabe ist ein specieller Fall der vorhergehenden, da die
+             gesuchte gerade Linie als ein Viereck von bekannter Form
+             betrachtet werden kann.
+             Anmerkung. Diese drei Aufgaben finden sich in dem ersten
+             Buche von Newtons «principia mathematica philosophiae na-
+             turalis».
+           . In ein gegebenes Dreieck ein anderes zu beschreiben, welches
+             einem gegebenen      ähnlich,    und   dessen   Flächeninhalt   ein Mi-
+             rimum ist.
+           . Ein Parallelogramm mit gegebenen Winkeln und gegebenem
+             Umfang zu construiren, so dass Jede Seite durch einen gege-
+             benen Punkt geht.
+             Die Seiten AB, BC, CD und DA mögen beziehungsweise
+—            durch die en          Punkte ?P, Q, R und S gehen.    7’ sei
+             der Durchschnittspunkt der Kreise SAP und PDQ; dann ist
+             T der Drehungspunkt für AD und eine beliebige zwischen
+             den Kreisperipherien gezogene Linie A,PB,, und folglich ist
+             BALE SAD      AG     AN Dre
+             Ist Y der Durchschnittspunkt der Kreise PAS und SDR,
+             so findet man   auf ähnliche Weise        das Verhältniss       AV: AD,
+             und dann lässt sich A bestimmen (189).
+    382.     Auf drei gegebene Kreisperipherien ein Dreieck zu legen,
+             welches demjenigen congruent ist, dessen Eckpunkte die drei
+             Kreismittelpunkte sind.
+             Man suche den gemeinschaftlichen Drehungspunkt der drei
+             Kreise; da ihre drei Mittelpunkte homologe Punkte sind, so
+             ist das gegebene Dreieck das Grunddreieck, und der gefundene
+             Drehungspunkt muss also der Drehungspunkt für dieses und
+             das gesuchte sein;     man      erhält dasselbe also,   wenn    man   das
+             erste dreht, bis einer von seinen Eckpunkten auf die Peripherie
+             fällt.  Das gegebene Drehungsverhältniss ist hier 1, aber die

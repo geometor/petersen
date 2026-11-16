@@ -1,0 +1,39 @@
+                                               88
+
+         Lässt man zwei von den festen geraden Linien bis an die
+    imaginären unendlich fernen Kreispunkte gehen, so erhält man hieraus:
+          Wenn ein gegebener Winkel ABC einen festen Scheitelpunkt A
+    hat, und B und C feste gerade Linien durchlaufen, wird jeder Punkt
+    D auf der Linie BC (bestimmt durch den Winkel BAD) eine ge-
+    rade Linie beschreiben.
+
+5                                      Anwendungen.
+
+    377.   In ein gegebenes Dreieck ABC ein anderes Dreieck zu be-
+           schreiben, welches einem gegebenen congruent ist,
+           Zufolge 9 hat ein System von ähnlichen Dreiecken, welche
+           einem    gegebenen        Dreieck   einbeschrieben      sind, einen gemein-
+           schaftlichen Drehungspunkt; man beschreibt deshalb in das
+           gegebene Dreieck ein Dreieck von der verlangten Form und
+           bestimmt den Drehungspunkt, indem man dieses als Grund-
+           dreieck betrachtet; das gesuchte Dreieck erhält man nun durch
+           eine Drehung dieses Dreiecks, und diese Operation führt man
+           am leichtesten dadurch aus, dass man das gezeichnete Grund-
+           dreieck mit Beziehung auf den Drehungspunkt multiplieirt, so
+           dass es die verlangte Grösse erhält, und es darauf um den-
+           selben Punkt dreht, bis die Eckpunkte auf die Seiten des ge-
+           gebenen Dreiecks fallen.
+    378.   In ein gegebenes Viereck ein anderes zu beschreiben, welches
+           einem gegebenen ähnlich ist.
+           Ein Viereck, welches dem gegebenen ähnlich ist, wird mit
+           drei von seinen Eckpunkten auf die Seiten des gegebenen
+           Vierecks gelegt, und dann bestimmt man den Drehungs-
+           punkt wie in der vorhergehenden Aufgabe; es kommt nun
+           darauf an, das Viereck um diesen Punkt so zu drehen, dass
+           der vierte Eckpunkt auf die vierte Seite fällt; dieser Eckpunkt
+           beschreibt aber während der Drehung eine gerade Linie (ll),
+           welche    sich   leicht    zeichnen      lässt;   man   kann nämlich        durch
+           eine Wiederholung derselben Construction einen zweiten Punkt
+           dieser geraden Linie bestimmen, oder man kann sie auch er-
+           halten, indem      man      eine Seite des gegebenen Vierecks          um     den
+           gefundenen Drehungspunkt dreht.                   Falls man   die erste Con-

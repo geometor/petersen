@@ -1,0 +1,45 @@
+                                       106
+
+dass aus der vorangehenden Entwickelung eine Art allgemeiner
+graphischer Methode zur Lösung der Aufgaben folst. Nimmt man
+die Linie   fort,   und     construirt zwei   beliebige Figuren,   welche   den
+übrigen Bedingungen genügen, so erhält man zwei Lagen von X;
+diese seien X, und X,. Die Linie X,X, schneidet dann die fort-
+genommene Linie in einem Punkte, und dieser wird der gesuchte
+sein, sobald der Ort für X eine gerade Linie ist. Ist dieser Punkt
+nicht der gesuchte,        so mache    man    noch   einen Versuch,    wodurch    .
+man X, findet. Wenn nun der Kreis X,X,X, die fortgenommene
+Linie nicht in den gesuchten Punkten schneidet, so mache man
+noch zwei Versuche, welche die Punkte X, und X, geben.            Die
+Durchschnittspunkte der fortgenommenen Linie mit dem durch diese
+fünf Punkte bestimmten Kegelschnitt lassen sich durch Zirkel und
+Lineal bestimmen.    Sind diese Punkte nicht die gesuchten, so lässt
+sich die Aufgabe nicht mit Zirkel und Lineal lösen.       Ein diesem
+analoges Verfahren lässt sich im zweiten Falle benutzen.
+     Wenn man eine Aufgabe mit Zirkel und Lineal gelöst hat,                          :
+kann man daraus mit Hülfe der oben angeführten Sätze schliessen,
+                                                                                      {
+                                                                                      Y
+
+
+dass die geometrischen Oerter für gewisse Punkte Kegelschnitte-                       F
+                                                                                      y
+sind; in der Regel wird es nicht schwierig sein zu entscheiden, ob                    &
+
+diese Kegelschnitte speciell Kreise oder gerade Linien sind.
+
+
+                                 Anwendungen.
+
+405.   Man soll durch einen gegebenen Punkt eine gerade Linie
+       ziehen, von der die Schenkel eines gegebenen Winkels ein
+       Stück von gegebener Länge abschneiden.
+       Nimmt     man      den   einen Schenkel   des Winkels   fort,   so wird
+       der geometrische Ort für den dadurch frei gewordenen Punkt
+       eine Conchoide.   Da nun die Lage der fortgenommenen Linie
+       vollkommen willkürlich und unabhängig von der Conchoide
+       ist, so lässt sich die Aufgabe nicht mittelst Zirkel und
+       Lineal lösen. Für gewisse Lagen des Punktes (wenn er z. B.
+       auf der Halbirungslinie des Winkels liegt) kann die Linie
+       eine so besondere Lage im Verhältniss zur Conchoide be-
+       kommen,      dass die Aufgabe     sich lösen lässt.

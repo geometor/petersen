@@ -1,0 +1,47 @@
+a.
+
+
+
+                                                  53
+
+            Verschiebt man FG bis F auf A fällt, so wird @ auf einen
+            Punkt 7 fallen, der sich sofort bestimmen lässt; darauf be-
+            stimmt man den Punkt @ mit Bülfe vne dad         Z@G@=ZX
+            (Peripheriewinkel auf dem Bogen AD).
+     261.   Ein Viereck ABCD zu construiren aus den vier Seiten und
+            der Linie #7, welche die Mitten von AB und CD ver-
+            bindet.
+            Um       die Stücke    zusammen        zu   bringen,    verschiebe    man     BC
+            und AD, bis sie in die Lagen #C, und ED, kommen. C,,
+            F und D, liegen dann in gerader Linie, da A 0, CFZD,.DF.
+            Nun kann man A G,ED, construiren (121); darauf be-
+            stimme man C und D.       Die Construction zeigt, dass der
+            Winkel zwischen den gegenüberliegenden Seiten, Z C,ED,,
+            unabhängig von der Länge der beiden andern ist.
+            Die Construction lässt sich auch mit Hülfe der oben gezeigten
+            allgemeinen Verschiebung ausführen.
+            Durch den einen Durchschnittspunkt zweier Kreise eine Ge-
+            rade zu ziehen, von der die beiden Kreise Sehnen mit ge-
+            gebener Differenz abschneiden.    (Die Sehnen sind mit Vor-
+            zeichen zu nehmen, vom Durchschnittspunkte der Kreise aus
+            gerechnet).
+            Die Projection der Centrale auf die gesuchte Linie ist gleich
+            der halben gegebenen Differenz.      Verschiebt man die Pro-
+            jeetion, bis ihr einer Endpunkt auf den einen Kreismittelpunkt
+            fällt,    so wird     dieselbe     in Verbindung       mit   der   Centrale   ein
+            rechtwinkeliges Dreieck bilden, welches man zeichnen kann.
+            Die gesuchte Linie wird dann parallel der einen Seite des-
+            selben gezogen.      Ist die Summe der Sehnen gegeben, so
+            kann man diese in die Figur einführen, indem man den einen
+            Kreis mit — 1 mit Beziehung auf den Durchschnittspunkt der
+            Kreise multiplicirtt, den neuen Kreis an Stelle des gegebenen
+            setzt und die oben angegebene Construction ausführt.
+            Ein Rechteck        mit einer gegebenen         Seite zu zeichnen,       so dass
+            jede Seite durch einen gegebenen Punkt geht. (262).
+     264.   In einem gegebenen Dreieck ADC eine Linie von                         einem
+            Punkte       X auf AB            bis nach   einem Punkte       Y auf DC zu
+
+
+
+
+BZ

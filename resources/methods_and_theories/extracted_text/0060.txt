@@ -1,0 +1,39 @@
+                                44
+
+                                   Die gegebenen Punkte seien A und
+                              B; ein beliebiger durch diese beiden ge-
+                              zogener Kreis schneide den gegebenen
+                              Kreis in Cund D.         Die Linie CD
+                              wird dann die AB in dem gesuchten
+                              geometrischen Ort O schneiden; denn
+                              schneidet ein anderer beliebiger Kreis,
+                              welcher durch A undB geht, den festen
+                              Kreis in den Punkten Z und £, so sind
+                              die Linien #Z, DC und BA die Po-
+                              tenzlinien der drei Kreise, und da
+                              diese sich in einem Punkte schneiden,
+                              muss ZF durch O gehen.
+
+                            Beispiele.
+220. Durch einen gegebenen Punkt eine Gerade zu ziehen, welche
+     von einem gegebenen Kreise unter einer Sehne von gegebener
+     Länge geschnitten wird.
+     Die Aufgabe wird durch I auf 16 reducirt.
+221. Eine gerade Linie zu ziehen, welche von zwei gegebenen
+     Kreisen unter gegebenen Sehnen geschnitten wird.
+222. Eine gerade Linie zu ziehen, welche eine gegebene Gerade in
+     X und einen gegebenen Kreis in Y und Z so schneidet, dass
+     XY und YZ gegebene Längen haben.
+     Wird durch I auf 11 reducirt.
+223. In einen gegebenen Kreis ein Dreieck zu beschreiben, welches
+     einem gegebenen ähnlich ist, so dass die eine Seite durch
+     einen gegebenen Punkt geht.
+224. In einem gegebenen Kreise eine Sehne von gegebener Länge
+     und Richtung zu ziehen.
+225. In einen gegebenen Kreis ein Dreieck zu beschreiben, dessen
+     eine Seite einer gegebenen Linie gleich und parallel ist, wenn
+     zugleich die Halbirungslinie des gegenüberliegenden Winkels
+     durch einen gegebenen Punkt gehen soll.
+     Die eine Seite erhält man sofort (); man kennt dann
+     zwei Punkte von der Halbirungslinie des gegenüberliegenden
+     Winkels.

@@ -1,0 +1,45 @@
+                                                     32
+
+                    Form von A ADE bekannt ist; die Aufgabe ist dann leicht
+                    gelöst, wenn man ZZ als Aehnlichkeitspunkt nimmt.
+                  . In ein Dreieck ein Rechteck mit gegebenem Umfang zu be-
+                    schreiben.
+                    Man führe den halben Umfang in die Figur ein.
+                  .   In ein Dreieck   ein anderes    zu beschreiben,   dessen   einer Eck-
+                      punkt A auf einen gegebenen Punkt der einen Seite fällt;
+                      ferner ist Z A gegeben, und die diesem Winkel gegenüber-
+                      liegende Seite soll einer gegebenen Geraden parallel sein.
+           174.       In ein Dreieck ein Parallelogramm zu beschreiben, dessen
+                      Seiten in einem gegebenen Verhältniss stehen. Die eine Seite
+                      soll auf DC fallen und zwar der eine Endpunkt auf einen
+                      gegebenen Punkt.
+                      Man soll auf der einen Seite eines gegebenen Dreiecks einen
+                      solchen Punkt bestimmen, dass die von ihm aus in gegebener
+                      Richtung bis an die beiden anderen Seiten gezogenen Ge-
+                      raden eine gegebene Summe haben.
+           176.       Gegeben sind ein Punkt DB und zwei Parallelen AX und CY.
+                      Man soll durch B eine Gerade ziehen, welche die beiden Pa-
+                      rallelen in zwei Punkten X und Y so schneidet, dass AX und
+                AYin einem gegebenen Verhältniss stehen.
+                Man betrachte 3 als nicht vorhanden, wähle auf AX den
+                Punkt X, beliebig statt X, und bestimme den Y entspre-
+                chenden Punkt Y, auf AY.
+           177. Gegeben sind ein Winkel und ein Punkt.    Man soll durch
+                      letzteren   eine Gerade XY ziehen, welche die Schenkel             des
+                      Winkels     in X und Y so schneidet, dass der Abstand              des
+uTWITTER
+ —
+ TE                   Scheitelpunkts des Winkels von XY in einem gegebenen Ver-
+                      hältniss zu der XZ steht, welche eine gegebene Richtung hat
+                      und X mit einem Punkte Z auf dem anderen Schenkel des
+                      Winkels verbindet.
+                      Man nehme P fort und wähle auf AX den Punkt X, be-
+a
+
+
+                      liebig statt X.
+           178.       In einem Dreieck ABC eine Linie mit gegebener Richtung
+                      zu ziehen, welche AB in X, BC in Y so schneidet, dass AX
+eean
+"mu
+                      und   CY in einem gegebenen         Verhältniss stehen.

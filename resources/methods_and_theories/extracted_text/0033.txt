@@ -1,0 +1,40 @@
+                                             17
+
+ 57. Ein einbeschriebenes Viereck ABCD                   zu construiren            aus     Z A,
+   BIEANBDSAGC ANdEBD:
+     Man zeichne A ABD; dadurch wird der umbeschriebene Kreis
+         bestimmt,    und     man   erhält nun      C durch   a.
+‚58. Ein Parallelogramm aus AD, AC und AD zu construiren.
+  59. Ein Dreieck zu construiren aus A, A, und wu.
+        Das Dreieck, dessen Seiten Ah, und w, sind, lässt sich sofort con-
+        struiren.
+ 60.    Ein Dreieck zu construiren aus A. m. und r.
+        Man   zeichne       das Dreieck,   dessen    Seiten A, und m,              sind,    und.
+         bestimme     darauf den Mittelpunkt des umbeschriebenen                         Kreises
+        durch a und e.
+ 61.    Ein Dreieck aus a, r und A, zu construiren.
+        Man   construire      das Dreieck,    dessen    Seiten     « und A, sind, und
+         bestimme darauf den Mittelpunkt des umbeschriebenen                             Kreises
+         durch a.                             [
+         Man construire ein Dreieck aus D, a und p.
+         Zeichne     ein Dreieck    aus a, d +       ce und A,.
+       . Ein Parallelogramm aus der einen Seite und                     den beiden Dia-
+         gonalen zu construiren.
+         Ein Dreieck aus A, und m, zu construiren, wenn zugleich                         a—= 2b.
+       . Ein Viereck zu construiren aus AC,               £ CAB,           Z ACD,            CD
+         und DB.
+         Man zeichne         A ADC     und bestimme       darauf 2.
+       . Man soll durch einen gegebenen Punkt eine Gerade ziehen,
+         welche zwei Seiten eines gegebenen Dreiecks so schneidet, dass
+         die Durchschnittspunkte     mit den Endpunkten der dritten
+         Seite auf derselben Kreisperipherie liegen.
+         Ein Dreieck zu construiren aus
+         a, h, und m..     &
+       “ Au Ma und db.
+         ha, h, und B.
+       " Thu, ma und a:b.
+       ef, Beund.6
+       . Ein Dreieck zu construiren aus a,               Aundd      +    ce.
+         Man führe       &5+ ec in die Figur ein, indem              man       AC        über A
+         hinaus um ein Stück AD              = ce verlängert,       und verbinde            dann
+                                                                               2

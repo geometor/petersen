@@ -1,0 +1,38 @@
+                                        47
+
+       und lässt    sich     auf ähnliche Weise      lösen,     da die Diagonalen
+       die Winkel des Vierecks in bekannte Theile theilen.
+238.   Durch zwei gegebene Punkte einen Kreis zu ziehen, welcher
+       einen gegebenen Kreis berührt.
+       Durch die beiden gegebenen Punkte A und B ziehe man
+       einen beliebigen Kreis, welcher den gegebenen schneidet. Die
+       gemeinschaftliche Sehne schneidet AD in einem Punkte, |
+       welcher auch auf der gemeinschaftlichen Tangente an den ge- |
+       gebenen und den gesuchten Kreis liegen muss; wenn man
+       diese Tangente zieht, erhält man also den Berührungspunkt
+       der beiden Kreise und darauf leicht den gesuchten Mittel-
+       punkt.
+       Diese Aufgabe kann auch folgendermassen ausgedrückt werden:
+       Gegeben sind ein Kreis und zwei Punkte A und 2; man || |
+       soll auf der Peripherie des Kreises einen Punkt X bestimmen
+       so dass XA         und XD    den Kreis      in zwei Punkten       SSR]
+       deren Verbindungslinie der AB parallel ist.
+239.   Durch zwei gegebene Punkte einen Kreis zu zeichnen, welcher
+.      einen gegebenen Kreis unter einer gegebenen Sehne schneidet.
+240.   Ein   Sehnenviereck      zu construiren      aus   CA,     BD,    £ A und |
+       Z2 ACB.
+       Man lege BD hin und bestimme den Punkt A durch e
+       und o.
+241.   Durch zwei gegebene Punkte einen Kreis zu zeichnen, der
+       einen gegebenen Kreis so schneidet, dass die gemeinschaftliche
+       Sehne einen anderen gegebenen Kreis berührt.
+242.   Durch zwei gegebene Punkte einen Kreis zu zeichnen, welcher
+       einen gegebenen Kreis so schneidet, dass die Abstände der
+       gemeinschaftlichen Sehne von zwei gegebenen Punkten in
+       einem gegebenen Verhältniss stehen.
+243.   Ein Dreieck zu zeichnen, welches einem gegebenen congruent
+       ist, so dass zwei Seiten durch gegebene Punkte gehen und
+       die Halbirungslinie des von diesen gebildeten Winkels einen
+       gegebenen Kreis berührt.
+244.   Gegeben     sind    zwei Parallelen,    auf der einen       ein   Punkt    4,
+       auf der     anderen     ein Punkt      2;   man    soll durch     einen   ge-
