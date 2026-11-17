@@ -27,19 +27,6 @@ Heuristic Taxonomy & Symbolic Constructors
 - **Transformations of Figures** (``geometor.petersen.transformations``): Parallel translations, axial reflections, pivot-point spiral revolutions, and homothety from centres of similitude.
 - **Inversion & Circle Systems** (``geometor.petersen.inversion``): Circle inversion, Malfatti/Gergonne systems, and quadratic radical-tower constructibility.
 
-Python Package & Modules
-------------------------
-
-The ``geometor-petersen`` Python package (``import geometor.petersen``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
-
-- ``compile_codex.py`` — Deterministic compiler for the 3-track ``geometor-petersen`` Book Codex & SVG figures.
-- ``concordance.py`` — Scholarly apparatus and cross-repository concordance loader for ``geometor.petersen``.
-- ``constructions.py`` — Exact symbolic constructions from Julius Petersen's *Methods and Theories* (1866 / 1879).
-- ``render.py`` — Theme-adaptive ``.euclid-graphic`` SVG renderer for ``geometor.petersen``.
-- ``units_commentary.py`` — Structured ``Summary`` and ``Notes`` companion tracks for ``geometor-petersen``.
-- ``units_en.py`` — Optically verified 1879 English edition tracks for ``geometor-petersen``.
-
-See the `API Reference <https://geometor.github.io/petersen/modules/>`_ for full module documentation.
 
 Repository Contents
 -------------------
