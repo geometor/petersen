@@ -3,6 +3,11 @@ GEOMETOR • petersen
 
 **Visit the Online Archive:** https://geometor.github.io/petersen/
 
+.. image:: docsrc/_static/figures/unit01-discussion-schema.svg
+   :alt: GEOMETOR • petersen featured geometric construction
+   :target: https://geometor.github.io/petersen/
+   :align: center
+
 **Julius Petersen • Methods and Theories for Geometrical Constructions • semantic digital archive**
 
 Mission
