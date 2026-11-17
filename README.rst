@@ -18,7 +18,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`Methods and Theories for Geometrical Constructions <https://geometor.github.io/petersen/methods_and_theories/>`_** — Systematic algorithmic treatise classifying ruler-and-compass problem-solving by geometric loci, transformations, and algebraic analysis (1879).
+- `Methods and Theories for Geometrical Constructions <https://geometor.github.io/petersen/methods_and_theories/>`_ — Systematic algorithmic treatise classifying ruler-and-compass problem-solving by geometric loci, transformations, and algebraic analysis (1879).
 
 Heuristic Taxonomy & Symbolic Constructors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
