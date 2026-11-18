@@ -1,0 +1,23 @@
+{
+  "repository": "geometor/petersen",
+  "rights_category": "public-domain",
+  "sources": [
+    {
+      "id": "petersen-1879-bsb",
+      "title": "Methods and Theories for the Solution of Problems of Geometrical Constructions (1879)",
+      "author": "Julius Petersen",
+      "year": "1879",
+      "era": "Internet Archive",
+      "languages": [
+        "English"
+      ],
+      "site_url": "https://archive.org/details/11390623bsb",
+      "local_path": "resources/methods_and_theories/pdfs/petersen_1879_host_bsb.pdf",
+      "pages": 129,
+      "publisher": "Andr. Fred. Høst & Søn, Copenhagen",
+      "holding_institution": "Bavarian State Library (BSB)",
+      "rights": "Public Domain (1879)",
+      "excerpt": "1879 English edition (Copenhagen), 129 pp., BSB copy digitized via Internet Archive."
+    }
+  ]
+}
