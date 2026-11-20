@@ -42,10 +42,10 @@ Appendix II — Systems of Circles, Monge's Theorem & Apollonius's Problem (pp. 
 .. folio:: 0117
    :page: 101
 
-* **Problem 403 — Apollonius's Problem** (*pp. 94–95*, :person:`Apollonius <apollonius>`, :person:`Gergonne <gergonne>`): *To draw a circle touching three given circles* :math:`A, B, C`. Petersen presents three distinct solutions, culminating in **Gergonne's synthesis** (*p. 95*): join the pole in circle :math:`A` of a similitude axis of :math:`(A, B, C)` to the **radical centre** of :math:`(A, B, C)`; its intersections with :math:`A` give the exact points of contact for pairs of the **eight Apollonius circles**!
+* **Problem 403 — Apollonius's Problem** (*pp. 94–95*, :person:`Apollonius <apollonius>`, :person:`Gergonne <gergonne>`): *To draw a circle touching three given circles* :math:`A, B, C`. Three distinct solutions are given, culminating in **Gergonne's synthesis** (*p. 95*): join the pole in circle :math:`A` of a similitude axis of :math:`(A, B, C)` to the **radical centre** of :math:`(A, B, C)`; its intersections with :math:`A` give the exact points of contact for pairs of the **eight Apollonius circles**.
 
-* **Problem 404 — Petersen's Elementary Proof of Steiner's Malfatti Construction** (*pp. 95–97*):
-  *In a triangle* :math:`ABC` *to inscribe three circles* :math:`S_a, S_b, S_c`\ *, each touching the other two circles and two sides of the triangle.* Fulfilling his Preface (*p. 2*), Petersen replaces :person:`Schröter's <schroeter>` intricate 1874 inversion proof with a two-page elementary angle-and-chord deduction of :person:`Steiner's <steiner>` 1826 theorem (*the common internal tangent to* :math:`S_a` *and* :math:`S_b` *at their contact* :math:`\gamma` *touches two of the incircles of the sub-triangles formed by the three angle bisectors of* :math:`\triangle ABC`).
+* **Problem 404 — Elementary Proof of Steiner's Malfatti Construction** (*pp. 95–97*):
+  *In a triangle* :math:`ABC` *to inscribe three circles* :math:`S_a, S_b, S_c`\ *, each touching the other two circles and two sides of the triangle.* As promised in the Preface (*p. 2*), we replace :person:`Schröter's <schroeter>` inversion proof with an elementary angle-and-chord deduction of :person:`Steiner's <steiner>` theorem (*the common internal tangent to* :math:`S_a` *and* :math:`S_b` *at their contact* :math:`\gamma` *touches two of the incircles of the sub-triangles formed by the three angle bisectors of* :math:`\triangle ABC`).
 
 .. toctree::
    :hidden:

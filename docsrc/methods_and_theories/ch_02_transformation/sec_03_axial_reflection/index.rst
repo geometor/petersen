@@ -30,7 +30,7 @@ C. Revolution Around an Axis (Axial Reflection, pp. 65–69, Problems 336–348)
    :page: 66
 
 * **Problem 338 — Hero's Reflection Problem** (*p. 61*, :person:`Hero of Alexandria <hero>`): *In a given line to find a point X, from which lines drawn to two given points A and B (situated on the same side of the line) shall form equal angles with the given line.*
-  - **Construction & Remark**: *Revolve A around the given line to* :math:`A_1`\ *; the straight line* :math:`B X A_1` *determines* :math:`X`. As Petersen notes (*p. 61*), an elastic body or a ray of light striking a plane mirror reflects at an angle equal to the angle of incidence; since :math:`AX + XB = A_1 X + XB = A_1 B` while any other point :math:`X'` yields a broken path :math:`A_1 X' + X' B > A_1 B`, *the distance travelled by light is a minimum*.
+  - **Construction & Remark**: *Revolve A around the given line to* :math:`A_1`\ *; the straight line* :math:`B X A_1` *determines* :math:`X`. An elastic body or a ray of light striking a plane mirror reflects at an angle equal to the angle of incidence (*p. 61*); since :math:`AX + XB = A_1 X + XB = A_1 B` while any other point :math:`X'` yields a broken path :math:`A_1 X' + X' B > A_1 B`, *the distance travelled by light is a minimum*.
 
 .. picture:: /_static/figures/unit05b-hero-reflection.svg
    :class: euclid-picture
