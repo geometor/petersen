@@ -11,6 +11,9 @@ Preface & Introduction — The Four-Stage Anatomy of Construction — Summary
 
 .. rubric:: Structural & Heuristic Overview — *Forord og Indledning — Analyse, Konstruktion, Bevis og Diskussion* (pp. 1–6 (with Problem 42, p. 15) · Foundations & Problem 42)
 
+.. folio:: 0017
+   :page: 1
+
 .. contents:: In This Summary
    :local:
    :depth: 2

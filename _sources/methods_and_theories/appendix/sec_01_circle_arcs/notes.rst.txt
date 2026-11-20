@@ -10,6 +10,9 @@ Section 1: On the Intersection of Circular Arcs — Notes
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary (pp. 95–97)
 
+.. folio:: 0111
+   :page: 95
+
 .. contents:: In These Notes
    :local:
    :depth: 2

@@ -11,6 +11,9 @@ Section 1: On the Intersection of Circular Arcs
 
 .. rubric:: Julius Petersen — *Methods and Theories* (Authorized Translation by Sophus Haagensen, 1879 · pp. 95–97)
 
+.. folio:: 0111
+   :page: 95
+
 .. contents:: In This Section
    :local:
    :depth: 2

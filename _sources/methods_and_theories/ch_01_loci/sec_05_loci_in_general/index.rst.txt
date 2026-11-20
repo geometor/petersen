@@ -11,6 +11,9 @@ Section 5: Geometrical Loci in General
 
 .. rubric:: Julius Petersen — *Methods and Theories* (Authorized Translation by Sophus Haagensen, 1879 · pp. 39–41)
 
+.. folio:: 0055
+   :page: 39
+
 .. contents:: In This Section
    :local:
    :depth: 2

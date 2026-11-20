@@ -11,6 +11,9 @@ Section 2: Multiplication of Curves
 
 .. rubric:: Julius Petersen — *Methods and Theories* (Authorized Translation by Sophus Haagensen, 1879 · pp. 22–27)
 
+.. folio:: 0038
+   :page: 22
+
 .. contents:: In This Section
    :local:
    :depth: 2
@@ -21,8 +24,20 @@ Multiplication of Curves (Homothety, pp. 22–27, Problems 117–149)
 
 *[pp. 22–24]* Take a fixed point :math:`P` and join it to an arbitrary point :math:`a` of a given curve :math:`k`. If along the straight line :math:`Pa` we determine :math:`A` such that :math:`PA : Pa = m : n`—either on the same side of :math:`P` (*multiplication by* :math:`+\frac{m}{n}`) or on the opposite side (*multiplication by* :math:`-\frac{m}{n}`)—the locus of :math:`A` is a curve :math:`K` similar and similarly situated (*homothetic*) to :math:`k`, with :math:`P` as :term:`centre of similitude <centre-of-similitude>` (a pure specialization of Chapter III's revolution with :math:`v = 0^\circ` or :math:`180^\circ`):
 
+.. picture:: 0038.g1.png
+   :alt: Archival woodcut plate from Petersen 1879 p. 22 showing multiplication of curve k from centre P into homothetic curve K
+   :caption: Archival woodcut plate (1879, f. 0038, p. 22): Multiplication of curves k → K from centre of similitude P.
+
+.. picture:: 0038.g1.svg
+   :alt: Calibrated interactive SVG diagram of Petersen Section 2 multiplication of curves from centre P
+   :class: euclid-picture
+
 1. **Multiplying a Straight Line**: Yields a parallel straight line whose distance from :math:`P` is multiplied by :math:`\pm \frac{m}{n}`.
 2. **Multiplying a Circle**: Yields a circle whose centre and radius are both multiplied from :math:`P` by :math:`\pm \frac{m}{n}`. Conversely, *any two unequal circles have two centres of similitude*—the **external centre** (dividing the line of centres externally in ratio :math:`+R_1 : R_2`) and the **internal centre** (dividing it internally in ratio :math:`-R_1 : R_2`).
+
+.. folio:: 0041
+   :page: 25
+
 3. **Intersections With Scaled Curves** (*Problems 117–145*): To draw through :math:`P` a secant cut by two curves :math:`k, K_1` in segments :math:`Pa : PA = n : m`, multiply :math:`k` from :math:`P` by :math:`\pm \frac{m}{n}` and intersect with :math:`K_1`!
 
 .. toctree::

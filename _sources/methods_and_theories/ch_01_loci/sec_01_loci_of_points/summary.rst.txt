@@ -11,6 +11,9 @@ Section 1: A. Geometrical Loci for Points (Loci a–k) — Summary
 
 .. rubric:: Structural & Heuristic Overview — *Geometriske Steder for Punkter (a–k)* (pp. 5–21 · Problems 1–116)
 
+.. folio:: 0021
+   :page: 5
+
 .. contents:: In This Summary
    :local:
    :depth: 2

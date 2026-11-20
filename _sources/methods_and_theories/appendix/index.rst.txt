@@ -10,6 +10,9 @@ Appendix — Additions
 
 .. rubric:: Zusätze (pp. 95–112)
 
+.. folio:: 0111
+   :page: 95
+
 .. collection::
    :sort: order
 

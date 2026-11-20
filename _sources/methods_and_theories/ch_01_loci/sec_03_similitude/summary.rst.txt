@@ -11,6 +11,9 @@ Section 3: The Method of Similitude — Summary
 
 .. rubric:: Structural & Heuristic Overview — *Die Aehnlichkeitsmethode / Ligedannethedsmethoden* (pp. 28–33 · Problems 150–191)
 
+.. folio:: 0044
+   :page: 28
+
 .. contents:: In This Summary
    :local:
    :depth: 2

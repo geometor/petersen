@@ -12,6 +12,9 @@ Section 3: The Method of Similitude
 
 .. rubric:: Julius Petersen — *Methods and Theories* (Authorized Translation by Sophus Haagensen, 1879 · pp. 28–33)
 
+.. folio:: 0044
+   :page: 28
+
 .. contents:: In This Section
    :local:
    :depth: 2
@@ -35,6 +38,9 @@ The Method of Similitude (pp. 28–33, Problems 150–191)
    :class: euclid-picture
 
 **Figure 6.1 — Petersen's Problem 155 (p. 29): Inscribing a Square in a Given Triangle by Homothety.** Suppressing the condition that the upper-right vertex lie on :g:`[ B C ]`, we erect prototype square :g:`< D0 E0 F0 C >` of side :math:`h_c = 12` resting on base :g:`[ A B ]` with upper-left vertex at :g:`C` on :g:`[ A C ]`. Taking :g:`A` as **centre of similitude**, the locus of the free vertex is ray :g:`[ A F0 ]`, which intersects :g:`[ B C ]` at :g:`F` :math:`= (119/13, 84/13)`, yielding exact inscribed square :g:`< D E F G >` of side :math:`84/13`.
+
+.. folio:: 0047
+   :page: 31
 
 Flagship Homothety Constructions (Problems 154–191)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -12,6 +12,9 @@ Section 6: B. Geometrical Loci for Lines (Loci l–p)
 
 .. rubric:: Julius Petersen — *Methods and Theories* (Authorized Translation by Sophus Haagensen, 1879 · pp. 42–48)
 
+.. folio:: 0058
+   :page: 42
+
 .. contents:: In This Section
    :local:
    :depth: 2
@@ -49,6 +52,9 @@ Fundamental Line Loci ``l`` – ``p`` (pp. 40–41)
 
 * **Locus p** (*p. 41*): *Describe all circles passing through two given points A and B and intersecting (or touching) a fixed given circle; the locus of their common chords (or common tangents at contact) with the fixed circle is a single fixed point O on the straight line AB.*
   - *Proof*: Let two circles through :math:`A` and :math:`B` cut the fixed circle in :math:`C, D` and :math:`E, F` respectively. The three lines :math:`AB`, :math:`CD`, and :math:`EF` are the pairwise :term:`radical axes <radical-axis>` of the three circles, and therefore concur at the single point :math:`O = AB \cap CD`!
+
+.. folio:: 0060
+   :page: 44
 
 Selected Canonical Problems on Line Loci (Problems 220–245, pp. 42–45)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

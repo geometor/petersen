@@ -11,6 +11,9 @@ Section 4: Inverse Figures
 
 .. rubric:: Julius Petersen — *Methods and Theories* (Authorized Translation by Sophus Haagensen, 1879 · pp. 34–38)
 
+.. folio:: 0050
+   :page: 34
+
 .. contents:: In This Section
    :local:
    :depth: 2
@@ -27,10 +30,34 @@ Inverse Figures (pp. 34–38, Problems 192–201)
 
 then as :math:`A` traces a curve :math:`k`, :math:`A_1` traces its :term:`inverse curve <inverse-figures>` :math:`k_1`. Petersen establishes four foundational theorems (*pp. 33–36*):
 
+.. folio:: 0051
+   :page: 35
+
 1. **Circle Through the Centre** (*p. 34*): *The inverse curve of a circle passing through the centre of inversion is a straight line* perpendicular to the diameter through :math:`P` (and conversely, the inverse of any straight line not passing through :math:`P` is a circle through :math:`P`).
+
+   .. picture:: 0051.g1.png
+      :alt: Archival woodcut plate from Petersen 1879 p. 35 showing inversion of a straight line AB through P into a circle
+      :caption: Archival woodcut plate (1879, f. 0051, p. 35): Inverse of a straight line is a circle through P.
+
+   .. picture:: 0051.g1.svg
+      :alt: Calibrated interactive SVG diagram of Petersen Section 4 inverse of a straight line through P
+      :class: euclid-picture
+
 2. **Circle Not Through the Centre** (*p. 34*): *The inverse curve of a circle not passing through* :math:`P` *is another circle, and* :math:`P` *is a centre of similitude of both circles.* In particular, if :math:`I` equals the tangent power of :math:`P` with respect to the given circle, that circle is its **own** inverse!
+
+   .. picture:: 0051.g2.png
+      :alt: Archival woodcut plate from Petersen 1879 p. 35 showing inverse of a circle not passing through centre P
+      :caption: Archival woodcut plate (1879, f. 0051, p. 35): Inverse of a circle not through P is a homothetic circle.
+
+   .. picture:: 0051.g2.svg
+      :alt: Calibrated interactive SVG diagram of Petersen Section 4 inverse of a circle not through centre P
+      :class: euclid-picture
+
 3. **Preservation of Contact** (*p. 35, a*): *If two curves intersect or touch each other at* :math:`A \neq P`\ *, their inverse curves intersect or touch each other at the corresponding point* :math:`A_1`.
 4. **Conformality** (*pp. 35–36, b*): *If two curves intersect at* :math:`A` *forming a certain angle, their inverse curves intersect at* :math:`A_1` *forming the* **same** *angle* (with opposite orientation).
+
+.. folio:: 0052
+   :page: 36
 
 .. picture:: /_static/figures/unit07-inversion-tangent-circle.svg
    :class: euclid-picture

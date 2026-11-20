@@ -11,6 +11,9 @@ Section 3: The Method of Similitude — Notes
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary (pp. 28–33)
 
+.. folio:: 0044
+   :page: 28
+
 .. contents:: In These Notes
    :local:
    :depth: 2

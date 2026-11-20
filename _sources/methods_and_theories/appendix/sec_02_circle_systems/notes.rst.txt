@@ -10,6 +10,9 @@ Section 2: Systems of Circles — Notes
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary (pp. 98–103)
 
+.. folio:: 0114
+   :page: 98
+
 .. contents:: In These Notes
    :local:
    :depth: 2

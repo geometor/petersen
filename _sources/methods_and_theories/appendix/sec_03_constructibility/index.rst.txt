@@ -12,6 +12,9 @@ Section 3: On the Possibility of Solving Problems by Straight Edge and Compasses
 
 .. rubric:: Julius Petersen — *Methods and Theories* (Authorized Translation by Sophus Haagensen, 1879 · pp. 104–112)
 
+.. folio:: 0120
+   :page: 104
+
 .. contents:: In This Section
    :local:
    :depth: 2
@@ -33,12 +36,19 @@ Citing his own treatises :cite:`*Om Ligninger, der løses ved Kvadratrod* <peter
 3. **Theorem 3** (*p. 98*): *If we can determine by straight edge and compasses the intersections of every line of a pencil (whose vertex does not lie on the curve) with a curve, the order of this curve must be a power of* :math:`2` (:math:`2^k`).
 4. **Theorem 4** (*p. 99*): *There are no other curves than the circle and the straight line whose intersections with an arbitrary circle can be determined by straight edge and compasses* (deduced from Theorem 1 via circle inversion!).
 
+.. folio:: 0123
+   :page: 107
+
 Impossibility Proofs & the 1879 Pre-Lindemann Remark (Problems 405–410, pp. 100–102)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * **Problem 405 — Pappus's Sliding Segment / Conchoid** (*p. 100*): *Through a given point to draw a line on which the legs of a given angle cut off a given length.* Removing one leg yields the **conchoid of Nicomedes** (order 4, not a conic); hence **unsolvable in general** by straight edge and compasses (though solvable when the point lies on the angle bisector).
 * **Problem 407** (*p. 100*): *Place a given triangle with its vertices on three arbitrary given circles.* Removing one circle gives a non-circular locus (an ellipse when two circles degenerate into lines and the triangle degenerates into a segment); hence **unsolvable in general** (*contrast Problems 349–350!*).
 * **Problem 408** (*pp. 100–101*): *Construct a triangle from* :math:`a, c`\ *, and* :math:`B - C`. Reduces to drawing a tangent to an astroid/hypocycloid (special case of Problem 405); **unsolvable**.
+
+.. folio:: 0125
+   :page: 109
+
 * **Problem 409 — Trisection of the General Angle** (*p. 101*): Reduced by Archimedes's neusis to drawing through a point :math:`A` on a circle a secant :math:`AX` meeting a given diameter in :math:`Y` with :math:`XY = R`. Removing the diameter gives a **limaçon curve of the fourth order** passing *simply* through the pencil vertex (the circle's centre :math:`O`), so each diameter meets it in :math:`4 - 1 = 3` remaining variable points—violating Theorem 3 (:math:`3` is not a power of :math:`2`)! **Therefore a general angle cannot be trisected by straight edge and compasses.**
 
 Immediately following this proof (*p. 101*), writing in **1879**—three years before :person:`Ferdinand von Lindemann <lindemann>` proved the transcendence of :math:`\pi` in 1882—Petersen records a remarkable historical snapshot:

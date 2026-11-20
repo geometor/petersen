@@ -11,6 +11,9 @@ Section 1: A. Parallel Translation — Summary
 
 .. rubric:: Structural & Heuristic Overview — *Parallelverschiebung / Parallelforskydning* (pp. 49–59 · Problems 246–308)
 
+.. folio:: 0065
+   :page: 49
+
 .. contents:: In This Summary
    :local:
    :depth: 2

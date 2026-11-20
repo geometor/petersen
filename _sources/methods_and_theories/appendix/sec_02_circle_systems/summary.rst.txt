@@ -10,6 +10,9 @@ Section 2: Systems of Circles — Summary
 
 .. rubric:: Structural & Heuristic Overview — *Systeme von Kreisen / Cirkelsystemer* (pp. 98–103 · Problems 403–406)
 
+.. folio:: 0114
+   :page: 98
+
 .. contents:: In This Summary
    :local:
    :depth: 2

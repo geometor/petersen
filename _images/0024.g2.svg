@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 262" width="400" height="262" class="euclid-graphic" data-graphic-id="0024.g2" data-folio="0024" data-graphic="g2">
+  <title>Petersen Locus g — Harmonic Pencil of Rays (1879, p. 8)</title>
+  <style>
+:root {
+      --geom-fg: #18181b;
+      --geom-bg: #ffffff;
+      --geom-point-stroke: #ffffff;
+      --geom-poly-fill: #000000;
+      --geom-accent: #c88a1e;
+      --geom-assert: #16a34a;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #d6cfc5;
+        --geom-bg: #1e1e20;
+        --geom-point-stroke: #1e1e20;
+        --geom-poly-fill: #d6cfc5;
+        --geom-accent: #e8b85a;
+        --geom-assert: #5ec27e;
+      }
+    }
+    .euclid-graphic {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      background-color: var(--geom-bg);
+    }
+    .geom-line, .geom-circle, .geom-curve, .geom-arc {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dashed, .geom-aux {
+      stroke: var(--geom-fg);
+      stroke-width: 1.4;
+      stroke-dasharray: 4, 3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dotted {
+      stroke: var(--geom-fg);
+      stroke-width: 1.4;
+      stroke-dasharray: 2.2, 2.6;
+      stroke-linecap: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-polygon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.04;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-tick-mark {
+      stroke: var(--geom-assert);
+      stroke-width: 2;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-point {
+      fill: var(--geom-fg);
+      stroke: var(--geom-point-stroke);
+      stroke-width: 1;
+      transition: fill 0.15s, r 0.15s;
+    }
+    .geom-label {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      font-style: italic;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-sub { font-size: 10px; font-weight: 700; }
+    .geom-overlay { opacity: 0; pointer-events: none; transition: opacity 0.12s ease; }
+    [data-ref]:hover, .highlight, .geom-highlight-active {
+      opacity: 1 !important;
+      stroke: var(--geom-accent) !important;
+      cursor: pointer;
+    }
+    text[data-ref]:hover, text.highlight, text.geom-highlight-active, text.geom-highlight-active * {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    circle.geom-point.geom-highlight-active, .geom-point:hover {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-assert-active { opacity: 1 !important; stroke: var(--geom-assert) !important; }
+    path.geom-assert-active.geom-tick-1 { marker-mid: url(#geom-tick-1); }
+    path.geom-assert-active.geom-tick-2 { marker-mid: url(#geom-tick-2); }
+    path.geom-assert-active.geom-tick-3 { marker-mid: url(#geom-tick-3); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+      <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+      <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+    </marker>
+  </defs>
+  <g id="elements">
+  </g>
+  <g id="graphics">
+    <path id="el-line-OA" data-ref="[ O A ]" data-type="line" fill="none" class="geom-line" d="M 16 160 L 199 89.5 L 382 19" />
+    <path id="el-line-OP" data-ref="[ O P ]" data-type="line" fill="none" class="geom-line" d="M 14 111 L 200 114 L 386 117" />
+    <path id="el-line-OB" data-ref="[ O B ]" data-type="line" fill="none" class="geom-line" d="M 21 34 L 183.5 146.5 L 346 259" />
+    <path id="el-line-Oext" data-ref="[ O R4 ]" data-type="line" fill="none" class="geom-line" d="M 86 234 L 134 118.5 L 182 3" />
+    <path id="el-seg-P1A1" data-ref="/ P1 A1 /" data-type="segment" fill="none" class="geom-line" d="M 294 115 L 286 87 L 278 59" />
+    <path id="el-seg-P1B1" data-ref="/ P1 B1 /" data-type="segment" fill="none" class="geom-line" d="M 294 115 L 275 156.5 L 256 198" />
+    <path id="el-seg-PA" data-ref="/ P A /" data-type="segment" fill="none" class="geom-line" d="M 356 116 L 343.5 77.5 L 331 39" />
+    <path id="el-seg-PB" data-ref="/ P B /" data-type="segment" fill="none" class="geom-line" d="M 356 116 L 324 169 L 292 222" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path id="hl-line-OA" data-ref="[ O A ]" fill="none" class="geom-line geom-overlay" d="M 16 160 L 199 89.5 L 382 19" />
+    <path id="hl-line-OP" data-ref="[ O P ]" fill="none" class="geom-line geom-overlay" d="M 14 111 L 200 114 L 386 117" />
+    <path id="hl-line-OB" data-ref="[ O B ]" fill="none" class="geom-line geom-overlay" d="M 21 34 L 183.5 146.5 L 346 259" />
+    <path id="hl-line-Oext" data-ref="[ O R4 ]" fill="none" class="geom-line geom-overlay" d="M 86 234 L 134 118.5 L 182 3" />
+    <path id="hl-seg-P1A1" data-ref="/ P1 A1 /" fill="none" class="geom-line geom-overlay" d="M 294 115 L 286 87 L 278 59" />
+    <path id="hl-seg-P1B1" data-ref="/ P1 B1 /" fill="none" class="geom-line geom-overlay" d="M 294 115 L 275 156.5 L 256 198" />
+    <path id="hl-seg-PA" data-ref="/ P A /" fill="none" class="geom-line geom-overlay" d="M 356 116 L 343.5 77.5 L 331 39" />
+    <path id="hl-seg-PB" data-ref="/ P B /" fill="none" class="geom-line geom-overlay" d="M 356 116 L 324 169 L 292 222" />
+  </g>
+  <g id="points">
+    <circle id="el-pt-O" data-ref="O" data-type="point" cx="136" cy="113" r="2.2" class="geom-point" />
+    <circle id="el-pt-A1" data-ref="A1" data-type="point" cx="278" cy="59" r="2.2" class="geom-point" />
+    <circle id="el-pt-A" data-ref="A" data-type="point" cx="331" cy="39" r="2.2" class="geom-point" />
+    <circle id="el-pt-P1" data-ref="P1" data-type="point" cx="294" cy="115" r="2.2" class="geom-point" />
+    <circle id="el-pt-P" data-ref="P" data-type="point" cx="356" cy="116" r="2.2" class="geom-point" />
+    <circle id="el-pt-B1" data-ref="B1" data-type="point" cx="256" cy="198" r="2.2" class="geom-point" />
+    <circle id="el-pt-B" data-ref="B" data-type="point" cx="292" cy="222" r="2.2" class="geom-point" />
+  </g>
+  <g id="labels">
+    <text id="lbl-O" data-ref="O" x="139" y="134" text-anchor="middle" class="geom-label">O</text>
+    <text id="lbl-A1" data-ref="A1" x="263" y="47" text-anchor="middle" class="geom-label">A<tspan class="geom-label-sub" dy="3">1</tspan></text>
+    <text id="lbl-A" data-ref="A" x="344" y="25" text-anchor="middle" class="geom-label">A</text>
+    <text id="lbl-P1" data-ref="P1" x="303" y="135" text-anchor="middle" class="geom-label">P<tspan class="geom-label-sub" dy="3">1</tspan></text>
+    <text id="lbl-P" data-ref="P" x="366" y="135" text-anchor="middle" class="geom-label">P</text>
+    <text id="lbl-B1" data-ref="B1" x="239" y="211" text-anchor="end" class="geom-label">B<tspan class="geom-label-sub" dy="3">1</tspan></text>
+    <text id="lbl-B" data-ref="B" x="309" y="213" text-anchor="start" class="geom-label">B</text>
+  </g>
+</svg>

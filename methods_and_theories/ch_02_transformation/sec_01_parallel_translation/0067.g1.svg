@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 198" width="400" height="198" class="euclid-graphic" data-graphic-id="0067.g1" data-folio="0067" data-graphic="g1">
+  <title>Petersen Chapter II.A — Parallel Translation of a Quadrilateral (1879, p. 51)</title>
+  <style>
+:root {
+      --geom-fg: #18181b;
+      --geom-bg: #ffffff;
+      --geom-point-stroke: #ffffff;
+      --geom-poly-fill: #000000;
+      --geom-accent: #c88a1e;
+      --geom-assert: #16a34a;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #d6cfc5;
+        --geom-bg: #1e1e20;
+        --geom-point-stroke: #1e1e20;
+        --geom-poly-fill: #d6cfc5;
+        --geom-accent: #e8b85a;
+        --geom-assert: #5ec27e;
+      }
+    }
+    .euclid-graphic {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      background-color: var(--geom-bg);
+    }
+    .geom-line, .geom-circle, .geom-curve, .geom-arc {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dashed, .geom-aux {
+      stroke: var(--geom-fg);
+      stroke-width: 1.4;
+      stroke-dasharray: 4, 3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dotted {
+      stroke: var(--geom-fg);
+      stroke-width: 1.4;
+      stroke-dasharray: 2.2, 2.6;
+      stroke-linecap: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-polygon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.04;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-tick-mark {
+      stroke: var(--geom-assert);
+      stroke-width: 2;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-point {
+      fill: var(--geom-fg);
+      stroke: var(--geom-point-stroke);
+      stroke-width: 1;
+      transition: fill 0.15s, r 0.15s;
+    }
+    .geom-label {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      font-style: italic;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-sub { font-size: 10px; font-weight: 700; }
+    .geom-overlay { opacity: 0; pointer-events: none; transition: opacity 0.12s ease; }
+    [data-ref]:hover, .highlight, .geom-highlight-active {
+      opacity: 1 !important;
+      stroke: var(--geom-accent) !important;
+      cursor: pointer;
+    }
+    text[data-ref]:hover, text.highlight, text.geom-highlight-active, text.geom-highlight-active * {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    circle.geom-point.geom-highlight-active, .geom-point:hover {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-assert-active { opacity: 1 !important; stroke: var(--geom-assert) !important; }
+    path.geom-assert-active.geom-tick-1 { marker-mid: url(#geom-tick-1); }
+    path.geom-assert-active.geom-tick-2 { marker-mid: url(#geom-tick-2); }
+    path.geom-assert-active.geom-tick-3 { marker-mid: url(#geom-tick-3); }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+      <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+      <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+    </marker>
+  </defs>
+  <g id="elements">
+  </g>
+  <g id="graphics">
+    <path id="el-seg-AB" data-ref="/ A B /" data-type="segment" fill="none" class="geom-line" d="M 34 63 L 74 49 L 114 35" />
+    <path id="el-seg-BC" data-ref="/ B C /" data-type="segment" fill="none" class="geom-line" d="M 114 35 L 166 50 L 218 65" />
+    <path id="el-seg-CD" data-ref="/ C D /" data-type="segment" fill="none" class="geom-line" d="M 218 65 L 193 109.5 L 168 154" />
+    <path id="el-seg-AD" data-ref="/ A D /" data-type="segment" fill="none" class="geom-line" d="M 34 63 L 101 108.5 L 168 154" />
+    <path id="el-seg-BD" data-ref="/ B D /" data-type="segment" fill="none" class="geom-line" d="M 114 35 L 141 94.5 L 168 154" />
+    <path id="el-seg-BB1" data-ref="/ B B1 /" data-type="segment" fill="none" class="geom-dashed" d="M 114 35 L 209 35 L 304 35" />
+    <path id="el-seg-DD1" data-ref="/ D D1 /" data-type="segment" fill="none" class="geom-line" d="M 168 154 L 264 154 L 360 154" />
+    <path id="el-seg-B1D1" data-ref="/ B1 D1 /" data-type="segment" fill="none" class="geom-line" d="M 304 35 L 332 94.5 L 360 154" />
+    <path id="el-seg-CB1" data-ref="/ C B1 /" data-type="segment" fill="none" class="geom-dotted" d="M 218 65 L 261 50 L 304 35" />
+    <path id="el-seg-CD1" data-ref="/ C D1 /" data-type="segment" fill="none" class="geom-dotted" d="M 218 65 L 289 109.5 L 360 154" />
+    <path id="el-seg-AC" data-ref="/ A C /" data-type="segment" fill="none" class="geom-dotted" d="M 34 63 L 126 64 L 218 65" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <path id="hl-seg-AB" data-ref="/ A B /" fill="none" class="geom-line geom-overlay" d="M 34 63 L 74 49 L 114 35" />
+    <path id="hl-seg-BC" data-ref="/ B C /" fill="none" class="geom-line geom-overlay" d="M 114 35 L 166 50 L 218 65" />
+    <path id="hl-seg-CD" data-ref="/ C D /" fill="none" class="geom-line geom-overlay" d="M 218 65 L 193 109.5 L 168 154" />
+    <path id="hl-seg-AD" data-ref="/ A D /" fill="none" class="geom-line geom-overlay" d="M 34 63 L 101 108.5 L 168 154" />
+    <path id="hl-seg-BD" data-ref="/ B D /" fill="none" class="geom-line geom-overlay" d="M 114 35 L 141 94.5 L 168 154" />
+    <path id="hl-seg-BB1" data-ref="/ B B1 /" fill="none" class="geom-dashed geom-overlay" d="M 114 35 L 209 35 L 304 35" />
+    <path id="hl-seg-DD1" data-ref="/ D D1 /" fill="none" class="geom-line geom-overlay" d="M 168 154 L 264 154 L 360 154" />
+    <path id="hl-seg-B1D1" data-ref="/ B1 D1 /" fill="none" class="geom-line geom-overlay" d="M 304 35 L 332 94.5 L 360 154" />
+    <path id="hl-seg-CB1" data-ref="/ C B1 /" fill="none" class="geom-dotted geom-overlay" d="M 218 65 L 261 50 L 304 35" />
+    <path id="hl-seg-CD1" data-ref="/ C D1 /" fill="none" class="geom-dotted geom-overlay" d="M 218 65 L 289 109.5 L 360 154" />
+    <path id="hl-seg-AC" data-ref="/ A C /" fill="none" class="geom-dotted geom-overlay" d="M 34 63 L 126 64 L 218 65" />
+  </g>
+  <g id="points">
+    <circle id="el-pt-A" data-ref="A" data-type="point" cx="34" cy="63" r="2.2" class="geom-point" />
+    <circle id="el-pt-B" data-ref="B" data-type="point" cx="114" cy="35" r="2.2" class="geom-point" />
+    <circle id="el-pt-D" data-ref="D" data-type="point" cx="168" cy="154" r="2.2" class="geom-point" />
+    <circle id="el-pt-C" data-ref="C" data-type="point" cx="218" cy="65" r="2.2" class="geom-point" />
+    <circle id="el-pt-B1" data-ref="B1" data-type="point" cx="304" cy="35" r="2.2" class="geom-point" />
+    <circle id="el-pt-D1" data-ref="D1" data-type="point" cx="360" cy="154" r="2.2" class="geom-point" />
+  </g>
+  <g id="labels">
+    <text id="lbl-A" data-ref="A" x="18" y="68" text-anchor="end" class="geom-label">A</text>
+    <text id="lbl-B" data-ref="B" x="112" y="22" text-anchor="middle" class="geom-label">B</text>
+    <text id="lbl-D" data-ref="D" x="166" y="174" text-anchor="middle" class="geom-label">D</text>
+    <text id="lbl-C" data-ref="C" x="223" y="86" text-anchor="start" class="geom-label">C</text>
+    <text id="lbl-B1" data-ref="B1" x="312" y="24" text-anchor="middle" class="geom-label">B<tspan class="geom-label-sub" dy="3">1</tspan></text>
+    <text id="lbl-D1" data-ref="D1" x="368" y="174" text-anchor="middle" class="geom-label">D<tspan class="geom-label-sub" dy="3">1</tspan></text>
+  </g>
+</svg>

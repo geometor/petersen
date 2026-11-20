@@ -11,6 +11,9 @@ Section 3: On the Possibility of Solving Problems by Straight Edge and Compasses
 
 .. rubric:: Structural & Heuristic Overview — *Ueber die Möglichkeit von Konstruktionen mit Lineal und Zirkel* (pp. 104–112 · Problems 407–410)
 
+.. folio:: 0120
+   :page: 104
+
 .. contents:: In This Summary
    :local:
    :depth: 2

@@ -12,6 +12,9 @@ Preface & Introduction — The Four-Stage Anatomy of Construction
 
 .. rubric:: Julius Petersen — *Methods and Theories* (Authorized Translation by Sophus Haagensen, 1879 · pp. 1–6 (with Problem 42, p. 15))
 
+.. folio:: 0017
+   :page: 1
+
 .. contents:: In This Section
    :local:
    :depth: 2
@@ -74,6 +77,9 @@ The complete solution of a :term:`determinate problem <determinate-problem>` con
 * **Second Fundamental Rule — Transformation of the Figure**: *[pp. 5–6]* When the given elements of the sought figure lie scattered apart so that no triangle or sub-figure can be drawn directly, *we transform the drawn figure into another related figure, in which the given parts are gathered together* by :term:`parallel translation <parallel-translation>`, :term:`replacing <replacing>`, :term:`revolution around an axis <revolution-around-an-axis>`, or :term:`spiral revolution around a pivot point <theory-of-revolution>`. Once the auxiliary figure is constructed, the inverse transformation restores the figure demanded.
 
 .. _petersen-en-notation:
+
+.. folio:: 0020
+   :page: 4
 
 Standard Triangle Notation (p. 6)
 ---------------------------------

@@ -10,6 +10,9 @@ Section 3: C. Revolution Around an Axis (Axial Reflection) — Summary
 
 .. rubric:: Structural & Heuristic Overview — *Drehung um eine Axe / Drejning om en Axe* (pp. 65–69 · Problems 336–348)
 
+.. folio:: 0081
+   :page: 65
+
 .. contents:: In This Summary
    :local:
    :depth: 2

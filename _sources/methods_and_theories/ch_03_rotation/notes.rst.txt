@@ -11,6 +11,9 @@ Chapter III — The Theory of Revolution — Notes
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary (pp. 70–94)
 
+.. folio:: 0086
+   :page: 70
+
 .. contents:: In These Notes
    :local:
    :depth: 2

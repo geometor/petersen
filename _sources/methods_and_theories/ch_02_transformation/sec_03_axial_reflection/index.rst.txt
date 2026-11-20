@@ -11,6 +11,9 @@ Section 3: C. Revolution Around an Axis (Axial Reflection)
 
 .. rubric:: Julius Petersen — *Methods and Theories* (Authorized Translation by Sophus Haagensen, 1879 · pp. 65–69)
 
+.. folio:: 0081
+   :page: 65
+
 .. contents:: In This Section
    :local:
    :depth: 2
@@ -22,6 +25,9 @@ C. Revolution Around an Axis (Axial Reflection, pp. 65–69, Problems 336–348)
 *[p. 60]* :term:`Revolution around an axis <revolution-around-an-axis>` (reflection across a straight line of symmetry) is a special case of *Replacing*, yet so fruitful that it warrants independent treatment. By revolving one half of a figure around an axis of symmetry, symmetric intersections become direct intersections of known curves, and broken equal-angle paths straighten into single segments:
 
 * **Problem 336** (*p. 61*): *To a given line to draw a perpendicular, of which two given curves shall cut off equal parts from the line.* Revolve one curve around the given line as axis; its intersections with the other curve determine the sought perpendiculars immediately.
+
+.. folio:: 0082
+   :page: 66
 
 * **Problem 338 — Hero's Reflection Problem** (*p. 61*, :person:`Hero of Alexandria <hero>`): *In a given line to find a point X, from which lines drawn to two given points A and B (situated on the same side of the line) shall form equal angles with the given line.*
   - **Construction & Remark**: *Revolve A around the given line to* :math:`A_1`\ *; the straight line* :math:`B X A_1` *determines* :math:`X`. As Petersen notes (*p. 61*), an elastic body or a ray of light striking a plane mirror reflects at an angle equal to the angle of incidence; since :math:`AX + XB = A_1 X + XB = A_1 B` while any other point :math:`X'` yields a broken path :math:`A_1 X' + X' B > A_1 B`, *the distance travelled by light is a minimum*.

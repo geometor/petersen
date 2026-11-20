@@ -10,6 +10,9 @@ Section 4: Inverse Figures — Summary
 
 .. rubric:: Structural & Heuristic Overview — *Inverse Figuren / Inverse Figurer* (pp. 34–38 · Problems 192–201)
 
+.. folio:: 0050
+   :page: 34
+
 .. contents:: In This Summary
    :local:
    :depth: 2

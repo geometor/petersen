@@ -10,6 +10,9 @@ Section 2: B. Replacing (Umlegung) — Summary
 
 .. rubric:: Structural & Heuristic Overview — *Umlegung / Omlægning* (pp. 60–64 · Problems 309–335)
 
+.. folio:: 0076
+   :page: 60
+
 .. contents:: In This Summary
    :local:
    :depth: 2
