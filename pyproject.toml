@@ -8,7 +8,7 @@ authors = [
   { name = "phi ARCHITECT", email = "phi@geometor.com" },
 ]
 description = "Scholarly 3-Track Digital Scriptorium Book Codex and Exact Symbolic Constructive Pattern Library for Julius Petersen's Methods and Theories for the Solution of Problems of Geometrical Constructions, Applied to 410 Problems (1866 / 1879)."
-readme = "README.rst"
+readme = "README.md"
 requires-python = ">=3.13"
 license = { text = "MIT" }
 dynamic = ["version"]
