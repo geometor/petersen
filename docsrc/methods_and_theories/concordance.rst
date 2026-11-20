@@ -1,5 +1,5 @@
 :navigation: header
-:order: 14
+:order: 5
 :nav_title: Concordance
 
 .. _concordance:
@@ -112,7 +112,7 @@ Chapter I.A, Loci f & g (pp. 11–12) — Circle of Apollonius (PA : PB = m : n)
   - :external+altshiller_court:doc:`geometor/altshiller-court — Chapter VIII (Circles — The Circle of Apollonius & Isodynamic Points) <college_geometry/ch08-circles/index>`: Develops Petersen's Problem 22 (finding a point whose distances from the three vertices of a triangle have given ratios -> X(15), X(16)) into a full section.
   - :external+altshiller_court:doc:`geometor/altshiller-court — Chapter VII (Harmonic Division & Harmonic Pencils) <college_geometry/ch07-harmonic-division/index>`: Expands Petersen's harmonic diameter CC1 and Locus g (harmonical rays) into projective harmonic ranges and pencils.
   - :external+pappus:doc:`geometor/pappus — Complete Quadrangle & Harmonic Conjugates <demos/index>`: Projective invariance of the harmonic cross-ratio (A, B; C, C1) = -1.
-  - :external+etc:doc:`geometor/etc — Isodynamic Centers X(15) & X(16) <centers/c-00001-00019/x-00015/index>`: Pairwise intersections of the three Apollonius circles of a triangle (Petersen Problem 22).
+  - :external+etc:doc:`geometor/etc — Isodynamic Centers X(15) & X(16) <centers/c-00001-00019/index>`: Pairwise intersections of the three Apollonius circles of a triangle (Petersen Problem 22).
 
 .. _concordance-radical-axis-squares-loci:
 
@@ -126,7 +126,7 @@ Chapter I.A, Loci h, i, k (pp. 12–14) — Difference & Sum of Squares, Radical
 **Cross-Repository Canon Realizations**:
 
   - :external+altshiller_court:doc:`geometor/altshiller-court — Chapter VIII (Power of a Point, Radical Axis, Radical Center & Coaxal Circles) <college_geometry/ch08-circles/index>`: Expands Petersen's Locus h App. 1–3 and Problem 30 into the complete synthetic theory of coaxal pencils.
-  - :external+etc:doc:`geometor/etc — Centroid X(2) & Radical Center of Excircles X(10) (Spieker Center) <centers/c-00001-00019/x-00002/index>`: Triangle-center realizations of Petersen's Problem 32 and Problem 30.
+  - :external+etc:doc:`geometor/etc — Centroid X(2) & Radical Center of Excircles X(10) (Spieker Center) <centers/c-00001-00019/index>`: Triangle-center realizations of Petersen's Problem 32 and Problem 30.
 
 .. _concordance-line-loci-envelopes:
 
@@ -171,7 +171,7 @@ Chapter II.B, Replacing & Revolution Around an Axis (pp. 56–64) — Replacing,
 **Cross-Repository Canon Realizations**:
 
   - :external+altshiller_court:doc:`geometor/altshiller-court — Chapter I (Reflection / Axial Symmetry Constructions) <college_geometry/ch01-geometric-constructions/index>`: Direct continuation of Petersen's Revolution Around an Axis.
-  - :external+etc:doc:`geometor/etc — Orthic Triangle & Orthocenter X(4) <centers/c-00001-00019/x-00004/index>`: For acute triangles, Petersen's Problem 340 (minimum-perimeter inscribed polygon, p. 62) yields the orthic pedal triangle.
+  - :external+etc:doc:`geometor/etc — Orthic Triangle & Orthocenter X(4) <centers/c-00001-00019/index>`: For acute triangles, Petersen's Problem 340 (minimum-perimeter inscribed polygon, p. 62) yields the orthic pedal triangle.
 
 .. _concordance-theory-of-revolution-spiral:
 
@@ -214,7 +214,7 @@ Chapter I, Inverse Figures (pp. 33–37) & Appendix, Systems of Circles (pp. 92�
 **Cross-Repository Canon Realizations**:
 
   - :external+altshiller_court:doc:`geometor/altshiller-court — Chapter IX (Inversion) & Chapter VIII (Problem of Apollonius) <college_geometry/ch09-inversion/index>`: Carries forward Petersen's inversion theorems, Problem 197/199 tangency reductions, and Gergonne's Apollonius solution.
-  - :external+etc:doc:`geometor/etc — Ajima–Malfatti Points X(179), X(180) & Soddy Centers X(175), X(176) <centers/c-00140-00190/x-00179/index>`: Modern triangle-center counterparts of Petersen's Problem 404 (Malfatti circles) and tangent circle systems.
+  - :external+etc:doc:`geometor/etc — Ajima–Malfatti Points X(179), X(180) & Soddy Centers X(175), X(176) <centers/c-00140-00190/index>`: Modern triangle-center counterparts of Petersen's Problem 404 (Malfatti circles) and tangent circle systems.
 
 .. _concordance-straightedge-compass-constructibility:
 

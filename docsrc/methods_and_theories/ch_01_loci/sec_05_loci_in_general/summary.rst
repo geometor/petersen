@@ -10,6 +10,9 @@ Section 5: Geometrical Loci in General — Summary
 
 .. rubric:: Structural & Heuristic Overview — *Geometrische Oerter im Allgemeinen* (pp. 39–41 · Problems 202–219)
 
+.. folio:: 0055
+   :page: 39
+
 .. contents:: In This Summary
    :local:
    :depth: 2

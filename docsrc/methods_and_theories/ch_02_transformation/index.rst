@@ -10,6 +10,9 @@ Chapter II — Transformation of the Figure
 
 .. rubric:: Zweites Kapitel: Umformung der Figur (pp. 49–69)
 
+.. folio:: 0065
+   :page: 49
+
 .. collection::
    :sort: order
 

@@ -10,6 +10,9 @@ Section 4: Inverse Figures — Notes
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary (pp. 34–38)
 
+.. folio:: 0050
+   :page: 34
+
 .. contents:: In These Notes
    :local:
    :depth: 2
@@ -47,4 +50,4 @@ Cross-Repository Concordance Links
 
 * **Chapter I, Inverse Figures (pp. 33–37) & Appendix, Systems of Circles (pp. 92–97)** (*Problems 197, 199, 200, 201, 403, 404*) (:ref:`concordance-circle-inversion-apollonius-malfatti`): Develops conformal circle inversion (turning circles through O into lines, Problem 199; Castillon's Problem 201), Monge's collinearity of external centres of similitude (Theorem 11, p. 93), Gergonne's solution of Apollonius's Problem 403 (p. 95), and Petersen's celebrated elementary proof of Steiner's Malfatti construction (Problem 404, pp. 95–97).
   - :external+altshiller_court:doc:`geometor/altshiller-court — Chapter IX (Inversion) & Chapter VIII (Problem of Apollonius) <college_geometry/ch09-inversion/index>`: Carries forward Petersen's inversion theorems, Problem 197/199 tangency reductions, and Gergonne's Apollonius solution.
-  - :external+etc:doc:`geometor/etc — Ajima–Malfatti Points X(179), X(180) & Soddy Centers X(175), X(176) <centers/c-00140-00190/x-00179/index>`: Modern triangle-center counterparts of Petersen's Problem 404 (Malfatti circles) and tangent circle systems.
+  - :external+etc:doc:`geometor/etc — Ajima–Malfatti Points X(179), X(180) & Soddy Centers X(175), X(176) <centers/c-00140-00190/index>`: Modern triangle-center counterparts of Petersen's Problem 404 (Malfatti circles) and tangent circle systems.

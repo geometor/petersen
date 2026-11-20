@@ -11,6 +11,9 @@ Section 2: B. Replacing (Umlegung)
 
 .. rubric:: Julius Petersen — *Methods and Theories* (Authorized Translation by Sophus Haagensen, 1879 · pp. 60–64)
 
+.. folio:: 0076
+   :page: 60
+
 .. contents:: In This Section
    :local:
    :depth: 2

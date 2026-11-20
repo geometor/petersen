@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import re
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
@@ -29,7 +30,6 @@ from geometor.petersen.__main__ import main as cli_main
 from geometor.petersen.units_commentary import (
     CANONICAL_CHAPTERS,
     CANONICAL_SECTIONS,
-    UNIT_SPECS,
 )
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -244,9 +244,14 @@ def test_book_codex_and_apparatus_integrity(tmp_path: Path) -> None:
     for ch in CANONICAL_CHAPTERS:
         ch_dir = codex_root / ch.slug
         assert ch_dir.is_dir(), f"Missing chapter directory {ch_dir}"
-        assert (ch_dir / "index.rst").is_file(), f"Missing chapter index {ch_dir / 'index.rst'}"
+        ch_idx = ch_dir / "index.rst"
+        assert ch_idx.is_file(), f"Missing chapter index {ch_idx}"
+        ch_txt = ch_idx.read_text(encoding="utf-8")
+        assert f":folio: {ch.folio}" in ch_txt
+        assert f".. folio:: {ch.folio}" in ch_txt
 
     assert len(CANONICAL_SECTIONS) == 14
+    all_folios: list[int] = []
     for spec in CANONICAL_SECTIONS:
         sec_dir = codex_root / spec.rel_path
         assert sec_dir.is_dir(), f"Missing section directory {sec_dir}"
@@ -256,12 +261,67 @@ def test_book_codex_and_apparatus_integrity(tmp_path: Path) -> None:
             content = track_rst.read_text(encoding="utf-8")
             assert content.startswith(":layout: book\n")
             assert f":folio: {spec.folio}" in content
+            assert f".. folio:: {spec.folio}" in content
             assert ".. py_file::" not in content
             assert "$" not in content
+            if fname == "index.rst":
+                found = [int(m) for m in re.findall(r"^\s*\.\.\s+folio::\s+(\d{4})", content, re.M)]
+                assert found == sorted(found), f"Non-monotonic folios in {track_rst}: {found}"
+                all_folios.extend(found)
 
         if spec.figure_svg:
             fig_svg = REPO_ROOT / "docsrc" / "_static" / "figures" / spec.figure_svg
             assert fig_svg.is_file(), f"Missing calibrated SVG {fig_svg}"
 
+    assert all_folios == sorted(all_folios), f"Global folio sequence not monotonic: {all_folios}"
+    max_gap = max(b - a for a, b in zip(all_folios, all_folios[1:]))
+    assert max_gap <= 5, f"Unexpected folio gap > 5 in codex: max_gap={max_gap}"
+
     # Verify CLI status command succeeds
     assert cli_main(["status"]) == 0
+
+
+def test_archival_plates_and_calibrated_svgs() -> None:
+    codex_root = REPO_ROOT / "docsrc" / "methods_and_theories"
+    paired_plates = [
+        ("ch_01_loci/sec_01_loci_of_points", "0023.g1"),
+        ("ch_01_loci/sec_01_loci_of_points", "0024.g1"),
+        ("ch_01_loci/sec_01_loci_of_points", "0024.g2"),
+        ("ch_01_loci/sec_01_loci_of_points", "0025.g1"),
+        ("ch_01_loci/sec_01_loci_of_points", "0026.g1"),
+        ("ch_01_loci/sec_02_multiplication", "0038.g1"),
+        ("ch_01_loci/sec_04_inversion", "0051.g1"),
+        ("ch_01_loci/sec_04_inversion", "0051.g2"),
+        ("ch_02_transformation/sec_01_parallel_translation", "0066.g1"),
+        ("ch_02_transformation/sec_01_parallel_translation", "0067.g1"),
+        ("ch_03_rotation", "0086.g1"),
+        ("ch_03_rotation", "0107.g1"),
+        ("appendix/sec_02_circle_systems", "0115.g1"),
+    ]
+    ns = {"svg": "http://www.w3.org/2000/svg"}
+
+    for rel_dir, gid in paired_plates:
+        sec_dir = codex_root / rel_dir
+        png_path = sec_dir / f"{gid}.png"
+        svg_path = sec_dir / f"{gid}.svg"
+        assert png_path.is_file(), f"Missing archival bitmap {png_path}"
+        assert svg_path.is_file(), f"Missing calibrated SVG {svg_path}"
+
+        idx_txt = (sec_dir / "index.rst").read_text(encoding="utf-8")
+        assert f".. picture:: {gid}.png" in idx_txt
+        assert f".. picture:: {gid}.svg" in idx_txt
+        assert ":align:" not in idx_txt
+        assert ":width:" not in idx_txt
+
+        svg_txt = svg_path.read_text(encoding="utf-8")
+        assert 'class="euclid-graphic"' in svg_txt
+        assert "@media (prefers-color-scheme: dark)" in svg_txt
+        assert 'id="geom-tick-1"' in svg_txt
+        root = ET.fromstring(svg_txt)
+        ids = {el.attrib.get("id") for el in root.iter() if "id" in el.attrib}
+        assert {"elements", "graphics", "highlights", "points", "labels"}.issubset(ids)
+
+        for p_el in root.findall(".//svg:g[@id='graphics']/svg:path", ns):
+            if p_el.attrib.get("data-type") in {"segment", "line"}:
+                d_attr = p_el.attrib["d"]
+                assert d_attr.count(" L ") == 2, f"Expected 3-vertex path in {gid}: {d_attr!r}"

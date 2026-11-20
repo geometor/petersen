@@ -10,6 +10,9 @@ Section 5: Geometrical Loci in General — Notes
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary (pp. 39–41)
 
+.. folio:: 0055
+   :page: 39
+
 .. contents:: In These Notes
    :local:
    :depth: 2

@@ -10,6 +10,9 @@ Section 2: B. Replacing (Umlegung) — Notes
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary (pp. 60–64)
 
+.. folio:: 0076
+   :page: 60
+
 .. contents:: In These Notes
    :local:
    :depth: 2

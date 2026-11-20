@@ -11,6 +11,9 @@ Section 6: B. Geometrical Loci for Lines (Loci l–p) — Notes
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary (pp. 42–48)
 
+.. folio:: 0058
+   :page: 42
+
 .. contents:: In These Notes
    :local:
    :depth: 2

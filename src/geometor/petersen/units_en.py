@@ -67,6 +67,9 @@ The complete solution of a :term:`determinate problem <determinate-problem>` con
 
 .. _petersen-en-notation:
 
+.. folio:: 0020
+   :page: 4
+
 Standard Triangle Notation (p. 6)
 ---------------------------------
 
@@ -108,10 +111,21 @@ Fundamental Point Loci ``a`` – ``k`` (pp. 7–14)
 
 .. _petersen-en-apollonius-locus:
 
+.. folio:: 0023
+   :page: 7
+
 Locus ``f`` — The Circle of Apollonius (pp. 11–12)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *[p. 11]* **f.** *The locus of the points, the distances of which from two given points have a given ratio* (:math:`m : n`), *is a circle* (:person:`Apollonius <apollonius>`, :term:`Circle of Apollonius <apollonius-circle>`).
+
+.. picture:: 0023.g1.png
+   :alt: Archival woodcut plate from Petersen 1879 p. 7 showing the Circle of Apollonius on harmonic segment A, C, B, C1
+   :caption: Archival woodcut plate (1879, f. 0023, p. 7): Circle of Apollonius through P on diameter C–C1.
+
+.. picture:: 0023.g1.svg
+   :alt: Calibrated interactive SVG diagram of Petersen Locus f, Circle of Apollonius on harmonic range A, C, B, C1
+   :class: euclid-picture
 
 .. picture:: /_static/figures/unit02-apollonius-two-loci.svg
    :class: euclid-picture
@@ -128,15 +142,63 @@ Let :math:`A` and :math:`B` be the given points, and :math:`P` any point such th
 
 The points :math:`C` and :math:`C_1` are therefore **fixed points** dividing :math:`AB` *harmonically* in the given ratio :math:`m : n`, independently of the position of :math:`P`. Moreover, because :math:`PC` and :math:`PC_1` bisect supplementary adjacent angles, :math:`\angle CPC_1 = 90^\circ`! Consequently :math:`P` lies on the circle described upon :math:`CC_1` as diameter (by **e**). Conversely, for every point :math:`P` on this circle, if we draw :math:`A U \parallel B V \parallel P C` or reflect across the bisector, :math:`PA : PB = CA : CB = m : n`. (When :math:`m = n`, :math:`C_1` recedes to infinity and **f** degenerates into the perpendicular bisector **c**.)
 
+.. folio:: 0024
+   :page: 8
+
+.. picture:: 0024.g1.png
+   :alt: Archival woodcut plate from Petersen 1879 p. 8 showing the construction of harmonic conjugate points C and C1 via D, E, F
+   :caption: Archival woodcut plate (1879, f. 0024, p. 8): Construction of harmonic division points C and C1.
+
+.. picture:: 0024.g1.svg
+   :alt: Calibrated interactive SVG diagram of Petersen harmonic division construction for points C and C1
+   :class: euclid-picture
+
 * **Locus g** (*p. 12*): *The locus of the points, the distances of which from two given straight lines have a given ratio* (:math:`m : n`), *consists of two straight lines passing through the point of intersection of the given lines.* Together with the two given lines, these two locus lines form four :term:`harmonical rays <harmonical-rays>`, intersecting every transversal in four harmonic points.
 
+.. picture:: 0024.g2.png
+   :alt: Archival woodcut plate from Petersen 1879 p. 8 showing a harmonic pencil of rays through O
+   :caption: Archival woodcut plate (1879, f. 0024, p. 8): Locus g — Harmonic pencil of four rays at O.
+
+.. picture:: 0024.g2.svg
+   :alt: Calibrated interactive SVG diagram of Petersen Locus g harmonic pencil of rays at O
+   :class: euclid-picture
+
+.. folio:: 0025
+   :page: 9
+
 * **Locus h** (*pp. 12–13*): *The locus of the points, the squares of the distances of which from two given points A and B have a given constant difference* (:math:`\overline{PB}^2 - \overline{PA}^2 = a^2`), *is a straight line perpendicular to AB.*
+
+  .. picture:: 0025.g1.png
+     :alt: Archival woodcut plate from Petersen 1879 p. 9 showing perpendicular locus PD for constant difference of squares
+     :caption: Archival woodcut plate (1879, f. 0025, p. 9): Locus h — Perpendicular line PD for constant difference of squares.
+
+  .. picture:: 0025.g1.svg
+     :alt: Calibrated interactive SVG diagram of Petersen Locus h perpendicular line locus and radical axis
+     :class: euclid-picture
+
   - *App. 1 — Radical Axis & Radical Centre (p. 13)*: Given two circles :math:`(A, r_1)` and :math:`(B, r_2)`, the tangents drawn from an external point :math:`P` satisfy :math:`t_1^2 = \overline{PA}^2 - r_1^2` and :math:`t_2^2 = \overline{PB}^2 - r_2^2`. Setting :math:`t_1 = t_2` yields :math:`\overline{PB}^2 - \overline{PA}^2 = r_2^2 - r_1^2 = \text{const.}`, so the locus of points of equal tangent power is a straight line perpendicular to the line of centres, called the :term:`radical axis <radical-axis>` of the two circles (containing their common chord if they intersect). For three circles, the three pairwise radical axes concur in one point, the **radical centre** (*Problem 30, p. 14*).
   - *App. 3 (p. 13)*: The locus of centres of circles cutting two given circles orthogonally is their radical axis.
 
+.. folio:: 0026
+   :page: 10
+
 * **Locus i** (*p. 13*): *The locus of the points, the sum of the squares of whose distances from two given points A and B equals a given square* (:math:`\overline{PA}^2 + \overline{PB}^2 = a^2`), *is a circle whose centre is the middle point C of AB.* By the median identity, :math:`\overline{PA}^2 + \overline{PB}^2 = 2\overline{PC}^2 + \tfrac{1}{2}\overline{AB}^2`, whence :math:`\overline{PC}^2 = \tfrac{1}{2}a^2 - \tfrac{1}{4}\overline{AB}^2` (real precisely when :math:`a^2 \ge \tfrac{1}{2}\overline{AB}^2`).
 
+.. picture:: 0026.g1.png
+   :alt: Archival woodcut plate from Petersen 1879 p. 10 showing circle locus centered at midpoint C for constant sum of squares
+   :caption: Archival woodcut plate (1879, f. 0026, p. 10): Locus i — Circle centered at midpoint C of AB.
+
+.. picture:: 0026.g1.svg
+   :alt: Calibrated interactive SVG diagram of Petersen Locus i constant sum of squares circle
+   :class: euclid-picture
+
+.. folio:: 0028
+   :page: 12
+
 * **Locus k** (*pp. 13–14*): *The locus of points whose distances from two given intersecting lines have a given sum or difference* :math:`a` *consists of four straight line segments forming a rectangle* (for the sum) *and their eight infinite prolongations* (for the difference).
+
+.. folio:: 0030
+   :page: 14
 
 Selected Canonical Problems on Point Loci (Problems 1–116)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -148,6 +210,10 @@ Selected Canonical Problems on Point Loci (Problems 1–116)
 * **Problem 32** (*p. 14*): *In a triangle ABC to find a point O, from which lines drawn to the three vertices divide the triangle into three equal parts.* The condition :math:`\triangle AOB = \triangle AOC` determines the locus of :math:`O` as the median through :math:`A`; the sought point is the common intersection of the three medians (centroid).
 * **Problem 37** (*p. 15*): Construct a triangle of :math:`a, A` and :math:`b^2 - c^2` (**e** and **h**).
 * **Problem 42** (*p. 15*): Divide a given line into two parts having a given line as a mean proportional (**e** and **b**).
+
+.. folio:: 0034
+   :page: 18
+
 * **Problem 45** (*p. 15*): Find a point from which three contiguous segments :math:`AB, BC, CD` of a straight line are seen under equal angles (**f**, since the internal bisector of :math:`\angle BPC` divides :math:`BC` in the ratio :math:`PB : PC`!).
 * **Problem 47** (*p. 15*): To find a point from which three given circles appear under equal visual angles (*their distances from the centres must stand in the same ratios as the radii; solved by* **f**).
 """,
@@ -156,8 +222,20 @@ Selected Canonical Problems on Point Loci (Problems 1–116)
 
 *[pp. 22–24]* Take a fixed point :math:`P` and join it to an arbitrary point :math:`a` of a given curve :math:`k`. If along the straight line :math:`Pa` we determine :math:`A` such that :math:`PA : Pa = m : n`—either on the same side of :math:`P` (*multiplication by* :math:`+\frac{m}{n}`) or on the opposite side (*multiplication by* :math:`-\frac{m}{n}`)—the locus of :math:`A` is a curve :math:`K` similar and similarly situated (*homothetic*) to :math:`k`, with :math:`P` as :term:`centre of similitude <centre-of-similitude>` (a pure specialization of Chapter III's revolution with :math:`v = 0^\circ` or :math:`180^\circ`):
 
+.. picture:: 0038.g1.png
+   :alt: Archival woodcut plate from Petersen 1879 p. 22 showing multiplication of curve k from centre P into homothetic curve K
+   :caption: Archival woodcut plate (1879, f. 0038, p. 22): Multiplication of curves k → K from centre of similitude P.
+
+.. picture:: 0038.g1.svg
+   :alt: Calibrated interactive SVG diagram of Petersen Section 2 multiplication of curves from centre P
+   :class: euclid-picture
+
 1. **Multiplying a Straight Line**: Yields a parallel straight line whose distance from :math:`P` is multiplied by :math:`\pm \frac{m}{n}`.
 2. **Multiplying a Circle**: Yields a circle whose centre and radius are both multiplied from :math:`P` by :math:`\pm \frac{m}{n}`. Conversely, *any two unequal circles have two centres of similitude*—the **external centre** (dividing the line of centres externally in ratio :math:`+R_1 : R_2`) and the **internal centre** (dividing it internally in ratio :math:`-R_1 : R_2`).
+
+.. folio:: 0041
+   :page: 25
+
 3. **Intersections With Scaled Curves** (*Problems 117–145*): To draw through :math:`P` a secant cut by two curves :math:`k, K_1` in segments :math:`Pa : PA = n : m`, multiply :math:`k` from :math:`P` by :math:`\pm \frac{m}{n}` and intersect with :math:`K_1`!
 """,
     "ch_01_loci/sec_03_similitude": r""".. _petersen-en-method-of-similitude:
@@ -178,6 +256,9 @@ The Method of Similitude (pp. 28–33, Problems 150–191)
    :class: euclid-picture
 
 **Figure 6.1 — Petersen's Problem 155 (p. 29): Inscribing a Square in a Given Triangle by Homothety.** Suppressing the condition that the upper-right vertex lie on :g:`[ B C ]`, we erect prototype square :g:`< D0 E0 F0 C >` of side :math:`h_c = 12` resting on base :g:`[ A B ]` with upper-left vertex at :g:`C` on :g:`[ A C ]`. Taking :g:`A` as **centre of similitude**, the locus of the free vertex is ray :g:`[ A F0 ]`, which intersects :g:`[ B C ]` at :g:`F` :math:`= (119/13, 84/13)`, yielding exact inscribed square :g:`< D E F G >` of side :math:`84/13`.
+
+.. folio:: 0047
+   :page: 31
 
 Flagship Homothety Constructions (Problems 154–191)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -200,10 +281,34 @@ Flagship Homothety Constructions (Problems 154–191)
 
 then as :math:`A` traces a curve :math:`k`, :math:`A_1` traces its :term:`inverse curve <inverse-figures>` :math:`k_1`. Petersen establishes four foundational theorems (*pp. 33–36*):
 
+.. folio:: 0051
+   :page: 35
+
 1. **Circle Through the Centre** (*p. 34*): *The inverse curve of a circle passing through the centre of inversion is a straight line* perpendicular to the diameter through :math:`P` (and conversely, the inverse of any straight line not passing through :math:`P` is a circle through :math:`P`).
+
+   .. picture:: 0051.g1.png
+      :alt: Archival woodcut plate from Petersen 1879 p. 35 showing inversion of a straight line AB through P into a circle
+      :caption: Archival woodcut plate (1879, f. 0051, p. 35): Inverse of a straight line is a circle through P.
+
+   .. picture:: 0051.g1.svg
+      :alt: Calibrated interactive SVG diagram of Petersen Section 4 inverse of a straight line through P
+      :class: euclid-picture
+
 2. **Circle Not Through the Centre** (*p. 34*): *The inverse curve of a circle not passing through* :math:`P` *is another circle, and* :math:`P` *is a centre of similitude of both circles.* In particular, if :math:`I` equals the tangent power of :math:`P` with respect to the given circle, that circle is its **own** inverse!
+
+   .. picture:: 0051.g2.png
+      :alt: Archival woodcut plate from Petersen 1879 p. 35 showing inverse of a circle not passing through centre P
+      :caption: Archival woodcut plate (1879, f. 0051, p. 35): Inverse of a circle not through P is a homothetic circle.
+
+   .. picture:: 0051.g2.svg
+      :alt: Calibrated interactive SVG diagram of Petersen Section 4 inverse of a circle not through centre P
+      :class: euclid-picture
+
 3. **Preservation of Contact** (*p. 35, a*): *If two curves intersect or touch each other at* :math:`A \neq P`\ *, their inverse curves intersect or touch each other at the corresponding point* :math:`A_1`.
 4. **Conformality** (*pp. 35–36, b*): *If two curves intersect at* :math:`A` *forming a certain angle, their inverse curves intersect at* :math:`A_1` *forming the* **same** *angle* (with opposite orientation).
+
+.. folio:: 0052
+   :page: 36
 
 .. picture:: /_static/figures/unit07-inversion-tangent-circle.svg
    :class: euclid-picture
@@ -254,6 +359,9 @@ Fundamental Line Loci ``l`` – ``p`` (pp. 40–41)
 * **Locus p** (*p. 41*): *Describe all circles passing through two given points A and B and intersecting (or touching) a fixed given circle; the locus of their common chords (or common tangents at contact) with the fixed circle is a single fixed point O on the straight line AB.*
   - *Proof*: Let two circles through :math:`A` and :math:`B` cut the fixed circle in :math:`C, D` and :math:`E, F` respectively. The three lines :math:`AB`, :math:`CD`, and :math:`EF` are the pairwise :term:`radical axes <radical-axis>` of the three circles, and therefore concur at the single point :math:`O = AB \cap CD`!
 
+.. folio:: 0060
+   :page: 44
+
 Selected Canonical Problems on Line Loci (Problems 220–245, pp. 42–45)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -280,9 +388,31 @@ Parallel Translation (pp. 49–59, Problems 246–308)
 
 *[pp. 46–47]* :term:`Parallel translation <parallel-translation>` gathers dispersed sides, medians, diagonals, or angles by shifting certain segments to new positions parallel and equal to their original ones until their extremities meet in a constructible triangle or parallelogram:
 
+.. folio:: 0066
+   :page: 50
+
 1. **Translation of the Triangle (Medians, p. 47)**: In :math:`\triangle ABC` with medians meeting at centroid :math:`G` (or :math:`O` in Petersen's diagram, shifting :math:`AB` and :math:`AC` to form parallelogram extensions), translating the sides or medians gathers a triangle whose three sides equal **twice the three medians** :math:`(2m_a, 2m_b, 2m_c)` and whose area is three times :math:`\triangle ABC`, solving **Problem 246** (*Construct a triangle, the three medians being given*) at a single stroke, followed by **Problems 247–258** combining altitudes and medians.
 
+   .. picture:: 0066.g1.png
+      :alt: Archival woodcut plate from Petersen 1879 p. 50 showing parallel translation of medians around triangle ABC
+      :caption: Archival woodcut plate (1879, f. 0066, p. 50): Parallel translation of triangle ABC and its medians.
+
+   .. picture:: 0066.g1.svg
+      :alt: Calibrated interactive SVG diagram of Petersen Chapter II.A parallel translation of triangle medians
+      :class: euclid-picture
+
+.. folio:: 0067
+   :page: 51
+
 2. **Translation of the Quadrilateral (pp. 48–49)**: In any quadrilateral :math:`ABCD`, translating :math:`AB` and :math:`AD` to :math:`CB_1` and :math:`CD_1` forms a **parallelogram** :math:`BD_1` whose sides equal and parallel the **diagonals** :math:`AC, BD`, whose angles equal the angle between the diagonals, whose area is twice that of :math:`ABCD`, and whose own diagonals equal **twice the segments joining the midpoints of opposite sides**! Meanwhile the four sides of :math:`ABCD` radiate from the single interior point :math:`C`.
+
+   .. picture:: 0067.g1.png
+      :alt: Archival woodcut plate from Petersen 1879 p. 51 showing parallel translation of quadrilateral ABCD to B1 D1
+      :caption: Archival woodcut plate (1879, f. 0067, p. 51): Parallel translation of a quadrilateral.
+
+   .. picture:: 0067.g1.svg
+      :alt: Calibrated interactive SVG diagram of Petersen Chapter II.A parallel translation of a quadrilateral
+      :class: euclid-picture
 
 .. picture:: /_static/figures/unit04-trapezoid-translation.svg
    :class: euclid-picture
@@ -298,10 +428,17 @@ Canonical Parallel-Translation Paradigms (Problems 259–308)
 * **Placing a Segment Equal & Parallel to a Given Line Between Two Curves** (*pp. 51–52, Problems 271–274*):
   *To place a line with its extremities in two given curves* :math:`K_1, K_2`\ *, the line being equal and parallel to a given vector* :math:`\vec{m}`. Translate curve :math:`K_1` parallel to :math:`\vec{m}` through distance :math:`|\vec{m}|`; its intersections with :math:`K_2` are the exact endpoints! Applied in **Problem 274** (*p. 52*) to marine navigation between two subtended-angle arcs.
 
+.. folio:: 0070
+   :page: 54
+
 * **Diminishing the Radius of a Circle to Naught (Circle Shrinking, pp. 52–53, Problems 275–278)**:
   *[p. 52]* A potent variant of parallel translation applies when a circle must touch given straight lines or circles: *diminish the radius of the smallest given circle to zero* so it shrinks to its centre point, while translating tangent lines parallel to themselves by that radius and expanding/contracting the other circles concentrically by :math:`\pm r`!
   - **Problem 275** (*p. 52*): *To draw the common tangents to two circles* :math:`(O_1, R_1)` and :math:`(O_2, R_2)` — reduced to drawing tangents from point :math:`O_2` to concentric circles :math:`(O_1, R_1 \mp R_2)`.
-  - **Problems 276–278** (*pp. 52–53*): Circle touching two lines and a circle, or touching a circle and a line at a given point.
+
+.. folio:: 0073
+   :page: 57
+
+* **Problems 276–308** (*pp. 54–59*): Circle touching two lines and a circle, or touching a circle and a line at a given point.
 """,
     "ch_02_transformation/sec_02_replacing": r"""B. Replacing (pp. 60–64, Problems 309–335)
 ------------------------------------------
@@ -318,6 +455,9 @@ Canonical Parallel-Translation Paradigms (Problems 259–308)
 *[p. 60]* :term:`Revolution around an axis <revolution-around-an-axis>` (reflection across a straight line of symmetry) is a special case of *Replacing*, yet so fruitful that it warrants independent treatment. By revolving one half of a figure around an axis of symmetry, symmetric intersections become direct intersections of known curves, and broken equal-angle paths straighten into single segments:
 
 * **Problem 336** (*p. 61*): *To a given line to draw a perpendicular, of which two given curves shall cut off equal parts from the line.* Revolve one curve around the given line as axis; its intersections with the other curve determine the sought perpendiculars immediately.
+
+.. folio:: 0082
+   :page: 66
 
 * **Problem 338 — Hero's Reflection Problem** (*p. 61*, :person:`Hero of Alexandria <hero>`): *In a given line to find a point X, from which lines drawn to two given points A and B (situated on the same side of the line) shall form equal angles with the given line.*
   - **Construction & Remark**: *Revolve A around the given line to* :math:`A_1`\ *; the straight line* :math:`B X A_1` *determines* :math:`X`. As Petersen notes (*p. 61*), an elastic body or a ray of light striking a plane mirror reflects at an angle equal to the angle of incidence; since :math:`AX + XB = A_1 X + XB = A_1 B` while any other point :math:`X'` yields a broken path :math:`A_1 X' + X' B > A_1 B`, *the distance travelled by light is a minimum*.
@@ -342,6 +482,14 @@ Chapter III — The Theory of Revolution (pp. 70–94, §§ 1–5 & Problems 349
 
    \angle aOA = v \qquad\text{and}\qquad \frac{OA}{Oa} = f = \text{const.}
 
+.. picture:: 0086.g1.png
+   :alt: Archival woodcut plate from Petersen 1879 p. 70 showing spiral revolution of curve k to curve K around pivot O
+   :caption: Archival woodcut plate (1879, f. 0086, p. 70): Theory of Revolution — spiral similarity around pivot O.
+
+.. picture:: 0086.g1.svg
+   :alt: Calibrated interactive SVG diagram of Petersen Chapter III spiral similarity revolution around pivot O
+   :class: euclid-picture
+
 The locus of :math:`A` is a new curve :math:`K` directly similar to :math:`k` (obtained by composing pure rotation through :math:`v` around :math:`O` with homothetic multiplication by :math:`f` around :math:`O`). Petersen names (*p. 65*):
 
 * :math:`O` — the :term:`pivot point <pivot-point>`,
@@ -349,6 +497,9 @@ The locus of :math:`A` is a new curve :math:`K` directly similar to :math:`k` (o
 * :math:`f` — the **ratio of revolution** (:term:`Theory of Revolution <theory-of-revolution>`).
 
 For every pair of similarly situated points :math:`a \in k` and :math:`A \in K`, the triangle :math:`\triangle aOA` preserves a constant shape; thus :math:`K` is generated by one vertex :math:`A` of a triangle of invariant form rotating and scaling around its fixed vertex :math:`O` while the third vertex :math:`a` traces :math:`k`!
+
+.. folio:: 0090
+   :page: 74
 
 *[p. 66]* **3.** When :math:`(O, v, f)` are given, any system of straight lines and circles can be revolved by straight edge and compasses: a straight line is revolved by revolving its foot from :math:`O` (turning the line by angle :math:`v`), and a circle is revolved by revolving its centre and radius.
 
@@ -360,7 +511,10 @@ Make :math:`O` the pivot point, take the angle of the triangle at :math:`O` for 
 .. picture:: /_static/figures/unit05-rotation-three-parallels.svg
    :class: euclid-picture
 
-**Figure 5.1 — Petersen's Problem 349 (p. 67): Equilateral Triangle Across Three Parallel Lines.** Choosing :g:`P` on :g:`[ P A1 ]` (:math:`L_1: y = 0`) as **pivot point** with :math:`v = 60^\circ, f = 1`, revolving middle parallel :g:`[ B1 B2 ]` (:math:`L_2: y = 1`) by :math:`+60^\circ` yields locus line :g:`[ B1p B2p ]`, which meets upper parallel :g:`[ C1 C2 ]` (:math:`L_3: y = 3`) at :g:`R` :math:`= (\sqrt{3}/3, 3)`. Revolving back via equilateral arcs :g:`( P R )` and :g:`( R P )` places :g:`Q` :math:`= (5\sqrt{3}/3, 1)` on :math:`L_2`, forming equilateral :g:`< P Q R >` of exact quadrance :math:`28/3`.
+**Figure 5.1 — Petersen's Problem 349 (p. 67): Equilateral Triangle Across Three Parallel Lines.** Choosing :g:`P` on :g:`[ P A1 ]` (:math:`L_1: y = 0`) as **pivot point** with :math:`v = 60^\circ, f = 1`, revolving middle parallel :g:`[ B1 B2 ]` (:math:`L_2: y = 1`) by :math:`+60^\circ` yields locus line :g:`[ B1p B2p ]`, which meets upper parallel :g:`[ C1 C2 ]` (:math:`L_3: y = 3`) at :g:`R` :math:`= (\sqrt{3}/3, 3)`. Revolving back via equilateral arcs :g:`( P R )` and :g:`( R P )` places :g:`Q` :math:`= (5\sqrt{3}/3, 1)` on :g:`L_2`, forming equilateral :g:`< P Q R >` of exact quadrance :math:`28/3`.
+
+.. folio:: 0095
+   :page: 79
 
 Canonical Rotation & Spiral-Similarity Problems (pp. 67–68)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -368,7 +522,29 @@ Canonical Rotation & Spiral-Similarity Problems (pp. 67–68)
 * **Problem 349** (*p. 67*): *To place an equilateral triangle with its vertices in three parallel lines.* **Solution**: *Take any point P in one of the parallels as one vertex; this point will be the pivot point;* :math:`v = 60^\circ, f = 1`.
 * **Problem 350** (*p. 67*): *To place an equilateral triangle with its vertices in three concentric circles.* Take any point on one circle as pivot point with :math:`v = 60^\circ, f = 1` (revolving the second circle by :math:`60^\circ` around that point until it meets the third circle!).
 * **Problem 352** (*p. 67*): *In a given triangle to inscribe another triangle similar to a given one and having one vertex at a given point P on one side.* Pivot at :math:`P` with :math:`(v, f)` taken from the prototype triangle!
+
+.. folio:: 0099
+   :page: 83
+
 * **§ 5 — Existence & Construction of the Pivot Point (p. 68)**: Any two directly similar figures in the plane admit a unique pivot point :math:`O` (unless congruent and parallel-translated): if corresponding lines :math:`AB` and :math:`ab` meet at :math:`P`, then :math:`O` is the **second intersection of circles** :math:`PAa` **and** :math:`PBb` (Miquel's pivot theorem).
+
+.. folio:: 0103
+   :page: 87
+
+* **Special Revolutions & Tangent-Angle Configurations (Problems 363–386, pp. 83–90)**: Revolving lines and circles through prescribed rotation angles reduces inscribed-angle, equidistant-chord, and perimeter-ratio problems on two intersecting curves directly to auxiliary rotated loci.
+
+.. folio:: 0107
+   :page: 91
+
+* **Problem 387** (*p. 91*): *Through one intersection point B of two given intersecting circles to draw a secant MB cutting the circles again in D and E so that the chords or tangent powers satisfy a prescribed ratio*, analyzed by revolving one circle around :math:`A` onto the other.
+
+.. picture:: 0107.g1.png
+   :alt: Archival woodcut plate from Petersen 1879 p. 91 showing two intersecting circles at A, B with secant M, E, D, B
+   :caption: Archival woodcut plate (1879, f. 0107, p. 91): Problem 387 — Secant through intersection B of two circles.
+
+.. picture:: 0107.g1.svg
+   :alt: Calibrated interactive SVG diagram of Petersen Problem 387 intersecting circles and secant through M
+   :class: euclid-picture
 """,
     "appendix/sec_01_circle_arcs": r"""Appendix I — Intersection of Arcs of Circles (pp. 95–97)
 --------------------------------------------------------
@@ -384,7 +560,21 @@ By decomposing complex contact systems into circular-arc triangles and applying 
 
 * **Theorem 10** (*p. 92*): If a circle touches two given circles at :math:`A` and :math:`B`, line :math:`AB` passes through the external centre of similitude (for like contacts) or internal centre of similitude (for unlike contacts).
 
+.. folio:: 0115
+   :page: 99
+
 * **Theorem 11 — Monge's Theorem** (*pp. 92–93*, :person:`Monge <monge>`): *The three external centres of similitude for each pair of three circles lie in one straight line* (and likewise any two internal centres with the third external centre).
+
+.. picture:: 0115.g1.png
+   :alt: Archival woodcut plate from Petersen 1879 p. 99 illustrating Monge's Theorem with three circles A, B, C and collinear similitude centres alpha, beta, gamma
+   :caption: Archival woodcut plate (1879, f. 0115, p. 99): Theorem 11 — Monge's Theorem on collinearity of external centres of similitude.
+
+.. picture:: 0115.g1.svg
+   :alt: Calibrated interactive SVG diagram of Petersen Monge's Theorem showing circles A, B, C and external tangents meeting along line alpha-beta-gamma
+   :class: euclid-picture
+
+.. folio:: 0117
+   :page: 101
 
 * **Problem 403 — Apollonius's Problem** (*pp. 94–95*, :person:`Apollonius <apollonius>`, :person:`Gergonne <gergonne>`): *To draw a circle touching three given circles* :math:`A, B, C`. Petersen presents three distinct solutions, culminating in **Gergonne's synthesis** (*p. 95*): join the pole in circle :math:`A` of a similitude axis of :math:`(A, B, C)` to the **radical centre** of :math:`(A, B, C)`; its intersections with :math:`A` give the exact points of contact for pairs of the **eight Apollonius circles**!
 
@@ -407,12 +597,19 @@ Citing his own treatises :cite:`*Om Ligninger, der løses ved Kvadratrod* <peter
 3. **Theorem 3** (*p. 98*): *If we can determine by straight edge and compasses the intersections of every line of a pencil (whose vertex does not lie on the curve) with a curve, the order of this curve must be a power of* :math:`2` (:math:`2^k`).
 4. **Theorem 4** (*p. 99*): *There are no other curves than the circle and the straight line whose intersections with an arbitrary circle can be determined by straight edge and compasses* (deduced from Theorem 1 via circle inversion!).
 
+.. folio:: 0123
+   :page: 107
+
 Impossibility Proofs & the 1879 Pre-Lindemann Remark (Problems 405–410, pp. 100–102)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * **Problem 405 — Pappus's Sliding Segment / Conchoid** (*p. 100*): *Through a given point to draw a line on which the legs of a given angle cut off a given length.* Removing one leg yields the **conchoid of Nicomedes** (order 4, not a conic); hence **unsolvable in general** by straight edge and compasses (though solvable when the point lies on the angle bisector).
 * **Problem 407** (*p. 100*): *Place a given triangle with its vertices on three arbitrary given circles.* Removing one circle gives a non-circular locus (an ellipse when two circles degenerate into lines and the triangle degenerates into a segment); hence **unsolvable in general** (*contrast Problems 349–350!*).
 * **Problem 408** (*pp. 100–101*): *Construct a triangle from* :math:`a, c`\ *, and* :math:`B - C`. Reduces to drawing a tangent to an astroid/hypocycloid (special case of Problem 405); **unsolvable**.
+
+.. folio:: 0125
+   :page: 109
+
 * **Problem 409 — Trisection of the General Angle** (*p. 101*): Reduced by Archimedes's neusis to drawing through a point :math:`A` on a circle a secant :math:`AX` meeting a given diameter in :math:`Y` with :math:`XY = R`. Removing the diameter gives a **limaçon curve of the fourth order** passing *simply* through the pencil vertex (the circle's centre :math:`O`), so each diameter meets it in :math:`4 - 1 = 3` remaining variable points—violating Theorem 3 (:math:`3` is not a power of :math:`2`)! **Therefore a general angle cannot be trisected by straight edge and compasses.**
 
 Immediately following this proof (*p. 101*), writing in **1879**—three years before :person:`Ferdinand von Lindemann <lindemann>` proved the transcendence of :math:`\pi` in 1882—Petersen records a remarkable historical snapshot:

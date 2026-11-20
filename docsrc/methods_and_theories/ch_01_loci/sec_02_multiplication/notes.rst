@@ -10,6 +10,9 @@ Section 2: Multiplication of Curves — Notes
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary (pp. 22–27)
 
+.. folio:: 0038
+   :page: 22
+
 .. contents:: In These Notes
    :local:
    :depth: 2

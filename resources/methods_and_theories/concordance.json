@@ -96,7 +96,7 @@
         },
         {
           "repo": "etc",
-          "repo_path": "etc:centers/c-00001-00019/x-00015/index",
+          "repo_path": "etc:centers/c-00001-00019/index",
           "locus": "Isodynamic Centers X(15) & X(16)",
           "relation": "Pairwise intersections of the three Apollonius circles of a triangle (Petersen Problem 22)."
         }
@@ -126,7 +126,7 @@
         },
         {
           "repo": "etc",
-          "repo_path": "etc:centers/c-00001-00019/x-00002/index",
+          "repo_path": "etc:centers/c-00001-00019/index",
           "locus": "Centroid X(2) & Radical Center of Excircles X(10) (Spieker Center)",
           "relation": "Triangle-center realizations of Petersen's Problem 32 and Problem 30."
         }
@@ -216,7 +216,7 @@
         },
         {
           "repo": "etc",
-          "repo_path": "etc:centers/c-00001-00019/x-00004/index",
+          "repo_path": "etc:centers/c-00001-00019/index",
           "locus": "Orthic Triangle & Orthocenter X(4)",
           "relation": "For acute triangles, Petersen's Problem 340 (minimum-perimeter inscribed polygon, p. 62) yields the orthic pedal triangle."
         }
@@ -292,7 +292,7 @@
         },
         {
           "repo": "etc",
-          "repo_path": "etc:centers/c-00140-00190/x-00179/index",
+          "repo_path": "etc:centers/c-00140-00190/index",
           "locus": "Ajima\u2013Malfatti Points X(179), X(180) & Soddy Centers X(175), X(176)",
           "relation": "Modern triangle-center counterparts of Petersen's Problem 404 (Malfatti circles) and tangent circle systems."
         }

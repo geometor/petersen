@@ -11,6 +11,9 @@ Chapter III — The Theory of Revolution — Summary
 
 .. rubric:: Structural & Heuristic Overview — *Drittes Kapitel: Die Drehungstheorie / Drejningstheorien* (pp. 70–94 · §§ 1–5 & Problems 349–402)
 
+.. folio:: 0086
+   :page: 70
+
 .. contents:: In This Summary
    :local:
    :depth: 2

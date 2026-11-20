@@ -11,6 +11,9 @@ Section 6: B. Geometrical Loci for Lines (Loci l–p) — Summary
 
 .. rubric:: Structural & Heuristic Overview — *Geometriske Steder for Linier (l–p)* (pp. 42–48 · Problems 220–245)
 
+.. folio:: 0058
+   :page: 42
+
 .. contents:: In This Summary
    :local:
    :depth: 2

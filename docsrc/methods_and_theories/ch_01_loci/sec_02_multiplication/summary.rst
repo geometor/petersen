@@ -10,6 +10,9 @@ Section 2: Multiplication of Curves — Summary
 
 .. rubric:: Structural & Heuristic Overview — *Multiplication von Curven / Kurvers Multiplikation* (pp. 22–27 · Problems 117–149)
 
+.. folio:: 0038
+   :page: 22
+
 .. contents:: In This Summary
    :local:
    :depth: 2

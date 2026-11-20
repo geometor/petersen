@@ -34,18 +34,21 @@ from geometor.petersen.render import export_svg
 from geometor.petersen.units_commentary import (
     CANONICAL_CHAPTERS,
     CANONICAL_SECTIONS,
-    ChapterSpec,
-    SectionSpec,
-    UNIT_SPECS,
     UNITS_NOTES,
     UNITS_SUMMARY,
-    UnitSpec,
+    ChapterSpec,
+    SectionSpec,
 )
 from geometor.petersen.units_en import UNITS_EN
 
 
 def _underline(title: str, char: str = "=") -> str:
     return f"{title}\n{char * len(title)}"
+
+
+def _folio_page(folio: str) -> str:
+    """Map an 1879 BSB folio ID (``0017``..``0125``) to its printed page number."""
+    return str(int(folio) - 16)
 
 
 def _format_cross_ref_bullet(ref: dict[str, str], workspace_root: Path) -> str:
@@ -237,7 +240,7 @@ Scholarly Apparatus
 
    concordance
    bibliography
-   persons
+   people/index
    glossary
 """
 
@@ -246,6 +249,7 @@ def _render_chapter_container(ch: ChapterSpec, sections: list[SectionSpec]) -> s
     sec_tocs = [f"   {s.section}/index" for s in sections if s.section]
     sec_toc_text = "\n".join(sec_tocs)
     head = _underline(ch.title, "=")
+    ch_page = _folio_page(ch.folio)
     return f""":layout: book
 :order: {ch.order}
 :folio: {ch.folio}
@@ -256,6 +260,9 @@ def _render_chapter_container(ch: ChapterSpec, sections: list[SectionSpec]) -> s
 {head}
 
 .. rubric:: {ch.subtitle}
+
+.. folio:: {ch.folio}
+   :page: {ch_page}
 
 .. collection::
    :sort: order
@@ -277,6 +284,8 @@ def _render_section_tracks(
     en_head = _underline(spec.title, "=")
     legacy_en = f".. _petersen-{spec.legacy_slug}-en:\n" if spec.legacy_slug else ""
     body_en = UNITS_EN[spec.rel_path].strip()
+    lead_page = _folio_page(spec.folio)
+    lead_folio = f".. folio:: {spec.folio}\n   :page: {lead_page}"
 
     en_doc = f""":layout: book
 :order: {spec.order}
@@ -289,6 +298,8 @@ def _render_section_tracks(
 {en_head}
 
 .. rubric:: Julius Petersen — *Methods and Theories* (Authorized Translation by Sophus Haagensen, 1879 · {spec.page_span})
+
+{lead_folio}
 
 .. contents:: In This Section
    :local:
@@ -318,6 +329,8 @@ def _render_section_tracks(
 {sum_head}
 
 .. rubric:: Structural & Heuristic Overview — *{spec.subtitle}* ({spec.page_span} · {spec.problem_span})
+
+{lead_folio}
 
 .. contents:: In This Summary
    :local:
@@ -354,6 +367,8 @@ def _render_section_tracks(
 {notes_head}
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary ({spec.page_span})
+
+{lead_folio}
 
 .. contents:: In These Notes
    :local:
@@ -615,7 +630,6 @@ def build_codex(repo_root: Path | None = None, *, export_figures: bool = True) -
     for filename, content in (
         ("concordance.rst", _render_concordance_page(apparatus, workspace_root)),
         ("bibliography.rst", _render_bibliography_page(apparatus)),
-        ("persons.rst", _render_persons_page(apparatus)),
         ("glossary.rst", _render_glossary_page(apparatus)),
     ):
         p = codex_dir / filename

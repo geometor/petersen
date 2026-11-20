@@ -10,6 +10,9 @@ Section 1: On the Intersection of Circular Arcs — Summary
 
 .. rubric:: Structural & Heuristic Overview — *Ueber den Durchschnitt von Kreisbogen* (pp. 95–97 · Theorems 1–9)
 
+.. folio:: 0111
+   :page: 95
+
 .. contents:: In This Summary
    :local:
    :depth: 2

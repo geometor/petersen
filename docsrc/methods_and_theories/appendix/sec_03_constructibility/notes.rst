@@ -11,6 +11,9 @@ Section 3: On the Possibility of Solving Problems by Straight Edge and Compasses
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary (pp. 104–112)
 
+.. folio:: 0120
+   :page: 104
+
 .. contents:: In These Notes
    :local:
    :depth: 2

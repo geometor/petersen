@@ -11,6 +11,9 @@ Section 1: A. Parallel Translation — Notes
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary (pp. 49–59)
 
+.. folio:: 0065
+   :page: 49
+
 .. contents:: In These Notes
    :local:
    :depth: 2

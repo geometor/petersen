@@ -12,6 +12,9 @@ Section 1: A. Geometrical Loci for Points (Loci a–k)
 
 .. rubric:: Julius Petersen — *Methods and Theories* (Authorized Translation by Sophus Haagensen, 1879 · pp. 5–21)
 
+.. folio:: 0021
+   :page: 5
+
 .. contents:: In This Section
    :local:
    :depth: 2
@@ -45,10 +48,21 @@ Fundamental Point Loci ``a`` – ``k`` (pp. 7–14)
 
 .. _petersen-en-apollonius-locus:
 
+.. folio:: 0023
+   :page: 7
+
 Locus ``f`` — The Circle of Apollonius (pp. 11–12)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *[p. 11]* **f.** *The locus of the points, the distances of which from two given points have a given ratio* (:math:`m : n`), *is a circle* (:person:`Apollonius <apollonius>`, :term:`Circle of Apollonius <apollonius-circle>`).
+
+.. picture:: 0023.g1.png
+   :alt: Archival woodcut plate from Petersen 1879 p. 7 showing the Circle of Apollonius on harmonic segment A, C, B, C1
+   :caption: Archival woodcut plate (1879, f. 0023, p. 7): Circle of Apollonius through P on diameter C–C1.
+
+.. picture:: 0023.g1.svg
+   :alt: Calibrated interactive SVG diagram of Petersen Locus f, Circle of Apollonius on harmonic range A, C, B, C1
+   :class: euclid-picture
 
 .. picture:: /_static/figures/unit02-apollonius-two-loci.svg
    :class: euclid-picture
@@ -65,15 +79,63 @@ Let :math:`A` and :math:`B` be the given points, and :math:`P` any point such th
 
 The points :math:`C` and :math:`C_1` are therefore **fixed points** dividing :math:`AB` *harmonically* in the given ratio :math:`m : n`, independently of the position of :math:`P`. Moreover, because :math:`PC` and :math:`PC_1` bisect supplementary adjacent angles, :math:`\angle CPC_1 = 90^\circ`! Consequently :math:`P` lies on the circle described upon :math:`CC_1` as diameter (by **e**). Conversely, for every point :math:`P` on this circle, if we draw :math:`A U \parallel B V \parallel P C` or reflect across the bisector, :math:`PA : PB = CA : CB = m : n`. (When :math:`m = n`, :math:`C_1` recedes to infinity and **f** degenerates into the perpendicular bisector **c**.)
 
+.. folio:: 0024
+   :page: 8
+
+.. picture:: 0024.g1.png
+   :alt: Archival woodcut plate from Petersen 1879 p. 8 showing the construction of harmonic conjugate points C and C1 via D, E, F
+   :caption: Archival woodcut plate (1879, f. 0024, p. 8): Construction of harmonic division points C and C1.
+
+.. picture:: 0024.g1.svg
+   :alt: Calibrated interactive SVG diagram of Petersen harmonic division construction for points C and C1
+   :class: euclid-picture
+
 * **Locus g** (*p. 12*): *The locus of the points, the distances of which from two given straight lines have a given ratio* (:math:`m : n`), *consists of two straight lines passing through the point of intersection of the given lines.* Together with the two given lines, these two locus lines form four :term:`harmonical rays <harmonical-rays>`, intersecting every transversal in four harmonic points.
 
+.. picture:: 0024.g2.png
+   :alt: Archival woodcut plate from Petersen 1879 p. 8 showing a harmonic pencil of rays through O
+   :caption: Archival woodcut plate (1879, f. 0024, p. 8): Locus g — Harmonic pencil of four rays at O.
+
+.. picture:: 0024.g2.svg
+   :alt: Calibrated interactive SVG diagram of Petersen Locus g harmonic pencil of rays at O
+   :class: euclid-picture
+
+.. folio:: 0025
+   :page: 9
+
 * **Locus h** (*pp. 12–13*): *The locus of the points, the squares of the distances of which from two given points A and B have a given constant difference* (:math:`\overline{PB}^2 - \overline{PA}^2 = a^2`), *is a straight line perpendicular to AB.*
+
+  .. picture:: 0025.g1.png
+     :alt: Archival woodcut plate from Petersen 1879 p. 9 showing perpendicular locus PD for constant difference of squares
+     :caption: Archival woodcut plate (1879, f. 0025, p. 9): Locus h — Perpendicular line PD for constant difference of squares.
+
+  .. picture:: 0025.g1.svg
+     :alt: Calibrated interactive SVG diagram of Petersen Locus h perpendicular line locus and radical axis
+     :class: euclid-picture
+
   - *App. 1 — Radical Axis & Radical Centre (p. 13)*: Given two circles :math:`(A, r_1)` and :math:`(B, r_2)`, the tangents drawn from an external point :math:`P` satisfy :math:`t_1^2 = \overline{PA}^2 - r_1^2` and :math:`t_2^2 = \overline{PB}^2 - r_2^2`. Setting :math:`t_1 = t_2` yields :math:`\overline{PB}^2 - \overline{PA}^2 = r_2^2 - r_1^2 = \text{const.}`, so the locus of points of equal tangent power is a straight line perpendicular to the line of centres, called the :term:`radical axis <radical-axis>` of the two circles (containing their common chord if they intersect). For three circles, the three pairwise radical axes concur in one point, the **radical centre** (*Problem 30, p. 14*).
   - *App. 3 (p. 13)*: The locus of centres of circles cutting two given circles orthogonally is their radical axis.
 
+.. folio:: 0026
+   :page: 10
+
 * **Locus i** (*p. 13*): *The locus of the points, the sum of the squares of whose distances from two given points A and B equals a given square* (:math:`\overline{PA}^2 + \overline{PB}^2 = a^2`), *is a circle whose centre is the middle point C of AB.* By the median identity, :math:`\overline{PA}^2 + \overline{PB}^2 = 2\overline{PC}^2 + \tfrac{1}{2}\overline{AB}^2`, whence :math:`\overline{PC}^2 = \tfrac{1}{2}a^2 - \tfrac{1}{4}\overline{AB}^2` (real precisely when :math:`a^2 \ge \tfrac{1}{2}\overline{AB}^2`).
 
+.. picture:: 0026.g1.png
+   :alt: Archival woodcut plate from Petersen 1879 p. 10 showing circle locus centered at midpoint C for constant sum of squares
+   :caption: Archival woodcut plate (1879, f. 0026, p. 10): Locus i — Circle centered at midpoint C of AB.
+
+.. picture:: 0026.g1.svg
+   :alt: Calibrated interactive SVG diagram of Petersen Locus i constant sum of squares circle
+   :class: euclid-picture
+
+.. folio:: 0028
+   :page: 12
+
 * **Locus k** (*pp. 13–14*): *The locus of points whose distances from two given intersecting lines have a given sum or difference* :math:`a` *consists of four straight line segments forming a rectangle* (for the sum) *and their eight infinite prolongations* (for the difference).
+
+.. folio:: 0030
+   :page: 14
 
 Selected Canonical Problems on Point Loci (Problems 1–116)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -85,6 +147,10 @@ Selected Canonical Problems on Point Loci (Problems 1–116)
 * **Problem 32** (*p. 14*): *In a triangle ABC to find a point O, from which lines drawn to the three vertices divide the triangle into three equal parts.* The condition :math:`\triangle AOB = \triangle AOC` determines the locus of :math:`O` as the median through :math:`A`; the sought point is the common intersection of the three medians (centroid).
 * **Problem 37** (*p. 15*): Construct a triangle of :math:`a, A` and :math:`b^2 - c^2` (**e** and **h**).
 * **Problem 42** (*p. 15*): Divide a given line into two parts having a given line as a mean proportional (**e** and **b**).
+
+.. folio:: 0034
+   :page: 18
+
 * **Problem 45** (*p. 15*): Find a point from which three contiguous segments :math:`AB, BC, CD` of a straight line are seen under equal angles (**f**, since the internal bisector of :math:`\angle BPC` divides :math:`BC` in the ratio :math:`PB : PC`!).
 * **Problem 47** (*p. 15*): To find a point from which three given circles appear under equal visual angles (*their distances from the centres must stand in the same ratios as the radii; solved by* **f**).
 

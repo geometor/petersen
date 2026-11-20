@@ -11,6 +11,9 @@ Preface & Introduction — The Four-Stage Anatomy of Construction — Notes
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary (pp. 1–6 (with Problem 42, p. 15))
 
+.. folio:: 0017
+   :page: 1
+
 .. contents:: In These Notes
    :local:
    :depth: 2

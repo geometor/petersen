@@ -10,6 +10,9 @@ Section 3: C. Revolution Around an Axis (Axial Reflection) — Notes
 
 .. rubric:: Historical, Mathematical & Cross-Repository Commentary (pp. 65–69)
 
+.. folio:: 0081
+   :page: 65
+
 .. contents:: In These Notes
    :local:
    :depth: 2
@@ -38,4 +41,4 @@ Cross-Repository Concordance Links
 
 * **Chapter II.B, Replacing & Revolution Around an Axis (pp. 56–64)** (*Problems 311, 316, 317, 336, 338, 339, 340*) (:ref:`concordance-replacing-and-axial-reflection`): Flips or rescales sub-figures to make unknown equal/proportional edges cover one another (Ptolemy cyclic quadrilateral Problem 316), and reflects across a symmetry axis to solve Hero's optical path (Problem 338), polygonal billiards (Problem 339), and Fagnano/minimum-perimeter inscribed polygons (Problem 340).
   - :external+altshiller_court:doc:`geometor/altshiller-court — Chapter I (Reflection / Axial Symmetry Constructions) <college_geometry/ch01-geometric-constructions/index>`: Direct continuation of Petersen's Revolution Around an Axis.
-  - :external+etc:doc:`geometor/etc — Orthic Triangle & Orthocenter X(4) <centers/c-00001-00019/x-00004/index>`: For acute triangles, Petersen's Problem 340 (minimum-perimeter inscribed polygon, p. 62) yields the orthic pedal triangle.
+  - :external+etc:doc:`geometor/etc — Orthic Triangle & Orthocenter X(4) <centers/c-00001-00019/index>`: For acute triangles, Petersen's Problem 340 (minimum-perimeter inscribed polygon, p. 62) yields the orthic pedal triangle.
