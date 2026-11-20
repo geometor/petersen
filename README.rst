@@ -1,13 +1,13 @@
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • petersen Medallion
+   :target: https://geometor.github.io/petersen/
+   :width: 150px
+   :align: right
+
 GEOMETOR • petersen
 ===================
 
 **Visit the Online Archive:** https://geometor.github.io/petersen/
-
-.. image:: docsrc/_static/logo.png
-   :alt: GEOMETOR • petersen Medallion
-   :target: https://geometor.github.io/petersen/
-   :width: 180px
-   :align: center
 
 .. image:: docsrc/_static/figures/unit01-discussion-schema.svg
    :alt: GEOMETOR • petersen featured geometric construction
