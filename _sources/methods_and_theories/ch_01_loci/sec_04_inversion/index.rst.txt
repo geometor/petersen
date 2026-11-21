@@ -28,7 +28,7 @@ Inverse Figures (pp. 34–38, Problems 192–201)
 
    PA \times PA_1 = I,
 
-then as :math:`A` traces a curve :math:`k`, :math:`A_1` traces its :term:`inverse curve <inverse-figures>` :math:`k_1`. Petersen establishes four foundational theorems (*pp. 33–36*):
+then as :math:`A` traces a curve :math:`k`, :math:`A_1` traces its :term:`inverse curve <inverse-figures>` :math:`k_1`. From this definition follow four foundational theorems (*pp. 33–36*):
 
 .. folio:: 0051
    :page: 35
