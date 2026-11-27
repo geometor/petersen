@@ -15,14 +15,3 @@ Chapter I — Geometrical Loci
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   sec_01_loci_of_points/index
-   sec_02_multiplication/index
-   sec_03_similitude/index
-   sec_04_inversion/index
-   sec_05_loci_in_general/index
-   sec_06_loci_of_lines/index

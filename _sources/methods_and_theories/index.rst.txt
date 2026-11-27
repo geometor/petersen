@@ -53,17 +53,6 @@ Scholarly Apparatus
 * :ref:`Technical Glossary of Constructive Geometry <glossary>` — Bilingual Danish/English/Greek analytical and transformational vocabulary.
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Methods & Theories
-
-   intro/index
-   ch_01_loci/index
-   ch_02_transformation/index
-   ch_03_rotation/index
-   appendix/index
-
-.. toctree::
    :maxdepth: 1
    :hidden:
    :caption: Scholarly Apparatus
