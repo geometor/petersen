@@ -15,11 +15,3 @@ Appendix — Additions
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   sec_01_circle_arcs/index
-   sec_02_circle_systems/index
-   sec_03_constructibility/index

@@ -15,11 +15,3 @@ Chapter II — Transformation of the Figure
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   sec_01_parallel_translation/index
-   sec_02_replacing/index
-   sec_03_axial_reflection/index
